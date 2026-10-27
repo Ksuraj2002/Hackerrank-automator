@@ -1,0 +1,123 @@
+[
+  {
+    "week": 1,
+    "day": "Day 2",
+    "lecture_name": "Operators",
+    "kind": "Classwork",
+    "index": 7,
+    "text": "Store these expressions inside a Boolean variable ans. Print their outputs true or false accordingly a.        bool ans = 3 > 2 b.        bool ans = 3 ≥ 3 c.        bool ans = 4 + 3 > 9 d.        bool ans = 10 + 8 > 10 e.        bool ans = 12 != 10 f.        bool ans = 13 == 13 g.        bool ans = 14 != 14 h.        bool ans = 20 == 5*4 i.        bool ans = 30 != 3+4-10 j.        bool ans = 20 == 41/2",
+    "lc": null,
+    "gfg": false,
+    "key": "store-these-expressions-inside-a-boolean-variable-ans-print-their-outputs-true-o"
+  },
+  {
+    "week": 1,
+    "day": "Day 2",
+    "lecture_name": "Operators",
+    "kind": "Classwork",
+    "index": 9,
+    "text": "Take four integer inputs and check if the product of them is greater than 1000 or not. Print true or false accordingly.",
+    "lc": null,
+    "gfg": false,
+    "key": "take-four-integer-inputs-and-check-if-the-product-of-them-is-greater-than-1000-o"
+  },
+  {
+    "week": 1,
+    "day": "Day 2",
+    "lecture_name": "Operators",
+    "kind": "Classwork",
+    "index": 10,
+    "text": "Take an integer input and check if the number is divisible by 7 or not.",
+    "lc": null,
+    "gfg": false,
+    "key": "take-an-integer-input-and-check-if-the-number-is-divisible-by-7-or-not"
+  },
+  {
+    "week": 1,
+    "day": "Day 4",
+    "lecture_name": "if / if-else",
+    "kind": "Classwork",
+    "index": 6,
+    "text": "A shop will give a discount of 10% on the total cost if the cost of the quantity purchased is more than 1000. a.        Ask user for quantity b.        Suppose, one unit will cost 100. c.        Judge and print total cost for the user.",
+    "lc": null,
+    "gfg": false,
+    "key": "a-shop-will-give-a-discount-of-10-on-the-total-cost-if-the-cost-of-the-quantity-"
+  },
+  {
+    "week": 1,
+    "day": "Day 4",
+    "lecture_name": "if / if-else",
+    "kind": "Classwork",
+    "index": 7,
+    "text": "The bonus in a company is given by Bonus= Salary * (5 / 100). A company decided to give a bonus of 5% to employees if his/her year of service is more than 5 years. Ask user for their salary and year of service and print the net bonus amount.",
+    "lc": null,
+    "gfg": false,
+    "key": "the-bonus-in-a-company-is-given-by-bonus-salary-5-100-a-company-decided-to-give-"
+  },
+  {
+    "week": 2,
+    "day": "Day 6",
+    "lecture_name": "Nested if-else & else-if ladder",
+    "kind": "Classwork",
+    "index": 6,
+    "text": "Given values of `small` and `big` representing the number of small (1kg) chocolates we have and number of big(5kg) chocolates we have, we have to form `goal` kilos of chocolate tell us how many small kilos of chocolate you will use if you always use the big ones first (refer this link for the problem statement above --> https://codingbat.com/prob/p191363)",
+    "lc": null,
+    "gfg": false,
+    "key": "given-values-of-small-and-big-representing-the-number-of-small-1kg-chocolates-we"
+  },
+  {
+    "week": 5,
+    "day": "Day 23",
+    "lecture_name": "Multi-parameter functions",
+    "kind": "Classwork",
+    "index": 3,
+    "text": "Area functions for shapes",
+    "lc": null,
+    "gfg": false,
+    "key": "area-functions-for-shapes"
+  },
+  {
+    "week": 5,
+    "day": "Day 25",
+    "lecture_name": "Primes & factors",
+    "kind": "Classwork",
+    "index": 1,
+    "text": "isPrime optimized",
+    "lc": null,
+    "gfg": false,
+    "key": "isprime-optimized"
+  },
+  {
+    "week": 7,
+    "day": "Day 33",
+    "lecture_name": "std::sort & comparators",
+    "kind": "Classwork",
+    "index": 3,
+    "text": "Sort strings by length",
+    "lc": null,
+    "gfg": false,
+    "key": "sort-strings-by-length"
+  },
+  {
+    "week": 8,
+    "day": "Day 37",
+    "lecture_name": "Rotation",
+    "kind": "Classwork",
+    "index": 2,
+    "text": "Rotate by k using reversal",
+    "lc": null,
+    "gfg": false,
+    "key": "rotate-by-k-using-reversal"
+  },
+  {
+    "week": 8,
+    "day": "Day 40",
+    "lecture_name": "Maximum subarray (Kadane)",
+    "kind": "Classwork",
+    "index": 2,
+    "text": "Track the start and end indices of max sum",
+    "lc": null,
+    "gfg": false,
+    "key": "track-the-start-and-end-indices-of-max-sum"
+  }
+]

@@ -1,0 +1,8447 @@
+{
+ "count": 1407,
+ "challenges": [
+  {
+   "id": 183286,
+   "slug": "absolute-number",
+   "name": "Absolute Number",
+   "kind": null
+  },
+  {
+   "id": 183291,
+   "slug": "grading-calculator",
+   "name": "Grading Calculator",
+   "kind": null
+  },
+  {
+   "id": 183294,
+   "slug": "meaning-of-a-grade",
+   "name": "Meaning Of A Grade",
+   "kind": null
+  },
+  {
+   "id": 188287,
+   "slug": "print-special-pattern",
+   "name": "Print Special Pattern",
+   "kind": null
+  },
+  {
+   "id": 188343,
+   "slug": "minimum-cost-7-2",
+   "name": "Minimum Cost Operation",
+   "kind": null
+  },
+  {
+   "id": 188470,
+   "slug": "reverse-it-8",
+   "name": "Reverse it!",
+   "kind": null
+  },
+  {
+   "id": 188478,
+   "slug": "no-repetitions-i",
+   "name": "No repetitions - I",
+   "kind": null
+  },
+  {
+   "id": 188486,
+   "slug": "find-the-difference-4-1",
+   "name": "Find the Difference 4",
+   "kind": null
+  },
+  {
+   "id": 188524,
+   "slug": "longest-series-2",
+   "name": "Longest Series 2",
+   "kind": null
+  },
+  {
+   "id": 188716,
+   "slug": "valid-parentheses-4",
+   "name": "Valid Parentheses 4",
+   "kind": null
+  },
+  {
+   "id": 188721,
+   "slug": "next-greater-element-7-3",
+   "name": "Next Greater Element 7",
+   "kind": null
+  },
+  {
+   "id": 188745,
+   "slug": "vgvvh",
+   "name": "Toggle_all characters in a string",
+   "kind": null
+  },
+  {
+   "id": 188790,
+   "slug": "palindromic-list",
+   "name": "Palindromic Linked List",
+   "kind": null
+  },
+  {
+   "id": 188793,
+   "slug": "linkedlist-reversal",
+   "name": "Linked List Reversal",
+   "kind": null
+  },
+  {
+   "id": 188795,
+   "slug": "list-reversal-2",
+   "name": "Linked List Reversal 2",
+   "kind": null
+  },
+  {
+   "id": 188800,
+   "slug": "middle-node-finding",
+   "name": "Find Middle of the Linked List",
+   "kind": null
+  },
+  {
+   "id": 188801,
+   "slug": "nth-node-finding",
+   "name": "Nth Node finding",
+   "kind": null
+  },
+  {
+   "id": 188888,
+   "slug": "list-reversal-iterative",
+   "name": "Iterative Linked List Reversal ",
+   "kind": null
+  },
+  {
+   "id": 188890,
+   "slug": "list-reversal-iterative-2",
+   "name": "Iterative Linked List Reversal - 2",
+   "kind": null
+  },
+  {
+   "id": 188895,
+   "slug": "testaman",
+   "name": "candyyyy",
+   "kind": null
+  },
+  {
+   "id": 188916,
+   "slug": "meeting-room-1",
+   "name": "Meeting Room 1",
+   "kind": null
+  },
+  {
+   "id": 189046,
+   "slug": "middle-of-the-linked-list-1",
+   "name": "Middle of the Linked List 1",
+   "kind": null
+  },
+  {
+   "id": 189047,
+   "slug": "fold-a-linkedlist",
+   "name": "Fold a Linked List",
+   "kind": null
+  },
+  {
+   "id": 189048,
+   "slug": "mergetwosortedlists",
+   "name": "Merge Two Sorted Lists",
+   "kind": null
+  },
+  {
+   "id": 189050,
+   "slug": "remove-duplicates-22-2",
+   "name": "Remove Duplicates in LL",
+   "kind": null
+  },
+  {
+   "id": 189052,
+   "slug": "add-two-numbers-46",
+   "name": "Add Two Numbers in LL",
+   "kind": null
+  },
+  {
+   "id": 189159,
+   "slug": "star-wars-and-palindromes",
+   "name": "Star Wars  ",
+   "kind": null
+  },
+  {
+   "id": 189165,
+   "slug": "prime-factors-9-2",
+   "name": "Prime Factors (Bit)",
+   "kind": null
+  },
+  {
+   "id": 189167,
+   "slug": "jumps-3",
+   "name": "SORT_given sentence on the basis of integer present in every string",
+   "kind": null
+  },
+  {
+   "id": 189224,
+   "slug": "number-finding",
+   "name": "Number finding",
+   "kind": null
+  },
+  {
+   "id": 189294,
+   "slug": "odd-even-linked-list",
+   "name": "Odd Even Linked List",
+   "kind": null
+  },
+  {
+   "id": 189386,
+   "slug": "implement-a-stack",
+   "name": "Implement a stack using ArrayList",
+   "kind": null
+  },
+  {
+   "id": 189391,
+   "slug": "implement-a-queue",
+   "name": "HW_Implement a queue",
+   "kind": null
+  },
+  {
+   "id": 189408,
+   "slug": "maximum-element-in-stack-1-1",
+   "name": "Maximum Element in Stack 1",
+   "kind": null
+  },
+  {
+   "id": 189409,
+   "slug": "maximum-element-in-a-given-queue",
+   "name": "Maximum Element in a Given Queue",
+   "kind": null
+  },
+  {
+   "id": 189410,
+   "slug": "sort-a-stack-3",
+   "name": "Sort a stack 3",
+   "kind": null
+  },
+  {
+   "id": 189525,
+   "slug": "score-of-parentheses",
+   "name": "Score of Parentheses",
+   "kind": null
+  },
+  {
+   "id": 189527,
+   "slug": "remove-all-adjacent-duplicates-in-string",
+   "name": "Remove All Adjacent Duplicates In String",
+   "kind": null
+  },
+  {
+   "id": 189536,
+   "slug": "maximum-of-array",
+   "name": "Maximum of Array",
+   "kind": null
+  },
+  {
+   "id": 189537,
+   "slug": "xor-finding",
+   "name": "XOR Finding",
+   "kind": null
+  },
+  {
+   "id": 189635,
+   "slug": "remove-k-digits-2",
+   "name": "HW_Remove K Digits 2",
+   "kind": null
+  },
+  {
+   "id": 189738,
+   "slug": "reverse-nodes-in-k-group-1-1",
+   "name": "Reverse Nodes in k-Group 1",
+   "kind": null
+  },
+  {
+   "id": 189739,
+   "slug": "prefix-to-infix-conversion",
+   "name": "Prefix to Infix Conversion",
+   "kind": null
+  },
+  {
+   "id": 189740,
+   "slug": "prefix-to-postfix-conversion",
+   "name": "Prefix to Postfix Conversion",
+   "kind": null
+  },
+  {
+   "id": 189742,
+   "slug": "postfix-to-prefix-conversion",
+   "name": "Postfix to Prefix Conversion",
+   "kind": null
+  },
+  {
+   "id": 189744,
+   "slug": "postfix-to-infix-1",
+   "name": "Postfix to Infix 1",
+   "kind": null
+  },
+  {
+   "id": 190117,
+   "slug": "nearest-smaller-number",
+   "name": "Nearest Smaller Number",
+   "kind": null
+  },
+  {
+   "id": 190118,
+   "slug": "largest-rectangle-in-histogram-5",
+   "name": "Largest Rectangle in Histogram 5",
+   "kind": null
+  },
+  {
+   "id": 190483,
+   "slug": "maximal-rectangle-3",
+   "name": "Maximal Rectangle 3",
+   "kind": null
+  },
+  {
+   "id": 190486,
+   "slug": "sliding-window-maximum-1-1",
+   "name": "Sliding Window Maximum 1",
+   "kind": null
+  },
+  {
+   "id": 190505,
+   "slug": "simple-problem-4",
+   "name": "Simple Problem 4",
+   "kind": null
+  },
+  {
+   "id": 190578,
+   "slug": "strings-and-games",
+   "name": "Strings and Games",
+   "kind": null
+  },
+  {
+   "id": 190580,
+   "slug": "lost-words",
+   "name": "Lost Words",
+   "kind": null
+  },
+  {
+   "id": 190652,
+   "slug": "find-those-triples",
+   "name": "Find those triples!",
+   "kind": null
+  },
+  {
+   "id": 190737,
+   "slug": "drone-flying",
+   "name": "Drone Flying",
+   "kind": null
+  },
+  {
+   "id": 190806,
+   "slug": "maximum-depth-of-tree",
+   "name": "Valid__Password ",
+   "kind": null
+  },
+  {
+   "id": 191072,
+   "slug": "silly-mistake-1-1",
+   "name": "Silly Mistake 1",
+   "kind": null
+  },
+  {
+   "id": 191078,
+   "slug": "gray-codes-1",
+   "name": "Gray Codes 1",
+   "kind": null
+  },
+  {
+   "id": 191080,
+   "slug": "detective-kudo",
+   "name": "Detective Kudo",
+   "kind": null
+  },
+  {
+   "id": 191096,
+   "slug": "majority-element-10-1",
+   "name": "HW_Majority Element 10",
+   "kind": null
+  },
+  {
+   "id": 192332,
+   "slug": "count-the-occurrences",
+   "name": "Count the Occurrences!",
+   "kind": null
+  },
+  {
+   "id": 192335,
+   "slug": "covid-19-2-1",
+   "name": "COVID-19 2",
+   "kind": null
+  },
+  {
+   "id": 192341,
+   "slug": "okabe-and-the-toll-gates",
+   "name": "Okabe and the Toll Gates",
+   "kind": null
+  },
+  {
+   "id": 192342,
+   "slug": "stairs-8-1",
+   "name": "stairs 8",
+   "kind": null
+  },
+  {
+   "id": 192354,
+   "slug": "vikas-and-polygon",
+   "name": "Special Polygon",
+   "kind": null
+  },
+  {
+   "id": 192356,
+   "slug": "vikas-love-numbers",
+   "name": "Magical Numbers",
+   "kind": null
+  },
+  {
+   "id": 192571,
+   "slug": "ayush-and-his-matrix",
+   "name": "Ayush and his Matrix",
+   "kind": null
+  },
+  {
+   "id": 192862,
+   "slug": "kth-largest-element-in-an-array",
+   "name": "Kth Largest Element in an Array",
+   "kind": null
+  },
+  {
+   "id": 192863,
+   "slug": "connect-n-ropes-with-minimum-cost-1",
+   "name": "Connect n ropes with minimum cost 1",
+   "kind": null
+  },
+  {
+   "id": 192864,
+   "slug": "maximize-product-of-array",
+   "name": "Maximize product of array",
+   "kind": null
+  },
+  {
+   "id": 192879,
+   "slug": "minimize-cost-1",
+   "name": "minimize cost",
+   "kind": null
+  },
+  {
+   "id": 193080,
+   "slug": "vikas-and-his-musical-notes",
+   "name": "Vikas and his musical notes",
+   "kind": null
+  },
+  {
+   "id": 193092,
+   "slug": "count-arrays",
+   "name": "Vikas don't know binary search",
+   "kind": null
+  },
+  {
+   "id": 193103,
+   "slug": "good-subarray-2",
+   "name": "Vikas loves chocolate",
+   "kind": null
+  },
+  {
+   "id": 193122,
+   "slug": "count-the-triplets-1",
+   "name": "Vikas distribute prizes",
+   "kind": null
+  },
+  {
+   "id": 193161,
+   "slug": "last-question",
+   "name": "Last Question",
+   "kind": null
+  },
+  {
+   "id": 193229,
+   "slug": "sweets-distribution",
+   "name": "Sweets Distribution",
+   "kind": null
+  },
+  {
+   "id": 193234,
+   "slug": "super-bit-string",
+   "name": "Super Bit String",
+   "kind": null
+  },
+  {
+   "id": 193236,
+   "slug": "cakes-and-parties",
+   "name": "Cakes and Parties",
+   "kind": null
+  },
+  {
+   "id": 193317,
+   "slug": "common-elements-6-2",
+   "name": "common elements 6",
+   "kind": null
+  },
+  {
+   "id": 193319,
+   "slug": "maximum-occurring-character-2",
+   "name": "maximum occurring character 2",
+   "kind": null
+  },
+  {
+   "id": 193323,
+   "slug": "max-occurring",
+   "name": "Max occurring",
+   "kind": null
+  },
+  {
+   "id": 193324,
+   "slug": "two-sum-14-1",
+   "name": "Two Sum 14",
+   "kind": null
+  },
+  {
+   "id": 193327,
+   "slug": "single-number-3",
+   "name": "HW_Single Number 3",
+   "kind": null
+  },
+  {
+   "id": 193329,
+   "slug": "isomorphic-strings-4",
+   "name": " Isomorphic Strings",
+   "kind": null
+  },
+  {
+   "id": 193330,
+   "slug": "valid-anagram-3",
+   "name": "HW_Valid Anagram 3",
+   "kind": null
+  },
+  {
+   "id": 193384,
+   "slug": "tv-subscription",
+   "name": "Vikas and JumboTV",
+   "kind": null
+  },
+  {
+   "id": 193442,
+   "slug": "vikas-and-cards",
+   "name": "Vikas and Cards",
+   "kind": null
+  },
+  {
+   "id": 193660,
+   "slug": "k-largest",
+   "name": "k largest",
+   "kind": null
+  },
+  {
+   "id": 193664,
+   "slug": "next-greater-element-9",
+   "name": "Next Greater Element 9",
+   "kind": null
+  },
+  {
+   "id": 193665,
+   "slug": "kth-smallest-2",
+   "name": "K\u2019th Smallest",
+   "kind": null
+  },
+  {
+   "id": 193670,
+   "slug": "smallest-positive-number",
+   "name": "Smallest Positive Number",
+   "kind": null
+  },
+  {
+   "id": 193822,
+   "slug": "string-operations-2-2",
+   "name": "String operations 2",
+   "kind": null
+  },
+  {
+   "id": 194202,
+   "slug": "grading-2",
+   "name": "Grading 2",
+   "kind": null
+  },
+  {
+   "id": 194205,
+   "slug": "origin",
+   "name": "Origin",
+   "kind": null
+  },
+  {
+   "id": 194207,
+   "slug": "lottery-4",
+   "name": "Lottery 4",
+   "kind": null
+  },
+  {
+   "id": 194208,
+   "slug": "radio-ratings",
+   "name": "Radio ratings",
+   "kind": null
+  },
+  {
+   "id": 194614,
+   "slug": "counting-jumps",
+   "name": "Counting jumps",
+   "kind": null
+  },
+  {
+   "id": 194903,
+   "slug": "string-formation-1-1",
+   "name": "String Formation 1",
+   "kind": null
+  },
+  {
+   "id": 194950,
+   "slug": "knight-problem",
+   "name": "Minimum steps of Knight",
+   "kind": null
+  },
+  {
+   "id": 194993,
+   "slug": "three-stacks",
+   "name": "HW_Three Stacks",
+   "kind": null
+  },
+  {
+   "id": 195260,
+   "slug": "divide-linked-list",
+   "name": "Divide Linked list",
+   "kind": null
+  },
+  {
+   "id": 195265,
+   "slug": "reverse-linked-list-2-1",
+   "name": "Reverse Linked List 3",
+   "kind": null
+  },
+  {
+   "id": 195662,
+   "slug": "magical-rope-2",
+   "name": "Magical Rope 2",
+   "kind": null
+  },
+  {
+   "id": 195669,
+   "slug": "sachin-and-his-string",
+   "name": "Sachin and his String",
+   "kind": null
+  },
+  {
+   "id": 195671,
+   "slug": "stones-and-river",
+   "name": "Stones and River",
+   "kind": null
+  },
+  {
+   "id": 195676,
+   "slug": "grid-problem-3",
+   "name": "Grid Problem 3",
+   "kind": null
+  },
+  {
+   "id": 195945,
+   "slug": "ugly-numbers-9",
+   "name": "NULL",
+   "kind": null
+  },
+  {
+   "id": 195946,
+   "slug": "nth-catalan-number-1",
+   "name": "N-th Catalan Number 1",
+   "kind": null
+  },
+  {
+   "id": 195947,
+   "slug": "tiling-problem-2",
+   "name": "Tiling Problem 2",
+   "kind": null
+  },
+  {
+   "id": 195948,
+   "slug": "coin-change-11",
+   "name": "Coin Change 11",
+   "kind": null
+  },
+  {
+   "id": 195999,
+   "slug": "perfect-numbers-11",
+   "name": "Perfect Numbers 11",
+   "kind": null
+  },
+  {
+   "id": 196152,
+   "slug": "friends-pairing-problem-3",
+   "name": "Friends Pairing Problem 3",
+   "kind": null
+  },
+  {
+   "id": 196154,
+   "slug": "subset-sum-problem-2",
+   "name": "Subset Sum Problem 2",
+   "kind": null
+  },
+  {
+   "id": 196795,
+   "slug": "special-towers",
+   "name": "Special Towers",
+   "kind": null
+  },
+  {
+   "id": 196797,
+   "slug": "egg-drop-problem",
+   "name": "Egg Drop Problem",
+   "kind": null
+  },
+  {
+   "id": 196816,
+   "slug": "gym-battles-v2",
+   "name": "Gym Battles V2",
+   "kind": null
+  },
+  {
+   "id": 196817,
+   "slug": "tom-and-jerry-11",
+   "name": "Tom and Jerry 11",
+   "kind": null
+  },
+  {
+   "id": 197230,
+   "slug": "partition-problem-1",
+   "name": "Partition problem 1",
+   "kind": null
+  },
+  {
+   "id": 197231,
+   "slug": "count-of-subsets",
+   "name": "Count of subsets",
+   "kind": null
+  },
+  {
+   "id": 197240,
+   "slug": "set-partition-1",
+   "name": "Set Partition 1",
+   "kind": null
+  },
+  {
+   "id": 197657,
+   "slug": "owl-fight-1",
+   "name": "Owl Fight 1",
+   "kind": null
+  },
+  {
+   "id": 197742,
+   "slug": "segment-knapsack",
+   "name": "Segment Knapsack",
+   "kind": null
+  },
+  {
+   "id": 197779,
+   "slug": "jumping-rabbit-2",
+   "name": "Jumping Rabbit 2",
+   "kind": null
+  },
+  {
+   "id": 197785,
+   "slug": "k-distance-pairs",
+   "name": "K Distance pairs",
+   "kind": null
+  },
+  {
+   "id": 197788,
+   "slug": "vikas-drives-car",
+   "name": "Vikas drives car",
+   "kind": null
+  },
+  {
+   "id": 197892,
+   "slug": "operation-on-trees",
+   "name": "Operation on trees",
+   "kind": null
+  },
+  {
+   "id": 197895,
+   "slug": "change-knapsack",
+   "name": "Change Knapsack",
+   "kind": null
+  },
+  {
+   "id": 200596,
+   "slug": "calculator-25-1",
+   "name": "Calculator 25",
+   "kind": null
+  },
+  {
+   "id": 200597,
+   "slug": "square-checker",
+   "name": "Square checker",
+   "kind": null
+  },
+  {
+   "id": 200598,
+   "slug": "number-finder",
+   "name": "Number finder",
+   "kind": null
+  },
+  {
+   "id": 200599,
+   "slug": "geekster-shop",
+   "name": "Geekster Shop",
+   "kind": null
+  },
+  {
+   "id": 200647,
+   "slug": "sum-calculator",
+   "name": "Sum calculator",
+   "kind": null
+  },
+  {
+   "id": 200648,
+   "slug": "power-calculator",
+   "name": "Power calculator",
+   "kind": null
+  },
+  {
+   "id": 200649,
+   "slug": "reverse-integer-5-1",
+   "name": "Reverse integer 5",
+   "kind": null
+  },
+  {
+   "id": 200650,
+   "slug": "sum-finding",
+   "name": "Sum Finding",
+   "kind": null
+  },
+  {
+   "id": 200654,
+   "slug": "max-and-min-5",
+   "name": "Max and Min 5",
+   "kind": null
+  },
+  {
+   "id": 200730,
+   "slug": "reverse-numbers-4",
+   "name": "Reverse Numbers 4",
+   "kind": null
+  },
+  {
+   "id": 200731,
+   "slug": "sun-finding",
+   "name": "Odd Sum Finding",
+   "kind": null
+  },
+  {
+   "id": 200734,
+   "slug": "digits-1-4",
+   "name": "Digits  1",
+   "kind": null
+  },
+  {
+   "id": 200736,
+   "slug": "first-and-last-digit-2",
+   "name": "First and Last Digit 2",
+   "kind": null
+  },
+  {
+   "id": 200743,
+   "slug": "palindrome-checking-1",
+   "name": "Palindrome Checking 1",
+   "kind": null
+  },
+  {
+   "id": 201818,
+   "slug": "hcf-finding",
+   "name": "HCF Finding",
+   "kind": null
+  },
+  {
+   "id": 201824,
+   "slug": "find-lcm-3-1",
+   "name": "Find LCM 3",
+   "kind": null
+  },
+  {
+   "id": 201826,
+   "slug": "prime-checker-2-1",
+   "name": "Prime checker 2",
+   "kind": null
+  },
+  {
+   "id": 201904,
+   "slug": "prime-printing-1",
+   "name": "Prime printing 1",
+   "kind": null
+  },
+  {
+   "id": 201905,
+   "slug": "sum-of-primes-5-3",
+   "name": "Sum of primes 5",
+   "kind": null
+  },
+  {
+   "id": 201906,
+   "slug": "armstrong-number-59",
+   "name": "Armstrong number 59",
+   "kind": null
+  },
+  {
+   "id": 202780,
+   "slug": "new-sorting-algorithm-1",
+   "name": "New Sorting Algorithm 1",
+   "kind": null
+  },
+  {
+   "id": 202784,
+   "slug": "divide-sequence-1",
+   "name": "Divide Sequence 1",
+   "kind": null
+  },
+  {
+   "id": 202786,
+   "slug": "gcd-problem-1",
+   "name": "GCD Problem 1",
+   "kind": null
+  },
+  {
+   "id": 202787,
+   "slug": "multiply-divide",
+   "name": "Multiply Divide",
+   "kind": null
+  },
+  {
+   "id": 202789,
+   "slug": "string-construction-1",
+   "name": "String Construction 1",
+   "kind": null
+  },
+  {
+   "id": 204007,
+   "slug": "restaurants-book",
+   "name": "Restaurants Book",
+   "kind": null
+  },
+  {
+   "id": 204010,
+   "slug": "primes-again",
+   "name": "T - Prime",
+   "kind": null
+  },
+  {
+   "id": 204011,
+   "slug": "shuffling-1",
+   "name": "Shuffling 1",
+   "kind": null
+  },
+  {
+   "id": 204013,
+   "slug": "equal-strings-1",
+   "name": "Equal strings 1",
+   "kind": null
+  },
+  {
+   "id": 205073,
+   "slug": "count-divisors-6",
+   "name": "count divisors 6",
+   "kind": null
+  },
+  {
+   "id": 205075,
+   "slug": "anagrams-25-3",
+   "name": "Anagrams 25",
+   "kind": null
+  },
+  {
+   "id": 205077,
+   "slug": "micro-and-array-update-1-1",
+   "name": "Micro and Array Update 1",
+   "kind": null
+  },
+  {
+   "id": 206070,
+   "slug": "print-first-occurence-1",
+   "name": "Print first Occurence 1",
+   "kind": null
+  },
+  {
+   "id": 206077,
+   "slug": "good-pairs-6",
+   "name": "Good pairs 6",
+   "kind": null
+  },
+  {
+   "id": 206079,
+   "slug": "maximum-product-subarray-2",
+   "name": "Maximum Product Subarray 2",
+   "kind": null
+  },
+  {
+   "id": 217128,
+   "slug": "how-much-do-bits-differ",
+   "name": "Attack on Titans",
+   "kind": null
+  },
+  {
+   "id": 239372,
+   "slug": "push-all-zeros-to-end",
+   "name": "Push All Zeros To End",
+   "kind": null
+  },
+  {
+   "id": 239373,
+   "slug": "merge-sort-4-1",
+   "name": "Merge Sort  4",
+   "kind": null
+  },
+  {
+   "id": 239379,
+   "slug": "merge-intervals-3",
+   "name": "Merge Intervals 3",
+   "kind": null
+  },
+  {
+   "id": 239478,
+   "slug": "count-zeros-2",
+   "name": "Count Zeros 2",
+   "kind": null
+  },
+  {
+   "id": 239479,
+   "slug": "geometric-sum-1-1",
+   "name": "Geometric Sum  1",
+   "kind": null
+  },
+  {
+   "id": 239557,
+   "slug": "pair-star-2",
+   "name": "Pair Star 2",
+   "kind": null
+  },
+  {
+   "id": 239561,
+   "slug": "string-to-integer-5",
+   "name": "String To Integer 5",
+   "kind": null
+  },
+  {
+   "id": 239565,
+   "slug": "sum-of-all-elements-of-array",
+   "name": "Sum of all Elements of Array",
+   "kind": null
+  },
+  {
+   "id": 239572,
+   "slug": "sort-0-1-2-2",
+   "name": "Sort 0 1 2 ",
+   "kind": null
+  },
+  {
+   "id": 239574,
+   "slug": "remove-character-4",
+   "name": "Remove character 4",
+   "kind": null
+  },
+  {
+   "id": 239576,
+   "slug": "print-all-substrings",
+   "name": "Print All Substrings",
+   "kind": null
+  },
+  {
+   "id": 239623,
+   "slug": "count-number-of-digits-1-2",
+   "name": "Count number of digits  1",
+   "kind": null
+  },
+  {
+   "id": 239626,
+   "slug": "check-case-1-2",
+   "name": "Check Case 1",
+   "kind": null
+  },
+  {
+   "id": 239629,
+   "slug": "generate-paranthesis-1",
+   "name": "Generate Paranthesis 1",
+   "kind": null
+  },
+  {
+   "id": 239632,
+   "slug": "combinations-11",
+   "name": "Combinations 11",
+   "kind": null
+  },
+  {
+   "id": 239636,
+   "slug": "return-keypad-code",
+   "name": "Return Keypad Code",
+   "kind": null
+  },
+  {
+   "id": 240243,
+   "slug": "sum-of-two-arrays-1-1",
+   "name": "Sum Of Two Arrays  1",
+   "kind": null
+  },
+  {
+   "id": 240245,
+   "slug": "spiral-print-1-1",
+   "name": "Spiral Print  1",
+   "kind": null
+  },
+  {
+   "id": 240246,
+   "slug": "compress-the-string-1-5",
+   "name": "Compress The String  ",
+   "kind": null
+  },
+  {
+   "id": 240247,
+   "slug": "k-reverse-linked-list",
+   "name": "K- Reverse Linked List ",
+   "kind": null
+  },
+  {
+   "id": 240250,
+   "slug": "level-wise-linked-list",
+   "name": "Level Wise Linked List ",
+   "kind": null
+  },
+  {
+   "id": 240253,
+   "slug": "convert-sorted-list-to-binary-search-tree",
+   "name": "Convert Sorted List to Binary Search Tree",
+   "kind": null
+  },
+  {
+   "id": 240254,
+   "slug": "check-redundant-brackets",
+   "name": "Check redundant brackets",
+   "kind": null
+  },
+  {
+   "id": 240257,
+   "slug": "merge-k-sorted-arrays-2-3",
+   "name": "Merge K sorted arrays  ",
+   "kind": null
+  },
+  {
+   "id": 240258,
+   "slug": "longest-subset-zero-sum-1",
+   "name": "Longest subset zero sum 1",
+   "kind": null
+  },
+  {
+   "id": 240261,
+   "slug": "longest-increasing-subsequence-12-2",
+   "name": "Longest Increasing Subsequence 12",
+   "kind": null
+  },
+  {
+   "id": 240262,
+   "slug": "connected-dots",
+   "name": "Connected Dots ",
+   "kind": null
+  },
+  {
+   "id": 240629,
+   "slug": "check-case-2",
+   "name": "Check Case 2",
+   "kind": null
+  },
+  {
+   "id": 240631,
+   "slug": "sum-of-even-odd-2",
+   "name": "Sum of even & odd 2",
+   "kind": null
+  },
+  {
+   "id": 240633,
+   "slug": "square-pattern-12",
+   "name": "Square Pattern 12",
+   "kind": null
+  },
+  {
+   "id": 240634,
+   "slug": "all-prime-numbers",
+   "name": "All Prime Numbers",
+   "kind": null
+  },
+  {
+   "id": 241054,
+   "slug": "sum-of-even-numbers-till-n-1",
+   "name": "Sum of Even Numbers till N 1",
+   "kind": null
+  },
+  {
+   "id": 241057,
+   "slug": "fahrenheit-to-celsius-table-2",
+   "name": "Fahrenheit to Celsius Table 2",
+   "kind": null
+  },
+  {
+   "id": 241060,
+   "slug": "total-salary-2",
+   "name": "HW_Total Salary 2",
+   "kind": null
+  },
+  {
+   "id": 241063,
+   "slug": "find-power-of-a-number-3",
+   "name": "Find power of a number 3",
+   "kind": null
+  },
+  {
+   "id": 241064,
+   "slug": "binary-to-decimal-12-3",
+   "name": "Binary to decimal 12",
+   "kind": null
+  },
+  {
+   "id": 241066,
+   "slug": "reverse-of-a-number-8",
+   "name": "Reverse of a number 8",
+   "kind": null
+  },
+  {
+   "id": 241069,
+   "slug": "count-characters-6",
+   "name": "Count Characters 6",
+   "kind": null
+  },
+  {
+   "id": 241120,
+   "slug": "demo-85",
+   "name": "Print triplets with sum less than k",
+   "kind": null
+  },
+  {
+   "id": 241301,
+   "slug": "second-largest-in-array-2",
+   "name": "HW_Second Largest in array 2",
+   "kind": null
+  },
+  {
+   "id": 241302,
+   "slug": "arrange-numbers-in-array-2",
+   "name": "Arrange Numbers in Array 2",
+   "kind": null
+  },
+  {
+   "id": 242149,
+   "slug": "decimal-to-binary-2-2",
+   "name": "Decimal to Binary  2",
+   "kind": null
+  },
+  {
+   "id": 242151,
+   "slug": "square-root-integral",
+   "name": "Square Root (Integral)",
+   "kind": null
+  },
+  {
+   "id": 242174,
+   "slug": "terms-of-ap-1",
+   "name": "Terms of AP 1",
+   "kind": null
+  },
+  {
+   "id": 242238,
+   "slug": "nth-fibonacci-number-7",
+   "name": "Nth Fibonacci Number 7",
+   "kind": null
+  },
+  {
+   "id": 243170,
+   "slug": "largest-row-or-column-1",
+   "name": "Largest Row or Column 1",
+   "kind": null
+  },
+  {
+   "id": 243171,
+   "slug": "wave-print-1-1",
+   "name": "Wave Print  1",
+   "kind": null
+  },
+  {
+   "id": 244046,
+   "slug": "check-redundant-brackets-1",
+   "name": "Check redundant brackets 1",
+   "kind": null
+  },
+  {
+   "id": 245341,
+   "slug": "reverse-each-word-1",
+   "name": "Reverse Each Word 1",
+   "kind": null
+  },
+  {
+   "id": 247168,
+   "slug": "print-hello-world-36",
+   "name": "Print Hello World 36",
+   "kind": null
+  },
+  {
+   "id": 247170,
+   "slug": "complex-number-class",
+   "name": "Complex Number Class ",
+   "kind": null
+  },
+  {
+   "id": 249867,
+   "slug": "rotate-array-23",
+   "name": "Rotate Array 23",
+   "kind": null
+  },
+  {
+   "id": 253677,
+   "slug": "create-linked-list-1",
+   "name": "Create Linked List 1",
+   "kind": null
+  },
+  {
+   "id": 253689,
+   "slug": "rectangle-class-1",
+   "name": "Rectangle Class 1",
+   "kind": null
+  },
+  {
+   "id": 254540,
+   "slug": "greater-between-two-numbers",
+   "name": "Greater between Two numbers",
+   "kind": null
+  },
+  {
+   "id": 254544,
+   "slug": "sum-of-number-till-n",
+   "name": "Sum of number till N",
+   "kind": null
+  },
+  {
+   "id": 254862,
+   "slug": "minimum-length-word-2-1",
+   "name": "Minimum Length Word 2",
+   "kind": null
+  },
+  {
+   "id": 254863,
+   "slug": "leaders-in-array-4",
+   "name": "Leaders in array 4",
+   "kind": null
+  },
+  {
+   "id": 255805,
+   "slug": "check-array-rotation-6",
+   "name": "Check Array Rotation 6",
+   "kind": null
+  },
+  {
+   "id": 255806,
+   "slug": "insertion-sort-28-5",
+   "name": "Insertion Sort 28",
+   "kind": null
+  },
+  {
+   "id": 256046,
+   "slug": "test-15-3",
+   "name": "Frog Jumppppp",
+   "kind": null
+  },
+  {
+   "id": 256266,
+   "slug": "dec21-dsa-problem-1",
+   "name": "DSA Problem",
+   "kind": null
+  },
+  {
+   "id": 256267,
+   "slug": "dec21-dsa-problem-2",
+   "name": "Dec21-DSA-Problem-2",
+   "kind": null
+  },
+  {
+   "id": 256268,
+   "slug": "manmohan-loves-pattern",
+   "name": "Manmohan Loves Pattern",
+   "kind": null
+  },
+  {
+   "id": 256269,
+   "slug": "dec21-dsa-problem-3",
+   "name": "Dec21-DSA-Problem-3",
+   "kind": null
+  },
+  {
+   "id": 256271,
+   "slug": "manmohan-loves-pattern-ii",
+   "name": "Manmohan Loves Pattern- II",
+   "kind": null
+  },
+  {
+   "id": 257185,
+   "slug": "subsequence-of-string-1",
+   "name": "Subsequence of String ",
+   "kind": null
+  },
+  {
+   "id": 257190,
+   "slug": "count-maze-path",
+   "name": "Count Maze Path",
+   "kind": null
+  },
+  {
+   "id": 257366,
+   "slug": "simple-input-2",
+   "name": "Simple Input ",
+   "kind": null
+  },
+  {
+   "id": 258008,
+   "slug": "permutation-of-string-",
+   "name": "Permutation of String.",
+   "kind": null
+  },
+  {
+   "id": 258010,
+   "slug": "print-maze-path",
+   "name": "Print Maze Path",
+   "kind": null
+  },
+  {
+   "id": 258014,
+   "slug": "quick-sort-19-2",
+   "name": "Quick Sort 19",
+   "kind": null
+  },
+  {
+   "id": 258981,
+   "slug": "balanced-parentheses-",
+   "name": "Balanced Parentheses.",
+   "kind": null
+  },
+  {
+   "id": 258987,
+   "slug": "rotate-matrix-",
+   "name": "Rotate Image",
+   "kind": null
+  },
+  {
+   "id": 262256,
+   "slug": "remove-adjacent-duplicates-1",
+   "name": "Remove Adjacent Duplicates 1",
+   "kind": null
+  },
+  {
+   "id": 262322,
+   "slug": "maximum-element-in-window-of-size-k",
+   "name": "Maximum Element in window of size k",
+   "kind": null
+  },
+  {
+   "id": 263669,
+   "slug": "addition-of-two-numbers-22",
+   "name": "Find Average",
+   "kind": null
+  },
+  {
+   "id": 263673,
+   "slug": "if-triangle-is-possible-",
+   "name": "HW_If triangle is possible.",
+   "kind": null
+  },
+  {
+   "id": 263722,
+   "slug": "prime-number-112",
+   "name": "Mr. Geek and Prime Numbers!",
+   "kind": null
+  },
+  {
+   "id": 263727,
+   "slug": "lucky-number-23-3",
+   "name": "Lucky Numbers",
+   "kind": null
+  },
+  {
+   "id": 263743,
+   "slug": "odd-sum-9-4",
+   "name": "Odd sum 9",
+   "kind": null
+  },
+  {
+   "id": 264608,
+   "slug": "is-leap-year-1",
+   "name": "Is Leap Year",
+   "kind": null
+  },
+  {
+   "id": 264610,
+   "slug": "que-and-rem",
+   "name": "HW_Que and Rem",
+   "kind": null
+  },
+  {
+   "id": 264824,
+   "slug": "binary-search-5-2",
+   "name": "Search Problem",
+   "kind": null
+  },
+  {
+   "id": 264825,
+   "slug": "feb22-dsa-problem-2",
+   "name": "feb22-dsa-problem-2",
+   "kind": null
+  },
+  {
+   "id": 264826,
+   "slug": "feb22-dsa-problem-3",
+   "name": "feb22-dsa-problem-3",
+   "kind": null
+  },
+  {
+   "id": 265347,
+   "slug": "perfect-square-19",
+   "name": "Perfect Square 19",
+   "kind": null
+  },
+  {
+   "id": 265350,
+   "slug": "reverse-vowels-of-string",
+   "name": "Reverse vowels of string",
+   "kind": null
+  },
+  {
+   "id": 265354,
+   "slug": "special-pallindrome-",
+   "name": "special pallindrome.",
+   "kind": null
+  },
+  {
+   "id": 265357,
+   "slug": "draw-pattern-",
+   "name": "Draw Pattern.",
+   "kind": null
+  },
+  {
+   "id": 265684,
+   "slug": "factorial-156",
+   "name": "Factorial 156",
+   "kind": null
+  },
+  {
+   "id": 265924,
+   "slug": "chocolate-pattern",
+   "name": "Chocolate pattern",
+   "kind": null
+  },
+  {
+   "id": 265925,
+   "slug": "odd-even-pattern",
+   "name": "Odd Even Pattern",
+   "kind": null
+  },
+  {
+   "id": 266991,
+   "slug": "count-zeroes-and-ones",
+   "name": "Zeroes and Ones",
+   "kind": null
+  },
+  {
+   "id": 266993,
+   "slug": "count-vowels-8-1",
+   "name": "Count Vowels ",
+   "kind": null
+  },
+  {
+   "id": 267032,
+   "slug": "reverse-a-string-1-4",
+   "name": "Reverse The String",
+   "kind": null
+  },
+  {
+   "id": 267037,
+   "slug": "numbers-divisible-by-2-",
+   "name": "Numbers divisible by 2.",
+   "kind": null
+  },
+  {
+   "id": 267044,
+   "slug": "print-duplicates-with-frequency",
+   "name": "Print duplicates with frequency",
+   "kind": null
+  },
+  {
+   "id": 267045,
+   "slug": "unique-elements-10-1",
+   "name": "Unique elements 10",
+   "kind": null
+  },
+  {
+   "id": 267047,
+   "slug": "2sum-2",
+   "name": "2sum 2",
+   "kind": null
+  },
+  {
+   "id": 267061,
+   "slug": "generic-linkedlist-",
+   "name": "Generic LinkedList.",
+   "kind": null
+  },
+  {
+   "id": 267064,
+   "slug": "insert-node",
+   "name": "Insert Node",
+   "kind": null
+  },
+  {
+   "id": 267082,
+   "slug": "find-error-1-1",
+   "name": "Find error 1",
+   "kind": null
+  },
+  {
+   "id": 267538,
+   "slug": "number-is-pallindrome-or-not",
+   "name": "Number is Pallindrome or not",
+   "kind": null
+  },
+  {
+   "id": 267541,
+   "slug": "duplicate-characters-3",
+   "name": "Duplicate Characters 3",
+   "kind": null
+  },
+  {
+   "id": 267543,
+   "slug": "second-highest-1",
+   "name": "Second Highest 1",
+   "kind": null
+  },
+  {
+   "id": 267546,
+   "slug": "remove-white-space",
+   "name": "Remove White Space",
+   "kind": null
+  },
+  {
+   "id": 267548,
+   "slug": "fibonacci-number-12-1",
+   "name": "Fibonacci number 12",
+   "kind": null
+  },
+  {
+   "id": 267551,
+   "slug": "odd-even-11-1",
+   "name": "HW_Odd Even 11",
+   "kind": null
+  },
+  {
+   "id": 267553,
+   "slug": "intersection-of-two-arrays-1-1",
+   "name": "C_GKSTR05 Intersection of two Arrays",
+   "kind": null
+  },
+  {
+   "id": 267782,
+   "slug": "is-array-sorted",
+   "name": "is array sorted",
+   "kind": null
+  },
+  {
+   "id": 267783,
+   "slug": "transpose-of-matrix-4-1",
+   "name": "Transpose of Matrix of N*N",
+   "kind": null
+  },
+  {
+   "id": 267895,
+   "slug": "recursion-1-1-2",
+   "name": "Recursion1",
+   "kind": null
+  },
+  {
+   "id": 267896,
+   "slug": "recursion-2-1-2",
+   "name": "Recursion2",
+   "kind": null
+  },
+  {
+   "id": 272056,
+   "slug": "array-problem-7",
+   "name": "Array-Problem",
+   "kind": null
+  },
+  {
+   "id": 272060,
+   "slug": "hashing-1-3",
+   "name": "hashing-1",
+   "kind": null
+  },
+  {
+   "id": 272064,
+   "slug": "hashing-2-1-1",
+   "name": "hashing-2 1",
+   "kind": null
+  },
+  {
+   "id": 273351,
+   "slug": "total-number-of-words",
+   "name": "Total Number of Words",
+   "kind": null
+  },
+  {
+   "id": 273507,
+   "slug": "favorite-destination",
+   "name": "Favorite Destination",
+   "kind": null
+  },
+  {
+   "id": 273650,
+   "slug": "perfect-postition",
+   "name": "Perfect_Postition",
+   "kind": null
+  },
+  {
+   "id": 273655,
+   "slug": "intersection-6-3",
+   "name": "Intersection 6",
+   "kind": null
+  },
+  {
+   "id": 273669,
+   "slug": "smallest-positive-number-not-in-array-1",
+   "name": "GKSTR50 Smallest_positive_missing_in_array",
+   "kind": null
+  },
+  {
+   "id": 273748,
+   "slug": "oil-money",
+   "name": "Oil Money",
+   "kind": null
+  },
+  {
+   "id": 273753,
+   "slug": "champion-of-the-hills-1",
+   "name": "Champion of the Hills",
+   "kind": null
+  },
+  {
+   "id": 275315,
+   "slug": "print-sum-2",
+   "name": "GKSTR01 Print_Sum",
+   "kind": null
+  },
+  {
+   "id": 275433,
+   "slug": "concatenate-two-strings-2-1",
+   "name": "Concatenate_Two_Strings",
+   "kind": null
+  },
+  {
+   "id": 275459,
+   "slug": "gkstr03-area-of-rectangle",
+   "name": "HW_Area_Of_Rectangle",
+   "kind": null
+  },
+  {
+   "id": 275462,
+   "slug": "gkstr04-even-or-odd",
+   "name": "HW_GKSTR04 Even_Or_Odd",
+   "kind": null
+  },
+  {
+   "id": 275468,
+   "slug": "gkstr05-is-square",
+   "name": "GKSTR05 Is_Square",
+   "kind": null
+  },
+  {
+   "id": 275472,
+   "slug": "gkstr06-greater-number",
+   "name": "HW_GKSTR06 Greater_Number",
+   "kind": null
+  },
+  {
+   "id": 275566,
+   "slug": "gkstr07-uppercase-or-lowercase",
+   "name": "HW_UpperCase_Or_LowerCase",
+   "kind": null
+  },
+  {
+   "id": 275570,
+   "slug": "gkstr08-time-relevent-greetings",
+   "name": "GKSTR08 Time_Relevent_Greetings",
+   "kind": null
+  },
+  {
+   "id": 275658,
+   "slug": "gkstr09-print-range",
+   "name": "GKSTR09 Print_Range",
+   "kind": null
+  },
+  {
+   "id": 275663,
+   "slug": "gkstr10-print-alphabet",
+   "name": "GKSTR10 Print_Alphabet",
+   "kind": null
+  },
+  {
+   "id": 275781,
+   "slug": "gkstr11-multiple-of-7",
+   "name": "GKSTR11 Multiple Of 7",
+   "kind": null
+  },
+  {
+   "id": 275789,
+   "slug": "gkstr12-multiples-of-3-5-and-both-3-and-5",
+   "name": "Multiples of 3, 5 and Both 3 and 5",
+   "kind": null
+  },
+  {
+   "id": 275791,
+   "slug": "gkstr13-check-prime",
+   "name": "GKSTR13 Check_Prime",
+   "kind": null
+  },
+  {
+   "id": 275800,
+   "slug": "gkstr14-iteration-game",
+   "name": "GKSTR14 Iteration Game",
+   "kind": null
+  },
+  {
+   "id": 275865,
+   "slug": "gkstr15-print-even",
+   "name": "GKSTR15 Print_Even",
+   "kind": null
+  },
+  {
+   "id": 275940,
+   "slug": "gkstr16-pattern-1",
+   "name": "GKSTR16 Pattern_1",
+   "kind": null
+  },
+  {
+   "id": 275945,
+   "slug": "gkstr17-pattern-2",
+   "name": "GKSTR17 Pattern_2",
+   "kind": null
+  },
+  {
+   "id": 275946,
+   "slug": "gkstr18-pattern-3",
+   "name": "GKSTR18 Pattern_3",
+   "kind": null
+  },
+  {
+   "id": 275950,
+   "slug": "gkstr18-pattern-4",
+   "name": "GKSTR19 Pattern_4",
+   "kind": null
+  },
+  {
+   "id": 275951,
+   "slug": "gkstr20-pattern-5",
+   "name": "GKSTR20 Pattern_5",
+   "kind": null
+  },
+  {
+   "id": 275955,
+   "slug": "gkstr21-pattern-6",
+   "name": "GKSTR21 Pattern_6",
+   "kind": null
+  },
+  {
+   "id": 275998,
+   "slug": "gkstr22-sum-or-multiplication",
+   "name": "GKSTR Sum_Or_Multiplication",
+   "kind": null
+  },
+  {
+   "id": 276004,
+   "slug": "gkstr23-count-even-pair",
+   "name": "GKSTR22 Count_Even_Pair",
+   "kind": null
+  },
+  {
+   "id": 276006,
+   "slug": "gkstr24-count-piars-targetsum",
+   "name": "GKSTR23 Count_Pairs_targetSum",
+   "kind": null
+  },
+  {
+   "id": 276077,
+   "slug": "gkstr25-pattern-7-pyramid",
+   "name": "GKSTR24 Pattern_7_Pyramid",
+   "kind": null
+  },
+  {
+   "id": 276078,
+   "slug": "gkstr26-pattern-8-reversed-pyramid",
+   "name": "GKSTR25_Pattern_8_Reversed_Pyramid",
+   "kind": null
+  },
+  {
+   "id": 276081,
+   "slug": "gkstr27-pattern-9-sandglass",
+   "name": "GKSTR26_Pattern_9_SandGlass",
+   "kind": null
+  },
+  {
+   "id": 276084,
+   "slug": "gkstr30-pattern-12-diamond",
+   "name": "GKSTR29_Pattern_12_Diamond",
+   "kind": null
+  },
+  {
+   "id": 276086,
+   "slug": "gkstr28-pattern-10-right-pascals-triangle",
+   "name": "GKSTR27_Pattern_10_Right_Pascal's_Triangle",
+   "kind": null
+  },
+  {
+   "id": 276089,
+   "slug": "gkstr29-pattern-11-left-pascals-triangle",
+   "name": "GKSTR28_Pattern_11_Left_Pascal's_Triangle",
+   "kind": null
+  },
+  {
+   "id": 276118,
+   "slug": "gkstr30-array-sum",
+   "name": "GKSTR30 Array_Sum",
+   "kind": null
+  },
+  {
+   "id": 276126,
+   "slug": "gkstr30-pattern-13-number-hill",
+   "name": "GKSTR30 Pattern_13_Number_Hill",
+   "kind": null
+  },
+  {
+   "id": 276491,
+   "slug": "gkstr30-print-array",
+   "name": "GKSTR31 Print_Array",
+   "kind": null
+  },
+  {
+   "id": 276510,
+   "slug": "gkstrxx-check-if-array-is-sorted",
+   "name": "GKSTR38 Check_if_array_is_sorted",
+   "kind": null
+  },
+  {
+   "id": 276527,
+   "slug": "gkstr32-reverse-array",
+   "name": "GKSTR32 Reverse_Array",
+   "kind": null
+  },
+  {
+   "id": 276531,
+   "slug": "gkstr33-print-alternate",
+   "name": "Print Alternate",
+   "kind": null
+  },
+  {
+   "id": 276534,
+   "slug": "gkstr34-print-reverse-alternate",
+   "name": "HW_Print Reverse Alternate",
+   "kind": null
+  },
+  {
+   "id": 276536,
+   "slug": "gkstr35-count-even",
+   "name": "GKSTR35 Count_Even",
+   "kind": null
+  },
+  {
+   "id": 276538,
+   "slug": "gkstr36-count-indexvalue-element",
+   "name": "HW_GKSTR36 Count_IndexValue_Element",
+   "kind": null
+  },
+  {
+   "id": 276541,
+   "slug": "gkstr37-search-element",
+   "name": "GKSTR37 Search_Element",
+   "kind": null
+  },
+  {
+   "id": 277047,
+   "slug": "c-gkstr01-number-of-steps",
+   "name": "C_GKSTR02 Number of Steps",
+   "kind": null
+  },
+  {
+   "id": 277059,
+   "slug": "c-gkstr02-pattern",
+   "name": "C_GKSTR04 Pattern",
+   "kind": null
+  },
+  {
+   "id": 277062,
+   "slug": "c-gkstr03-merge-strings",
+   "name": "Merge Strings Alternatively",
+   "kind": null
+  },
+  {
+   "id": 277066,
+   "slug": "c-gkstr04-assign-grades",
+   "name": "C_GKSTR01 Assign Grades",
+   "kind": null
+  },
+  {
+   "id": 277168,
+   "slug": "gkstr00-avg-sum",
+   "name": "GKSTR00 Avg_Sum",
+   "kind": null
+  },
+  {
+   "id": 277170,
+   "slug": "gkstrxx-area-circle",
+   "name": "GKSTRXX Area_Circle",
+   "kind": null
+  },
+  {
+   "id": 277173,
+   "slug": "gkstrxx-leap-year",
+   "name": "GKSTRXX Leap_Year",
+   "kind": null
+  },
+  {
+   "id": 277175,
+   "slug": "the-to-be-index",
+   "name": "The To Be Index",
+   "kind": null
+  },
+  {
+   "id": 277176,
+   "slug": "is-anagram-4",
+   "name": "Is_Anagram?",
+   "kind": null
+  },
+  {
+   "id": 277177,
+   "slug": "gkstr38-lucky-pairs",
+   "name": "GKSTR39 Lucky Pairs",
+   "kind": null
+  },
+  {
+   "id": 277181,
+   "slug": "gkstr40-continuous-sum-of-array",
+   "name": "GKSTR40 Continuous Sum of array",
+   "kind": null
+  },
+  {
+   "id": 277183,
+   "slug": "gkstr41-discounted-prices",
+   "name": "GKSTR41 Discounted Prices",
+   "kind": null
+  },
+  {
+   "id": 277436,
+   "slug": "gkstr41-peak-elements",
+   "name": "Peak Elements",
+   "kind": null
+  },
+  {
+   "id": 277440,
+   "slug": "gkstr42-milk-and-water",
+   "name": "GKSTR42 Milk and Water",
+   "kind": null
+  },
+  {
+   "id": 277578,
+   "slug": "gkstr43-insertion-sort",
+   "name": "GKSTR43 Insertion Sort",
+   "kind": null
+  },
+  {
+   "id": 277597,
+   "slug": "gkstr44-bubble-sort",
+   "name": "GKSTR44 Bubble Sort",
+   "kind": null
+  },
+  {
+   "id": 277607,
+   "slug": "gkstr45-selection-sort",
+   "name": "GKSTR45 Selection Sort",
+   "kind": null
+  },
+  {
+   "id": 277615,
+   "slug": "gkstr46-number-of-digits",
+   "name": "GKSTR46 Number of Digits",
+   "kind": null
+  },
+  {
+   "id": 277617,
+   "slug": "gkstr47-reverse-a-number",
+   "name": "GKSTR47 Reverse a Number",
+   "kind": null
+  },
+  {
+   "id": 277631,
+   "slug": "mpc01-odd-multiples-of-3",
+   "name": "MPC01 Odd Multiples of 3",
+   "kind": null
+  },
+  {
+   "id": 277826,
+   "slug": "mpc02-area-of-rhombus",
+   "name": "MPC02 Area Of Rhombus ",
+   "kind": null
+  },
+  {
+   "id": 277836,
+   "slug": "mpc03-factorial-of-n",
+   "name": " Factorial of N",
+   "kind": null
+  },
+  {
+   "id": 277845,
+   "slug": "mpc04-right-pascals-triangle",
+   "name": "MPC04 Right Pascal's Triangle",
+   "kind": null
+  },
+  {
+   "id": 277876,
+   "slug": "mpc05-odd-even-task",
+   "name": "MPC05 Odd-Even Task",
+   "kind": null
+  },
+  {
+   "id": 278075,
+   "slug": "cc01-is-palindrome",
+   "name": "Is Palindrome",
+   "kind": null
+  },
+  {
+   "id": 278076,
+   "slug": "cc02-equilibrium-point",
+   "name": "CC02 Equilibrium Point",
+   "kind": null
+  },
+  {
+   "id": 278095,
+   "slug": "cc03-half-ascending-half-descending",
+   "name": "HW_Half Ascending Half Descending",
+   "kind": null
+  },
+  {
+   "id": 278097,
+   "slug": "cc04-pattern-problem",
+   "name": "Pattern Problem",
+   "kind": null
+  },
+  {
+   "id": 278303,
+   "slug": "gkstr48",
+   "name": "GKSTR48 First_&_Last",
+   "kind": null
+  },
+  {
+   "id": 278312,
+   "slug": "gkstr49-diff-max-min",
+   "name": "GKSTR49 Diff_Max_Min",
+   "kind": null
+  },
+  {
+   "id": 279079,
+   "slug": "cc2-01-maximum-product-of-3-numbers",
+   "name": "HW_Maximum Product of 3 Numbers",
+   "kind": null
+  },
+  {
+   "id": 279089,
+   "slug": "cc2-02-all-zeroes-are-right",
+   "name": "All Zeroes at Right",
+   "kind": null
+  },
+  {
+   "id": 279095,
+   "slug": "cc2-03-power-of-a-string",
+   "name": "Power of a String",
+   "kind": null
+  },
+  {
+   "id": 279097,
+   "slug": "cc2-04-diagonal-sum",
+   "name": "CC2_04 Diagonal Sum",
+   "kind": null
+  },
+  {
+   "id": 279624,
+   "slug": "sum-of-all-elements-of-matrix",
+   "name": "Sum of all Elements of Matrix",
+   "kind": null
+  },
+  {
+   "id": 279626,
+   "slug": "print-reverse-of-2-d-matrix",
+   "name": "Print Reverse of 2-D Matrix",
+   "kind": null
+  },
+  {
+   "id": 279632,
+   "slug": "search-an-element-in-2-d-matrix",
+   "name": "Search an Element in 2-D Matrix",
+   "kind": null
+  },
+  {
+   "id": 279666,
+   "slug": "compare-two-matrices",
+   "name": "Compare Two Matrices",
+   "kind": null
+  },
+  {
+   "id": 279682,
+   "slug": "add-two-matrices-5",
+   "name": "Add Two Matrices ",
+   "kind": null
+  },
+  {
+   "id": 279692,
+   "slug": "create-a-wave-row-wise",
+   "name": "Create a Wave (Row wise)",
+   "kind": null
+  },
+  {
+   "id": 279693,
+   "slug": "create-a-wave-row-wise-1",
+   "name": "Create a Wave (Row-Wise)",
+   "kind": null
+  },
+  {
+   "id": 279695,
+   "slug": "create-a-wave-column-wise",
+   "name": "Create a Wave (Column-Wise)",
+   "kind": null
+  },
+  {
+   "id": 279698,
+   "slug": "transpose-of-matrix-5",
+   "name": "Transpose of Matrix of M*N",
+   "kind": null
+  },
+  {
+   "id": 279909,
+   "slug": "multiplication-of-two-matrices-2",
+   "name": "Multiplication of Two Matrices ",
+   "kind": null
+  },
+  {
+   "id": 279912,
+   "slug": "pascals-triangle-program-in-java",
+   "name": "Pascal\u2019s Triangle Program in Java",
+   "kind": null
+  },
+  {
+   "id": 280014,
+   "slug": "peak-element-5-3",
+   "name": "Peak element 5",
+   "kind": null
+  },
+  {
+   "id": 280093,
+   "slug": "kth-smallest-element-15-2",
+   "name": "HW_Kth Smallest Element ",
+   "kind": null
+  },
+  {
+   "id": 280126,
+   "slug": "cc3-01-is-valid-square",
+   "name": "CC3_01 Is Valid Square",
+   "kind": null
+  },
+  {
+   "id": 280131,
+   "slug": "cc3-02-convert-1-d-array-to-2-d-array",
+   "name": "Convert 1-D Array to 2-D Array",
+   "kind": null
+  },
+  {
+   "id": 280132,
+   "slug": "cc3-03-count-all-palindromic-rows",
+   "name": "HW_Count All Palindromic Rows",
+   "kind": null
+  },
+  {
+   "id": 280136,
+   "slug": "cc3-04-sort-the-complete-matrix",
+   "name": "Sort The Complete Matrix",
+   "kind": null
+  },
+  {
+   "id": 280164,
+   "slug": "apr22dsa01-max-min-fromcontinuous-insertions",
+   "name": "APR22DSA01 Max_Min_fromContinuous_Insertions",
+   "kind": null
+  },
+  {
+   "id": 280165,
+   "slug": "apr22dsa01-find-missing-numbers-range",
+   "name": "APR22DSA01 Find_Missing_Numbers_Range",
+   "kind": null
+  },
+  {
+   "id": 280355,
+   "slug": "min-max-in-an-array-1",
+   "name": "Min-Max in an Array",
+   "kind": null
+  },
+  {
+   "id": 280385,
+   "slug": "find-the-missing-number-9-4",
+   "name": "HW_Find the missing number",
+   "kind": null
+  },
+  {
+   "id": 280463,
+   "slug": "check-anagram-4-2",
+   "name": "HW_Check Anagram ",
+   "kind": null
+  },
+  {
+   "id": 280468,
+   "slug": "substrings-starting-and-ending-with-same-character",
+   "name": "Substrings Starting and Ending with same Character",
+   "kind": null
+  },
+  {
+   "id": 280473,
+   "slug": "sum-of-all-substrings",
+   "name": "Sum of All Substrings",
+   "kind": null
+  },
+  {
+   "id": 280481,
+   "slug": "remove-duplicates-character-from-string",
+   "name": "Remove all Duplicates Character from String",
+   "kind": null
+  },
+  {
+   "id": 280492,
+   "slug": "gkstr-assign00",
+   "name": "Print_Substrings",
+   "kind": null
+  },
+  {
+   "id": 280500,
+   "slug": "gkstr-assign00-count-non-vowel-string",
+   "name": "Count_Non_Vowel_String",
+   "kind": null
+  },
+  {
+   "id": 280506,
+   "slug": "remove-all-duplicates-character-from-unsorted-stirng",
+   "name": "Remove all Duplicates character from Unsorted Stirng ",
+   "kind": null
+  },
+  {
+   "id": 280545,
+   "slug": "reverse-all-words",
+   "name": "Reverse Words in a Given String",
+   "kind": null
+  },
+  {
+   "id": 280554,
+   "slug": "string-is-a-palindrome",
+   "name": "Is String a Palindrome",
+   "kind": null
+  },
+  {
+   "id": 280557,
+   "slug": "length-of-string-is-multiple-of-3",
+   "name": "Is Length of String a Multiple of 3",
+   "kind": null
+  },
+  {
+   "id": 280589,
+   "slug": "locate-the-target-string",
+   "name": "Locate the Target String",
+   "kind": null
+  },
+  {
+   "id": 280600,
+   "slug": "isogramic-string",
+   "name": "Isogramic String",
+   "kind": null
+  },
+  {
+   "id": 280637,
+   "slug": "count-the-spaces",
+   "name": "Count The Spaces",
+   "kind": null
+  },
+  {
+   "id": 280641,
+   "slug": "print-alternate-elements-of-a-string",
+   "name": "Print Alternate Elements of a String",
+   "kind": null
+  },
+  {
+   "id": 280816,
+   "slug": "cc4-02-sum-of-absolute-differences",
+   "name": "Sum of Absolute Differences",
+   "kind": null
+  },
+  {
+   "id": 280822,
+   "slug": "cc4-02-check-pythagoras-triplet",
+   "name": "Square Game",
+   "kind": null
+  },
+  {
+   "id": 280830,
+   "slug": "cc4-03-is-rotation-possible",
+   "name": "HW_Target String",
+   "kind": null
+  },
+  {
+   "id": 280835,
+   "slug": "cc4-04-rotate-the-matrix-by-90-degree",
+   "name": "Rotate The Matrix by 90 Degree",
+   "kind": null
+  },
+  {
+   "id": 280985,
+   "slug": "gekstr-test00-primes-in-a-range",
+   "name": "GEKSTR_TEST00 Primes_In_A_Range",
+   "kind": null
+  },
+  {
+   "id": 281330,
+   "slug": "save-the-puppy",
+   "name": "Save the puppy!",
+   "kind": null
+  },
+  {
+   "id": 281334,
+   "slug": "integer-equivalent-of-string-1",
+   "name": "Integer Equivalent of String 1",
+   "kind": null
+  },
+  {
+   "id": 281343,
+   "slug": "balanced-string-5-2",
+   "name": "Balanced String 5",
+   "kind": null
+  },
+  {
+   "id": 281354,
+   "slug": "string-ascii-value",
+   "name": "String ASCII value",
+   "kind": null
+  },
+  {
+   "id": 281370,
+   "slug": "is-it-a-pangram-1",
+   "name": "Is it a Pangram String? ",
+   "kind": null
+  },
+  {
+   "id": 281393,
+   "slug": "first-non-repeating-char-1",
+   "name": "HW_First Non-Repeating char",
+   "kind": null
+  },
+  {
+   "id": 281436,
+   "slug": "balanced-number-3",
+   "name": "Balanced_Number",
+   "kind": null
+  },
+  {
+   "id": 281439,
+   "slug": "rearrange-string",
+   "name": "Rearrange_string",
+   "kind": null
+  },
+  {
+   "id": 281442,
+   "slug": "pattern-searching-6",
+   "name": "Pattern searching ",
+   "kind": null
+  },
+  {
+   "id": 281445,
+   "slug": "integer-to-roman-9",
+   "name": "Integer_to_Roman",
+   "kind": null
+  },
+  {
+   "id": 281619,
+   "slug": "cc5-01-check-subsequence",
+   "name": "Check Subsequence",
+   "kind": null
+  },
+  {
+   "id": 281620,
+   "slug": "cc5-02-add-one",
+   "name": "Add One",
+   "kind": null
+  },
+  {
+   "id": 281625,
+   "slug": "cc5-03-is-good-string",
+   "name": "Is Good String?",
+   "kind": null
+  },
+  {
+   "id": 281629,
+   "slug": "cc5-04-indices-of-most-frequent-character",
+   "name": "CC5_04 Indices of Most Frequent Character",
+   "kind": null
+  },
+  {
+   "id": 281703,
+   "slug": "positive-prefix",
+   "name": "Positive Prefix Sum Array",
+   "kind": null
+  },
+  {
+   "id": 281810,
+   "slug": "sum-of-all-prime-numbers-between-1-to-n-",
+   "name": "Sum of all prime numbers between 1 to N.",
+   "kind": null
+  },
+  {
+   "id": 281813,
+   "slug": "rearrange-an-array-with-o1-extra-space-",
+   "name": "Rearrange an array with O(1) extra space.",
+   "kind": null
+  },
+  {
+   "id": 281814,
+   "slug": "print-squares-2",
+   "name": "Print squares 2",
+   "kind": null
+  },
+  {
+   "id": 281818,
+   "slug": "replace-all-0s-with-x",
+   "name": "Replace all 0's with x",
+   "kind": null
+  },
+  {
+   "id": 281822,
+   "slug": "find-ncr-",
+   "name": "Find nCr.",
+   "kind": null
+  },
+  {
+   "id": 281826,
+   "slug": "euclidean-distance-2",
+   "name": "Euclidean distance 2",
+   "kind": null
+  },
+  {
+   "id": 281858,
+   "slug": "square-root-of-number",
+   "name": "Square root of number",
+   "kind": null
+  },
+  {
+   "id": 281862,
+   "slug": "search-insert-position-2-1",
+   "name": "Search insert position",
+   "kind": null
+  },
+  {
+   "id": 281865,
+   "slug": "intersection-of-two-arrays-3-1",
+   "name": "Intersection of two arrays",
+   "kind": null
+  },
+  {
+   "id": 281877,
+   "slug": "sum-all-prime-digits",
+   "name": "Sum all Prime Digits",
+   "kind": null
+  },
+  {
+   "id": 281883,
+   "slug": "find-the-numbers-which-contain-the-digit-x",
+   "name": "Find the numbers which contain the digit X",
+   "kind": null
+  },
+  {
+   "id": 281885,
+   "slug": "intersection-of-two-arrays-3-2",
+   "name": "Intersection of two arrays 3",
+   "kind": null
+  },
+  {
+   "id": 282072,
+   "slug": "twisted-prime",
+   "name": "Twisted Prime",
+   "kind": null
+  },
+  {
+   "id": 282075,
+   "slug": "amazing-number-3",
+   "name": "Amazing Number 3",
+   "kind": null
+  },
+  {
+   "id": 282078,
+   "slug": "factorial-sum-of-digits",
+   "name": "Factorial sum of Digits",
+   "kind": null
+  },
+  {
+   "id": 282177,
+   "slug": "arithmetic-number-1",
+   "name": "Arithmetic Number 1",
+   "kind": null
+  },
+  {
+   "id": 282257,
+   "slug": "check-if-the-number-is-balanced-1",
+   "name": "Check if the number is balanced ",
+   "kind": null
+  },
+  {
+   "id": 282264,
+   "slug": "rearrange-a-string-1-1",
+   "name": "Rearrange a string  ",
+   "kind": null
+  },
+  {
+   "id": 282291,
+   "slug": "strong-number-22-1",
+   "name": "Strong Number 22",
+   "kind": null
+  },
+  {
+   "id": 282294,
+   "slug": "k-th-element-of-two-sorted-arrays-1-1",
+   "name": "K-th Element of two Sorted Arrays 1",
+   "kind": null
+  },
+  {
+   "id": 282299,
+   "slug": "repeating-and-missing-element",
+   "name": "HW_Repeating and Missing element",
+   "kind": null
+  },
+  {
+   "id": 282320,
+   "slug": "triplet-sum-in-array-3",
+   "name": "Triplet Sum in Array 3",
+   "kind": null
+  },
+  {
+   "id": 282523,
+   "slug": "facing-the-sun-1-3",
+   "name": "HW_Facing the sun  ",
+   "kind": null
+  },
+  {
+   "id": 282555,
+   "slug": "search-an-element-in-array-using-binary-search",
+   "name": "Search an element in array using Binary Search",
+   "kind": null
+  },
+  {
+   "id": 282576,
+   "slug": "check-for-10",
+   "name": "Check for 10",
+   "kind": null
+  },
+  {
+   "id": 282578,
+   "slug": "monkey-trouble-3",
+   "name": "Monkey Trouble 3",
+   "kind": null
+  },
+  {
+   "id": 282583,
+   "slug": "find-the-ascii-value",
+   "name": "Find the ASCII Value ",
+   "kind": null
+  },
+  {
+   "id": 282588,
+   "slug": "swap-the-numbers-without-using-a-third-variable",
+   "name": "Swap the Numbers Without using a Third variable",
+   "kind": null
+  },
+  {
+   "id": 282601,
+   "slug": "find-pair-given-difference-1",
+   "name": "Find Pair Given Difference  ",
+   "kind": null
+  },
+  {
+   "id": 282675,
+   "slug": "character-is-vowel-or-consonant-1",
+   "name": "Character is Vowel or Consonant 1",
+   "kind": null
+  },
+  {
+   "id": 282678,
+   "slug": "character-is-alphabet-or-not-1",
+   "name": "Character is Alphabet or Not 1",
+   "kind": null
+  },
+  {
+   "id": 282724,
+   "slug": "find-the-highest-number-1",
+   "name": "Find the Highest number  ",
+   "kind": null
+  },
+  {
+   "id": 282764,
+   "slug": "or-1",
+   "name": "Pos/Neg",
+   "kind": null
+  },
+  {
+   "id": 282769,
+   "slug": "largest-of-3-2",
+   "name": "Largest of 3!",
+   "kind": null
+  },
+  {
+   "id": 282773,
+   "slug": "multiplication-table-36",
+   "name": "Multiplication Table 36",
+   "kind": null
+  },
+  {
+   "id": 282800,
+   "slug": "integer-to-roman-9-1",
+   "name": "Integer to Roman ",
+   "kind": null
+  },
+  {
+   "id": 283197,
+   "slug": "collect-the-armstrongs",
+   "name": "Collect the Armstrongs!",
+   "kind": null
+  },
+  {
+   "id": 283203,
+   "slug": "average-it",
+   "name": "Average it!",
+   "kind": null
+  },
+  {
+   "id": 283226,
+   "slug": "program-to-find-prime-numbers-between-given-interval",
+   "name": "Program to find Prime Numbers Between given Interval",
+   "kind": null
+  },
+  {
+   "id": 283227,
+   "slug": "program-to-make-a-simple-calculator",
+   "name": "program to make a simple calculator",
+   "kind": null
+  },
+  {
+   "id": 283228,
+   "slug": "program-to-print-alphabet-a-using-stars",
+   "name": "Program to print alphabet \u201cA\u201d using stars",
+   "kind": null
+  },
+  {
+   "id": 283252,
+   "slug": "prime-number-in-interval",
+   "name": "Prime Number in Interval",
+   "kind": null
+  },
+  {
+   "id": 283254,
+   "slug": "find-gcd-of-two-number",
+   "name": "Find GCD of two number",
+   "kind": null
+  },
+  {
+   "id": 283256,
+   "slug": "lcm-of-two-numbers-8-1",
+   "name": "LCM of two numbers 8",
+   "kind": null
+  },
+  {
+   "id": 283260,
+   "slug": "power-of-two-number",
+   "name": "Power of two number",
+   "kind": null
+  },
+  {
+   "id": 283361,
+   "slug": "capitalize-first-letter-of-the-string",
+   "name": "Capitalize First Letter Of The String",
+   "kind": null
+  },
+  {
+   "id": 283363,
+   "slug": "permutations-of-string-4",
+   "name": "Permutations Of String 4",
+   "kind": null
+  },
+  {
+   "id": 283366,
+   "slug": "remove-all-whitespace",
+   "name": "Remove All Whitespace ",
+   "kind": null
+  },
+  {
+   "id": 283370,
+   "slug": "max-10-20",
+   "name": "Max-10-20",
+   "kind": null
+  },
+  {
+   "id": 283373,
+   "slug": "check-for-ly",
+   "name": "Check for ly",
+   "kind": null
+  },
+  {
+   "id": 283427,
+   "slug": "front-or-back",
+   "name": "Front or Back",
+   "kind": null
+  },
+  {
+   "id": 283432,
+   "slug": "calculate-standard-deviation",
+   "name": "Calculate Standard Deviation",
+   "kind": null
+  },
+  {
+   "id": 283462,
+   "slug": "print-factors-of-number",
+   "name": "Print Factors of number",
+   "kind": null
+  },
+  {
+   "id": 283467,
+   "slug": "half-it",
+   "name": "Half it!",
+   "kind": null
+  },
+  {
+   "id": 283648,
+   "slug": "display-armstrong-numbers-between-intervals-using-function",
+   "name": "Display Armstrong Numbers Between Intervals Using Function",
+   "kind": null
+  },
+  {
+   "id": 283821,
+   "slug": "multiply-two-matrices-3",
+   "name": "Multiply Two Matrices ",
+   "kind": null
+  },
+  {
+   "id": 283837,
+   "slug": "remove-first-and-last-characters",
+   "name": "Remove first and last characters",
+   "kind": null
+  },
+  {
+   "id": 283838,
+   "slug": "string-concatenate-2",
+   "name": "string concatenate 2",
+   "kind": null
+  },
+  {
+   "id": 283996,
+   "slug": "the-cheaper-cab-1",
+   "name": "The Cheaper Cab 1",
+   "kind": null
+  },
+  {
+   "id": 284004,
+   "slug": "mahasena-4-1",
+   "name": "Mahasena ",
+   "kind": null
+  },
+  {
+   "id": 284006,
+   "slug": "discus-throw",
+   "name": "Discus Throw",
+   "kind": null
+  },
+  {
+   "id": 284007,
+   "slug": "string-print-2",
+   "name": "HW_String Print ",
+   "kind": null
+  },
+  {
+   "id": 284089,
+   "slug": "volume-control",
+   "name": "Volume Control",
+   "kind": null
+  },
+  {
+   "id": 284096,
+   "slug": "atm-27-1",
+   "name": "ATM 27",
+   "kind": null
+  },
+  {
+   "id": 284106,
+   "slug": "find-pivot-index-1",
+   "name": "Find Pivot Index ",
+   "kind": null
+  },
+  {
+   "id": 284109,
+   "slug": "find-the-length-of-the-string-refrigerator-",
+   "name": "find the length of the string \"refrigerator\".",
+   "kind": null
+  },
+  {
+   "id": 284110,
+   "slug": "check-if-the-letter-e-is-present-in-the-word-umbrella-",
+   "name": "check if the letter 'e' is present in the word 'Umbrella'.",
+   "kind": null
+  },
+  {
+   "id": 284263,
+   "slug": "xor-operation-in-an-array-1",
+   "name": "XOR Operation in an Array ",
+   "kind": null
+  },
+  {
+   "id": 284267,
+   "slug": "credit-score-3",
+   "name": "Credit score 3",
+   "kind": null
+  },
+  {
+   "id": 284271,
+   "slug": "count-equal-and-divisible-pairs-in-an-array",
+   "name": "Count Equal and Divisible Pairs in an Array",
+   "kind": null
+  },
+  {
+   "id": 284274,
+   "slug": "battery-low-1",
+   "name": "Battery Low 1",
+   "kind": null
+  },
+  {
+   "id": 284290,
+   "slug": "maximum-product-of-two-elements-in-an-array",
+   "name": "Maximum Product of Two Elements in an Array",
+   "kind": null
+  },
+  {
+   "id": 284336,
+   "slug": "calculate-area-using-classes-and-objects",
+   "name": "Calculate Area Using Classes and Objects",
+   "kind": null
+  },
+  {
+   "id": 284360,
+   "slug": "minimum-operations-to-make-the-array-increasing",
+   "name": "Minimum Operations to Make the Array Increasing",
+   "kind": null
+  },
+  {
+   "id": 284421,
+   "slug": "find-greatest-common-divisor-of-array",
+   "name": "Find Greatest Common Divisor of Array",
+   "kind": null
+  },
+  {
+   "id": 284423,
+   "slug": "divide-array-into-equal-pairs",
+   "name": "Divide Array Into Equal Pairs",
+   "kind": null
+  },
+  {
+   "id": 284531,
+   "slug": "find-pivot-index-1-1",
+   "name": "Find Pivot Index 1",
+   "kind": null
+  },
+  {
+   "id": 284532,
+   "slug": "find-the-highest-altitude-1",
+   "name": "Find the Highest Altitude 1",
+   "kind": null
+  },
+  {
+   "id": 284534,
+   "slug": "concatenation-of-array-1",
+   "name": "Concatenation of Array 1",
+   "kind": null
+  },
+  {
+   "id": 284541,
+   "slug": "running-sum-of-1d-array-1",
+   "name": "Running Sum of 1d Array 1",
+   "kind": null
+  },
+  {
+   "id": 284543,
+   "slug": "build-array-from-permutation-2",
+   "name": " Build Array from Permutation",
+   "kind": null
+  },
+  {
+   "id": 284545,
+   "slug": "check-the-word-in-the-string",
+   "name": "Check the word in the string",
+   "kind": null
+  },
+  {
+   "id": 284561,
+   "slug": "find-target-indices-after-sorting-array",
+   "name": "hw_Find Target Indices After Sorting Array",
+   "kind": null
+  },
+  {
+   "id": 284563,
+   "slug": "array-partition-i",
+   "name": "Array Partition I",
+   "kind": null
+  },
+  {
+   "id": 284567,
+   "slug": "sort-array-by-parity-2-1",
+   "name": "Sort Array By Parity ",
+   "kind": null
+  },
+  {
+   "id": 284639,
+   "slug": "sort-array-by-parity-ii",
+   "name": "HW_Sort Array By Parity II",
+   "kind": null
+  },
+  {
+   "id": 284640,
+   "slug": "sort-array-by-increasing-frequency",
+   "name": "Sort Array by Increasing Frequency",
+   "kind": null
+  },
+  {
+   "id": 284641,
+   "slug": "relative-sort-array-2",
+   "name": "Relative Sort Array ",
+   "kind": null
+  },
+  {
+   "id": 284646,
+   "slug": "intersection-of-multiple-arrays",
+   "name": "Intersection of Multiple Arrays",
+   "kind": null
+  },
+  {
+   "id": 284657,
+   "slug": "n-repeated-element-in-size-2n-array-1",
+   "name": "N-Repeated Element in Size 2N Array 1",
+   "kind": null
+  },
+  {
+   "id": 284672,
+   "slug": "make-two-arrays-equal-by-reversing-sub-arrays",
+   "name": " Make Two Arrays Equal by Reversing Sub-arrays",
+   "kind": null
+  },
+  {
+   "id": 284673,
+   "slug": "squares-of-a-sorted-array-2",
+   "name": "Squares of a Sorted Array 2",
+   "kind": null
+  },
+  {
+   "id": 284674,
+   "slug": "peak-index-in-a-mountain-array-2",
+   "name": "Peak Index in a Mountain Array 2",
+   "kind": null
+  },
+  {
+   "id": 284675,
+   "slug": "intersection-of-two-arrays-4",
+   "name": "Intersection of Two Arrays 4",
+   "kind": null
+  },
+  {
+   "id": 284677,
+   "slug": "sign-of-the-product-of-an-array",
+   "name": "Sign of the Product of an Array",
+   "kind": null
+  },
+  {
+   "id": 284678,
+   "slug": "check-if-two-string-arrays-are-equivalent-1",
+   "name": "Check If Two String Arrays are Equivalent 1",
+   "kind": null
+  },
+  {
+   "id": 284679,
+   "slug": "find-first-palindromic-string-in-the-array",
+   "name": "HW_Find First Palindromic String in the Array",
+   "kind": null
+  },
+  {
+   "id": 284716,
+   "slug": "pair-difference-2",
+   "name": "Pair-Difference",
+   "kind": null
+  },
+  {
+   "id": 284717,
+   "slug": "two-arrays-8",
+   "name": "Two-Arrays",
+   "kind": null
+  },
+  {
+   "id": 284793,
+   "slug": "kth-distinct-string-in-an-array",
+   "name": "Kth Distinct String in an Array",
+   "kind": null
+  },
+  {
+   "id": 284815,
+   "slug": "find-the-difference-of-two-arrays",
+   "name": "Find the Difference of Two Arrays",
+   "kind": null
+  },
+  {
+   "id": 284820,
+   "slug": "sum-and-difference-of-x-and-y",
+   "name": "Sum and Difference of x and y",
+   "kind": null
+  },
+  {
+   "id": 284821,
+   "slug": "two-numbers-6",
+   "name": "Two-Numbers",
+   "kind": null
+  },
+  {
+   "id": 284840,
+   "slug": "two-strings-9",
+   "name": "Two-Strings",
+   "kind": null
+  },
+  {
+   "id": 284878,
+   "slug": "area-and-perimeter-5",
+   "name": "Area and Perimeter 5",
+   "kind": null
+  },
+  {
+   "id": 284882,
+   "slug": "fahrenheit-and-celsius",
+   "name": "Fahrenheit and Celsius",
+   "kind": null
+  },
+  {
+   "id": 284886,
+   "slug": "add-last-digits",
+   "name": "Add Last Digits",
+   "kind": null
+  },
+  {
+   "id": 284900,
+   "slug": "greater-than-100-or-not",
+   "name": "Greater than 100 or not",
+   "kind": null
+  },
+  {
+   "id": 284901,
+   "slug": "sum-is-less-than-150-or-not-",
+   "name": "Sum is less than 150 or not.",
+   "kind": null
+  },
+  {
+   "id": 284904,
+   "slug": "xyzw",
+   "name": "xyzw",
+   "kind": null
+  },
+  {
+   "id": 284905,
+   "slug": "even-or-not-1-1",
+   "name": "Even or not",
+   "kind": null
+  },
+  {
+   "id": 284911,
+   "slug": "area-of-a-circle-6-2",
+   "name": "HW_Area of a circle 6",
+   "kind": null
+  },
+  {
+   "id": 284914,
+   "slug": "area-of-triangle-13-2",
+   "name": "HW_Area of triangle 13",
+   "kind": null
+  },
+  {
+   "id": 284917,
+   "slug": "greater-than-1000-or-not-",
+   "name": "HW_Greater than 1000 or not.",
+   "kind": null
+  },
+  {
+   "id": 284918,
+   "slug": "marks-of-a-student-in-5-subjects",
+   "name": "HW_Marks of a student in 5 subjects ",
+   "kind": null
+  },
+  {
+   "id": 284920,
+   "slug": "abcd-88",
+   "name": "HW_abcd 88",
+   "kind": null
+  },
+  {
+   "id": 284922,
+   "slug": "divisible-by-7-or-not",
+   "name": "Divisible by 7 or not",
+   "kind": null
+  },
+  {
+   "id": 284966,
+   "slug": "asteroid-collision",
+   "name": "Asteroid Collision",
+   "kind": null
+  },
+  {
+   "id": 284968,
+   "slug": "next-greater-element-17",
+   "name": "Next Greater Element 17",
+   "kind": null
+  },
+  {
+   "id": 284969,
+   "slug": "create-target-array-in-the-given-order",
+   "name": "Create Target Array in the Given Order",
+   "kind": null
+  },
+  {
+   "id": 285141,
+   "slug": "miami-gp",
+   "name": "Miami GP",
+   "kind": null
+  },
+  {
+   "id": 285145,
+   "slug": "adult-or-not-1",
+   "name": "Adult or not 1",
+   "kind": null
+  },
+  {
+   "id": 285147,
+   "slug": "high-sum-or-low-sum",
+   "name": "High Sum or Low Sum ",
+   "kind": null
+  },
+  {
+   "id": 285148,
+   "slug": "grade-the-student-1-1",
+   "name": "Grade the student 1",
+   "kind": null
+  },
+  {
+   "id": 285150,
+   "slug": "shop-discount",
+   "name": "Shop Discount",
+   "kind": null
+  },
+  {
+   "id": 285152,
+   "slug": "print-bonus",
+   "name": "Print Bonus",
+   "kind": null
+  },
+  {
+   "id": 285153,
+   "slug": "tax-or-not",
+   "name": "hw_Tax or not",
+   "kind": null
+  },
+  {
+   "id": 285157,
+   "slug": "grace-marks-1",
+   "name": "HW_Grace Marks 1",
+   "kind": null
+  },
+  {
+   "id": 285158,
+   "slug": "print-age-bracket",
+   "name": "HW_Print age bracket",
+   "kind": null
+  },
+  {
+   "id": 285160,
+   "slug": "print-final-salary-given-age",
+   "name": "HW_Print final salary given age",
+   "kind": null
+  },
+  {
+   "id": 285234,
+   "slug": "print-the-oldest-among-three",
+   "name": "Print the oldest among three",
+   "kind": null
+  },
+  {
+   "id": 285236,
+   "slug": "rich-adult-young",
+   "name": "Rich Adult Young",
+   "kind": null
+  },
+  {
+   "id": 285247,
+   "slug": "print-final-z",
+   "name": "Print final z",
+   "kind": null
+  },
+  {
+   "id": 285249,
+   "slug": "even-odd-1000",
+   "name": "HW_Even Odd 1000",
+   "kind": null
+  },
+  {
+   "id": 285250,
+   "slug": "print-z-and-x-divisible-by-3",
+   "name": "Print z and x divisible by 3",
+   "kind": null
+  },
+  {
+   "id": 285257,
+   "slug": "tell-about-x-y",
+   "name": "Tell about x y",
+   "kind": null
+  },
+  {
+   "id": 285262,
+   "slug": "print-the-final-incremented-salary",
+   "name": "Print the final incremented salary",
+   "kind": null
+  },
+  {
+   "id": 285303,
+   "slug": "top-management-or-not",
+   "name": "HW_Top Management or not",
+   "kind": null
+  },
+  {
+   "id": 285305,
+   "slug": "print-final-z-given-xyz",
+   "name": "Print final z given xyz",
+   "kind": null
+  },
+  {
+   "id": 285306,
+   "slug": "print-above-given-ab",
+   "name": "HW_print above given ab",
+   "kind": null
+  },
+  {
+   "id": 285325,
+   "slug": "marks-and-rank",
+   "name": "HW_Marks and Rank",
+   "kind": null
+  },
+  {
+   "id": 285330,
+   "slug": "height-weight-and-age",
+   "name": "HW_Height, weight and age",
+   "kind": null
+  },
+  {
+   "id": 285333,
+   "slug": "male-or-female-1",
+   "name": "Male or Female",
+   "kind": null
+  },
+  {
+   "id": 285340,
+   "slug": "jump-three-character-to-right-",
+   "name": "Jump three character to right.",
+   "kind": null
+  },
+  {
+   "id": 285342,
+   "slug": "small-capital-or-digit",
+   "name": "Small Capital or Digit",
+   "kind": null
+  },
+  {
+   "id": 285346,
+   "slug": "add-if-a-digit",
+   "name": "Add if a digit",
+   "kind": null
+  },
+  {
+   "id": 285349,
+   "slug": "toggle-the-character",
+   "name": "Toggle the character",
+   "kind": null
+  },
+  {
+   "id": 285352,
+   "slug": "print-character-at-3rd-index",
+   "name": "Print character at 3rd index",
+   "kind": null
+  },
+  {
+   "id": 285356,
+   "slug": "concatenate-3-strings",
+   "name": "HW_Concatenate 3 strings",
+   "kind": null
+  },
+  {
+   "id": 285470,
+   "slug": "basic-calculator-9-1",
+   "name": "HW_Basic Calculator 9",
+   "kind": null
+  },
+  {
+   "id": 285475,
+   "slug": "print-two-digit-number",
+   "name": "Hw_Print two-digit number",
+   "kind": null
+  },
+  {
+   "id": 285477,
+   "slug": "toggle-and-2-jumps-left",
+   "name": "HW_Toggle and 2 jumps left",
+   "kind": null
+  },
+  {
+   "id": 285550,
+   "slug": "print-table-of-4",
+   "name": "Print table of 4",
+   "kind": null
+  },
+  {
+   "id": 285600,
+   "slug": "running-sum-for-loop",
+   "name": "Running Sum for loop",
+   "kind": null
+  },
+  {
+   "id": 285623,
+   "slug": "print-0-to-n",
+   "name": "Print 0 to n",
+   "kind": null
+  },
+  {
+   "id": 285627,
+   "slug": "print-x-to-n",
+   "name": "Print x to n",
+   "kind": null
+  },
+  {
+   "id": 285631,
+   "slug": "print-2916-",
+   "name": "Print 2,9,16...",
+   "kind": null
+  },
+  {
+   "id": 285633,
+   "slug": "print-3-7-11-15-",
+   "name": "Print 3 7 11 15...",
+   "kind": null
+  },
+  {
+   "id": 285635,
+   "slug": "print-n-to-1-2",
+   "name": "Print n to 1 ",
+   "kind": null
+  },
+  {
+   "id": 285636,
+   "slug": "print-n-to-0",
+   "name": "Print n to 0",
+   "kind": null
+  },
+  {
+   "id": 285637,
+   "slug": "reverse-5-table",
+   "name": "Reverse 5 table",
+   "kind": null
+  },
+  {
+   "id": 285640,
+   "slug": "print-n-to-x",
+   "name": "Print n to x",
+   "kind": null
+  },
+  {
+   "id": 285644,
+   "slug": "print-odd-from-n-to-1",
+   "name": "print odd from n to 1",
+   "kind": null
+  },
+  {
+   "id": 285651,
+   "slug": "max-vowels",
+   "name": "Max-Vowels",
+   "kind": null
+  },
+  {
+   "id": 285685,
+   "slug": "binary-num-1",
+   "name": "Binary-Num 1",
+   "kind": null
+  },
+  {
+   "id": 285749,
+   "slug": "print-n-n-3-n-6-",
+   "name": "Print n, n-3, n-6 .....",
+   "kind": null
+  },
+  {
+   "id": 285755,
+   "slug": "print-n-n-k-n-2k-n-3k-",
+   "name": "Print n, n-k, n-2k, n-3k .....",
+   "kind": null
+  },
+  {
+   "id": 285762,
+   "slug": "print-n-n-k-n-2k-n-3k-till-l",
+   "name": "Print n, n-k, n-2k, n-3k.... till l",
+   "kind": null
+  },
+  {
+   "id": 285765,
+   "slug": "print-a-to-z",
+   "name": "print a to z",
+   "kind": null
+  },
+  {
+   "id": 285766,
+   "slug": "print-a-b-c-d-e-f-g-26-characters",
+   "name": "Print a, B, c, D, e, F, g...... 26 characters",
+   "kind": null
+  },
+  {
+   "id": 285768,
+   "slug": "print-a-c-e-till-the-characters-are-less-than-z",
+   "name": "Print a, c, e... till the characters are less than z",
+   "kind": null
+  },
+  {
+   "id": 285769,
+   "slug": "print-z-y-x-till-26-characters",
+   "name": "Print z, y, x.... till 26 characters",
+   "kind": null
+  },
+  {
+   "id": 285770,
+   "slug": "print-even-or-odd-from-a-list-of-integers",
+   "name": "Print \"even\" or \"odd\" from a list of integers",
+   "kind": null
+  },
+  {
+   "id": 285775,
+   "slug": "reverse-the-string-and-print-it",
+   "name": "Reverse The String ",
+   "kind": null
+  },
+  {
+   "id": 285777,
+   "slug": "nth-power-of-2",
+   "name": "nth power of 2",
+   "kind": null
+  },
+  {
+   "id": 285779,
+   "slug": "print-powers-of-2-less-than-n",
+   "name": "Print powers of 2 less than n",
+   "kind": null
+  },
+  {
+   "id": 285780,
+   "slug": "print-n3",
+   "name": "Print n/3",
+   "kind": null
+  },
+  {
+   "id": 285811,
+   "slug": "count-num",
+   "name": "Count-Num",
+   "kind": null
+  },
+  {
+   "id": 286086,
+   "slug": "print-a-c-e-g-i-k-m-o-q-s",
+   "name": "Print a, C, e, G, i, K... till 'z' or 'Z'",
+   "kind": null
+  },
+  {
+   "id": 286090,
+   "slug": "steps-till-n-greater-than-0",
+   "name": "Steps till n greater than 0",
+   "kind": null
+  },
+  {
+   "id": 286183,
+   "slug": "nth-power-of-10",
+   "name": "nth power of 10 using while loop",
+   "kind": null
+  },
+  {
+   "id": 286185,
+   "slug": "print-nth-tribonacci-number",
+   "name": "Print nth Tribonacci number",
+   "kind": null
+  },
+  {
+   "id": 286187,
+   "slug": "print-all-digits-from-end",
+   "name": "Print all digits from end",
+   "kind": null
+  },
+  {
+   "id": 286190,
+   "slug": "print-total-steps-when-n2",
+   "name": "Print total steps when n/2",
+   "kind": null
+  },
+  {
+   "id": 286199,
+   "slug": "print-steps-and-update-maximum",
+   "name": "Print steps and update maximum",
+   "kind": null
+  },
+  {
+   "id": 286204,
+   "slug": "print-prime-or-not-prime",
+   "name": "HW_Print \"prime\" or \"not prime\"",
+   "kind": null
+  },
+  {
+   "id": 286366,
+   "slug": "print-numbers-6-2",
+   "name": "HW_Print numbers 20 to n",
+   "kind": null
+  },
+  {
+   "id": 286371,
+   "slug": "print-multiples-of-9",
+   "name": "HW_Print first N multiples of 9",
+   "kind": null
+  },
+  {
+   "id": 286413,
+   "slug": "print-multiples-of-11-",
+   "name": "HW_Print first n multiples of 11.",
+   "kind": null
+  },
+  {
+   "id": 286414,
+   "slug": "print-series-4",
+   "name": "HW_Print Series 3, 11, 19...",
+   "kind": null
+  },
+  {
+   "id": 286417,
+   "slug": "print-series-5",
+   "name": "HW_Print series 13, 18, 23, 28...",
+   "kind": null
+  },
+  {
+   "id": 286443,
+   "slug": "matches-in-tournament",
+   "name": "Matches in Tournament",
+   "kind": null
+  },
+  {
+   "id": 286450,
+   "slug": "pattern-1-print-stars-in-same-line",
+   "name": "Pattern 1 - Print Stars in same line",
+   "kind": null
+  },
+  {
+   "id": 286451,
+   "slug": "min-moves-1",
+   "name": "Min Moves 1",
+   "kind": null
+  },
+  {
+   "id": 286465,
+   "slug": "pattern-2-print-n-x-12-star-rectangle",
+   "name": "Pattern 2 - Print n x 12 star rectangle",
+   "kind": null
+  },
+  {
+   "id": 286467,
+   "slug": "pattern-3-nxn-star-rectangle",
+   "name": "Pattern 3 - nxn star rectangle",
+   "kind": null
+  },
+  {
+   "id": 286473,
+   "slug": "pattern-6-right-triangle-of-5-multiples",
+   "name": "Pattern 6 - Right triangle of 5 multiples",
+   "kind": null
+  },
+  {
+   "id": 286487,
+   "slug": "pattern-7-print-a-hollow-m-by-n-star-rectangle-",
+   "name": "Pattern 7 - Print a hollow m by n star rectangle.",
+   "kind": null
+  },
+  {
+   "id": 286490,
+   "slug": "difference-in-string",
+   "name": "Difference in String",
+   "kind": null
+  },
+  {
+   "id": 286491,
+   "slug": "pattern-8-print-a-hollow-square-without-top",
+   "name": "Pattern 8 - Print a hollow square without top",
+   "kind": null
+  },
+  {
+   "id": 286496,
+   "slug": "pattern-9-ladder-with-top-and-bottom",
+   "name": "Pattern 9 - Square Ladder with top and bottom",
+   "kind": null
+  },
+  {
+   "id": 286497,
+   "slug": "max-subarray-2-1",
+   "name": "Max Subarray 2",
+   "kind": null
+  },
+  {
+   "id": 286579,
+   "slug": "print-reverse-5",
+   "name": "HW_Print n to 5",
+   "kind": null
+  },
+  {
+   "id": 286582,
+   "slug": "print-multiples-of-8",
+   "name": "HW_Print multiples of 8 from n to 1",
+   "kind": null
+  },
+  {
+   "id": 286583,
+   "slug": "find-sum-using-a-function",
+   "name": "Find sum using a function",
+   "kind": null
+  },
+  {
+   "id": 286585,
+   "slug": "find-product-of-the-two-numbers-using-function",
+   "name": "Find product of the two numbers using function.",
+   "kind": null
+  },
+  {
+   "id": 286590,
+   "slug": "area-and-perimeter-as-double-using-function",
+   "name": "Area and perimeter as double using function",
+   "kind": null
+  },
+  {
+   "id": 286596,
+   "slug": "check-if-an-armstrong-number-or-not-",
+   "name": "Write a function to check if an Armstrong number or not",
+   "kind": null
+  },
+  {
+   "id": 286686,
+   "slug": "find-gcd-3-4",
+   "name": "Find GCD 3",
+   "kind": null
+  },
+  {
+   "id": 286687,
+   "slug": "swap-x-and-y",
+   "name": "Swap x and y",
+   "kind": null
+  },
+  {
+   "id": 286719,
+   "slug": "swap-x-y-z",
+   "name": "Swap x y z",
+   "kind": null
+  },
+  {
+   "id": 286727,
+   "slug": "given-x-and-y-print-xy",
+   "name": "Given x and y, print xy",
+   "kind": null
+  },
+  {
+   "id": 286732,
+   "slug": "print-digit-by-digit-of-a-three-digit-number",
+   "name": "Print digit by digit of a three digit number",
+   "kind": null
+  },
+  {
+   "id": 286733,
+   "slug": "reverse-a-3-digit-number",
+   "name": "Reverse a 3 digit number",
+   "kind": null
+  },
+  {
+   "id": 286734,
+   "slug": "print-count-of-digits-and-digits-line-by-line-",
+   "name": "HW_Print count of digits and digits line by line.",
+   "kind": null
+  },
+  {
+   "id": 286787,
+   "slug": "print-series-6",
+   "name": "HW_Print series n, n-6, n-12... till greater than 0",
+   "kind": null
+  },
+  {
+   "id": 286797,
+   "slug": "print-series-7",
+   "name": "HW_Print series n, n-3k, n-6k, n-12k...",
+   "kind": null
+  },
+  {
+   "id": 286876,
+   "slug": "print-the-final-number-xyzw-",
+   "name": "Print the final number xyzw...",
+   "kind": null
+  },
+  {
+   "id": 286879,
+   "slug": "reverse-n-digit-number",
+   "name": "Reverse n-digit number",
+   "kind": null
+  },
+  {
+   "id": 286881,
+   "slug": "print-armstrong-in-a-range",
+   "name": "HW_Print Armstrong in a range",
+   "kind": null
+  },
+  {
+   "id": 286884,
+   "slug": "rotate-7-digit-number-to-right-by-three",
+   "name": "Rotate 7-digit number to right by three",
+   "kind": null
+  },
+  {
+   "id": 286885,
+   "slug": "print-complete-array",
+   "name": "Print complete array",
+   "kind": null
+  },
+  {
+   "id": 286913,
+   "slug": "print-alphabets-1-1",
+   "name": "Print Alphabets 1",
+   "kind": null
+  },
+  {
+   "id": 286914,
+   "slug": "print-vowel-1",
+   "name": "HW_Print Vowels in the string",
+   "kind": null
+  },
+  {
+   "id": 286954,
+   "slug": "print-all-factors-of-a-number",
+   "name": "Print all factors of a number",
+   "kind": null
+  },
+  {
+   "id": 286958,
+   "slug": "divide-n-by-2-3-5-and-tell-steps",
+   "name": "Divide n by 2 3 5 and tell steps",
+   "kind": null
+  },
+  {
+   "id": 286959,
+   "slug": "print-all-unique-prime-factors",
+   "name": "Print all unique prime factors",
+   "kind": null
+  },
+  {
+   "id": 287127,
+   "slug": "print-power-of-17",
+   "name": "HW_Print power of 17 from 1 to n",
+   "kind": null
+  },
+  {
+   "id": 287130,
+   "slug": "print-numbers-7",
+   "name": "HW_Print numbers 1-n in separate lines.",
+   "kind": null
+  },
+  {
+   "id": 287132,
+   "slug": "running-sum-and-average",
+   "name": "HW_Running sum and average",
+   "kind": null
+  },
+  {
+   "id": 287139,
+   "slug": "reverse-vowels-of-a-string",
+   "name": "Reverse Vowels of a String",
+   "kind": null
+  },
+  {
+   "id": 287146,
+   "slug": "print-alphabets-2",
+   "name": "HW_Print Alphabets A-Z",
+   "kind": null
+  },
+  {
+   "id": 287148,
+   "slug": "print-a-z",
+   "name": "Print a-z",
+   "kind": null
+  },
+  {
+   "id": 287149,
+   "slug": "fizzbuzz-problems",
+   "name": "HW_FizzBuzz problems",
+   "kind": null
+  },
+  {
+   "id": 287150,
+   "slug": "print-the-alphabet-series",
+   "name": "HW_Print series AAA,bb,CCC,dd,EEE,ff till 26 lines",
+   "kind": null
+  },
+  {
+   "id": 287151,
+   "slug": "print-the-series-of-character",
+   "name": "HW_Print Z,z,X,x,V,v till A,a. using loop.",
+   "kind": null
+  },
+  {
+   "id": 287153,
+   "slug": "print-fibonacci-series-2",
+   "name": "HW_Print fibonacci series 2",
+   "kind": null
+  },
+  {
+   "id": 287163,
+   "slug": "odd-love-3",
+   "name": "Odd Love 3",
+   "kind": null
+  },
+  {
+   "id": 287166,
+   "slug": "print-the-series-3",
+   "name": "HW_Print n, n-5, n-10 till greater than 0",
+   "kind": null
+  },
+  {
+   "id": 287168,
+   "slug": "print-reverse-alphabet",
+   "name": "Print Reverse Alphabet",
+   "kind": null
+  },
+  {
+   "id": 287169,
+   "slug": "print-z-y-x-w-v-",
+   "name": "Print z, Y, x, W, v,...",
+   "kind": null
+  },
+  {
+   "id": 287172,
+   "slug": "print-n-n-3k-n-6k-n-12k-",
+   "name": "HW_Print n, n-3k, n-6k, n-12k,... till m.",
+   "kind": null
+  },
+  {
+   "id": 287276,
+   "slug": "print-z-w-t-q-",
+   "name": "Print z, w, t, q...",
+   "kind": null
+  },
+  {
+   "id": 287278,
+   "slug": "number-checker-1-1",
+   "name": "Number Checker 1",
+   "kind": null
+  },
+  {
+   "id": 287282,
+   "slug": "print-the-array-3",
+   "name": "Print the array elements linewise",
+   "kind": null
+  },
+  {
+   "id": 287398,
+   "slug": "good-string-9",
+   "name": "Good String 9",
+   "kind": null
+  },
+  {
+   "id": 287404,
+   "slug": "highest-altitude-1",
+   "name": "Highest Altitude 1",
+   "kind": null
+  },
+  {
+   "id": 287415,
+   "slug": "alternate-print",
+   "name": "Print Alternate Array Elements Linewise",
+   "kind": null
+  },
+  {
+   "id": 287417,
+   "slug": "reverse-print-2",
+   "name": "Print Array Elements Reverse linewise",
+   "kind": null
+  },
+  {
+   "id": 287418,
+   "slug": "odd-love-4",
+   "name": "HW_Print Odd Elements of Array inline",
+   "kind": null
+  },
+  {
+   "id": 287419,
+   "slug": "is-multiple-of-3",
+   "name": "Print Array element if index divisible by 3",
+   "kind": null
+  },
+  {
+   "id": 287420,
+   "slug": "odd-indexes",
+   "name": "HW_Print indexes where array elements are odd",
+   "kind": null
+  },
+  {
+   "id": 287631,
+   "slug": "array-basic-i",
+   "name": "HW_Print Elements of Array",
+   "kind": null
+  },
+  {
+   "id": 287632,
+   "slug": "array-basic-ii",
+   "name": "HW_Print Alternate array elements from 1st index",
+   "kind": null
+  },
+  {
+   "id": 287634,
+   "slug": "array-basic-iii",
+   "name": "HW_Print Alternate array elements in reverse inline",
+   "kind": null
+  },
+  {
+   "id": 287635,
+   "slug": "array-basic-iv",
+   "name": "HW_Print Even Array Elements inline",
+   "kind": null
+  },
+  {
+   "id": 287637,
+   "slug": "array-basic-v",
+   "name": "HW_Print Array Elements where index is not divisible by 4 inline",
+   "kind": null
+  },
+  {
+   "id": 287638,
+   "slug": "array-basic-vi",
+   "name": "HW_Print indexes where array elements are even",
+   "kind": null
+  },
+  {
+   "id": 287640,
+   "slug": "array-basic-vii",
+   "name": "Print two arrays alternately",
+   "kind": null
+  },
+  {
+   "id": 287641,
+   "slug": "find-an-element-1",
+   "name": "Check if x is present in array or not",
+   "kind": null
+  },
+  {
+   "id": 287645,
+   "slug": "find-the-first-index",
+   "name": "Print first index of x in array",
+   "kind": null
+  },
+  {
+   "id": 287647,
+   "slug": "find-the-last-index-of-the-key",
+   "name": "hw_Print last index of x in array",
+   "kind": null
+  },
+  {
+   "id": 287665,
+   "slug": "is-identical",
+   "name": "Check if two arrays are identical? ",
+   "kind": null
+  },
+  {
+   "id": 287813,
+   "slug": "print-prime-number-3",
+   "name": "Prime numbers Print",
+   "kind": null
+  },
+  {
+   "id": 287870,
+   "slug": "print-the-pattern-31-3",
+   "name": "HW_Print Inverted Right Angled Triangle Pattern",
+   "kind": null
+  },
+  {
+   "id": 287877,
+   "slug": "print-pattern-40-2",
+   "name": "Hw_Print Spaced Right-angled whole numbers",
+   "kind": null
+  },
+  {
+   "id": 287885,
+   "slug": "print-pattern-41",
+   "name": "HW_Print Inverted Right-angled whole numbers",
+   "kind": null
+  },
+  {
+   "id": 287890,
+   "slug": "print-the-pattern-32",
+   "name": "HW_Print Inverted Right Angled Triangle reversed whole numbers",
+   "kind": null
+  },
+  {
+   "id": 287892,
+   "slug": "print-the-number-pattern-2",
+   "name": "HW_Print the Number Pattern 2",
+   "kind": null
+  },
+  {
+   "id": 287974,
+   "slug": "reverse-digits-1-1",
+   "name": "HW_Reverse Digits  ",
+   "kind": null
+  },
+  {
+   "id": 288007,
+   "slug": "check-palindrome-12-1",
+   "name": "HW_Check Palindrome ",
+   "kind": null
+  },
+  {
+   "id": 288053,
+   "slug": "check-characterstic",
+   "name": "Check Characterstic",
+   "kind": null
+  },
+  {
+   "id": 288055,
+   "slug": "solve-array",
+   "name": "Solve Array",
+   "kind": null
+  },
+  {
+   "id": 288091,
+   "slug": "multiply-x-by-5",
+   "name": "HW_Multiply x by 5",
+   "kind": null
+  },
+  {
+   "id": 288101,
+   "slug": "update-query-1",
+   "name": "Update query 1",
+   "kind": null
+  },
+  {
+   "id": 288102,
+   "slug": "add-1-1-2",
+   "name": "Add 1 1",
+   "kind": null
+  },
+  {
+   "id": 288109,
+   "slug": "index-divisibility",
+   "name": "Index divisibility",
+   "kind": null
+  },
+  {
+   "id": 288110,
+   "slug": "print-odd-2",
+   "name": "Print odd 2",
+   "kind": null
+  },
+  {
+   "id": 288111,
+   "slug": "perform-operations-1",
+   "name": "HW_Perform Operations 1",
+   "kind": null
+  },
+  {
+   "id": 288113,
+   "slug": "update-query-2",
+   "name": "HW_Update query 2",
+   "kind": null
+  },
+  {
+   "id": 288115,
+   "slug": "print-pair",
+   "name": "Print Pair",
+   "kind": null
+  },
+  {
+   "id": 288116,
+   "slug": "find-the-pair-4-1",
+   "name": "HW_Find The Pair 4",
+   "kind": null
+  },
+  {
+   "id": 288119,
+   "slug": "find-all-combination",
+   "name": "Find all Combination",
+   "kind": null
+  },
+  {
+   "id": 288132,
+   "slug": "transform-a-number",
+   "name": "HW_Transform a Number",
+   "kind": null
+  },
+  {
+   "id": 288139,
+   "slug": "print-primes-1-1",
+   "name": "HW_Print Primes 1",
+   "kind": null
+  },
+  {
+   "id": 288149,
+   "slug": "increment-by-6",
+   "name": "Increment By 6",
+   "kind": null
+  },
+  {
+   "id": 288150,
+   "slug": "find-permutation-1",
+   "name": "HW_Find Permutation 1",
+   "kind": null
+  },
+  {
+   "id": 288151,
+   "slug": "print-pattern-151",
+   "name": "Print Pattern 151",
+   "kind": null
+  },
+  {
+   "id": 288214,
+   "slug": "printing-5-to-nwhile-loop",
+   "name": "Printing 5 to N(While Loop)",
+   "kind": null
+  },
+  {
+   "id": 288217,
+   "slug": "print-in-rangex-and-y",
+   "name": "HW_Print In Range(x and y)",
+   "kind": null
+  },
+  {
+   "id": 288218,
+   "slug": "print-4132231-n",
+   "name": "Print 4,13,22,31.....n",
+   "kind": null
+  },
+  {
+   "id": 288221,
+   "slug": "print-till-n-for-this-series-511172329-",
+   "name": "HW_Print till n for this Series 5,11,17,23,29..",
+   "kind": null
+  },
+  {
+   "id": 288223,
+   "slug": "print-multiples-of-11",
+   "name": "HW_Print first n multiples of 11",
+   "kind": null
+  },
+  {
+   "id": 288224,
+   "slug": "print-from-n-to-3-using-while-loop",
+   "name": "HW_Print from n to 3 using while loop",
+   "kind": null
+  },
+  {
+   "id": 288225,
+   "slug": "print-from-n-to-x",
+   "name": "Print from N to X",
+   "kind": null
+  },
+  {
+   "id": 288227,
+   "slug": "reverse-table-of-6",
+   "name": "Reverse Table of 6",
+   "kind": null
+  },
+  {
+   "id": 288240,
+   "slug": "greater-than-me",
+   "name": "Greater Than Me",
+   "kind": null
+  },
+  {
+   "id": 288242,
+   "slug": "greater-in-right",
+   "name": "Greater At Right",
+   "kind": null
+  },
+  {
+   "id": 288243,
+   "slug": "reverse-pair",
+   "name": "HW_Reverse Pair",
+   "kind": null
+  },
+  {
+   "id": 288244,
+   "slug": "count-odd-pair",
+   "name": "HW_Count Odd Pair",
+   "kind": null
+  },
+  {
+   "id": 288258,
+   "slug": "fibonacci-number-14",
+   "name": "Fibonacci Number 14",
+   "kind": null
+  },
+  {
+   "id": 288261,
+   "slug": "equal-pairs-1",
+   "name": "Equal Pairs 1",
+   "kind": null
+  },
+  {
+   "id": 288262,
+   "slug": "check-odd",
+   "name": "HW_Check Odd",
+   "kind": null
+  },
+  {
+   "id": 288263,
+   "slug": "print-all-even-number",
+   "name": "HW_print all even number",
+   "kind": null
+  },
+  {
+   "id": 288267,
+   "slug": "calculate-area-3",
+   "name": "HW_Calculate Area 3",
+   "kind": null
+  },
+  {
+   "id": 288270,
+   "slug": "calculate-lcm",
+   "name": "HW_Calculate LCM",
+   "kind": null
+  },
+  {
+   "id": 288303,
+   "slug": "find-difference-1",
+   "name": "HW_Find Difference 1",
+   "kind": null
+  },
+  {
+   "id": 288313,
+   "slug": "find-difference-2",
+   "name": "HW_Find Difference 2",
+   "kind": null
+  },
+  {
+   "id": 288314,
+   "slug": "medal-distribution",
+   "name": "Medal Distribution",
+   "kind": null
+  },
+  {
+   "id": 288675,
+   "slug": "print-first-non-matching-number",
+   "name": "Print First NON MATCHING NUMBER",
+   "kind": null
+  },
+  {
+   "id": 288679,
+   "slug": "first-non-matching-value-from-end",
+   "name": "HW_First NON Matching Value From End",
+   "kind": null
+  },
+  {
+   "id": 288683,
+   "slug": "print-all-composite-number-of-array",
+   "name": "HW_Print All Composite Number of Array",
+   "kind": null
+  },
+  {
+   "id": 288685,
+   "slug": "print-first-vowel-occurance",
+   "name": "HW_Print First Vowel occurrence",
+   "kind": null
+  },
+  {
+   "id": 288689,
+   "slug": "max-count-3",
+   "name": "Max Count 3",
+   "kind": null
+  },
+  {
+   "id": 288693,
+   "slug": "find-duplicate-3-2",
+   "name": "Find Duplicate 3",
+   "kind": null
+  },
+  {
+   "id": 288694,
+   "slug": "first-occurance-of-consonant-from-end",
+   "name": "HW_First Occurance of consonant from End",
+   "kind": null
+  },
+  {
+   "id": 288700,
+   "slug": "sliding-window-5-2",
+   "name": "Sliding window 5",
+   "kind": null
+  },
+  {
+   "id": 288702,
+   "slug": "store-maximum",
+   "name": "Store Maximum",
+   "kind": null
+  },
+  {
+   "id": 288705,
+   "slug": "element-in-minority",
+   "name": "HW_Element in Minority",
+   "kind": null
+  },
+  {
+   "id": 288710,
+   "slug": "triple-occurence",
+   "name": "Triple Occurence",
+   "kind": null
+  },
+  {
+   "id": 288731,
+   "slug": "print-inverted-triangle",
+   "name": "Hw_Print Inverted triangle",
+   "kind": null
+  },
+  {
+   "id": 288747,
+   "slug": "print-big-ladder",
+   "name": "HW_Print Big Ladder",
+   "kind": null
+  },
+  {
+   "id": 288749,
+   "slug": "print-v-pattern",
+   "name": "HW_Print V Pattern",
+   "kind": null
+  },
+  {
+   "id": 288767,
+   "slug": "find-me-6-2",
+   "name": "HW_Find Me 6",
+   "kind": null
+  },
+  {
+   "id": 288769,
+   "slug": "duplicate-9",
+   "name": "Double Occurence",
+   "kind": null
+  },
+  {
+   "id": 288783,
+   "slug": "print-sum-of-array-except-that-idx",
+   "name": "HW_Print Sum of Elements Except Itself",
+   "kind": null
+  },
+  {
+   "id": 288785,
+   "slug": "product-of-arrays-1",
+   "name": "HW_Product of Arrays 1",
+   "kind": null
+  },
+  {
+   "id": 288793,
+   "slug": "minimum-in-array",
+   "name": "HW_Minimum in Array",
+   "kind": null
+  },
+  {
+   "id": 288794,
+   "slug": "product-of-array-except-that-idx",
+   "name": "Product of Elements Except Itself",
+   "kind": null
+  },
+  {
+   "id": 288809,
+   "slug": "print-dumroo-pattern",
+   "name": "HW_Print Dumroo Pattern",
+   "kind": null
+  },
+  {
+   "id": 288865,
+   "slug": "mirror-image-4-1",
+   "name": "HW_Mirror Image 4",
+   "kind": null
+  },
+  {
+   "id": 288988,
+   "slug": "selection-sort-27-2",
+   "name": "HW_Selection Sort Decreasing Order",
+   "kind": null
+  },
+  {
+   "id": 288991,
+   "slug": "insertion-sort-33-3",
+   "name": "HW_Insertion Sort Decreasing Order",
+   "kind": null
+  },
+  {
+   "id": 288992,
+   "slug": "bubble-sort-59-3",
+   "name": "HW_Bubble sort decreasing order ",
+   "kind": null
+  },
+  {
+   "id": 289041,
+   "slug": "merge-two-sorted-arrays-6-3",
+   "name": "HW_Merge two sorted arrays ",
+   "kind": null
+  },
+  {
+   "id": 289102,
+   "slug": "dummy-sum-by-rachel-gupta",
+   "name": "Dummy Sum by Rachel Gupta",
+   "kind": null
+  },
+  {
+   "id": 289177,
+   "slug": "form-the-largest-number",
+   "name": "Form the largest number",
+   "kind": null
+  },
+  {
+   "id": 289181,
+   "slug": "form-smallest-number",
+   "name": "HW_Form smallest number",
+   "kind": null
+  },
+  {
+   "id": 289190,
+   "slug": "sort-an-array-in-wave-form-1",
+   "name": "Sort an array in wave form 1",
+   "kind": null
+  },
+  {
+   "id": 289196,
+   "slug": "sort-the-array-according-to-their-cubes-of-each-element",
+   "name": "HW_Sort the array according to their cubes of each element",
+   "kind": null
+  },
+  {
+   "id": 289201,
+   "slug": "sort-the-array-according-to-their-square-of-each-element",
+   "name": "Sort the array according to their Square of each element",
+   "kind": null
+  },
+  {
+   "id": 289739,
+   "slug": "print-subsets-1",
+   "name": "Print All Subarrays",
+   "kind": null
+  },
+  {
+   "id": 289740,
+   "slug": "sum-equals-zero",
+   "name": "Sum Equals Zero",
+   "kind": null
+  },
+  {
+   "id": 289742,
+   "slug": "sum-equals-one",
+   "name": "HW_Sum Equals One",
+   "kind": null
+  },
+  {
+   "id": 289745,
+   "slug": "max-subarray-sum-5",
+   "name": "Max subarray sum 5",
+   "kind": null
+  },
+  {
+   "id": 289746,
+   "slug": "count-19-1",
+   "name": "HW_Count Subarray Sum Zero",
+   "kind": null
+  },
+  {
+   "id": 289938,
+   "slug": "sum-of-all-odd-length-subarrays-1",
+   "name": "HW_Sum of All Odd Length Subarrays 1",
+   "kind": null
+  },
+  {
+   "id": 289941,
+   "slug": "rotate-number-1",
+   "name": "HW_Rotate Number 1",
+   "kind": null
+  },
+  {
+   "id": 289942,
+   "slug": "sort-0-1-4",
+   "name": "Sort 0 1",
+   "kind": null
+  },
+  {
+   "id": 289943,
+   "slug": "two-pointer-2",
+   "name": "Reach Target",
+   "kind": null
+  },
+  {
+   "id": 289944,
+   "slug": "two-pointer-2-1",
+   "name": "HW_Reach Target - II",
+   "kind": null
+  },
+  {
+   "id": 289981,
+   "slug": "trapping-rain-water-10-1",
+   "name": "Trapping Rain Water 10",
+   "kind": null
+  },
+  {
+   "id": 289986,
+   "slug": "reverse-words-in-a-string-8",
+   "name": "Reverse words in a String 8",
+   "kind": null
+  },
+  {
+   "id": 290014,
+   "slug": "reverse-in-range",
+   "name": "HW_REVERSE IN RANGE",
+   "kind": null
+  },
+  {
+   "id": 290026,
+   "slug": "target-product",
+   "name": "Target Product",
+   "kind": null
+  },
+  {
+   "id": 290028,
+   "slug": "target-product-sorted-array",
+   "name": "target product sorted array",
+   "kind": null
+  },
+  {
+   "id": 290029,
+   "slug": "greatest-till-me",
+   "name": "Greatest Till Me",
+   "kind": null
+  },
+  {
+   "id": 290031,
+   "slug": "print-prefix-sum-between-l-and-r",
+   "name": "Print Prefix Sum between L and R",
+   "kind": null
+  },
+  {
+   "id": 290034,
+   "slug": "array-manipulation-18",
+   "name": "Array Manipulation 18",
+   "kind": null
+  },
+  {
+   "id": 290035,
+   "slug": "print-prefix-sum",
+   "name": "Print Prefix Sum",
+   "kind": null
+  },
+  {
+   "id": 290043,
+   "slug": "prefix-greatest-from-right",
+   "name": "Prefix Greatest from right",
+   "kind": null
+  },
+  {
+   "id": 290074,
+   "slug": "target-sum-3",
+   "name": "Target Sum",
+   "kind": null
+  },
+  {
+   "id": 290076,
+   "slug": "target-triplets",
+   "name": "3 Sum",
+   "kind": null
+  },
+  {
+   "id": 290078,
+   "slug": "four-sum-1-1",
+   "name": "Four Sum ",
+   "kind": null
+  },
+  {
+   "id": 290080,
+   "slug": "find-pair-2-1",
+   "name": "HW_Find Pair ",
+   "kind": null
+  },
+  {
+   "id": 290083,
+   "slug": "rotate-right-1",
+   "name": "Rotate Right ",
+   "kind": null
+  },
+  {
+   "id": 290084,
+   "slug": "prefix-small-from-left",
+   "name": "HW_Prefix Small from Left",
+   "kind": null
+  },
+  {
+   "id": 290087,
+   "slug": "prefix-small-from-right",
+   "name": "Prefix Small from Right",
+   "kind": null
+  },
+  {
+   "id": 290088,
+   "slug": "print-freq-of-alphabet-in-string",
+   "name": "Print Freq of Alphabet in String",
+   "kind": null
+  },
+  {
+   "id": 290089,
+   "slug": "maximum-freq-character",
+   "name": "Maximum Freq Character",
+   "kind": null
+  },
+  {
+   "id": 290090,
+   "slug": "int-with-maximum-freq",
+   "name": "Int with Maximum Freq",
+   "kind": null
+  },
+  {
+   "id": 290092,
+   "slug": "digit-with-highest-frequecy",
+   "name": "HW_Digit with highest frequecy",
+   "kind": null
+  },
+  {
+   "id": 290093,
+   "slug": "lucky-number-26",
+   "name": "HW_Lucky Number 26",
+   "kind": null
+  },
+  {
+   "id": 290098,
+   "slug": "high-freq-in-01-string",
+   "name": "High Freq in 0,1 String",
+   "kind": null
+  },
+  {
+   "id": 290209,
+   "slug": "print-alternate-row",
+   "name": "Print Alternate Row",
+   "kind": null
+  },
+  {
+   "id": 290214,
+   "slug": "subtract-two-matrices",
+   "name": "Subtract Two Matrices",
+   "kind": null
+  },
+  {
+   "id": 290217,
+   "slug": "print-column-wise",
+   "name": "HW_Print Alternate Column wise",
+   "kind": null
+  },
+  {
+   "id": 290219,
+   "slug": "spiral-matrix-44",
+   "name": "Spiral Matrix 44",
+   "kind": null
+  },
+  {
+   "id": 290220,
+   "slug": "print-upper-triangular-matrix-1-1",
+   "name": "Print Upper triangular matrix 1",
+   "kind": null
+  },
+  {
+   "id": 290222,
+   "slug": "print-lower-triangular-matrix",
+   "name": "HW_Print Lower triangular matrix",
+   "kind": null
+  },
+  {
+   "id": 290223,
+   "slug": "print-the-row",
+   "name": "HW_Print The Row With Maximum Number of 1\u2019s",
+   "kind": null
+  },
+  {
+   "id": 290224,
+   "slug": "print-the-column-wise-with-given-condition",
+   "name": "HW_Print the column wise with given condition",
+   "kind": null
+  },
+  {
+   "id": 290228,
+   "slug": "print-the-matrix-reverse-column-wise",
+   "name": "Print The Matrix Row Wise After Reversing Column Wise",
+   "kind": null
+  },
+  {
+   "id": 290229,
+   "slug": "print-the-matrix-reverse-row-wise",
+   "name": "Print The Matrix Reverse Row Wise",
+   "kind": null
+  },
+  {
+   "id": 290231,
+   "slug": "print-row-wise-with-condition",
+   "name": "Print row wise with condition",
+   "kind": null
+  },
+  {
+   "id": 290580,
+   "slug": "web-how-would-you-add-a-title-to-a-page-",
+   "name": "WEB-How would you add a title to a page.",
+   "kind": null
+  },
+  {
+   "id": 290638,
+   "slug": "arraylist-q1",
+   "name": "ArrayList with if-else",
+   "kind": null
+  },
+  {
+   "id": 290652,
+   "slug": "arraylist-q2",
+   "name": "ArrayList Printing",
+   "kind": null
+  },
+  {
+   "id": 290654,
+   "slug": "arraylist-q3-",
+   "name": "ArrayList reverse printing",
+   "kind": null
+  },
+  {
+   "id": 290803,
+   "slug": "print-character-1",
+   "name": "Print Characters ",
+   "kind": null
+  },
+  {
+   "id": 290804,
+   "slug": "is-equal-1",
+   "name": "Is Equal?",
+   "kind": null
+  },
+  {
+   "id": 290806,
+   "slug": "print-indices-1",
+   "name": "Print Indices of Vowels",
+   "kind": null
+  },
+  {
+   "id": 290808,
+   "slug": "count-words-11",
+   "name": "Count Words ",
+   "kind": null
+  },
+  {
+   "id": 290809,
+   "slug": "generate-rotation",
+   "name": "HW_Generate Rotation",
+   "kind": null
+  },
+  {
+   "id": 290810,
+   "slug": "print-character-in-line",
+   "name": "print Character in line",
+   "kind": null
+  },
+  {
+   "id": 290813,
+   "slug": "toggled-string",
+   "name": "HW_Toggled String",
+   "kind": null
+  },
+  {
+   "id": 290814,
+   "slug": "print-consonants-indices",
+   "name": "HW_Print Consonants Indices",
+   "kind": null
+  },
+  {
+   "id": 290815,
+   "slug": "find-unique-2",
+   "name": "Find Unique ",
+   "kind": null
+  },
+  {
+   "id": 290823,
+   "slug": "find-distance-3",
+   "name": "Find Distance B/W Two Characters",
+   "kind": null
+  },
+  {
+   "id": 290824,
+   "slug": "desired-string",
+   "name": "Desired String",
+   "kind": null
+  },
+  {
+   "id": 290825,
+   "slug": "desired-string-2",
+   "name": "Desired string 2",
+   "kind": null
+  },
+  {
+   "id": 290949,
+   "slug": "count-consecutive-ones",
+   "name": "HW_Count Consecutive Ones",
+   "kind": null
+  },
+  {
+   "id": 290951,
+   "slug": "count-substring-1-2",
+   "name": "Count Substring of 0 and 1",
+   "kind": null
+  },
+  {
+   "id": 290952,
+   "slug": "reverse-only-letters-1",
+   "name": "HW_Reverse only letters ",
+   "kind": null
+  },
+  {
+   "id": 290954,
+   "slug": "long-pressed-name-1-1",
+   "name": "Long Pressed Name  ",
+   "kind": null
+  },
+  {
+   "id": 290955,
+   "slug": "count-numbers-in-a-string",
+   "name": "HW_Count Numbers In a String",
+   "kind": null
+  },
+  {
+   "id": 290956,
+   "slug": "first-non-repeating-character-2-3",
+   "name": "HW_First Non-Repeating Character ",
+   "kind": null
+  },
+  {
+   "id": 290965,
+   "slug": "stack-syntax-learning",
+   "name": "Stack Syntax Learning",
+   "kind": null
+  },
+  {
+   "id": 290967,
+   "slug": "reverse-string-52-1",
+   "name": "Reverse string",
+   "kind": null
+  },
+  {
+   "id": 290969,
+   "slug": "reverse-number-26-1",
+   "name": "HW_Reverse Number",
+   "kind": null
+  },
+  {
+   "id": 291121,
+   "slug": "interchange-the-elements",
+   "name": "HW_Interchange the Row",
+   "kind": null
+  },
+  {
+   "id": 291123,
+   "slug": "interchange-the-column",
+   "name": "Interchange The Column",
+   "kind": null
+  },
+  {
+   "id": 291124,
+   "slug": "reverse-columns-of-matrix",
+   "name": "Reverse Columns of Matrix",
+   "kind": null
+  },
+  {
+   "id": 291127,
+   "slug": "transpose-of-matrix-7",
+   "name": "Transpose of matrix 7",
+   "kind": null
+  },
+  {
+   "id": 291129,
+   "slug": "reverse-row-of-matrix",
+   "name": "HW_Reverse Rows of Matrix",
+   "kind": null
+  },
+  {
+   "id": 291131,
+   "slug": "rotate-the-matrix-by-180-degree",
+   "name": "Rotate The Matrix by 180 Degree",
+   "kind": null
+  },
+  {
+   "id": 291132,
+   "slug": "rotate-the-matrix-by-270-degree",
+   "name": "HW_Rotate The Matrix by 270 Degree",
+   "kind": null
+  },
+  {
+   "id": 291161,
+   "slug": "row-wise-traversal",
+   "name": "Row wise traversal",
+   "kind": null
+  },
+  {
+   "id": 291163,
+   "slug": "shift-matrix-row-wise",
+   "name": "Shift Matrix Row-Wise",
+   "kind": null
+  },
+  {
+   "id": 291164,
+   "slug": "modify-the-matrix",
+   "name": "Modify The Matrix",
+   "kind": null
+  },
+  {
+   "id": 291166,
+   "slug": "set-matrix-zeroes-2",
+   "name": "Set Matrix Zeroes 2",
+   "kind": null
+  },
+  {
+   "id": 291167,
+   "slug": "column-wise-traversal",
+   "name": "column wise traversal",
+   "kind": null
+  },
+  {
+   "id": 291223,
+   "slug": "delete-consecutive",
+   "name": "Delete consecutive",
+   "kind": null
+  },
+  {
+   "id": 291239,
+   "slug": "rotation-check-in-matrix",
+   "name": "HW_Rotation Check In Matrix",
+   "kind": null
+  },
+  {
+   "id": 291242,
+   "slug": "tic-tac-toe-1-4",
+   "name": "HW_Tic-Tac-Toe  ",
+   "kind": null
+  },
+  {
+   "id": 291251,
+   "slug": "n-queens-3",
+   "name": "N Queens Check",
+   "kind": null
+  },
+  {
+   "id": 291423,
+   "slug": "valid-parentheses-10-1",
+   "name": "valid parentheses 10",
+   "kind": null
+  },
+  {
+   "id": 291431,
+   "slug": "next-greater-element-on-left-1",
+   "name": "HW_Next greater element on left 1",
+   "kind": null
+  },
+  {
+   "id": 291435,
+   "slug": "online-stock-spanner",
+   "name": "Online Stock Spanner",
+   "kind": null
+  },
+  {
+   "id": 291457,
+   "slug": "crossword-1",
+   "name": "CrossWord",
+   "kind": null
+  },
+  {
+   "id": 291458,
+   "slug": "cross-word-ii",
+   "name": "HW_Cross Word -II",
+   "kind": null
+  },
+  {
+   "id": 291460,
+   "slug": "columns-rotation-in-matrix",
+   "name": "HW_Columns Rotation In Matrix",
+   "kind": null
+  },
+  {
+   "id": 291461,
+   "slug": "3-player-matrix-game",
+   "name": "HW_3 Player Matrix Game",
+   "kind": null
+  },
+  {
+   "id": 291462,
+   "slug": "is-palindromic-columns",
+   "name": "Is Palindromic Columns",
+   "kind": null
+  },
+  {
+   "id": 291463,
+   "slug": "is-valid-matrix",
+   "name": "HW_Is Valid Matrix",
+   "kind": null
+  },
+  {
+   "id": 291464,
+   "slug": "is-valid-sudoku",
+   "name": "Is valid Sudoku",
+   "kind": null
+  },
+  {
+   "id": 291510,
+   "slug": "postfix-expression-calculation",
+   "name": "Postfix expression calculation",
+   "kind": null
+  },
+  {
+   "id": 291511,
+   "slug": "most-occurred-character-1",
+   "name": "HW_K Frequent Characters",
+   "kind": null
+  },
+  {
+   "id": 291514,
+   "slug": "american-keyboard",
+   "name": "American Keyboard",
+   "kind": null
+  },
+  {
+   "id": 291515,
+   "slug": "pangram-string-1",
+   "name": "Shortest Pangram ",
+   "kind": null
+  },
+  {
+   "id": 291516,
+   "slug": "find-sum-12",
+   "name": "Find Sum in Alphanumeric String",
+   "kind": null
+  },
+  {
+   "id": 291517,
+   "slug": "pawri-meme",
+   "name": "Pawri Meme",
+   "kind": null
+  },
+  {
+   "id": 291519,
+   "slug": "help-kavin",
+   "name": "HW_Help Kavin",
+   "kind": null
+  },
+  {
+   "id": 291520,
+   "slug": "merge-two-sorted-arrays-7",
+   "name": "Merge two sorted arrays 7",
+   "kind": null
+  },
+  {
+   "id": 291521,
+   "slug": "kavin-tt",
+   "name": "HW_Kavin && TT",
+   "kind": null
+  },
+  {
+   "id": 291522,
+   "slug": "multiply-two-numeric-string",
+   "name": "HW_Multiply Two Numeric String",
+   "kind": null
+  },
+  {
+   "id": 291523,
+   "slug": "kavin-string",
+   "name": "HW_Kavin & String",
+   "kind": null
+  },
+  {
+   "id": 291639,
+   "slug": "queue-syntax-learning",
+   "name": "Queue Syntax Learning",
+   "kind": null
+  },
+  {
+   "id": 291642,
+   "slug": "print-binary-1",
+   "name": "Print Binary ",
+   "kind": null
+  },
+  {
+   "id": 291683,
+   "slug": "multiply-complex-number",
+   "name": "Multiply Complex Number",
+   "kind": null
+  },
+  {
+   "id": 291688,
+   "slug": "lucky-numbers-13-1",
+   "name": "Lucky numbers 13",
+   "kind": null
+  },
+  {
+   "id": 291835,
+   "slug": "first-negative-integer-2",
+   "name": "First Negative Integer 2",
+   "kind": null
+  },
+  {
+   "id": 291839,
+   "slug": "priority-queue-8-2",
+   "name": "Syntax Learning Priority Queue ",
+   "kind": null
+  },
+  {
+   "id": 291844,
+   "slug": "break-stone",
+   "name": "HW_Break stone",
+   "kind": null
+  },
+  {
+   "id": 291847,
+   "slug": "weakest-rows",
+   "name": "weakest rows",
+   "kind": null
+  },
+  {
+   "id": 291897,
+   "slug": "find-starting-indices-of-anagram-in-a-string",
+   "name": "HW_Find Starting Indices of Anagram  ",
+   "kind": null
+  },
+  {
+   "id": 291988,
+   "slug": "largest-number-23",
+   "name": "Largest Number 23",
+   "kind": null
+  },
+  {
+   "id": 292087,
+   "slug": "search-in-array-2",
+   "name": "Binary Search in an Array",
+   "kind": null
+  },
+  {
+   "id": 292088,
+   "slug": "find-square-root-1-2",
+   "name": "Find Square Root  ",
+   "kind": null
+  },
+  {
+   "id": 292089,
+   "slug": "find-missing-element-1-4",
+   "name": "find missing element 1",
+   "kind": null
+  },
+  {
+   "id": 292092,
+   "slug": "search-character",
+   "name": "Search Character",
+   "kind": null
+  },
+  {
+   "id": 292093,
+   "slug": "find-last-occurrence",
+   "name": "Find Last Occurrence",
+   "kind": null
+  },
+  {
+   "id": 292094,
+   "slug": "find-the-index-2-1",
+   "name": "Find The Index of Rotation",
+   "kind": null
+  },
+  {
+   "id": 292095,
+   "slug": "find-element-in-rotated-array",
+   "name": "HW_Find Element in Rotated Array",
+   "kind": null
+  },
+  {
+   "id": 292180,
+   "slug": "print-z-a",
+   "name": "Hw_print z-a",
+   "kind": null
+  },
+  {
+   "id": 292181,
+   "slug": "print-z-y-x-w-v",
+   "name": "HW_Print z, Y, x, W, v",
+   "kind": null
+  },
+  {
+   "id": 292183,
+   "slug": "print-z-w-t-",
+   "name": "HW_Print z, w, t...",
+   "kind": null
+  },
+  {
+   "id": 292184,
+   "slug": "odd-even-and-divisibility-by-3",
+   "name": "HW_Odd Even and Divisibility by 3",
+   "kind": null
+  },
+  {
+   "id": 292344,
+   "slug": "word-meaning-1",
+   "name": "Word Meaning ",
+   "kind": null
+  },
+  {
+   "id": 292348,
+   "slug": "phone-directory-by-name",
+   "name": "Phone Directory By Name",
+   "kind": null
+  },
+  {
+   "id": 292350,
+   "slug": "phone-directory-by-number",
+   "name": "HW_Phone Directory by Number",
+   "kind": null
+  },
+  {
+   "id": 292354,
+   "slug": "character-by-frequency",
+   "name": "Character and it's Frequency",
+   "kind": null
+  },
+  {
+   "id": 292358,
+   "slug": "same-number-same-frequency",
+   "name": "Same Number Same Frequency ",
+   "kind": null
+  },
+  {
+   "id": 292422,
+   "slug": "longest-substring-without-repeating-characters-6-1",
+   "name": "Longest Substring Without Repeating Characters 6",
+   "kind": null
+  },
+  {
+   "id": 292424,
+   "slug": "first-unique-character-in-a-string-4",
+   "name": "HW_First Unique Character in a String ",
+   "kind": null
+  },
+  {
+   "id": 292438,
+   "slug": "length-of-longest-palindrome",
+   "name": "HW_Length of Longest Palindrome",
+   "kind": null
+  },
+  {
+   "id": 292439,
+   "slug": "contains-duplicate-1",
+   "name": "HW_Contains Duplicate?",
+   "kind": null
+  },
+  {
+   "id": 292440,
+   "slug": "unique-number-of-occurrences",
+   "name": "Unique Number of Occurrences",
+   "kind": null
+  },
+  {
+   "id": 292473,
+   "slug": "priority-queue-basics",
+   "name": "priority queue basics",
+   "kind": null
+  },
+  {
+   "id": 292515,
+   "slug": "lucky-numbers-in-matrix",
+   "name": "Lucky numbers in matrix",
+   "kind": null
+  },
+  {
+   "id": 292518,
+   "slug": "matrix-multiplication-32",
+   "name": "Matrix multiplication 32",
+   "kind": null
+  },
+  {
+   "id": 292527,
+   "slug": "search-in-a-sorted-matrix",
+   "name": "HW_Search in a sorted matrix",
+   "kind": null
+  },
+  {
+   "id": 292557,
+   "slug": "minimum-digits",
+   "name": "minimum digits",
+   "kind": null
+  },
+  {
+   "id": 292558,
+   "slug": "subtract-numbers-1",
+   "name": "subtract numbers 1",
+   "kind": null
+  },
+  {
+   "id": 292567,
+   "slug": "max-product-2-2",
+   "name": "max product 2",
+   "kind": null
+  },
+  {
+   "id": 292570,
+   "slug": "maximum-diamonds",
+   "name": "HW_maximum diamonds",
+   "kind": null
+  },
+  {
+   "id": 292597,
+   "slug": "n-factorial-2-1",
+   "name": "N factorial 2",
+   "kind": null
+  },
+  {
+   "id": 292598,
+   "slug": "find-the-power-1",
+   "name": "find the power 1",
+   "kind": null
+  },
+  {
+   "id": 292599,
+   "slug": "print-the-numbers-to-n-",
+   "name": "Print the numbers to N.",
+   "kind": null
+  },
+  {
+   "id": 292601,
+   "slug": "print-even-numbers-4-1",
+   "name": "Print Even Numbers 4",
+   "kind": null
+  },
+  {
+   "id": 292607,
+   "slug": "print-n-to-1-3",
+   "name": "Print N to 1 3",
+   "kind": null
+  },
+  {
+   "id": 292608,
+   "slug": "print-even-numbers-5",
+   "name": "Print even numbers 5",
+   "kind": null
+  },
+  {
+   "id": 292611,
+   "slug": "print-the-array-4-1",
+   "name": "print the array 4",
+   "kind": null
+  },
+  {
+   "id": 292613,
+   "slug": "print-alternate-1",
+   "name": "Print alternate 1",
+   "kind": null
+  },
+  {
+   "id": 292614,
+   "slug": "print-reverse-5-1",
+   "name": "print reverse 5",
+   "kind": null
+  },
+  {
+   "id": 292643,
+   "slug": "print-alternate-elements",
+   "name": "Print alternate elements",
+   "kind": null
+  },
+  {
+   "id": 292659,
+   "slug": "number-of-square-matrices-with-all-1s",
+   "name": "Number of square matrices with all 1s",
+   "kind": null
+  },
+  {
+   "id": 292662,
+   "slug": "octal-to-decimal-1",
+   "name": "Octal to Decimal 1",
+   "kind": null
+  },
+  {
+   "id": 292716,
+   "slug": "binary-to-decimal-14-4",
+   "name": "Binary to Decimal 14",
+   "kind": null
+  },
+  {
+   "id": 292911,
+   "slug": "set-kth-bit-2",
+   "name": "Set Kth Bit ",
+   "kind": null
+  },
+  {
+   "id": 292912,
+   "slug": "unset-kth-bit",
+   "name": "Unset Kth Bit",
+   "kind": null
+  },
+  {
+   "id": 293203,
+   "slug": "binary-to-decimal-15-1",
+   "name": "Binary to Decimal 15",
+   "kind": null
+  },
+  {
+   "id": 293205,
+   "slug": "decimal-to-binary-22-5",
+   "name": "Decimal to Binary 22",
+   "kind": null
+  },
+  {
+   "id": 293207,
+   "slug": "binary-to-octal-5",
+   "name": "Binary to Octal 5",
+   "kind": null
+  },
+  {
+   "id": 293208,
+   "slug": "octal-to-binary-3",
+   "name": "Octal to Binary 3",
+   "kind": null
+  },
+  {
+   "id": 293209,
+   "slug": "any-base-to-decimal",
+   "name": "Any Base To Decimal",
+   "kind": null
+  },
+  {
+   "id": 293212,
+   "slug": "decimal-to-any-base-1",
+   "name": "Decimal to Any Base 1",
+   "kind": null
+  },
+  {
+   "id": 293301,
+   "slug": "circular-game-winner",
+   "name": "Circular Game Winner",
+   "kind": null
+  },
+  {
+   "id": 293302,
+   "slug": "sum-of-powers-of-three",
+   "name": "Sum of Powers of Three",
+   "kind": null
+  },
+  {
+   "id": 293303,
+   "slug": "the-kth-factor-of-n",
+   "name": "The Kth factor of N",
+   "kind": null
+  },
+  {
+   "id": 293304,
+   "slug": "is-sum-of-square-possible",
+   "name": "Is Sum of Square Possible?",
+   "kind": null
+  },
+  {
+   "id": 293305,
+   "slug": "trailing-zeroes-in-factorial-5",
+   "name": "Trailing Zeroes In factorial 5",
+   "kind": null
+  },
+  {
+   "id": 293306,
+   "slug": "subtract-the-product-and-sum-of-digits-of-an-integer-1",
+   "name": "Subtract the Product and Sum of Digits of an Integer 1",
+   "kind": null
+  },
+  {
+   "id": 293307,
+   "slug": "find-gcd-of-array",
+   "name": "Find GCD of Array",
+   "kind": null
+  },
+  {
+   "id": 293308,
+   "slug": "self-dividing-numbers-1",
+   "name": "Self Dividing Numbers 1",
+   "kind": null
+  },
+  {
+   "id": 293309,
+   "slug": "unique-addtion",
+   "name": "Unique Addtion",
+   "kind": null
+  },
+  {
+   "id": 293310,
+   "slug": "roman-to-integer-14",
+   "name": "Roman To Integer 14",
+   "kind": null
+  },
+  {
+   "id": 293311,
+   "slug": "integer-to-roman-9-2",
+   "name": "Integer to Roman 9",
+   "kind": null
+  },
+  {
+   "id": 293313,
+   "slug": "count-square-sum-triples",
+   "name": "Count Square Sum Triples",
+   "kind": null
+  },
+  {
+   "id": 293314,
+   "slug": "maximum-product-possible-in-array",
+   "name": "Maximum Product Possible in Array",
+   "kind": null
+  },
+  {
+   "id": 293719,
+   "slug": "print-the-matrix-row-wise",
+   "name": "Print the Matrix Row-wise",
+   "kind": null
+  },
+  {
+   "id": 293720,
+   "slug": "print-the-matrix-column-wise",
+   "name": "Print the Matrix Column-Wise",
+   "kind": null
+  },
+  {
+   "id": 293722,
+   "slug": "print-alternate-columns",
+   "name": "HW_Print Alternate Columns",
+   "kind": null
+  },
+  {
+   "id": 293724,
+   "slug": "print-the-matrix-left-diagonal-wise",
+   "name": "Print the matrix left-diagonal wise",
+   "kind": null
+  },
+  {
+   "id": 293727,
+   "slug": "traverse-rows-with-given-condition",
+   "name": "HW_Traverse Rows with given condition",
+   "kind": null
+  },
+  {
+   "id": 293732,
+   "slug": "exit-point-in-a-binary-matrix",
+   "name": "Exit Point in a Binary Matrix",
+   "kind": null
+  },
+  {
+   "id": 294322,
+   "slug": "toggle-the-kth-bit-1",
+   "name": "Toggle the Kth bit 1",
+   "kind": null
+  },
+  {
+   "id": 294326,
+   "slug": "rightmost-bit",
+   "name": "RightMost Bit",
+   "kind": null
+  },
+  {
+   "id": 294327,
+   "slug": "off-rightmost-bit",
+   "name": "off rightmost bit",
+   "kind": null
+  },
+  {
+   "id": 294328,
+   "slug": "count-set-bit",
+   "name": "count set bit",
+   "kind": null
+  },
+  {
+   "id": 294586,
+   "slug": "rightmost-set-bit-of-number",
+   "name": "Rightmost set bit of number",
+   "kind": null
+  },
+  {
+   "id": 294588,
+   "slug": "find-only-set-bit",
+   "name": "Find only set Bit",
+   "kind": null
+  },
+  {
+   "id": 294590,
+   "slug": "power-of-2-22-6",
+   "name": "Power of 2 22",
+   "kind": null
+  },
+  {
+   "id": 294591,
+   "slug": "power-of-4",
+   "name": "Power of 4",
+   "kind": null
+  },
+  {
+   "id": 294592,
+   "slug": "bit-calculation",
+   "name": "Bit calculation",
+   "kind": null
+  },
+  {
+   "id": 294596,
+   "slug": "find-single",
+   "name": "Find single",
+   "kind": null
+  },
+  {
+   "id": 294981,
+   "slug": "add-two-binary-numbers-1-1",
+   "name": "Add two Binary numbers 1",
+   "kind": null
+  },
+  {
+   "id": 294983,
+   "slug": "subtract-two-binary-numbers",
+   "name": "Subtract two Binary numbers",
+   "kind": null
+  },
+  {
+   "id": 294990,
+   "slug": "add-two-numbers-given-their-base-is-n-",
+   "name": "Add two numbers given their base is n.",
+   "kind": null
+  },
+  {
+   "id": 294993,
+   "slug": "subtract-two-numbers-given-their-base-is-n-",
+   "name": "Subtract two numbers given their base is n.",
+   "kind": null
+  },
+  {
+   "id": 294997,
+   "slug": "hexa-decimal-to-decimal",
+   "name": "Hexa-Decimal to Decimal",
+   "kind": null
+  },
+  {
+   "id": 295006,
+   "slug": "decimal-to-hexa-decimal",
+   "name": "Decimal to Hexa-Decimal",
+   "kind": null
+  },
+  {
+   "id": 295008,
+   "slug": "decimal-to-octal-3-1",
+   "name": "Decimal to octal 3",
+   "kind": null
+  },
+  {
+   "id": 295012,
+   "slug": "hexadecimal-to-binary",
+   "name": "Hexadecimal to Binary",
+   "kind": null
+  },
+  {
+   "id": 295016,
+   "slug": "binary-to-hexa-decimal",
+   "name": "Binary to Hexa-Decimal",
+   "kind": null
+  },
+  {
+   "id": 295020,
+   "slug": "octal-to-hexadecimal-1",
+   "name": "Octal to Hexadecimal 1",
+   "kind": null
+  },
+  {
+   "id": 295023,
+   "slug": "hexadecimal-to-octal",
+   "name": "Hexadecimal to Octal",
+   "kind": null
+  },
+  {
+   "id": 295485,
+   "slug": "longest-palindrome-17",
+   "name": "Longest Palindrome ",
+   "kind": null
+  },
+  {
+   "id": 295489,
+   "slug": "132-pattern-1",
+   "name": "132 Pattern",
+   "kind": null
+  },
+  {
+   "id": 296592,
+   "slug": "even-odd-2-premct",
+   "name": "Even Odd 2 PreMCT",
+   "kind": null
+  },
+  {
+   "id": 296612,
+   "slug": "even-odd-1-premct",
+   "name": "Even Odd 1 PreMCT",
+   "kind": null
+  },
+  {
+   "id": 296615,
+   "slug": "print-largest-length-string-premct",
+   "name": "Print Largest Length String PreMCT",
+   "kind": null
+  },
+  {
+   "id": 296622,
+   "slug": "print-highest-value-string-premct",
+   "name": "Print highest value string PreMCT",
+   "kind": null
+  },
+  {
+   "id": 296750,
+   "slug": "print-k-successive-characters-of-a-string-premct",
+   "name": "Print k successive characters of a string PreMCT",
+   "kind": null
+  },
+  {
+   "id": 296770,
+   "slug": "print-three-tasks-for-the-given-string-premct",
+   "name": "Print three tasks for the given string PreMCT",
+   "kind": null
+  },
+  {
+   "id": 296793,
+   "slug": "print-lcm-and-hcf-of-n-and-k-premct",
+   "name": "Print lcm and hcf of n and k PreMCT",
+   "kind": null
+  },
+  {
+   "id": 296795,
+   "slug": "check-if-char-present-in-str-premct",
+   "name": "Check if char present in str PreMCT",
+   "kind": null
+  },
+  {
+   "id": 296980,
+   "slug": "rachel-gupta-fitness-studio-hire-ornot-premct",
+   "name": "Rachel Gupta Fitness Studio Hire or not ",
+   "kind": null
+  },
+  {
+   "id": 296988,
+   "slug": "rachel-gupta-loves-writing-novels-premct",
+   "name": "Rachel Gupta loves writing novels preMCT ",
+   "kind": null
+  },
+  {
+   "id": 297001,
+   "slug": "rachel-gupta-ride-hailing-company-premct",
+   "name": "Mohit Ride Hailing Company",
+   "kind": null
+  },
+  {
+   "id": 297244,
+   "slug": "print-prime-numbers-in-array",
+   "name": "Print prime numbers in array",
+   "kind": null
+  },
+  {
+   "id": 302291,
+   "slug": "classes-and-objects-1-1",
+   "name": "Class and Objects 1_1",
+   "kind": null
+  },
+  {
+   "id": 302680,
+   "slug": "class-and-objects-2-1",
+   "name": "Class and Objects 2_1",
+   "kind": null
+  },
+  {
+   "id": 302707,
+   "slug": "constructors-1-1",
+   "name": "Constructors 1_1",
+   "kind": null
+  },
+  {
+   "id": 304027,
+   "slug": "functions-1-3",
+   "name": "Functions 1_3",
+   "kind": null
+  },
+  {
+   "id": 304032,
+   "slug": "methods-1-2",
+   "name": "Methods 1_2",
+   "kind": null
+  },
+  {
+   "id": 304044,
+   "slug": "constructor-overloading-1-1-1",
+   "name": "Constructor Overloading 1_1",
+   "kind": null
+  },
+  {
+   "id": 304046,
+   "slug": "constructor-overloading-1-2",
+   "name": "HW-Constructor Overloading 1_2",
+   "kind": null
+  },
+  {
+   "id": 304212,
+   "slug": "static-keyword-1-1",
+   "name": "Static Keyword 1_1",
+   "kind": null
+  },
+  {
+   "id": 304215,
+   "slug": "public-private-property-1-1",
+   "name": "Public Private Property 1_1",
+   "kind": null
+  },
+  {
+   "id": 304220,
+   "slug": "public-private-property-1-2",
+   "name": "HW-Public Private Property 1_2",
+   "kind": null
+  },
+  {
+   "id": 304225,
+   "slug": "overriding-1-1-1",
+   "name": "Overriding 1_1",
+   "kind": null
+  },
+  {
+   "id": 304230,
+   "slug": "overriding-1-2",
+   "name": "Overriding 1_2",
+   "kind": null
+  },
+  {
+   "id": 304237,
+   "slug": "overriding-1-3",
+   "name": "HW-Overriding 1_3",
+   "kind": null
+  },
+  {
+   "id": 304271,
+   "slug": "class-objects-2-1",
+   "name": "HW-Class Objects 2_2",
+   "kind": null
+  },
+  {
+   "id": 304277,
+   "slug": "constructors-2-1",
+   "name": "Constructors 2_1",
+   "kind": null
+  },
+  {
+   "id": 304284,
+   "slug": "methods-2-1",
+   "name": "Methods 2_1",
+   "kind": null
+  },
+  {
+   "id": 304286,
+   "slug": "methods-2-2",
+   "name": "HW-Methods 2_2",
+   "kind": null
+  },
+  {
+   "id": 304878,
+   "slug": "static-keyword-2-1",
+   "name": "Static Keyword 2_1",
+   "kind": null
+  },
+  {
+   "id": 304881,
+   "slug": "inheritance-2-1-2",
+   "name": "Inheritance 2_1",
+   "kind": null
+  },
+  {
+   "id": 304887,
+   "slug": "overriding-2-1",
+   "name": "Overriding 2_1",
+   "kind": null
+  },
+  {
+   "id": 305896,
+   "slug": "array-of-objects-1-1",
+   "name": "Array of Objects 1_1",
+   "kind": null
+  },
+  {
+   "id": 305902,
+   "slug": "array-of-objects-2-1",
+   "name": "Array of Objects 2_1",
+   "kind": null
+  },
+  {
+   "id": 306321,
+   "slug": "classes-and-objects-3-1",
+   "name": "Classes and Objects 3_1",
+   "kind": null
+  },
+  {
+   "id": 306325,
+   "slug": "constructors-3-1",
+   "name": "Constructors 3_1",
+   "kind": null
+  },
+  {
+   "id": 306329,
+   "slug": "methods-3-1",
+   "name": "Methods 3_1",
+   "kind": null
+  },
+  {
+   "id": 306333,
+   "slug": "methods-3-2",
+   "name": "Methods 3_2",
+   "kind": null
+  },
+  {
+   "id": 306340,
+   "slug": "constructor-overloading-3-1",
+   "name": "Constructor Overloading 3_1",
+   "kind": null
+  },
+  {
+   "id": 306343,
+   "slug": "method-overloading-3-1",
+   "name": "Method Overloading 3_1",
+   "kind": null
+  },
+  {
+   "id": 306347,
+   "slug": "static-keyword-3-1",
+   "name": "Static Keyword 3_1",
+   "kind": null
+  },
+  {
+   "id": 306351,
+   "slug": "inheritance-3-1-1",
+   "name": "Inheritance 3_1",
+   "kind": null
+  },
+  {
+   "id": 306357,
+   "slug": "public-private-3-1",
+   "name": "Public Private 3_1",
+   "kind": null
+  },
+  {
+   "id": 306366,
+   "slug": "method-overriding-3-1",
+   "name": "Method Overriding 3_1",
+   "kind": null
+  },
+  {
+   "id": 306373,
+   "slug": "method-overriding-3-2",
+   "name": "HW-Method Overriding 3_2",
+   "kind": null
+  },
+  {
+   "id": 310168,
+   "slug": "print-if-divisible-by-both-3-and-4-1",
+   "name": "Print if divisible by both 3 and 4 ",
+   "kind": null
+  },
+  {
+   "id": 310176,
+   "slug": "shift-zeroes",
+   "name": "SHIFT ZEROES",
+   "kind": null
+  },
+  {
+   "id": 310199,
+   "slug": "the-bank",
+   "name": "The bank ",
+   "kind": null
+  },
+  {
+   "id": 310382,
+   "slug": "common-prefix-1",
+   "name": "HW_common prefix 1",
+   "kind": null
+  },
+  {
+   "id": 310511,
+   "slug": "place-flower",
+   "name": "Place Flower",
+   "kind": null
+  },
+  {
+   "id": 310524,
+   "slug": "calculator-36",
+   "name": "HW_calculator 36",
+   "kind": null
+  },
+  {
+   "id": 310534,
+   "slug": "find-target-pair",
+   "name": "find target pair  ",
+   "kind": null
+  },
+  {
+   "id": 310562,
+   "slug": "majority-wins-1",
+   "name": "majority wins  1",
+   "kind": null
+  },
+  {
+   "id": 310567,
+   "slug": "sort-9-8-7",
+   "name": "sort 987",
+   "kind": null
+  },
+  {
+   "id": 311670,
+   "slug": "print-n-1-1",
+   "name": "Print pattern 1",
+   "kind": null
+  },
+  {
+   "id": 311678,
+   "slug": "check-eligibility",
+   "name": "check eligibility",
+   "kind": null
+  },
+  {
+   "id": 311690,
+   "slug": "print-numbers-and-stars",
+   "name": "print Numbers and stars",
+   "kind": null
+  },
+  {
+   "id": 311694,
+   "slug": "print-a-p",
+   "name": "HW_Print A.P",
+   "kind": null
+  },
+  {
+   "id": 311708,
+   "slug": "end-game-1",
+   "name": "End game 1",
+   "kind": null
+  },
+  {
+   "id": 311714,
+   "slug": "stairs-10",
+   "name": "Stairs 10",
+   "kind": null
+  },
+  {
+   "id": 311721,
+   "slug": "print-h",
+   "name": "print H",
+   "kind": null
+  },
+  {
+   "id": 311727,
+   "slug": "world-cup-2-1",
+   "name": "world cup 2",
+   "kind": null
+  },
+  {
+   "id": 311731,
+   "slug": "runner-up-3",
+   "name": "runner up 3",
+   "kind": null
+  },
+  {
+   "id": 311786,
+   "slug": "the-bet-2",
+   "name": "the bet 2",
+   "kind": null
+  },
+  {
+   "id": 315874,
+   "slug": "print-n-k-n-1-2k-n-2-3k-",
+   "name": "Print n-k, n-1-2k, n-2-3k .....",
+   "kind": null
+  },
+  {
+   "id": 315878,
+   "slug": "running-product-for-loop-",
+   "name": "Running product while loop.    ",
+   "kind": null
+  },
+  {
+   "id": 315898,
+   "slug": "jumping-character",
+   "name": "jumping character",
+   "kind": null
+  },
+  {
+   "id": 319067,
+   "slug": "printhello-world-i-am-here-",
+   "name": "print\"Hello World. I am here.\"",
+   "kind": null
+  },
+  {
+   "id": 319069,
+   "slug": "hw-printhello-i-am-enjoying-coding-",
+   "name": "hw_print\"Hello I am enjoying coding.\"",
+   "kind": null
+  },
+  {
+   "id": 319072,
+   "slug": "print-the-pattern-1-9",
+   "name": "print the pattern-1",
+   "kind": null
+  },
+  {
+   "id": 319074,
+   "slug": "hw-print-the-pattern-1",
+   "name": "hw_print the pattern-1",
+   "kind": null
+  },
+  {
+   "id": 319077,
+   "slug": "print-star-pattern-1",
+   "name": "print star pattern-1 ",
+   "kind": null
+  },
+  {
+   "id": 319078,
+   "slug": "print-star-pattern-2",
+   "name": "print star pattern-2",
+   "kind": null
+  },
+  {
+   "id": 319079,
+   "slug": "print-star-pattern-3",
+   "name": "print star pattern-3",
+   "kind": null
+  },
+  {
+   "id": 319080,
+   "slug": "hw-print-the-star-pattern",
+   "name": "HW_print the star pattern",
+   "kind": null
+  },
+  {
+   "id": 326093,
+   "slug": "oops-1-1",
+   "name": "oops 1",
+   "kind": null
+  },
+  {
+   "id": 326746,
+   "slug": "element-as-an-index",
+   "name": "HW_Element as an index",
+   "kind": null
+  },
+  {
+   "id": 326761,
+   "slug": "update-with-k",
+   "name": "HW_update with k",
+   "kind": null
+  },
+  {
+   "id": 326763,
+   "slug": "interleaving-x-and-y-elements",
+   "name": "Interleaving x and y Elements",
+   "kind": null
+  },
+  {
+   "id": 326768,
+   "slug": "maximum-difference-between-the-two-elements",
+   "name": "maximum difference between the two elements",
+   "kind": null
+  },
+  {
+   "id": 326773,
+   "slug": "counting-smaller-numbers-in-an-array",
+   "name": "HW_Counting Smaller Numbers in an Array",
+   "kind": null
+  },
+  {
+   "id": 326969,
+   "slug": "olympiad-team-selection",
+   "name": "HW_Olympiad Team Selection",
+   "kind": null
+  },
+  {
+   "id": 326989,
+   "slug": "de-duplication",
+   "name": "HW_De-Duplication",
+   "kind": null
+  },
+  {
+   "id": 327007,
+   "slug": "zero-brings-zero",
+   "name": "HW_zero brings zero",
+   "kind": null
+  },
+  {
+   "id": 327043,
+   "slug": "count-boat",
+   "name": "Count boat",
+   "kind": null
+  },
+  {
+   "id": 327064,
+   "slug": "plant-watering-by-alice-and-bob",
+   "name": "HW_Plant Watering by Alice and Bob",
+   "kind": null
+  },
+  {
+   "id": 327084,
+   "slug": "team-formation-7-3",
+   "name": "HW_Team Formation 7",
+   "kind": null
+  },
+  {
+   "id": 327116,
+   "slug": "middle-index",
+   "name": "HW_Middle index",
+   "kind": null
+  },
+  {
+   "id": 327125,
+   "slug": "k-frequent-character",
+   "name": "HW_k frequent elements",
+   "kind": null
+  },
+  {
+   "id": 327134,
+   "slug": "odd-occurance",
+   "name": "HW_Odd occurance",
+   "kind": null
+  },
+  {
+   "id": 327625,
+   "slug": "spiral-matrix-transformation",
+   "name": "HW_Spiral Matrix Transformation",
+   "kind": null
+  },
+  {
+   "id": 327639,
+   "slug": "constructing-a-spiral-matrix",
+   "name": "HW_Constructing a spiral Matrix",
+   "kind": null
+  },
+  {
+   "id": 327655,
+   "slug": "palindromic-string-13-1",
+   "name": "HW_palindromic string 13",
+   "kind": null
+  },
+  {
+   "id": 327661,
+   "slug": "longest-palindromic-substring-13-2",
+   "name": "HW_Longest Palindromic Substring 13",
+   "kind": null
+  },
+  {
+   "id": 327666,
+   "slug": "last-word-4",
+   "name": "HW_last word 4",
+   "kind": null
+  },
+  {
+   "id": 327668,
+   "slug": "reverse-prefix",
+   "name": "HW_reverse prefix",
+   "kind": null
+  },
+  {
+   "id": 327671,
+   "slug": "reverse-by-words",
+   "name": "HW_reverse by words",
+   "kind": null
+  },
+  {
+   "id": 327712,
+   "slug": "target-indices",
+   "name": "HW_target indices",
+   "kind": null
+  },
+  {
+   "id": 327717,
+   "slug": "the-banana-challenge",
+   "name": "The banana challenge",
+   "kind": null
+  },
+  {
+   "id": 327759,
+   "slug": "the-painter",
+   "name": "The painter",
+   "kind": null
+  },
+  {
+   "id": 327782,
+   "slug": "weighty-voyage",
+   "name": "HW_Weighty Voyage",
+   "kind": null
+  },
+  {
+   "id": 327803,
+   "slug": "minimal-maximum-sum",
+   "name": "HW_Minimal Maximum Sum",
+   "kind": null
+  },
+  {
+   "id": 328007,
+   "slug": "third-maximum-1",
+   "name": "HW_Third Maximum  ",
+   "kind": null
+  },
+  {
+   "id": 328021,
+   "slug": "remove-elements-1",
+   "name": "HW_Remove elements 1",
+   "kind": null
+  },
+  {
+   "id": 328026,
+   "slug": "inbuilt-sort",
+   "name": "increasing order using inbuilt sort ",
+   "kind": null
+  },
+  {
+   "id": 328031,
+   "slug": "decreasing-order-using-inbuilt-sort",
+   "name": "decreasing order using inbuilt sort",
+   "kind": null
+  },
+  {
+   "id": 328033,
+   "slug": "sort-array-in-decreasing-order-using-custom-sort",
+   "name": "Sort Array in decreasing order using custom sort ",
+   "kind": null
+  },
+  {
+   "id": 328038,
+   "slug": "minimum-difference-7-1",
+   "name": "Minimum difference 7",
+   "kind": null
+  },
+  {
+   "id": 328044,
+   "slug": "counting-mismatched",
+   "name": "HW_Counting Mismatched ",
+   "kind": null
+  },
+  {
+   "id": 328222,
+   "slug": "road-trip-5-3",
+   "name": "HW_Road Trip 5",
+   "kind": null
+  },
+  {
+   "id": 328227,
+   "slug": "counting-pairs-and-leftover-integers",
+   "name": "Counting Pairs and Leftover Integers ",
+   "kind": null
+  },
+  {
+   "id": 328233,
+   "slug": "unique-sum-2-2",
+   "name": "HW_Unique sum 2",
+   "kind": null
+  },
+  {
+   "id": 328241,
+   "slug": "good-string-checker",
+   "name": "Good String Checker",
+   "kind": null
+  },
+  {
+   "id": 328438,
+   "slug": "sort-based-on-abolute-of-number",
+   "name": "Sort based on abolute of number",
+   "kind": null
+  },
+  {
+   "id": 328490,
+   "slug": "index-retrieval",
+   "name": "HW_Index Retrieval ",
+   "kind": null
+  },
+  {
+   "id": 328494,
+   "slug": "maximum-count-1",
+   "name": "HW_Maximum Count 1",
+   "kind": null
+  },
+  {
+   "id": 328592,
+   "slug": "equally-frequent-letters",
+   "name": "Equally Frequent Letters",
+   "kind": null
+  },
+  {
+   "id": 328618,
+   "slug": "keeping-score",
+   "name": "Keeping Score",
+   "kind": null
+  },
+  {
+   "id": 328646,
+   "slug": "students-with-sandwiches",
+   "name": "Students with Sandwiches",
+   "kind": null
+  },
+  {
+   "id": 328661,
+   "slug": "pattern-221-1",
+   "name": "Pattern 221",
+   "kind": null
+  },
+  {
+   "id": 330264,
+   "slug": "bulls-and-cows-5",
+   "name": "Bulls and Cows 5",
+   "kind": null
+  },
+  {
+   "id": 330277,
+   "slug": "distribute-candies-4",
+   "name": "HW_Distribute Candies",
+   "kind": null
+  },
+  {
+   "id": 330282,
+   "slug": "max-number-of-k-sum-pairs",
+   "name": "Max Number of K-Sum Pairs",
+   "kind": null
+  },
+  {
+   "id": 330287,
+   "slug": "minimum-add-to-make-parentheses-valid-3",
+   "name": "HW_Minimum Add to Make Parentheses Valid 3",
+   "kind": null
+  },
+  {
+   "id": 330289,
+   "slug": "shortest-unsorted-continuous-subarray",
+   "name": "Shortest Unsorted Continuous Subarray",
+   "kind": null
+  },
+  {
+   "id": 330782,
+   "slug": "travel-together",
+   "name": "TRAVEL TOGETHER",
+   "kind": null
+  },
+  {
+   "id": 330786,
+   "slug": "prize-challenge",
+   "name": "PRIZE CHALLENGE",
+   "kind": null
+  },
+  {
+   "id": 330811,
+   "slug": "attack-points",
+   "name": "Attack Points",
+   "kind": null
+  },
+  {
+   "id": 330813,
+   "slug": "predict-future-age",
+   "name": "Predict Future Age",
+   "kind": null
+  },
+  {
+   "id": 330815,
+   "slug": "fun-n-fair",
+   "name": "Fun N Fair",
+   "kind": null
+  },
+  {
+   "id": 330816,
+   "slug": "hows-the-weather-1",
+   "name": "How's the Weather",
+   "kind": null
+  },
+  {
+   "id": 331035,
+   "slug": "unable-to-eat-lunch",
+   "name": "HW_Unable to eat Lunch",
+   "kind": null
+  },
+  {
+   "id": 331038,
+   "slug": "tickets-shopping",
+   "name": "HW_Tickets Shopping",
+   "kind": null
+  },
+  {
+   "id": 331070,
+   "slug": "relative-ranks-1-1",
+   "name": "HW_Relative Ranks ",
+   "kind": null
+  },
+  {
+   "id": 331078,
+   "slug": "furthest-building-you-can-reach-1-1",
+   "name": "HW_Furthest Building You Can Reach ",
+   "kind": null
+  },
+  {
+   "id": 331083,
+   "slug": "k-closest-points-to-origin-2",
+   "name": "K Closest Points to Origin 2",
+   "kind": null
+  },
+  {
+   "id": 332291,
+   "slug": "candy-challenge-1",
+   "name": "Candy challenge 1",
+   "kind": null
+  },
+  {
+   "id": 332299,
+   "slug": "left-right-4",
+   "name": "Left - Right",
+   "kind": null
+  },
+  {
+   "id": 332439,
+   "slug": "even-digits-5-1",
+   "name": "Even digits 5",
+   "kind": null
+  },
+  {
+   "id": 332442,
+   "slug": "the-difference-4-1",
+   "name": "The Difference 4",
+   "kind": null
+  },
+  {
+   "id": 332537,
+   "slug": "mct-1-pattern-01",
+   "name": "pattern-001",
+   "kind": null
+  },
+  {
+   "id": 332549,
+   "slug": "mct-01-pattern-02",
+   "name": "MCT-01_Pattern-02",
+   "kind": null
+  },
+  {
+   "id": 332568,
+   "slug": "mct-01-pattern-03",
+   "name": "MCT-01_Pattern-03",
+   "kind": null
+  },
+  {
+   "id": 332577,
+   "slug": "mct-01-pattern-04",
+   "name": "MCT-01_Pattern-04",
+   "kind": null
+  },
+  {
+   "id": 332590,
+   "slug": "mct-01-pattern-05",
+   "name": "MCT-01_Pattern-05",
+   "kind": null
+  },
+  {
+   "id": 332593,
+   "slug": "mct-01-pattern-06",
+   "name": "MCT-01_Pattern-06",
+   "kind": null
+  },
+  {
+   "id": 332651,
+   "slug": "mct-01-pattern-07",
+   "name": "pattern-007",
+   "kind": null
+  },
+  {
+   "id": 332652,
+   "slug": "mct-01-pattern-08",
+   "name": "mct-01_pattern-08",
+   "kind": null
+  },
+  {
+   "id": 332653,
+   "slug": "mct-01-pattern-09",
+   "name": "mct-01-pattern-09",
+   "kind": null
+  },
+  {
+   "id": 332654,
+   "slug": "mct-01-pattern-10",
+   "name": "mct-01_pattern-10",
+   "kind": null
+  },
+  {
+   "id": 332719,
+   "slug": "mct-01-pattern-11",
+   "name": "mct-01_pattern-11",
+   "kind": null
+  },
+  {
+   "id": 332721,
+   "slug": "mct-01-pattern-12",
+   "name": "mct-01_pattern-12",
+   "kind": null
+  },
+  {
+   "id": 332723,
+   "slug": "mct-01-pattern-13",
+   "name": "mct-01_pattern-13",
+   "kind": null
+  },
+  {
+   "id": 332727,
+   "slug": "mct-01-pattern-14",
+   "name": "_pattern-14",
+   "kind": null
+  },
+  {
+   "id": 332728,
+   "slug": "mct-01-pattern-15",
+   "name": "_pattern-15",
+   "kind": null
+  },
+  {
+   "id": 332731,
+   "slug": "mct-01-pattern-16",
+   "name": "pattern-16",
+   "kind": null
+  },
+  {
+   "id": 332781,
+   "slug": "mct-01-pattern-17",
+   "name": "mct-01_pattern-17",
+   "kind": null
+  },
+  {
+   "id": 332782,
+   "slug": "mct-01-pattern-18",
+   "name": "mct-01_pattern-18",
+   "kind": null
+  },
+  {
+   "id": 332785,
+   "slug": "mct-01-pattern-19",
+   "name": "pattern-19",
+   "kind": null
+  },
+  {
+   "id": 332787,
+   "slug": "mct-01-pattern-20",
+   "name": "pattern-20",
+   "kind": null
+  },
+  {
+   "id": 333143,
+   "slug": "predict-distance-type-",
+   "name": "Predict distance type.",
+   "kind": null
+  },
+  {
+   "id": 333145,
+   "slug": "weirdnot-weird",
+   "name": "Weird/Not Weird",
+   "kind": null
+  },
+  {
+   "id": 333204,
+   "slug": "nested-if-else-4",
+   "name": "Nested-if-else",
+   "kind": null
+  },
+  {
+   "id": 333207,
+   "slug": "pos-neg-if-else",
+   "name": "pos-neg if-else",
+   "kind": null
+  },
+  {
+   "id": 333645,
+   "slug": "jump-game-9",
+   "name": "Jump_game",
+   "kind": null
+  },
+  {
+   "id": 333648,
+   "slug": "jewels-and-stones-9",
+   "name": "Jewels and Stones 9",
+   "kind": null
+  },
+  {
+   "id": 333650,
+   "slug": "reverse-words-in-a-string-10",
+   "name": "Reverse Words in a String 10",
+   "kind": null
+  },
+  {
+   "id": 333654,
+   "slug": "best-time-to-buy-and-sell-stock-ii-1",
+   "name": "Best Time to Buy and Sell Stock II 1",
+   "kind": null
+  },
+  {
+   "id": 333656,
+   "slug": "car-pooling-1",
+   "name": "Car Pooling 1",
+   "kind": null
+  },
+  {
+   "id": 333658,
+   "slug": "celebrity-problem-3-1",
+   "name": "Celebrity Problem 3",
+   "kind": null
+  },
+  {
+   "id": 333660,
+   "slug": "floor-value-kth-root-of-a-number",
+   "name": "Floor value Kth root of a number ",
+   "kind": null
+  },
+  {
+   "id": 333887,
+   "slug": "print-the-day",
+   "name": "HW_Print the day",
+   "kind": null
+  },
+  {
+   "id": 333893,
+   "slug": "print-the-month",
+   "name": "HW_Print the month ",
+   "kind": null
+  },
+  {
+   "id": 334034,
+   "slug": "switch-calculator-1-1",
+   "name": "Switch Calculator 1",
+   "kind": null
+  },
+  {
+   "id": 334038,
+   "slug": "tree-pre-order-traversal",
+   "name": "Tree Pre-Order Traversal",
+   "kind": null
+  },
+  {
+   "id": 334057,
+   "slug": "grade-the-student-2",
+   "name": "Grade the student-2 ",
+   "kind": null
+  },
+  {
+   "id": 334275,
+   "slug": "longest-consecutive-sequence-6-1",
+   "name": "Longest Consecutive SubSequence 6",
+   "kind": null
+  },
+  {
+   "id": 334279,
+   "slug": "basic-calculator-9-2",
+   "name": "HW_Basic Calculator 9",
+   "kind": null
+  },
+  {
+   "id": 334284,
+   "slug": "longest-valid-parentheses-4-1",
+   "name": "Longest Valid Parentheses 4",
+   "kind": null
+  },
+  {
+   "id": 334497,
+   "slug": "decode-string-9",
+   "name": "Decode String 9",
+   "kind": null
+  },
+  {
+   "id": 334498,
+   "slug": "pascals-triangle-35-3",
+   "name": "Pascal's Triangle 35",
+   "kind": null
+  },
+  {
+   "id": 334540,
+   "slug": "subarray-sums-divisible-by-k",
+   "name": "Subarray Sums Divisible by K",
+   "kind": null
+  },
+  {
+   "id": 334546,
+   "slug": "palindromic-substrings-6",
+   "name": "Palindromic Substrings 6",
+   "kind": null
+  },
+  {
+   "id": 334619,
+   "slug": "book-allocation-1-1",
+   "name": "Book allocation 1",
+   "kind": null
+  },
+  {
+   "id": 334771,
+   "slug": "majority-element-ii",
+   "name": "Majority Element II",
+   "kind": null
+  },
+  {
+   "id": 334914,
+   "slug": "minimum-amount-of-time-to-fill-cups",
+   "name": " Minimum Amount of Time to Fill Cups",
+   "kind": null
+  },
+  {
+   "id": 334915,
+   "slug": "number-of-different-integers-in-a-string",
+   "name": "Number of Different Integers in a String",
+   "kind": null
+  },
+  {
+   "id": 334917,
+   "slug": "maximum-nesting-depth-of-the-parentheses",
+   "name": "Maximum Nesting Depth of the Parentheses",
+   "kind": null
+  },
+  {
+   "id": 334945,
+   "slug": "tower-of-hanoi-7-5",
+   "name": "Tower Of Hanoi 7",
+   "kind": null
+  },
+  {
+   "id": 335198,
+   "slug": "kth-smallest-element-in-a-sorted-matrix-1-1",
+   "name": "Kth Smallest Element in a Sorted Matrix 1",
+   "kind": null
+  },
+  {
+   "id": 335674,
+   "slug": "concatenation-of-array-3",
+   "name": "Concatenation of Array 3",
+   "kind": null
+  },
+  {
+   "id": 335675,
+   "slug": "find-greatest-common-divisor-of-array-1",
+   "name": "Find Greatest Common Divisor of Array 1",
+   "kind": null
+  },
+  {
+   "id": 335678,
+   "slug": "number-of-students-doing-homework-at-a-given-time",
+   "name": "Number of Students Doing Homework at a Given Time",
+   "kind": null
+  },
+  {
+   "id": 335959,
+   "slug": "count-the-number-of-vowel-strings-in-range-1",
+   "name": "Count the Number of Vowel Strings in Range",
+   "kind": null
+  },
+  {
+   "id": 335960,
+   "slug": "baseball-game-1-3",
+   "name": "Baseball Game 1",
+   "kind": null
+  },
+  {
+   "id": 336376,
+   "slug": "crawler-log-folder-1",
+   "name": "Crawler Log Folder",
+   "kind": null
+  },
+  {
+   "id": 336379,
+   "slug": "happy-number-18-2",
+   "name": "HW_Happy Number",
+   "kind": null
+  },
+  {
+   "id": 336383,
+   "slug": "maximum-product-of-indexes-of-next-greater-on-left-and-right",
+   "name": "HW_Maximum product of indexes of next greater on left and right",
+   "kind": null
+  },
+  {
+   "id": 336565,
+   "slug": "largest-number-at-least-twice-of-others-2",
+   "name": " Largest Number At Least Twice of Others",
+   "kind": null
+  },
+  {
+   "id": 336572,
+   "slug": "check-if-array-is-sorted-and-rotated-1",
+   "name": "Check if Array Is Sorted and Rotated 1",
+   "kind": null
+  },
+  {
+   "id": 336577,
+   "slug": "divide-array-into-equal-pairs-1",
+   "name": "Divide Array Into Equal Pairs 1",
+   "kind": null
+  },
+  {
+   "id": 336582,
+   "slug": "rank-transform-of-an-array",
+   "name": "Rank Transform of an Array",
+   "kind": null
+  },
+  {
+   "id": 336588,
+   "slug": "keep-multiplying-found-values-by-two",
+   "name": "Keep Multiplying Found Values by Two",
+   "kind": null
+  },
+  {
+   "id": 337368,
+   "slug": "longest-consecutive-sequence-2-2",
+   "name": " Longest Consecutive Sequence 2",
+   "kind": null
+  },
+  {
+   "id": 337377,
+   "slug": "uncommon-words-from-two-sentences",
+   "name": "Uncommon Words from Two Sentences",
+   "kind": null
+  },
+  {
+   "id": 337381,
+   "slug": "take-gifts-from-the-richest-pile-2",
+   "name": "HW_Take Gifts From the Richest Pile 2",
+   "kind": null
+  },
+  {
+   "id": 337382,
+   "slug": "sort-characters-by-frequency-3",
+   "name": "HW_Sort Characters By Frequency 3",
+   "kind": null
+  },
+  {
+   "id": 337804,
+   "slug": "house-robber-9",
+   "name": "House Robber 9",
+   "kind": null
+  },
+  {
+   "id": 337816,
+   "slug": "string-to-integer-atoi-3-1",
+   "name": "String to Integer (atoi) 3",
+   "kind": null
+  },
+  {
+   "id": 337819,
+   "slug": "powxn-2-2",
+   "name": "pow(x,n) 2",
+   "kind": null
+  },
+  {
+   "id": 337855,
+   "slug": "gas-station-6",
+   "name": "Gas Station 6",
+   "kind": null
+  },
+  {
+   "id": 338037,
+   "slug": "most-popular-video-creator",
+   "name": "Most Popular Video Creator",
+   "kind": null
+  },
+  {
+   "id": 338039,
+   "slug": "maximum-sum-circular-subarray-2",
+   "name": "Maximum Sum Circular Subarray 2",
+   "kind": null
+  },
+  {
+   "id": 338159,
+   "slug": "minimum-area-rectangle",
+   "name": "Minimum Area Rectangle",
+   "kind": null
+  },
+  {
+   "id": 338166,
+   "slug": "add-two-numbers-represented-by-two-arrays",
+   "name": "Add two numbers represented by two arrays",
+   "kind": null
+  },
+  {
+   "id": 338509,
+   "slug": "count-s-a-characters-",
+   "name": "Count 's' 'a' Characters.",
+   "kind": null
+  },
+  {
+   "id": 338510,
+   "slug": "apple-battery",
+   "name": "Apple battery",
+   "kind": null
+  },
+  {
+   "id": 338511,
+   "slug": "diff-sum",
+   "name": "Diff-Sum",
+   "kind": null
+  },
+  {
+   "id": 338512,
+   "slug": "chess-format-1",
+   "name": "Chess Format 1",
+   "kind": null
+  },
+  {
+   "id": 338513,
+   "slug": "factorial-204",
+   "name": "Factorial 204",
+   "kind": null
+  },
+  {
+   "id": 339252,
+   "slug": "sum-of-digits-81-3",
+   "name": "Sum of Digits 81",
+   "kind": null
+  },
+  {
+   "id": 339259,
+   "slug": "team-passed",
+   "name": "Team Passed",
+   "kind": null
+  },
+  {
+   "id": 339270,
+   "slug": "watermelon-36-1",
+   "name": "Watermelon 36",
+   "kind": null
+  },
+  {
+   "id": 339272,
+   "slug": "borze",
+   "name": "Borze",
+   "kind": null
+  },
+  {
+   "id": 339278,
+   "slug": "compote",
+   "name": "Compote",
+   "kind": null
+  },
+  {
+   "id": 340100,
+   "slug": "number-of-arithmetic-triplets",
+   "name": "Number of Arithmetic Triplets",
+   "kind": null
+  },
+  {
+   "id": 340102,
+   "slug": "non-decreasing-array",
+   "name": "Non-decreasing Array",
+   "kind": null
+  },
+  {
+   "id": 340105,
+   "slug": "partition-array-according-to-given-pivot",
+   "name": "Partition Array According to Given Pivot",
+   "kind": null
+  },
+  {
+   "id": 340111,
+   "slug": "append-k-integers-with-minimal-sum-1",
+   "name": "Append K Integers With Minimal Sum 1",
+   "kind": null
+  },
+  {
+   "id": 343035,
+   "slug": "toggle-all-characters-in-a-string",
+   "name": "Toggle all characters in a string",
+   "kind": null
+  },
+  {
+   "id": 343041,
+   "slug": "sort-given-sentence-on-the-basis-of-integer-present-in-every-string",
+   "name": "Sort given sentence on the basis of integer present in every string",
+   "kind": null
+  },
+  {
+   "id": 343043,
+   "slug": "candy-17",
+   "name": "candy 17",
+   "kind": null
+  },
+  {
+   "id": 343045,
+   "slug": "valid-password-4-1",
+   "name": "Valid Password 4",
+   "kind": null
+  },
+  {
+   "id": 343048,
+   "slug": "print-triplets-with-sum-less-than-k",
+   "name": "Print triplets with sum less than k",
+   "kind": null
+  },
+  {
+   "id": 343050,
+   "slug": "frog-jump-7-1",
+   "name": "Frog Jump 7",
+   "kind": null
+  },
+  {
+   "id": 343125,
+   "slug": "valid-1-1",
+   "name": "valid 1",
+   "kind": null
+  },
+  {
+   "id": 343284,
+   "slug": "daily-temperatures-1",
+   "name": "HW_Daily temperatures 1",
+   "kind": null
+  },
+  {
+   "id": 351929,
+   "slug": "palindrome-number-48-1",
+   "name": "Palindrome Number 48",
+   "kind": null
+  },
+  {
+   "id": 351939,
+   "slug": "determine-if-two-events-have-conflict",
+   "name": "Determine if Two Events Have Conflict",
+   "kind": null
+  },
+  {
+   "id": 351948,
+   "slug": "longest-subarray-of-1s-after-deleting-one-element",
+   "name": "Longest Subarray of 1's After Deleting One Element",
+   "kind": null
+  },
+  {
+   "id": 354724,
+   "slug": "delete-middle-element-of-a-stack",
+   "name": "HW_Delete middle element of a stack",
+   "kind": null
+  },
+  {
+   "id": 354731,
+   "slug": "reversing-the-equation-1",
+   "name": "HW_Reversing the equation 1",
+   "kind": null
+  },
+  {
+   "id": 354732,
+   "slug": "remove-outermost-parentheses-4",
+   "name": "HW_Remove Outermost Parentheses 4",
+   "kind": null
+  },
+  {
+   "id": 354733,
+   "slug": "string-manipulation-31",
+   "name": "String Manipulation 31",
+   "kind": null
+  },
+  {
+   "id": 354737,
+   "slug": "count-the-reversals-3",
+   "name": "HW_Count the Reversals 3",
+   "kind": null
+  },
+  {
+   "id": 354740,
+   "slug": "remove-k-digits-3-2",
+   "name": "Remove K Digits 3",
+   "kind": null
+  },
+  {
+   "id": 354876,
+   "slug": "next-greater-element-21",
+   "name": "Next Greater Element 21",
+   "kind": null
+  },
+  {
+   "id": 354882,
+   "slug": "next-smaller-element-on-left-1",
+   "name": "Next Smaller Element on left 1",
+   "kind": null
+  },
+  {
+   "id": 354891,
+   "slug": "next-smaller-element-to-the-right",
+   "name": "Next Smaller Element To The Right",
+   "kind": null
+  },
+  {
+   "id": 354893,
+   "slug": "maximum-difference-14-1",
+   "name": "Maximum Difference 14",
+   "kind": null
+  },
+  {
+   "id": 354895,
+   "slug": "union-of-two-arrays-5-1",
+   "name": "HW_Union of two arrays 5",
+   "kind": null
+  },
+  {
+   "id": 354913,
+   "slug": "majority-element-5-1",
+   "name": "HW_Majority Element  5",
+   "kind": null
+  },
+  {
+   "id": 354916,
+   "slug": "valid-anagram-5",
+   "name": "Valid Anagram 5",
+   "kind": null
+  },
+  {
+   "id": 354922,
+   "slug": "count-the-characters-2-1",
+   "name": "Count the characters 2",
+   "kind": null
+  },
+  {
+   "id": 354929,
+   "slug": "find-missing-in-second-array",
+   "name": "Find missing in second array",
+   "kind": null
+  },
+  {
+   "id": 354931,
+   "slug": "anuj-test",
+   "name": "anuj test",
+   "kind": null
+  },
+  {
+   "id": 355008,
+   "slug": "permutation-in-string-2",
+   "name": "HW_Permutation in String 2",
+   "kind": null
+  },
+  {
+   "id": 355014,
+   "slug": "unique-number-of-occurrences-2",
+   "name": "Unique Number of Occurrences 2",
+   "kind": null
+  },
+  {
+   "id": 355018,
+   "slug": "k-largest-elements-5",
+   "name": "k largest elements 5",
+   "kind": null
+  },
+  {
+   "id": 355021,
+   "slug": "kth-smallest-element-21-2",
+   "name": "HW_Kth smallest element 21",
+   "kind": null
+  },
+  {
+   "id": 355024,
+   "slug": "minimum-cost-of-ropes-3",
+   "name": "Minimum Cost of ropes 3",
+   "kind": null
+  },
+  {
+   "id": 355027,
+   "slug": "first-non-repeating-character-in-a-stream-3-1",
+   "name": "HW_First non-repeating character in a stream 3",
+   "kind": null
+  },
+  {
+   "id": 355038,
+   "slug": "queue-reversal-5",
+   "name": "HW_Queue Reversal 5",
+   "kind": null
+  },
+  {
+   "id": 362343,
+   "slug": "stack-syntax-learning-using-character",
+   "name": "HW_Stack Syntax learning using Character",
+   "kind": null
+  },
+  {
+   "id": 362347,
+   "slug": "check-if-array-pair-are-divisible-by-k",
+   "name": "Check if array pair are divisible by K",
+   "kind": null
+  },
+  {
+   "id": 362351,
+   "slug": "maximum-product-of-two-element-in-array",
+   "name": "Maximum product of two element in array",
+   "kind": null
+  },
+  {
+   "id": 362360,
+   "slug": "reduce-array-size-to-the-half-1",
+   "name": "Reduce Array Size to the half 1",
+   "kind": null
+  },
+  {
+   "id": 362376,
+   "slug": "longest-k-unique-characters-substring",
+   "name": "HW_Longest K unique characters substring",
+   "kind": null
+  },
+  {
+   "id": 362398,
+   "slug": "employee-management",
+   "name": "employee management",
+   "kind": null
+  },
+  {
+   "id": 362674,
+   "slug": "pair-that-is-divisible-by-60",
+   "name": "HW_Pair that is divisible by 60",
+   "kind": null
+  },
+  {
+   "id": 369167,
+   "slug": "gullak",
+   "name": "Gullak",
+   "kind": null
+  },
+  {
+   "id": 369169,
+   "slug": "nexus-array",
+   "name": "Nexus Array",
+   "kind": null
+  },
+  {
+   "id": 369170,
+   "slug": "print-zero-one",
+   "name": "print Zero one",
+   "kind": null
+  },
+  {
+   "id": 369176,
+   "slug": "tic-tac-toe-10-2",
+   "name": "Tic-Tac-Toe 10",
+   "kind": null
+  },
+  {
+   "id": 370333,
+   "slug": "string-compression-12-2",
+   "name": "String Compression 12",
+   "kind": null
+  },
+  {
+   "id": 370336,
+   "slug": "finding-the-favorite-numbers-of-alices-students-",
+   "name": "Finding the Favorite Numbers of Alice's Students.",
+   "kind": null
+  },
+  {
+   "id": 370339,
+   "slug": "how-many-bottles",
+   "name": "How many bottles?",
+   "kind": null
+  },
+  {
+   "id": 374734,
+   "slug": "hw-single-element-in-a-sorted-array",
+   "name": "hw_single Element in a Sorted Array",
+   "kind": null
+  },
+  {
+   "id": 375682,
+   "slug": "puzzle-1-3",
+   "name": "puzzle-1",
+   "kind": null
+  },
+  {
+   "id": 375988,
+   "slug": "generate-fibonacci-triangle",
+   "name": "Generate fibonacci triangle",
+   "kind": null
+  },
+  {
+   "id": 375993,
+   "slug": "finding-position-1",
+   "name": "Finding position 1",
+   "kind": null
+  },
+  {
+   "id": 375995,
+   "slug": "merge-two-unsorted-array-in-sorted-form-",
+   "name": "merge two unsorted array in sorted form.",
+   "kind": null
+  },
+  {
+   "id": 376957,
+   "slug": "word-pattern-7",
+   "name": "Word Pattern 7",
+   "kind": null
+  },
+  {
+   "id": 378169,
+   "slug": "swap-2-numbers-3-1",
+   "name": "swap 2 numbers 3",
+   "kind": null
+  },
+  {
+   "id": 378174,
+   "slug": "rearrange-array-by-interchanging-positions-of-even-and-odd-elements-in-the-given-array",
+   "name": "Rearrange array by interchanging positions of even and odd elements in the given array",
+   "kind": null
+  },
+  {
+   "id": 391011,
+   "slug": "list-generation-1",
+   "name": "List Generation  1",
+   "kind": null
+  },
+  {
+   "id": 391020,
+   "slug": "list-deletion",
+   "name": "List Deletion",
+   "kind": null
+  },
+  {
+   "id": 391021,
+   "slug": "add-elements-4",
+   "name": "Add elements",
+   "kind": null
+  },
+  {
+   "id": 391024,
+   "slug": "reverse-a-list-1-1",
+   "name": "Reverse a list  1",
+   "kind": null
+  },
+  {
+   "id": 391025,
+   "slug": "concatenate-two-lists-1-2",
+   "name": "Concatenate Two Lists 1",
+   "kind": null
+  },
+  {
+   "id": 391029,
+   "slug": "list-initialization-with-custom-grades",
+   "name": "List Initialization with Custom Grades",
+   "kind": null
+  },
+  {
+   "id": 391030,
+   "slug": "trim-string-1",
+   "name": "trim string 1",
+   "kind": null
+  },
+  {
+   "id": 391031,
+   "slug": "list-expansion-with-custom-grades",
+   "name": "List Expansion with Custom Grades",
+   "kind": null
+  },
+  {
+   "id": 391033,
+   "slug": "list-removal",
+   "name": "List Removal",
+   "kind": null
+  },
+  {
+   "id": 391035,
+   "slug": "sum-of-all-element",
+   "name": "Sum of all element",
+   "kind": null
+  },
+  {
+   "id": 391038,
+   "slug": "list-operations-5-1",
+   "name": "List Operations 5",
+   "kind": null
+  },
+  {
+   "id": 391074,
+   "slug": "data-processing-with-user-input",
+   "name": "Data Processing with User Input",
+   "kind": null
+  },
+  {
+   "id": 391076,
+   "slug": "list-manipulation-with-user-input",
+   "name": "List Manipulation with User Input",
+   "kind": null
+  },
+  {
+   "id": 391078,
+   "slug": "merge-lists-with-user-input",
+   "name": "Merge Lists with User Input",
+   "kind": null
+  },
+  {
+   "id": 391226,
+   "slug": "remove-all-empty-string",
+   "name": "Remove All Empty String",
+   "kind": null
+  },
+  {
+   "id": 391232,
+   "slug": "extend-nested-list-by-adding-sublist",
+   "name": "Product List Without Division",
+   "kind": null
+  },
+  {
+   "id": 391236,
+   "slug": "replace-list-item-with-new-items-if-found",
+   "name": "Replace  list item with new items if found",
+   "kind": null
+  },
+  {
+   "id": 391238,
+   "slug": "takes-two-lists-list1-and-list2-and-returns-a-new-list",
+   "name": "takes two lists, list1 and list2, and returns a new list",
+   "kind": null
+  },
+  {
+   "id": 391239,
+   "slug": "list-reversal-with-conditions",
+   "name": "List Reversal with Conditions:",
+   "kind": null
+  },
+  {
+   "id": 391241,
+   "slug": "list-rotation-3",
+   "name": "List Rotation 3",
+   "kind": null
+  },
+  {
+   "id": 391559,
+   "slug": "mathwizard",
+   "name": "MathWizard",
+   "kind": null
+  },
+  {
+   "id": 391570,
+   "slug": "factorialfun",
+   "name": "FactorialFun",
+   "kind": null
+  },
+  {
+   "id": 391576,
+   "slug": "vowel-checker-1",
+   "name": "Vowel Checker",
+   "kind": null
+  },
+  {
+   "id": 391577,
+   "slug": "string-reversal-loops",
+   "name": "String Reversal using loops",
+   "kind": null
+  },
+  {
+   "id": 391578,
+   "slug": "right-angled-triangle-6",
+   "name": " Right-angled Triangle",
+   "kind": null
+  },
+  {
+   "id": 391579,
+   "slug": "oddsum-1-1",
+   "name": "OddSum",
+   "kind": null
+  },
+  {
+   "id": 391581,
+   "slug": "even-odd-magic",
+   "name": "Even-Odd Magic",
+   "kind": null
+  },
+  {
+   "id": 391626,
+   "slug": "divisor-detective",
+   "name": "Divisor Detective",
+   "kind": null
+  },
+  {
+   "id": 391630,
+   "slug": "fibonacci-frenzy-1",
+   "name": "Fibonacci Frenzy",
+   "kind": null
+  },
+  {
+   "id": 391641,
+   "slug": "temperature-converter-7",
+   "name": "Temperature Converter",
+   "kind": null
+  },
+  {
+   "id": 391645,
+   "slug": "multiple-sum-2-1",
+   "name": "Multiple Sum ",
+   "kind": null
+  },
+  {
+   "id": 391653,
+   "slug": "armstrong-number-138",
+   "name": "Armstrong Number",
+   "kind": null
+  },
+  {
+   "id": 391659,
+   "slug": "is-it-prime-1-3",
+   "name": "Is it prime",
+   "kind": null
+  },
+  {
+   "id": 391665,
+   "slug": "check-palindrome-26",
+   "name": "check Palindrome",
+   "kind": null
+  },
+  {
+   "id": 391670,
+   "slug": "first-occurence-1-1",
+   "name": "first occurence",
+   "kind": null
+  },
+  {
+   "id": 392086,
+   "slug": "queries-with-constraints",
+   "name": "Queries with constraints",
+   "kind": null
+  },
+  {
+   "id": 394192,
+   "slug": "sum-calculator-function",
+   "name": "Sum Calculator Function",
+   "kind": null
+  },
+  {
+   "id": 394320,
+   "slug": "ssss-4",
+   "name": "ssss 4",
+   "kind": null
+  },
+  {
+   "id": 394336,
+   "slug": "list-23-1",
+   "name": "List 23",
+   "kind": null
+  },
+  {
+   "id": 394362,
+   "slug": "add-6-and-7",
+   "name": "Add 6 and 7",
+   "kind": null
+  },
+  {
+   "id": 394610,
+   "slug": "lambda-function-magic",
+   "name": "Lambda Function Magic",
+   "kind": null
+  },
+  {
+   "id": 394611,
+   "slug": "mapping-mastery",
+   "name": "Mapping Mastery",
+   "kind": null
+  },
+  {
+   "id": 394612,
+   "slug": "filtering-finesse",
+   "name": "Filtering Finesse",
+   "kind": null
+  },
+  {
+   "id": 394824,
+   "slug": "delete-element-at-index-2",
+   "name": "Delete Element at index 2",
+   "kind": null
+  },
+  {
+   "id": 394825,
+   "slug": "reverse-a-list-5",
+   "name": "Reverse a list 5",
+   "kind": null
+  },
+  {
+   "id": 394827,
+   "slug": "concatenate-2-list",
+   "name": "Concatenate 2 list",
+   "kind": null
+  },
+  {
+   "id": 395208,
+   "slug": "sum-of-elements-8-1",
+   "name": "Sum of Elements 8",
+   "kind": null
+  },
+  {
+   "id": 395212,
+   "slug": "index-of-element-1",
+   "name": "Index of Element 1",
+   "kind": null
+  },
+  {
+   "id": 395728,
+   "slug": "tuple-element-printer",
+   "name": "Tuple Element Printer",
+   "kind": null
+  },
+  {
+   "id": 395770,
+   "slug": "count-and-index",
+   "name": "Count and Index",
+   "kind": null
+  },
+  {
+   "id": 395775,
+   "slug": "tuple-length",
+   "name": "Tuple Length",
+   "kind": null
+  },
+  {
+   "id": 395779,
+   "slug": "tuple-membership-check",
+   "name": "Tuple Membership Check",
+   "kind": null
+  },
+  {
+   "id": 395781,
+   "slug": "tuple-color-iteration",
+   "name": "Tuple Color Iteration",
+   "kind": null
+  },
+  {
+   "id": 395783,
+   "slug": "packing-and-unpacking-numbers",
+   "name": "Packing and Unpacking Numbers",
+   "kind": null
+  },
+  {
+   "id": 395786,
+   "slug": "tuple-reversal",
+   "name": "Tuple Reversal",
+   "kind": null
+  },
+  {
+   "id": 395877,
+   "slug": "tuple-sorting-by-second-item",
+   "name": "Tuple Sorting by Second Item",
+   "kind": null
+  },
+  {
+   "id": 395878,
+   "slug": "tuple-swapping",
+   "name": "Tuple Swapping",
+   "kind": null
+  },
+  {
+   "id": 395880,
+   "slug": "tuple-element-copying",
+   "name": "Tuple Element Copying",
+   "kind": null
+  },
+  {
+   "id": 395881,
+   "slug": "tuple-modification",
+   "name": "Tuple Modification",
+   "kind": null
+  },
+  {
+   "id": 395883,
+   "slug": "tuple-item-equality-check",
+   "name": "Tuple Item Equality Check",
+   "kind": null
+  },
+  {
+   "id": 395884,
+   "slug": "dictionary-key-sorting",
+   "name": "Dictionary Key Sorting",
+   "kind": null
+  },
+  {
+   "id": 395941,
+   "slug": "insert-element-2-2",
+   "name": "Insert Element 2",
+   "kind": null
+  },
+  {
+   "id": 395944,
+   "slug": "copy-list",
+   "name": "Copy List",
+   "kind": null
+  },
+  {
+   "id": 395945,
+   "slug": "common-list",
+   "name": "Common List",
+   "kind": null
+  },
+  {
+   "id": 395948,
+   "slug": "remove-empty-strings",
+   "name": "Remove empty strings",
+   "kind": null
+  },
+  {
+   "id": 395960,
+   "slug": "nested-dictionary-addition",
+   "name": "Nested Dictionary Addition",
+   "kind": null
+  },
+  {
+   "id": 395963,
+   "slug": "dictionary-pop-operations",
+   "name": "Dictionary Pop Operation",
+   "kind": null
+  },
+  {
+   "id": 395979,
+   "slug": "combined-operation",
+   "name": "Combined Operation ",
+   "kind": null
+  },
+  {
+   "id": 395984,
+   "slug": "list-manipulation-3-1",
+   "name": "List Manipulation 3",
+   "kind": null
+  },
+  {
+   "id": 395994,
+   "slug": "dictionary-update",
+   "name": "Dictionary Update",
+   "kind": null
+  },
+  {
+   "id": 396000,
+   "slug": "dictionary-length",
+   "name": "Dictionary Length",
+   "kind": null
+  },
+  {
+   "id": 396044,
+   "slug": "operations-on-dictionary",
+   "name": "Operations on Dictionary",
+   "kind": null
+  },
+  {
+   "id": 396084,
+   "slug": "update-dictionary",
+   "name": "Update Dictionary",
+   "kind": null
+  },
+  {
+   "id": 396088,
+   "slug": "dictionary-merge-student-records",
+   "name": "Dictionary - Merge Student Records",
+   "kind": null
+  },
+  {
+   "id": 396093,
+   "slug": "dictionary-extract-unique-names",
+   "name": "Dictionary - Extract Unique Names",
+   "kind": null
+  },
+  {
+   "id": 396096,
+   "slug": "dictionary-filtered-student-records",
+   "name": "Dictionary - Filtered Student Records",
+   "kind": null
+  },
+  {
+   "id": 396276,
+   "slug": "create-dictionary",
+   "name": "Create Dictionary",
+   "kind": null
+  },
+  {
+   "id": 396279,
+   "slug": "dictionary-update-user-info",
+   "name": "Dictionary - Update User Info",
+   "kind": null
+  },
+  {
+   "id": 396282,
+   "slug": "dictionary-key-value-printer",
+   "name": "Dictionary Key-Value Printer",
+   "kind": null
+  },
+  {
+   "id": 396290,
+   "slug": "dictionary-check-key",
+   "name": "Dictionary - Check Key",
+   "kind": null
+  },
+  {
+   "id": 396352,
+   "slug": "dictionary-value-summation",
+   "name": "Dictionary Value Summation",
+   "kind": null
+  },
+  {
+   "id": 396353,
+   "slug": "ex-1-lists-to-dictionary",
+   "name": "Lists to Dictionary",
+   "kind": null
+  },
+  {
+   "id": 396354,
+   "slug": "merge-dictionaries",
+   "name": "Merge Dictionaries",
+   "kind": null
+  },
+  {
+   "id": 396356,
+   "slug": "ex-3-dictionary-key-value-printing",
+   "name": "Ex-3. Dictionary Key Value Printing",
+   "kind": null
+  },
+  {
+   "id": 396357,
+   "slug": "ex-4-initialise-dictionary-with-default-values",
+   "name": "Ex-4. Initialise Dictionary with Default Values",
+   "kind": null
+  },
+  {
+   "id": 396358,
+   "slug": "ex-5-dictionary-key-extraction",
+   "name": "Ex-5. Dictionary Key Extraction",
+   "kind": null
+  },
+  {
+   "id": 396444,
+   "slug": "ex-6-dictionary-key-deletion",
+   "name": "Ex-6. Dictionary Key Deletion",
+   "kind": null
+  },
+  {
+   "id": 396448,
+   "slug": "ex-7-dictionary-value-checker",
+   "name": "Ex-7. Dictionary Value Checker",
+   "kind": null
+  },
+  {
+   "id": 396452,
+   "slug": "ex-8-dictionary-key-renaming",
+   "name": "Ex-8. Dictionary Key Renaming",
+   "kind": null
+  },
+  {
+   "id": 396453,
+   "slug": "ex-9-dictionary-key-of-minimum-value",
+   "name": "Ex-9. Dictionary Key of Minimum Value",
+   "kind": null
+  },
+  {
+   "id": 396458,
+   "slug": "ex-10-nested-dictionary-val-change",
+   "name": "Ex-10. Nested Dictionary Val Change",
+   "kind": null
+  },
+  {
+   "id": 396461,
+   "slug": "set-element-addition",
+   "name": "Set - Element Addition",
+   "kind": null
+  },
+  {
+   "id": 396518,
+   "slug": "set-element-removal",
+   "name": "Set - Element Removal",
+   "kind": null
+  },
+  {
+   "id": 396524,
+   "slug": "set-membership-testing",
+   "name": "Set - Membership Testing",
+   "kind": null
+  },
+  {
+   "id": 396527,
+   "slug": "set-union-1",
+   "name": "Set Union 1",
+   "kind": null
+  },
+  {
+   "id": 396537,
+   "slug": "set-intersection",
+   "name": "Set Intersection",
+   "kind": null
+  },
+  {
+   "id": 396582,
+   "slug": "difference-of-sets",
+   "name": "Difference of Sets",
+   "kind": null
+  },
+  {
+   "id": 396584,
+   "slug": "set-symmetric-difference",
+   "name": "Set Symmetric Difference",
+   "kind": null
+  },
+  {
+   "id": 396586,
+   "slug": "set-element-removal-with-discard",
+   "name": "Set Element Removal with discard()",
+   "kind": null
+  },
+  {
+   "id": 396587,
+   "slug": "set-exclusive-or-operation",
+   "name": "Set Exclusive OR Operation",
+   "kind": null
+  },
+  {
+   "id": 396588,
+   "slug": "set-third-largest-number-in-a-list",
+   "name": "Set - Third Largest Number in a List",
+   "kind": null
+  },
+  {
+   "id": 396589,
+   "slug": "common-elements-in-two-sets",
+   "name": "Common Elements in Two Sets",
+   "kind": null
+  },
+  {
+   "id": 396590,
+   "slug": "update-set-with-non-common-items",
+   "name": "Update Set with non-common items",
+   "kind": null
+  },
+  {
+   "id": 396591,
+   "slug": "remove-items-from-set1-not-common-to-both-sets",
+   "name": "Remove Items from Set1 Not Common to Both Sets",
+   "kind": null
+  },
+  {
+   "id": 396798,
+   "slug": "python-list-reversal",
+   "name": " Python List Reversal",
+   "kind": null
+  },
+  {
+   "id": 396853,
+   "slug": "python-reduce",
+   "name": "Python Reduce",
+   "kind": null
+  },
+  {
+   "id": 397251,
+   "slug": "string-trimming-function",
+   "name": "String Trimming Function",
+   "kind": null
+  },
+  {
+   "id": 397254,
+   "slug": "list-summation-1",
+   "name": "List Summation 1",
+   "kind": null
+  },
+  {
+   "id": 397258,
+   "slug": "list-insertion-at-index",
+   "name": "List Insertion at Index",
+   "kind": null
+  },
+  {
+   "id": 397259,
+   "slug": "list-copy-function",
+   "name": "List Copy Function",
+   "kind": null
+  },
+  {
+   "id": 397260,
+   "slug": "element-count-in-a-list",
+   "name": "Element Count in a List",
+   "kind": null
+  },
+  {
+   "id": 397261,
+   "slug": "popremove-element-from-list",
+   "name": "Pop/Remove Element from List",
+   "kind": null
+  },
+  {
+   "id": 397262,
+   "slug": "list-append-operation",
+   "name": "List Append Operation",
+   "kind": null
+  },
+  {
+   "id": 397263,
+   "slug": "list-clear-operation",
+   "name": "List Clear Operation",
+   "kind": null
+  },
+  {
+   "id": 397309,
+   "slug": "list-sorting-operation",
+   "name": "List Sorting Operation",
+   "kind": null
+  },
+  {
+   "id": 397312,
+   "slug": "list-reversal-3",
+   "name": "List Reversal 3",
+   "kind": null
+  },
+  {
+   "id": 397314,
+   "slug": "combined-list-operations",
+   "name": "Combined List Operations",
+   "kind": null
+  },
+  {
+   "id": 397328,
+   "slug": "merge-lists-function",
+   "name": "Merge Lists Function",
+   "kind": null
+  },
+  {
+   "id": 397331,
+   "slug": "find-words-function",
+   "name": "Find Words Function",
+   "kind": null
+  },
+  {
+   "id": 397332,
+   "slug": "filter-list-function",
+   "name": "Filter List Function",
+   "kind": null
+  },
+  {
+   "id": 397335,
+   "slug": "list-manipulation-4",
+   "name": "List Manipulation 4",
+   "kind": null
+  },
+  {
+   "id": 397523,
+   "slug": "unique-character-removal",
+   "name": "Unique Character Removal",
+   "kind": null
+  },
+  {
+   "id": 398446,
+   "slug": "list-reversal-challenge",
+   "name": "List Reversal Challenge",
+   "kind": null
+  },
+  {
+   "id": 398448,
+   "slug": "missing-number-finder-1",
+   "name": "Missing Number Finder 1",
+   "kind": null
+  },
+  {
+   "id": 398455,
+   "slug": "sum-of-square-of-list-elements",
+   "name": "Sum of Square of List Elements",
+   "kind": null
+  },
+  {
+   "id": 398458,
+   "slug": "sum-of-fibonacci-series-4",
+   "name": "Sum of Fibonacci Series 4",
+   "kind": null
+  },
+  {
+   "id": 398460,
+   "slug": "remove-even-numbers-from-list",
+   "name": "Remove Even Numbers from List",
+   "kind": null
+  },
+  {
+   "id": 398462,
+   "slug": "insert-no-at-index",
+   "name": "Insert No at Index",
+   "kind": null
+  },
+  {
+   "id": 400908,
+   "slug": "sort-dictionary-1-2",
+   "name": "Sort Dictionary 1",
+   "kind": null
+  },
+  {
+   "id": 400922,
+   "slug": "list-into-tuple",
+   "name": "List into Tuple",
+   "kind": null
+  },
+  {
+   "id": 406180,
+   "slug": "mean-median-and-mode-1-2",
+   "name": "Mean, Median, and Mode 1",
+   "kind": null
+  },
+  {
+   "id": 406181,
+   "slug": "weighted-mean",
+   "name": "Weighted_Mean",
+   "kind": null
+  },
+  {
+   "id": 425068,
+   "slug": "arthematic-operators",
+   "name": "Arithmetic Operators",
+   "kind": null
+  },
+  {
+   "id": 425108,
+   "slug": "simple-and-and-or-operators",
+   "name": "Simple AND and OR Operators",
+   "kind": null
+  },
+  {
+   "id": 425109,
+   "slug": "comparison-operator",
+   "name": "Comparison Operator",
+   "kind": null
+  },
+  {
+   "id": 425111,
+   "slug": "addition-of-two-matrices-3",
+   "name": "Addition of Two Matrices 3",
+   "kind": null
+  },
+  {
+   "id": 425113,
+   "slug": "substraction-of-two-matrix",
+   "name": "Substraction of two matrix",
+   "kind": null
+  },
+  {
+   "id": 428621,
+   "slug": "menu-driven-calculator-1",
+   "name": "menu driven calculator 1",
+   "kind": null
+  },
+  {
+   "id": 428623,
+   "slug": "remainder-without-using-modulo-operator",
+   "name": "Remainder Without Using Modulo Operator",
+   "kind": null
+  },
+  {
+   "id": 438686,
+   "slug": "calculator-using-class",
+   "name": "calculator using class",
+   "kind": null
+  },
+  {
+   "id": 438688,
+   "slug": "list-summation-3",
+   "name": "List Summation 3",
+   "kind": null
+  },
+  {
+   "id": 441056,
+   "slug": "frequency-counter-6",
+   "name": "frequency counter 6",
+   "kind": null
+  },
+  {
+   "id": 441059,
+   "slug": "student-marks-analyzer",
+   "name": "Student Marks Analyzer",
+   "kind": null
+  },
+  {
+   "id": 442853,
+   "slug": "length-of-last-word-20-3",
+   "name": "Length of Last Word 20",
+   "kind": null
+  },
+  {
+   "id": 442857,
+   "slug": "missing-number-69",
+   "name": "Missing Number in list",
+   "kind": null
+  },
+  {
+   "id": 442860,
+   "slug": "intersection-of-2-arrays",
+   "name": "Intersection of 2 Arrays",
+   "kind": null
+  },
+  {
+   "id": 442864,
+   "slug": "word-frequency-count",
+   "name": "Word frequency count",
+   "kind": null
+  },
+  {
+   "id": 442867,
+   "slug": "set-operations-5",
+   "name": "set operations 5",
+   "kind": null
+  },
+  {
+   "id": 442869,
+   "slug": "find-duplicate-in-list-1",
+   "name": "Find Duplicate in list 1",
+   "kind": null
+  },
+  {
+   "id": 451288,
+   "slug": "vowels-consonants-and-semi-vowels-separator",
+   "name": "Vowels, Consonants, and Semi-vowels Separator",
+   "kind": null
+  },
+  {
+   "id": 455927,
+   "slug": "sales-summary",
+   "name": "Sales Summary",
+   "kind": null
+  },
+  {
+   "id": 455956,
+   "slug": "find-prime-numbers-in-a-range",
+   "name": "Find Prime Numbers in a Range",
+   "kind": null
+  },
+  {
+   "id": 455958,
+   "slug": "highest-score-per-student",
+   "name": "Highest Score Per Student",
+   "kind": null
+  },
+  {
+   "id": 455960,
+   "slug": "factorial-digit-sum-3-1",
+   "name": "Factorial Digit Sum 3",
+   "kind": null
+  },
+  {
+   "id": 455967,
+   "slug": "second-largest-number-16-2",
+   "name": "Second largest number 16",
+   "kind": null
+  },
+  {
+   "id": 455968,
+   "slug": "sets-symmetric-difference",
+   "name": "Sets: Symmetric Difference",
+   "kind": null
+  }
+ ]
+}

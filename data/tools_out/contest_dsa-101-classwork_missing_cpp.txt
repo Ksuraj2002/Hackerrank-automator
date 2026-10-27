@@ -1,0 +1,6 @@
+2619     Maximum Subarray Sum                                         langs=-
+1163     Cycle Detection                                              langs=-
+226751   Maximum Perimeter Triangle                                   langs=-
+9828     Simple Array Sum                                             langs=-
+257648   Subarray with Given Sum 8                                    langs=-
+22538    Left Rotation                                                langs=-

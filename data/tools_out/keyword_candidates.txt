@@ -1,0 +1,191 @@
+
+Day 1   Classwork Take input of a number a print it.
+   keywords: 
+     (no name shares a keyword)
+
+Day 1   Classwork Find the last digit of a given number. Say 45983
+   keywords: digit, find, last, say
+     0.67 h=2  First and Last Digit 2
+     0.67 h=2  Find Last Occurrence
+     0.50 h=1  find the power 1
+     0.50 h=1  Last Question
+     0.50 h=1  Find the Difference 4
+     0.50 h=1  Find single
+
+Day 1   Classwork Take input of p,r,t and calculate si
+   keywords: calculate
+     0.33 h=1  HW_Calculate LCM
+     0.33 h=1  HW_Calculate Area 3
+     0.33 h=1  Calculate Standard Deviation
+     0.20 h=1  Calculate Area Using Classes and Objects
+
+Day 2   Classwork Store these expressions inside a Boolean variable ans. Print their outputs true or false accordingly a.       
+   keywords: accordingly, ans, bool, boolean, expressions, false, inside, outputs, store, their, these, true
+     0.50 h=1  Store Maximum
+     0.17 h=1  Subtract two numbers given their base is n.
+     0.17 h=1  Sort the array according to their Square of each element
+     0.17 h=1  Add two numbers given their base is n.
+     0.14 h=1  HW_Sort the array according to their cubes of each element
+
+Day 2   Classwork Take marks of a student in five subjects as input in a double variable. Print the sum of total marks and also 
+   keywords: also, double, find, five, marks, percentage, student, subjects, sum, total
+     1.00 h=1  3 Sum
+     1.00 h=1  2sum 2
+     0.75 h=3  HW_Marks of a student in 5 subjects
+     0.67 h=2  Student Marks Analyzer
+     0.50 h=2  Find sum using a function
+     0.50 h=2  Find Sum in Alphanumeric String
+
+Day 2   Classwork Take four integer inputs and check if the product of them is greater than 1000 or not. Print true or false acc
+   keywords: accordingly, check, false, four, greater, inputs, not, product, than, them, true
+     1.00 h=1  Check for 10
+     0.75 h=3  Greater than 100 or not
+     0.67 h=2  Greater Than Me
+     0.60 h=3  HW_Greater than 1000 or not.
+     0.50 h=1  max product 2
+     0.50 h=1  check eligibility
+
+Day 2   Classwork Take an integer input and check if the number is divisible by 7 or not.
+   keywords: check, divisible, not
+     1.00 h=1  Check for 10
+     0.67 h=2  Divisible by 7 or not
+     0.50 h=1  check eligibility
+     0.50 h=1  check Palindrome
+     0.50 h=1  Weird/Not Weird
+     0.50 h=1  Numbers divisible by 2.
+
+Day 2   Homework  Remove the last digit of a given number. Say 45983
+   keywords: digit, last, remove, say
+     0.67 h=2  First and Last Digit 2
+     0.50 h=2  Remove first and last characters
+     0.50 h=1  Remove character 4
+     0.50 h=1  Remove All Whitespace
+     0.50 h=1  Last Question
+     0.33 h=1  Reverse a 3 digit number
+
+Day 4   Classwork Take age of a person as input, print “Adult” if age is greater than or equal to 18 and print “Below age” if ag
+   keywords: adult, age, below, equal, greater, person, than
+     1.00 h=1  Is Equal?
+     0.67 h=2  Greater Than Me
+     0.50 h=2  Greater than 100 or not
+     0.50 h=1  Greater At Right
+     0.50 h=1  Equal strings 1
+     0.50 h=1  Equal Pairs 1
+
+Day 4   Classwork Maximum of two numbers, (user input)
+   keywords: maximum, two
+     0.50 h=1  Two-Strings
+     0.50 h=1  Two-Numbers
+     0.50 h=1  Two-Arrays
+     0.50 h=1  Two Sum 14
+     0.50 h=1  Store Maximum
+     0.50 h=1  Maximum of Array
+
+Day 4   Classwork Take two integer inputs x and y. Print “High Sum” if sum is greater than or equal to 100, and print “Low Sum” 
+   keywords: equal, greater, high, inputs, low, otherwise, sum, than, two
+     1.00 h=2  Two Sum 14
+     1.00 h=1  Is Equal?
+     1.00 h=1  3 Sum
+     1.00 h=1  2sum 2
+     0.75 h=3  High Sum or Low Sum
+     0.67 h=2  Sum Of Two Arrays  1
+
+Day 4   Classwork Grading System 1. You are given as input marks of a student. 2. Display an appropriate message based on the fo
+   keywords: above, appropriate, based, below, conditions, display, equal, excellent, expectations, failed, fair, follow, following, 
+     1.00 h=1  Is Equal?
+     1.00 h=1  Grading 2
+     0.67 h=2  Student Marks Analyzer
+     0.50 h=2  HW_Marks of a student in 5 subjects
+     0.50 h=1  Is Good String?
+     0.50 h=1  Grading Calculator
+
+Day 4   Classwork A shop will give a discount of 10% on the total cost if the cost of the quantity purchased is more than 1000. 
+   keywords: ask, cost, discount, give, judge, more, one, purchased, quantity, shop, suppose, than, total, unit, will
+     1.00 h=2  Shop Discount
+     0.50 h=1  minimize cost
+     0.50 h=1  Geekster Shop
+     0.50 h=1  Add One
+     0.33 h=1  print Zero one
+     0.33 h=1  Total Number of Words
+
+Day 4   Classwork The bonus in a company is given by Bonus= Salary * (5 / 100). A company decided to give a bonus of 5% to emplo
+   keywords: amount, ask, bonus, company, decided, employees, give, her, his, more, net, salary, service, than, their, year, years
+     0.50 h=1  Print Bonus
+     0.50 h=1  Is Leap Year
+     0.33 h=1  Sachin and his String
+     0.33 h=1  HW_Total Salary 2
+     0.33 h=1  Greater Than Me
+     0.33 h=1  GKSTRXX Leap_Year
+
+Day 4   Homework  Take two numbers as integer input and print the larger number as the output in the integer format.
+   keywords: format, larger, two
+     0.50 h=1  Two-Strings
+     0.50 h=1  Two-Numbers
+     0.50 h=1  Two-Arrays
+     0.50 h=1  Two Sum 14
+     0.50 h=1  Chess Format 1
+     0.33 h=1  Sum Of Two Arrays  1
+
+Day 4   Homework  Take an integer input and print Even if the integer is even else print Odd.
+   keywords: else, even, odd
+     0.67 h=2  Sum of even & odd 2
+     0.67 h=2  Odd Even Pattern
+     0.67 h=2  HW_Odd Even 11
+     0.67 h=2  HW_Even Odd 1000
+     0.67 h=2  Even-Odd Magic
+     0.67 h=2  Even Odd 2 PreMCT
+
+Day 4   Homework  Take income of a person as input from the user, print “No tax to be paid” if income is less than 500,000 and p
+   keywords: equal, greater, income, less, paid, person, tax, than
+     1.00 h=1  Is Equal?
+     0.67 h=2  Greater Than Me
+     0.50 h=2  Greater than 100 or not
+     0.50 h=1  Greater At Right
+     0.50 h=1  Equal strings 1
+     0.50 h=1  Equal Pairs 1
+
+Day 4   Homework  A teacher adds 4 marks as grace marks only if the marks of the student is below 33. Print the final marks of s
+   keywords: adds, below, final, grace, marks, only, student, teacher
+     0.67 h=2  Student Marks Analyzer
+     0.67 h=2  HW_Grace Marks 1
+     0.50 h=2  HW_Marks of a student in 5 subjects
+     0.50 h=1  Grade the student-2
+     0.50 h=1  Grade the student 1
+     0.33 h=1  Print final z
+
+Day 4   Homework  Take age as input from the user. a.        Print “Super Senior Citizen” if age is above 70 b.        Print “Se
+   keywords: above, adult, age, below, born, but, citizen, conditions, equal, follow, new, none, senior, super, underage
+     1.00 h=1  Is Equal?
+     0.50 h=1  Equal strings 1
+     0.50 h=1  Equal Pairs 1
+     0.33 h=1  Super Bit String
+     0.33 h=1  Rich Adult Young
+     0.33 h=1  Predict Future Age
+
+Day 4   Homework  The government adds money into the account of a person based on his age. Take age and salary of the person as 
+   keywords: above, account, added, adds, age, based, below, equal, final, government, his, income, inputs, less, money, person, sala
+     1.00 h=1  Is Equal?
+     0.60 h=3  HW_Print final salary given age
+     0.50 h=2  Print the final incremented salary
+     0.50 h=1  Oil Money
+     0.50 h=1  Equal strings 1
+     0.50 h=1  Equal Pairs 1
+
+Day 6   Classwork Leap Year
+   keywords: leap, year
+     1.00 h=2  Is Leap Year
+     0.67 h=2  GKSTRXX Leap_Year
+
+Day 6   Classwork Short Circuit tech (tell them ki interview me pooch skte h ese, ise)
+   keywords: circuit, ese, interview, ise, pooch, short, skte, tech, tell, them
+     0.25 h=1  Tell about x y
+     0.25 h=1  Divide n by 2 3 5 and tell steps
+
+Day 6   Classwork Coding Bat Make chocolates and bricks problem
+   keywords: bat, bricks, chocolates, coding, make, problem
+     0.50 h=1  Tiling Problem 2
+     0.50 h=1  Simple Problem 4
+     0.50 h=1  Search Problem
+     0.50 h=1  Pattern Problem
+     0.50 h=1  Partition problem 1
+     0.50 h=1  Grid Problem 3

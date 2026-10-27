@@ -1,0 +1,155 @@
+# Borderline: curriculum Homework <-> contest challenge. KEEP or NEW.
+
+0.89 modifier-drift Day 42  LC169 Majority Element
+      candidate: Majority Element II  [majority-element-ii]
+
+0.89 modifier-drift Day 44  Merge two sorted arrays in place (LC88)
+      candidate: Merge two sorted arrays 7  [merge-two-sorted-arrays-7]
+
+0.89 modifier-drift Day 51  LC59 Spiral Matrix II
+      candidate: Spiral Matrix 44  [spiral-matrix-44]
+
+0.88 score          Day 17  Right-aligned triangle
+      candidate: Right-angled Triangle  [right-angled-triangle-6]
+
+0.88 score          Day 2   Celsius to Fahrenheit converter
+      candidate: Fahrenheit and Celsius  [fahrenheit-and-celsius]
+
+0.88 score          Day 6   Valid triangle and its type
+      candidate: Type of Triangle  [what-type-of-triangle]
+
+0.88 score          Day 28  Count vowels recursively
+      candidate: Count Vowels  [count-vowels-8-1]
+
+0.88 score          Day 28  Reverse a string recursively
+      candidate: Reverse The String  [reverse-a-string-1-4]
+
+0.88 score          Day 29  Sum of an array
+      candidate: Simple Array Sum  [simple-array-sum]
+
+0.88 score          Day 30  Second largest element
+      candidate: Second largest number 16  [second-largest-number-16-2]
+
+0.88 score          Day 34  Return index of the maximum element
+      candidate: Index of Element 1  [index-of-element-1]
+
+0.88 score          Day 37  Check if one array is a rotation of another
+      candidate: Check Array Rotation 6  [check-array-rotation-6]
+
+0.88 score          Day 46  Count occurrences of anagrams (GfG)
+      candidate: Count the Occurrences!  [count-the-occurrences]
+
+0.86 score          Day 22  isPalindromeNumber(n)
+      candidate: Palindrome Number 48  [palindrome-number-48-1]
+
+0.86 score          Day 40  Largest sum of exactly k elements
+      candidate: k largest elements 5  [k-largest-elements-5]
+
+0.86 score          Day 58  Median in a row-wise sorted Matrix (GfG)
+      candidate: Print the Matrix Row-wise  [print-the-matrix-row-wise]
+
+0.82 score          Day 8   Print N down to 1
+      candidate: Print the numbers to N.  [print-the-numbers-to-n-]
+
+0.82 score          Day 18  Butterfly pattern
+      candidate: print the pattern-1  [print-the-pattern-1-9]
+
+0.82 score          Day 22  sumOfDigits(n)
+      candidate: Print the numbers to N.  [print-the-numbers-to-n-]
+
+0.82 modifier-drift Day 27  Recursive palindrome check
+      candidate: Palindrome Number 48  [palindrome-number-48-1]
+
+0.82 score          Day 36  Check if the array is a palindrome
+      candidate: Palindrome Number 48  [palindrome-number-48-1]
+
+0.82 score          Day 54  LC268 Missing Number (Using XOR)
+      candidate: Missing Number Finder 1  [missing-number-finder-1]
+
+0.82 score          Day 55  Product of all subarrays (GfG)
+      candidate: Print All Subarrays  [print-subsets-1]
+
+0.82 score          Day 57  LC43 Multiply Strings
+      candidate: Find Strings  [find-strings]
+
+0.82 score          Day 59  Trapping Rain Water (LC42 - Brute/Better approach)
+      candidate: Trapping Rain Water 10  [trapping-rain-water-10-1]
+
+0.81 score          Day 41  Missing number in 1..N
+      candidate: Missing Number Finder 1  [missing-number-finder-1]
+
+0.79 modifier-drift Day 23  min/max of three via a function
+      candidate: Max Min  [three-month-preparation-kit-angry-children]
+
+0.77 modifier-drift Day 11  Hollow square
+      candidate: Pattern 8 - Print a hollow square without top  [pattern-8-print-a-hollow-square-without-top]
+
+0.77 modifier-drift Day 16  Hollow square
+      candidate: Pattern 8 - Print a hollow square without top  [pattern-8-print-a-hollow-square-without-top]
+
+0.77 score          Day 18  Pascal-style number pattern
+      candidate: print the pattern-1  [print-the-pattern-1-9]
+
+0.77 score          Day 24  Armstrong number; largest digit
+      candidate: Armstrong Number  [armstrong-number-138]
+
+0.77 score          Day 25  Sum of divisors of N
+      candidate: Print the numbers to N.  [print-the-numbers-to-n-]
+
+0.77 score          Day 27  Fast power a^b
+      candidate: find the power 1  [find-the-power-1]
+
+0.77 score          Day 33  LC56 Merge Intervals (Intro - sort by start time)
+      candidate: Merge Intervals 3  [merge-intervals-3]
+
+0.77 score          Day 52  XOR of numbers from 1 to N (GfG)
+      candidate: Print the numbers to N.  [print-the-numbers-to-n-]
+
+0.74 score          Day 53  LC338 Counting Bits
+      candidate: Counting jumps  [counting-jumps]
+
+0.74 score          Day 36  Move all zeros to the end
+      candidate: Push All Zeros To End  [push-all-zeros-to-end]
+
+0.74 modifier-drift Day 4   Divisible by 5?
+      candidate: Divisible by 7 or not  [divisible-by-7-or-not]
+
+0.74 score          Day 57  Check if a string is a valid shuffle of two strings (GfG)
+      candidate: Find Strings  [find-strings]
+
+0.72 score          Day 32  Sort an array of strings by first letter
+      candidate: Find Strings  [find-strings]
+
+0.72 score          Day 55  Count subarrays with sum exactly K (Brute force)
+      candidate: Print All Subarrays  [print-subsets-1]
+
+0.72 modifier-drift Day 47  Longest subarray with k distinct characters (GfG)
+      candidate: Longest Substring Without Repeating Characters 6  [longest-substring-without-repeating-characters-6-1]
+
+0.71 score          Day 21  Find O(1) space solutions vs O(N) solutions
+      candidate: Print the numbers to N.  [print-the-numbers-to-n-]
+
+0.71 score          Day 49  LC49 Group Anagrams (Intro via sorting strings)
+      candidate: Anagrams 25  [anagrams-25-3]
+
+0.70 score          Day 33  Sort array elements by frequency (Intro)
+      candidate: Sort Array by Increasing Frequency  [sort-array-by-increasing-frequency]
+
+0.69 score          Day 46  LC1343 Number of Subarrays of Size K and Average Greater than or Equal to Threshold
+      candidate: Print All Subarrays  [print-subsets-1]
+
+0.69 score          Day 32  Find median after sorting
+      candidate: hw_Find Target Indices After Sorting Array  [find-target-indices-after-sorting-array]
+
+0.68 score          Day 37  Rotate a matrix row
+      candidate: Print the Matrix Row-wise  [print-the-matrix-row-wise]
+
+0.68 score          Day 35  Find Ceil of x in sorted array (GfG)
+      candidate: hw_single Element in a Sorted Array  [hw-single-element-in-a-sorted-array]
+
+0.66 score          Day 4   Positive, negative or zero
+      candidate: Classifying Feedbacks into Positive or Negative  [classifying-feedbacks-into-positive-or-negative]
+
+0.66 modifier-drift Day 31  Sort an array in descending order
+      candidate: Sort Array in decreasing order using custom sort  [sort-array-in-decreasing-order-using-custom-sort]
+

@@ -1,0 +1,118 @@
+ Right-angled Triangle
+Anagrams 25
+Armstrong Number
+Check Array Rotation 6
+Check if Array Is Sorted and Rotated 1
+Classifying Feedbacks into Positive or Negative
+Count Vowels 
+Count the Occurrences!
+Counting jumps
+Divisible by 7 or not
+Fahrenheit and Celsius
+Find GCD of Array
+Find Pivot Index 
+Form the largest number
+HW_Count Subarray Sum Zero
+HW_Minimal Maximum Sum
+HW_Print the Number Pattern 2
+Half it!
+Highest Value Palindrome
+Homework: 3Sum Closest
+Homework: Age Category
+Homework: Age Category Ladder
+Homework: Age-Based Government Bonus
+Homework: Apply Range Updates to an Array
+Homework: Binary Representation of a Number
+Homework: Check if Two Arrays are Permutations of Each Other
+Homework: Check if a Matrix is the Identity Matrix
+Homework: Check if a Value Exists in an Array
+Homework: Container With Most Water
+Homework: Count Even and Odd Elements
+Homework: Count Positive Elements in an Array
+Homework: Digital Root of a Number
+Homework: Double and Halve a Number
+Homework: Drop the Last Digit
+Homework: Element that Appears Only Once
+Homework: Even or Odd
+Homework: Factorial of a Number
+Homework: First N Fibonacci Numbers
+Homework: First and Last Position of an Element in a Sorted Array
+Homework: Floyd's Number Triangle
+Homework: Grace Marks
+Homework: Greatest Common Divisor of Two Numbers
+Homework: Half Diamond Pattern
+Homework: Income Tax Check
+Homework: Is a Year a Leap Year
+Homework: Larger of Two Numbers
+Homework: Largest of Three Distinct Numbers
+Homework: List All Ordered Pairs (i, j) with i less than j
+Homework: Longest Word in a Sentence
+Homework: Maximum Contiguous Subarray Sum
+Homework: Menu Selection
+Homework: Number of Adjacent Swaps to Sort
+Homework: Number of Days in a Month
+Homework: Prime Numbers up to N
+Homework: Print Your Daily Timetable
+Homework: Print a 4-Line House
+Homework: Print a Coordinate Grid
+Homework: Rearrange Positives and Negatives Alternately
+Homework: Reduce a Fraction to Lowest Terms
+Homework: Remove Duplicates from a Sorted Array
+Homework: Remove the Last Digit of a Number
+Homework: Row with the Maximum Sum
+Homework: Simple Calculator
+Homework: Smallest Window Containing All Characters
+Homework: Sort an Array of Colors
+Homework: Sum of an Arithmetic Progression
+Homework: Ticket Price by Age
+Homework: Two Elements that Appear Only Once
+Homework: Two Sum in an Unsorted Array
+Index of Element 1
+Kth Smallest Element in a Sorted Matrix 1
+Leaders in array 4
+Longest Substring Without Repeating Characters 6
+Majority Element II
+Max Min
+Maximum Product Subarray 2
+Maximum Subarray Sum
+Merge Intervals 3
+Merge two sorted arrays 7
+Missing Number Finder 1
+N factorial 2
+Palindrome Checking 1
+Palindrome Number 48
+Pattern 8 - Print a hollow square without top
+Power calculator
+Print All Subarrays
+Print All Substrings
+Print the Matrix Row-wise
+Print the numbers to N.
+Push All Zeros To End
+Recursive Digit Sum
+Remove All Adjacent Duplicates In String
+Reverse The String
+Rightmost set bit of number
+Second largest number 16
+Set Matrix Zeroes 2
+Simple Array Sum
+Sort 0 1
+Sort Array by Increasing Frequency
+Sort Array in decreasing order using custom sort 
+Spiral Matrix 44
+Squares of a Sorted Array 2
+Subarray Sums Divisible by K
+Sum Finding
+Sum of Digits of a Five Digit Number
+Sum of Fibonacci Series 4
+Sum of even & odd 2
+Toggle all characters in a string
+Trapping Rain Water 10
+Type of Triangle
+find the power 1
+hw_Find Target Indices After Sorting Array
+hw_single Element in a Sorted Array
+k largest elements 5
+menu driven calculator 1
+merge two unsorted array in sorted form.
+pos-neg if-else
+print the pattern-1

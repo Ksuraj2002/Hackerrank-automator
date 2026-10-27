@@ -1,0 +1,592 @@
+# Borderline pairs - mark each KEEP (already exists) or NEW (generate it).
+# Sorted by score, highest first. Run hr_fetch_statements.py to settle
+# these by comparing problem statements instead of names.
+
+0.89 modifier-drift Day 2   Classwork Swap two numbers using a third variable
+      existing candidate: Swap the Numbers Without using a Third variable  [swap-the-numbers-without-using-a-third-variable]
+
+0.89 modifier-drift Day 44  Homework  Merge two sorted arrays in place (LC88)
+      existing candidate: HW_Merge two sorted arrays  [merge-two-sorted-arrays-6-3]
+
+0.89 modifier-drift Day 51  Homework  LC59 Spiral Matrix II
+      existing candidate: Spiral Matrix 44  [spiral-matrix-44]
+
+0.89 score          Day 45  Classwork LC15 3Sum
+      existing candidate: 3 Sum  [target-triplets]
+
+0.88 score          Day 17  Homework  Right-aligned triangle
+      existing candidate: Right-angled Triangle  [right-angled-triangle-6]
+
+0.88 score          Day 1   Classwork Area and perimeter of a rectangle
+      existing candidate: HW_Area_Of_Rectangle  [gkstr03-area-of-rectangle]
+
+0.88 score          Day 2   Homework  Celsius to Fahrenheit converter
+      existing candidate: Fahrenheit and Celsius  [fahrenheit-and-celsius]
+
+0.88 modifier-drift Day 8   Classwork Print 1..N and even numbers to N
+      existing candidate: Print N to 1 3  [print-n-to-1-3]
+
+0.88 score          Day 9   Classwork Sum of digits with while
+      existing candidate: Sum of Digits 81  [sum-of-digits-81-3]
+
+0.88 score          Day 9   Classwork Count digits with while
+      existing candidate: Count number of digits  1  [count-number-of-digits-1-2]
+
+0.88 score          Day 13  Classwork Sum of digits with while
+      existing candidate: Sum of Digits 81  [sum-of-digits-81-3]
+
+0.88 score          Day 13  Classwork Count digits with while
+      existing candidate: Count number of digits  1  [count-number-of-digits-1-2]
+
+0.88 score          Day 15  Classwork Sum of a series
+      existing candidate: Sum of Fibonacci Series 4  [sum-of-fibonacci-series-4]
+
+0.88 score          Day 15  Homework  Fibonacci series with a loop
+      existing candidate: HW_Print fibonacci series 2  [print-fibonacci-series-2]
+
+0.88 score          Day 25  Classwork Print primes 1..N
+      existing candidate: Print N to 1 3  [print-n-to-1-3]
+
+0.88 score          Day 27  Classwork Print 1..N and N..1 recursively
+      existing candidate: Print N to 1 3  [print-n-to-1-3]
+
+0.88 score          Day 27  Classwork Sum of digits recursively
+      existing candidate: Sum of Digits 81  [sum-of-digits-81-3]
+
+0.88 score          Day 28  Homework  Count vowels recursively
+      existing candidate: Count Vowels  [count-vowels-8-1]
+
+0.88 score          Day 28  Homework  Reverse a string recursively
+      existing candidate: Reverse The String  [reverse-a-string-1-4]
+
+0.88 score          Day 29  Homework  Sum of an array
+      existing candidate: Sum of all Elements of Array  [sum-of-all-elements-of-array]
+
+0.88 score          Day 30  Classwork Max and min in one pass
+      existing candidate: Max and Min 5  [max-and-min-5]
+
+0.88 score          Day 30  Homework  Second largest element
+      existing candidate: Second largest number 16  [second-largest-number-16-2]
+
+0.88 score          Day 30  Homework  Count even and odd
+      existing candidate: HW_Odd Even 11  [odd-even-11-1]
+
+0.88 score          Day 32  Classwork Insertion sort implementation
+      existing candidate: Insertion Sort 28  [insertion-sort-28-5]
+
+0.88 score          Day 34  Classwork Count occurrences of x
+      existing candidate: Count the Occurrences!  [count-the-occurrences]
+
+0.88 score          Day 34  Homework  Return index of the maximum element
+      existing candidate: HW_Element as an index  [element-as-an-index]
+
+0.88 score          Day 35  Classwork LC704 Binary Search
+      existing candidate: Binary Search in an Array  [search-in-array-2]
+
+0.88 score          Day 36  Classwork Reverse a sub-range
+      existing candidate: HW_REVERSE IN RANGE  [reverse-in-range]
+
+0.88 score          Day 37  Homework  Check if one array is a rotation of another
+      existing candidate: Check Array Rotation 6  [check-array-rotation-6]
+
+0.88 score          Day 40  Classwork LC53 Maximum Subarray
+      existing candidate: Maximum Product Subarray 2  [maximum-product-subarray-2]
+
+0.88 score          Day 41  Homework  Missing number in 1..N
+      existing candidate: Print N to 1 3  [print-n-to-1-3]
+
+0.88 score          Day 46  Homework  Count occurrences of anagrams (GfG)
+      existing candidate: Count the Occurrences!  [count-the-occurrences]
+
+0.88 score          Day 48  Classwork Count the words using stringstream
+      existing candidate: Count Words  [count-words-11]
+
+0.88 modifier-drift Day 51  Classwork Transpose a matrix in place
+      existing candidate: Transpose of matrix 7  [transpose-of-matrix-7]
+
+0.88 score          Day 52  Classwork Check if a number is odd/even using Bitwise AND
+      existing candidate: HW_Odd Even 11  [odd-even-11-1]
+
+0.88 score          Day 52  Homework  XOR of numbers from 1 to N (GfG)
+      existing candidate: Print N to 1 3  [print-n-to-1-3]
+
+0.88 score          Day 56  Classwork LC53 Maximum Subarray (Review)
+      existing candidate: Maximum Product Subarray 2  [maximum-product-subarray-2]
+
+0.88 score          Day 57  Classwork LC14 Longest Common Prefix
+      existing candidate: HW_common prefix 1  [common-prefix-1]
+
+0.86 score          Day 22  Homework  isPalindromeNumber(n)
+      existing candidate: Palindrome Number 48  [palindrome-number-48-1]
+
+0.86 score          Day 8   Classwork Print all factors of N
+      existing candidate: Print all factors of a number  [print-all-factors-of-a-number]
+
+0.86 score          Day 12  Classwork Print all factors of N
+      existing candidate: Print all factors of a number  [print-all-factors-of-a-number]
+
+0.86 score          Day 40  Homework  Largest sum of exactly k elements
+      existing candidate: k largest elements 5  [k-largest-elements-5]
+
+0.86 score          Day 54  Classwork Clear rightmost set bit (N & (N-1))
+      existing candidate: Rightmost set bit of number  [rightmost-set-bit-of-number]
+
+0.86 score          Day 55  Classwork Find max subarray sum using O(N^2)
+      existing candidate: Max subarray sum 5  [max-subarray-sum-5]
+
+0.86 score          Day 58  Homework  Median in a row-wise sorted Matrix (GfG)
+      existing candidate: Print the Matrix Row-wise  [print-the-matrix-row-wise]
+
+0.86 score          Day 59  Classwork LC128 Longest Consecutive Sequence (Sorting approach)
+      existing candidate: Longest Consecutive Sequence 2  [longest-consecutive-sequence-2-2]
+
+0.86 score          Day 28  Classwork All subsequences of a string
+      existing candidate: Subsequence of String  [subsequence-of-string-1]
+
+0.85 score          Day 2   Classwork Take an integer input and check if the number is divisible by 7 or not.
+      existing candidate: Divisible by 7 or not  [divisible-by-7-or-not]
+
+0.85 score          Day 41  Classwork Most frequent element
+      existing candidate: HW_k frequent elements  [k-frequent-character]
+
+0.85 score          Day 22  Homework  sumOfDigits(n)
+      existing candidate: Sum of Digits 81  [sum-of-digits-81-3]
+
+0.83 score          Day 55  Homework  Product of all subarrays (GfG)
+      existing candidate: HW_Product of Arrays 1  [product-of-arrays-1]
+
+0.83 score          Day 48  Classwork LC125 Valid Palindrome
+      existing candidate: Is Palindrome  [cc01-is-palindrome]
+
+0.83 modifier-drift Day 6   Homework  Calculator using if-else
+      existing candidate: calculator using class  [calculator-using-class]
+
+0.83 score          Day 46  Classwork Maximum sum window of size k (GfG)
+      existing candidate: Maximum Element in window of size k  [maximum-element-in-window-of-size-k]
+
+0.82 score          Day 2   Classwork Sum of digits of a 3-digit number
+      existing candidate: 3 Sum  [target-triplets]
+
+0.82 score          Day 7   Classwork Day of the week from a number
+      existing candidate: HW_Print the day  [print-the-day]
+
+0.82 score          Day 7   Homework  Number of days in a month
+      existing candidate: HW_Print the month  [print-the-month]
+
+0.82 score          Day 8   Homework  Print N down to 1
+      existing candidate: Print n to 1  [print-n-to-1-2]
+
+0.82 score          Day 8   Homework  Factorial with a loop
+      existing candidate: Factorial 156  [factorial-156]
+
+0.82 score          Day 9   Classwork Reverse a number with while
+      existing candidate: Reverse Numbers 4  [reverse-numbers-4]
+
+0.82 score          Day 13  Classwork Reverse a number with while
+      existing candidate: Reverse Numbers 4  [reverse-numbers-4]
+
+0.82 score          Day 14  Classwork Print a grid of numbers
+      existing candidate: Grid Problem 3  [grid-problem-3]
+
+0.82 score          Day 17  Classwork Pyramid of stars
+      existing candidate: print Numbers and stars  [print-numbers-and-stars]
+
+0.82 score          Day 18  Classwork Alphabet pattern
+      existing candidate: HW_Print the Number Pattern 2  [print-the-number-pattern-2]
+
+0.82 score          Day 18  Homework  Butterfly pattern
+      existing candidate: HW_Print the Number Pattern 2  [print-the-number-pattern-2]
+
+0.82 score          Day 22  Classwork isPrime(n)
+      existing candidate: Print n to 1  [print-n-to-1-2]
+
+0.82 score          Day 26  Classwork GCD using Euclid
+      existing candidate: Find GCD of two number  [find-gcd-of-two-number]
+
+0.82 score          Day 27  Classwork Factorial recursively
+      existing candidate: Factorial 156  [factorial-156]
+
+0.82 modifier-drift Day 27  Homework  Recursive palindrome check
+      existing candidate: Is Palindrome  [cc01-is-palindrome]
+
+0.82 score          Day 30  Classwork Average of the array
+      existing candidate: Find Average  [addition-of-two-numbers-22]
+
+0.82 score          Day 33  Homework  Sort array elements by frequency (Intro)
+      existing candidate: HW_Print Elements of Array  [array-basic-i]
+
+0.82 score          Day 35  Homework  Find Ceil of x in sorted array (GfG)
+      existing candidate: is array sorted  [is-array-sorted]
+
+0.82 score          Day 36  Homework  Check if the array is a palindrome
+      existing candidate: Is Palindrome  [cc01-is-palindrome]
+
+0.82 score          Day 38  Classwork Sum of a given range
+      existing candidate: Two Sum 14  [two-sum-14-1]
+
+0.82 score          Day 39  Classwork Build a prefix-sum array
+      existing candidate: Print Prefix Sum  [print-prefix-sum]
+
+0.82 score          Day 43  Classwork Reverse using two pointers
+      existing candidate: Reverse Numbers 4  [reverse-numbers-4]
+
+0.82 modifier-drift Day 43  Homework  Remove duplicates from a sorted array (LC26)
+      existing candidate: is array sorted  [is-array-sorted]
+
+0.82 modifier-drift Day 45  Classwork LC26 Remove Duplicates from Sorted Array
+      existing candidate: is array sorted  [is-array-sorted]
+
+0.82 score          Day 49  Classwork Frequency of each character
+      existing candidate: Character and it's Frequency  [character-by-frequency]
+
+0.82 score          Day 55  Classwork Print all subarrays of an array
+      existing candidate: Print All Subarrays  [print-subsets-1]
+
+0.82 score          Day 56  Classwork LC560 Subarray Sum Equals K (Using prefix sums/hashmap intro)
+      existing candidate: HW_Sum Equals One  [sum-equals-one]
+
+0.82 score          Day 57  Classwork LC415 Add Strings
+      existing candidate: Add One  [cc5-02-add-one]
+
+0.82 score          Day 57  Homework  LC43 Multiply Strings
+      existing candidate: Two-Strings  [two-strings-9]
+
+0.82 score          Day 59  Classwork LC31 Next Permutation
+      existing candidate: HW_Find Permutation 1  [find-permutation-1]
+
+0.82 score          Day 59  Homework  LC75 Sort Colors
+      existing candidate: sort 987  [sort-9-8-7]
+
+0.82 score          Day 59  Homework  Trapping Rain Water (LC42 - Brute/Better approach)
+      existing candidate: Trapping Rain Water 10  [trapping-rain-water-10-1]
+
+0.79 modifier-drift Day 58  Classwork LC74 Search a 2D Matrix
+      existing candidate: HW_Search in a sorted matrix  [search-in-a-sorted-matrix]
+
+0.79 modifier-drift Day 23  Homework  min/max of three via a function
+      existing candidate: Max and Min 5  [max-and-min-5]
+
+0.79 score          Day 39  Classwork Equilibrium index via prefix sum
+      existing candidate: Print Prefix Sum  [print-prefix-sum]
+
+0.79 modifier-drift Day 43  Classwork LC167 Two Sum II - Input Array Is Sorted
+      existing candidate: is array sorted  [is-array-sorted]
+
+0.79 score          Day 52  Homework  Multiply/Divide a number by 2 using bit shifts
+      existing candidate: Multiply Divide  [multiply-divide]
+
+0.78 score          Day 2   Classwork Take four integer inputs and check if the product of them is greater than 1000 or not. Pri
+      existing candidate: HW_Greater than 1000 or not.  [greater-than-1000-or-not-]
+
+0.77 score          Day 4   Homework  Take an integer input and print Even if the integer is even else print Odd.
+      existing candidate: HW_Odd Even 11  [odd-even-11-1]
+
+0.77 modifier-drift Day 6   Homework  Largest of three distinct numbers
+      existing candidate: Largest of 3!  [largest-of-3-2]
+
+0.77 score          Day 6   Homework  Valid triangle and its type
+      existing candidate: valid 1  [valid-1-1]
+
+0.77 score          Day 8   Classwork Sum of first N numbers
+      existing candidate: Two Sum 14  [two-sum-14-1]
+
+0.77 score          Day 8   Homework  Repeated digit sum to one digit
+      existing candidate: Two Sum 14  [two-sum-14-1]
+
+0.77 score          Day 9   Homework  GCD by repeated subtraction
+      existing candidate: Find GCD of two number  [find-gcd-of-two-number]
+
+0.77 score          Day 9   Homework  Binary form of a number using while
+      existing candidate: Print Binary  [print-binary-1]
+
+0.77 score          Day 12  Homework  Repeated digit sum to one digit
+      existing candidate: Two Sum 14  [two-sum-14-1]
+
+0.77 score          Day 13  Homework  GCD by repeated subtraction
+      existing candidate: Find GCD of two number  [find-gcd-of-two-number]
+
+0.77 score          Day 13  Homework  Binary form of a number using while
+      existing candidate: Print Binary  [print-binary-1]
+
+0.77 score          Day 15  Homework  Arithmetic-progression sum
+      existing candidate: Two Sum 14  [two-sum-14-1]
+
+0.77 score          Day 16  Classwork Solid square of stars
+      existing candidate: print Numbers and stars  [print-numbers-and-stars]
+
+0.77 modifier-drift Day 16  Homework  Hollow square
+      existing candidate: Pattern 8 - Print a hollow square without top  [pattern-8-print-a-hollow-square-without-top]
+
+0.77 score          Day 18  Classwork Full diamond of stars
+      existing candidate: print Numbers and stars  [print-numbers-and-stars]
+
+0.77 score          Day 18  Homework  Pascal-style number pattern
+      existing candidate: HW_Print the Number Pattern 2  [print-the-number-pattern-2]
+
+0.77 score          Day 21  Homework  Find O(1) space solutions vs O(N) solutions
+      existing candidate: Print N to 1 3  [print-n-to-1-3]
+
+0.77 score          Day 23  Classwork nCr using a factorial helper
+      existing candidate: Factorial 156  [factorial-156]
+
+0.77 score          Day 23  Classwork power(base, exp)
+      existing candidate: Find power of a number 3  [find-power-of-a-number-3]
+
+0.77 score          Day 24  Homework  Armstrong number; largest digit
+      existing candidate: Armstrong number 59  [armstrong-number-59]
+
+0.77 score          Day 25  Classwork Count factors of N
+      existing candidate: Print Factors of number  [print-factors-of-number]
+
+0.77 score          Day 25  Homework  Sum of divisors of N
+      existing candidate: Two Sum 14  [two-sum-14-1]
+
+0.77 score          Day 27  Homework  Fast power a^b
+      existing candidate: Find power of a number 3  [find-power-of-a-number-3]
+
+0.77 score          Day 28  Classwork Sum of an array recursively
+      existing candidate: Two Sum 14  [two-sum-14-1]
+
+0.77 score          Day 29  Classwork Print in reverse order by index
+      existing candidate: Reverse Numbers 4  [reverse-numbers-4]
+
+0.77 score          Day 29  Classwork Print elements at even indices
+      existing candidate: HW_print all even number  [print-all-even-number]
+
+0.77 score          Day 31  Classwork Bubble sort implementation
+      existing candidate: sort 987  [sort-9-8-7]
+
+0.77 score          Day 31  Classwork Selection sort implementation
+      existing candidate: sort 987  [sort-9-8-7]
+
+0.77 score          Day 33  Classwork Sort strings by length
+      existing candidate: Two-Strings  [two-strings-9]
+
+0.77 score          Day 33  Homework  LC56 Merge Intervals (Intro - sort by start time)
+      existing candidate: Merge Sort  4  [merge-sort-4-1]
+
+0.77 score          Day 35  Homework  LC34 Find First and Last Position of Element in Sorted Array
+      existing candidate: is array sorted  [is-array-sorted]
+
+0.77 modifier-drift Day 36  Classwork Reverse an array in place
+      existing candidate: Reverse Numbers 4  [reverse-numbers-4]
+
+0.77 score          Day 37  Classwork Rotate by k using reversal
+      existing candidate: HW_Rotate Number 1  [rotate-number-1]
+
+0.77 score          Day 37  Classwork Left rotate by k
+      existing candidate: HW_Rotate Number 1  [rotate-number-1]
+
+0.77 score          Day 37  Homework  Rotate a matrix row
+      existing candidate: HW_Rotate Number 1  [rotate-number-1]
+
+0.77 score          Day 40  Homework  Maximum contiguous sum (GfG)
+      existing candidate: Two Sum 14  [two-sum-14-1]
+
+0.77 score          Day 42  Homework  Check if arrays are permutations of each other
+      existing candidate: Two-Arrays  [two-arrays-8]
+
+0.77 score          Day 50  Classwork Sum of each row and column
+      existing candidate: Two Sum 14  [two-sum-14-1]
+
+0.77 score          Day 50  Classwork Sum of both diagonals
+      existing candidate: Two Sum 14  [two-sum-14-1]
+
+0.77 score          Day 50  Homework  Row with the maximum sum
+      existing candidate: Two Sum 14  [two-sum-14-1]
+
+0.77 score          Day 52  Classwork Print binary representation of N
+      existing candidate: Print n to 1  [print-n-to-1-2]
+
+0.77 score          Day 55  Classwork Check if any subarray has sum 0 (GfG)
+      existing candidate: Two Sum 14  [two-sum-14-1]
+
+0.76 score          Day 59  Classwork LC238 Product of Array Except Self
+      existing candidate: HW_Product of Arrays 1  [product-of-arrays-1]
+
+0.75 score          Day 4   Classwork Take two integer inputs x and y. Print “High Sum” if sum is greater than or equal to 100, 
+      existing candidate: High Sum or Low Sum  [high-sum-or-low-sum]
+
+0.75 score          Day 6   Classwork Maximum of three
+      existing candidate: Maximum of Array  [maximum-of-array]
+
+0.74 score          Day 53  Homework  LC338 Counting Bits
+      existing candidate: Counting jumps  [counting-jumps]
+
+0.74 modifier-drift Day 15  Classwork Print a simple triangle
+      existing candidate: Hw_Print Inverted triangle  [print-inverted-triangle]
+
+0.74 score          Day 36  Homework  Move all zeros to the end
+      existing candidate: Push All Zeros To End  [push-all-zeros-to-end]
+
+0.74 modifier-drift Day 58  Classwork LC240 Search a 2D Matrix II
+      existing candidate: HW_Search in a sorted matrix  [search-in-a-sorted-matrix]
+
+0.74 score          Day 1   Classwork Find the last digit of a given number. Say 45983
+      existing candidate: Hw_Print two-digit number  [print-two-digit-number]
+
+0.74 modifier-drift Day 4   Homework  Positive, negative or zero
+      existing candidate: print Zero one  [print-zero-one]
+
+0.74 score          Day 17  Classwork Number pyramid
+      existing candidate: GKSTR24 Pattern_7_Pyramid  [gkstr25-pattern-7-pyramid]
+
+0.74 score          Day 29  Classwork Read N values and print them
+      existing candidate: Print n to 1  [print-n-to-1-2]
+
+0.74 score          Day 30  Classwork Count elements above the average
+      existing candidate: Find Average  [addition-of-two-numbers-22]
+
+0.74 modifier-drift Day 31  Homework  Sort an array in descending order
+      existing candidate: print the array 4  [print-the-array-4-1]
+
+0.74 modifier-drift Day 33  Classwork Sort a vector ascending / descending
+      existing candidate: sort 987  [sort-9-8-7]
+
+0.74 score          Day 35  Classwork First occurrence using binary search
+      existing candidate: Print Binary  [print-binary-1]
+
+0.74 score          Day 39  Classwork LC303 Range Sum Query - Immutable
+      existing candidate: Two Sum 14  [two-sum-14-1]
+
+0.74 score          Day 39  Homework  Range increment with a difference array (GfG)
+      existing candidate: Find the Difference 4  [find-the-difference-4-1]
+
+0.74 score          Day 45  Classwork Count pairs with difference k
+      existing candidate: Find the Difference 4  [find-the-difference-4-1]
+
+0.74 score          Day 46  Classwork LC643 Maximum Average Subarray I
+      existing candidate: Find Average  [addition-of-two-numbers-22]
+
+0.74 score          Day 47  Classwork LC209 Minimum Size Subarray Sum
+      existing candidate: Two Sum 14  [two-sum-14-1]
+
+0.74 score          Day 47  Classwork Longest subarray with sum <= k
+      existing candidate: Two Sum 14  [two-sum-14-1]
+
+0.74 score          Day 57  Classwork LC28 Find the Index of the First Occurrence in a String
+      existing candidate: HW_String Print  [string-print-2]
+
+0.74 score          Day 57  Homework  Check if a string is a valid shuffle of two strings (GfG)
+      existing candidate: HW_String Print  [string-print-2]
+
+0.72 score          Day 52  Classwork Swap two numbers using XOR
+      existing candidate: Add Two Numbers in LL  [add-two-numbers-46]
+
+0.72 score          Day 2   Homework  Remove the last digit of a given number. Say 45983
+      existing candidate: Hw_Print two-digit number  [print-two-digit-number]
+
+0.72 score          Day 4   Homework  A teacher adds 4 marks as grace marks only if the marks of the student is below 33. Print 
+      existing candidate: HW_Grace Marks 1  [grace-marks-1]
+
+0.72 score          Day 6   Classwork Classify a character (vowel/consonant/digit)
+      existing candidate: Hw_Print two-digit number  [print-two-digit-number]
+
+0.72 score          Day 21  Homework  Calculate SC of nested arrays (matrices)
+      existing candidate: Two-Arrays  [two-arrays-8]
+
+0.72 score          Day 31  Homework  Count total swaps in bubble sort
+      existing candidate: sort 987  [sort-9-8-7]
+
+0.72 score          Day 32  Homework  Sort an array of strings by first letter
+      existing candidate: Two-Strings  [two-strings-9]
+
+0.72 score          Day 33  Classwork Sort vector of pairs by the second value
+      existing candidate: sort 987  [sort-9-8-7]
+
+0.72 score          Day 40  Classwork Subarray with largest sum (all negatives case)
+      existing candidate: Two Sum 14  [two-sum-14-1]
+
+0.72 score          Day 42  Classwork Counting sort a small-range array
+      existing candidate: print the array 4  [print-the-array-4-1]
+
+0.72 score          Day 45  Homework  Two-sum on an unsorted array (hashing preview)
+      existing candidate: Two Sum 14  [two-sum-14-1]
+
+0.72 modifier-drift Day 47  Homework  Longest subarray with k distinct characters (GfG)
+      existing candidate: Print Characters  [print-character-1]
+
+0.72 score          Day 47  Homework  Smallest window containing all characters of string (GfG)
+      existing candidate: HW_String Print  [string-print-2]
+
+0.72 score          Day 55  Homework  Count subarrays with sum exactly K (Brute force)
+      existing candidate: Two Sum 14  [two-sum-14-1]
+
+0.72 score          Day 36  Classwork Swap first and last
+      existing candidate: First and Last Digit 2  [first-and-last-digit-2]
+
+0.71 score          Day 34  Classwork First and last index of x
+      existing candidate: First and Last Digit 2  [first-and-last-digit-2]
+
+0.71 score          Day 19  Homework  Determine TC of finding max element in array
+      existing candidate: Number finding  [number-finding]
+
+0.71 score          Day 40  Classwork Track the start and end indices of max sum
+      existing candidate: Two Sum 14  [two-sum-14-1]
+
+0.71 score          Day 49  Homework  LC49 Group Anagrams (Intro via sorting strings)
+      existing candidate: Anagrams 25  [anagrams-25-3]
+
+0.71 score          Day 15  Classwork Count multiples in a range
+      existing candidate: HW_Count Numbers In a String  [count-numbers-in-a-string]
+
+0.71 score          Day 46  Classwork First negative in each window (GfG)
+      existing candidate: First Negative Integer 2  [first-negative-integer-2]
+
+0.70 score          Day 1   Classwork Take input of p,r,t and calculate si
+      existing candidate: HW_Print A.P  [print-a-p]
+
+0.69 score          Day 46  Homework  LC1343 Number of Subarrays of Size K and Average Greater than or Equal to Threshold
+      existing candidate: Find Average  [addition-of-two-numbers-22]
+
+0.69 modifier-drift Day 4   Homework  The government adds money into the account of a person based on his age. Take age and sala
+      existing candidate: HW_Print final salary given age  [print-final-salary-given-age]
+
+0.69 score          Day 32  Homework  Find median after sorting
+      existing candidate: hw_Find Target Indices After Sorting Array  [find-target-indices-after-sorting-array]
+
+0.69 score          Day 4   Classwork A shop will give a discount of 10% on the total cost if the cost of the quantity purchased
+      existing candidate: Shop Discount  [shop-discount]
+
+0.68 modifier-drift Day 29  Homework  Count positive elements
+      existing candidate: Unique elements 10  [unique-elements-10-1]
+
+0.68 score          Day 53  Classwork LC191 Number of 1 Bits
+      existing candidate: Count number of digits  1  [count-number-of-digits-1-2]
+
+0.68 score          Day 4   Classwork Take age of a person as input, print “Adult” if age is greater than or equal to 18 and pri
+      existing candidate: Is Equal?  [is-equal-1]
+
+0.68 score          Day 41  Classwork Frequency of each element
+      existing candidate: HW_k frequent elements  [k-frequent-character]
+
+0.68 score          Day 2   Classwork Take marks of a student in five subjects as input in a double variable. Print the sum of t
+      existing candidate: Two Sum 14  [two-sum-14-1]
+
+0.68 score          Day 6   Classwork Short Circuit tech (tell them ki interview me pooch skte h ese, ise)
+      existing candidate: HW_Find Me 6  [find-me-6-2]
+
+0.67 modifier-drift Day 4   Homework  Take income of a person as input from the user, print “No tax to be paid” if income is les
+      existing candidate: Is Equal?  [is-equal-1]
+
+0.67 score          Day 2   Classwork Store these expressions inside a Boolean variable ans. Print their outputs true or false a
+      existing candidate: Print 2,9,16...  [print-2916-]
+
+0.67 score          Day 4   Classwork The bonus in a company is given by Bonus= Salary * (5 / 100). A company decided to give a 
+      existing candidate: Print Bonus  [print-bonus]
+
+0.67 score          Day 14  Classwork Count all pairs (i, j)
+      existing candidate: HW_Count All Palindromic Rows  [cc3-03-count-all-palindromic-rows]
+
+0.67 modifier-drift Day 14  Homework  Print a coordinate grid
+      existing candidate: Print Alternate Row  [print-alternate-row]
+
+0.67 score          Day 22  Classwork max(a, b)
+      existing candidate: Max and Min 5  [max-and-min-5]
+
+0.67 score          Day 26  Classwork Check if two numbers are coprime
+      existing candidate: Check if the number is balanced  [check-if-the-number-is-balanced-1]
+
+0.66 score          Day 4   Homework  Take age as input from the user. a.        Print “Super Senior Citizen” if age is above 70
+      existing candidate: Is Equal?  [is-equal-1]
+

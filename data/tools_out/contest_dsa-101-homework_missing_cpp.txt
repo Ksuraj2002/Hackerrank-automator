@@ -1,0 +1,8 @@
+72131    Classifying Feedbacks into Positive or Negative              langs=-
+12887    Type of Triangle                                             langs=-
+226762   Max Min                                                      langs=-
+9828     Simple Array Sum                                             langs=-
+2619     Maximum Subarray Sum                                         langs=-
+57402    Sum of Digits of a Five Digit Number                         langs=-
+226722   Highest Value Palindrome                                     langs=-
+226696   Recursive Digit Sum                                          langs=-

@@ -1,0 +1,6 @@
+.DS_Store
+**/.DS_Store
+
+# Large generated markdown dumps (exceed GitHub 100MB limit)
+md/dsa301_midterm_test_v2.md
+md/dsa301_midterm_test_v2.md.prehint

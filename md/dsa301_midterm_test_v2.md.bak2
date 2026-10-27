@@ -1,0 +1,2847 @@
+# DSA-301 Mid-Term Test — Batch 2 (15 challenges)
+
+Author-ready markdown for `automator.py`. Fifteen problems for a DSA-301 Mid-Term Test contest. Each challenge carries 10 sample I/O pairs; run `tools/hr_mark_samples.py --md dsa301_midterm_test_v2.md --apply` to flag the first two as samples. **Ensure ONLY C++14 and Java 8 are enabled on each challenge — unselect every other language (Python 3, etc.)** before publishing. Tree problems (Q4, Q5, Q8, Q9, Q10) ship with Head Code / Solution Template / Tail Code boilerplate in both C++14 and Java 8 — paste them into the HackerRank admin **Head Code / Body / Tail Code** slots after upload (the automator does not parse boilerplate blocks).
+
+Section weights: Section A (Q1–Q5) — 10 marks each. Section B (Q6–Q15) — 20 marks each.
+
+Difficulty per challenge (set in the HackerRank admin UI after upload; the automator does not set this field):
+
+| # | Title | Section | Difficulty |
+|---|-------|---------|-----------|
+| Q1 | Midterm: Move Zeroes | A | Easy |
+| Q2 | Midterm: Valid Palindrome | A | Easy |
+| Q3 | Midterm: Search Insert Position | A | Easy |
+| Q4 | Midterm: Binary Tree Preorder Traversal | A | Easy |
+| Q5 | Midterm: Invert Binary Tree | A | Easy |
+| Q6 | Midterm: Product of Array Except Self | B | Medium |
+| Q7 | Midterm: Asteroid Collision | B | Medium |
+| Q8 | Midterm: Zigzag Level Order Traversal of a Binary Tree | B | Medium |
+| Q9 | Midterm: Validate Binary Search Tree v2 | B | Medium |
+| Q10 | Midterm: Kth Smallest Element in a BST | B | Medium |
+| Q11 | Midterm: First and Last Position in Sorted Array | B | Medium |
+| Q12 | Midterm: Top K Frequent Elements | B | Medium |
+| Q13 | Midterm: Room Allocation | B | Medium |
+| Q14 | Midterm: Subarray Sum Equals K | B | Medium |
+| Q15 | Midterm: Minimum Window Substring | B | Medium |
+
+**Constraint philosophy.** Every constraint is sized so that a naive brute-force solution will time out on the full test set and only an intended-complexity solution passes. The sample I/O remains small for human inspection; HackerRank's hidden test cases should include at least one near-maximum input per problem to force the asymptotic cut-off.
+
+**Tree input convention (Q4, Q5, Q8, Q9, Q10)**: a binary tree is encoded on one line as a space-separated level-order sequence of tokens, where each token is either an integer value or the literal `null` for an absent child. The first token is the root. Reading proceeds level-by-level: for each non-null node in order, the next two tokens are its left and right children. The provided Head Code parses this format and hands the user a `TreeNode* root` (C++) / `TreeNode root` (Java).
+
+---
+
+## Midterm: Move Zeroes
+**Difficulty**: Easy
+
+**Problem Statement**
+Given an integer array `nums`, move all `0`s to the end of the array while maintaining the relative order of the non-zero elements. The operation must be performed in place — do not allocate a second array of the same size. Print the final array on one line, elements separated by single spaces.
+
+**Input Format**
+- Line 1: a single integer `N` — the size of the array.
+- Line 2: `N` space-separated integers — the array elements.
+
+**Output Format**
+A single line of `N` space-separated integers — the array after moving every `0` to the end.
+
+**Constraints**
+- `1 <= N <= 300000`
+- `-10^9 <= nums[i] <= 10^9`
+- A quadratic swap-one-at-a-time approach will not fit in the time limit; the intended solution is `O(N)` with `O(1)` extra space.
+
+**Sample Input 0**
+```
+5
+0 1 0 3 12
+```
+
+**Sample Output 0**
+```
+1 3 12 0 0
+```
+
+**Sample Explanation 0**
+The non-zero elements in their original order are `1, 3, 12`. The two zeroes are pushed to the end, giving `1 3 12 0 0`.
+
+**Sample Input 1**
+```
+1
+0
+```
+
+**Sample Output 1**
+```
+0
+```
+
+**Sample Explanation 1**
+The array contains a single zero. Moving zeroes to the end leaves the array unchanged.
+
+**Sample Input 2**
+```
+4
+1 2 3 4
+```
+
+**Sample Output 2**
+```
+1 2 3 4
+```
+
+**Sample Input 3**
+```
+6
+0 0 0 0 0 0
+```
+
+**Sample Output 3**
+```
+0 0 0 0 0 0
+```
+
+**Sample Input 4**
+```
+6
+0 0 0 1 2 3
+```
+
+**Sample Output 4**
+```
+1 2 3 0 0 0
+```
+
+**Sample Input 5**
+```
+6
+1 2 3 0 0 0
+```
+
+**Sample Output 5**
+```
+1 2 3 0 0 0
+```
+
+**Sample Input 6**
+```
+8
+4 2 4 0 0 3 0 4
+```
+
+**Sample Output 6**
+```
+4 2 4 3 4 0 0 0
+```
+
+**Sample Input 7**
+```
+5
+-1 0 -2 0 3
+```
+
+**Sample Output 7**
+```
+-1 -2 3 0 0
+```
+
+**Sample Input 8**
+```
+3
+0 1 0
+```
+
+**Sample Output 8**
+```
+1 0 0
+```
+
+**Sample Input 9**
+```
+7
+5 0 5 0 5 0 5
+```
+
+**Sample Output 9**
+```
+5 5 5 5 0 0 0
+```
+
+**Tags**
+Two Pointers, Arrays, In-place
+
+---
+
+## Midterm: Valid Palindrome
+**Difficulty**: Easy
+
+**Problem Statement**
+Given a string `s`, determine whether it reads the same forwards and backwards after (a) converting every uppercase letter to lowercase and (b) removing every character that is not a letter or a digit. Print `1` if the cleaned string is a palindrome, else `0`. The empty cleaned string is considered a palindrome.
+
+**Input Format**
+A single line containing the string `s`. The line may contain spaces, punctuation, and mixed-case letters, but no newline characters inside it.
+
+**Output Format**
+A single integer: `1` if the cleaned string is a palindrome, else `0`.
+
+**Constraints**
+- `1 <= |s| <= 300000`
+- `s` consists of printable ASCII characters (ASCII 32..126).
+- The intended solution is `O(|s|)` using two pointers; building the cleaned string with repeated allocations is acceptable only if done in linear time.
+
+**Sample Input 0**
+```
+A man, a plan, a canal: Panama
+```
+
+**Sample Output 0**
+```
+1
+```
+
+**Sample Explanation 0**
+After lowercasing and removing non-alphanumeric characters the string becomes `amanaplanacanalpanama`, which reads the same forwards and backwards. Output is `1`.
+
+**Sample Input 1**
+```
+race a car
+```
+
+**Sample Output 1**
+```
+0
+```
+
+**Sample Explanation 1**
+After cleaning the string becomes `raceacar`. The 1st character `r` and the last `r` match, but the 2nd `a` and the second-to-last `a` match, then `c` vs `c`, then `e` vs `a` — mismatch. Not a palindrome, so `0`.
+
+**Sample Input 2**
+```
+ 
+```
+
+**Sample Output 2**
+```
+1
+```
+
+**Sample Input 3**
+```
+0P
+```
+
+**Sample Output 3**
+```
+0
+```
+
+**Sample Input 4**
+```
+.,
+```
+
+**Sample Output 4**
+```
+1
+```
+
+**Sample Input 5**
+```
+No 'x' in Nixon
+```
+
+**Sample Output 5**
+```
+1
+```
+
+**Sample Input 6**
+```
+Was it a car or a cat I saw?
+```
+
+**Sample Output 6**
+```
+1
+```
+
+**Sample Input 7**
+```
+hello
+```
+
+**Sample Output 7**
+```
+0
+```
+
+**Sample Input 8**
+```
+Madam
+```
+
+**Sample Output 8**
+```
+1
+```
+
+**Sample Input 9**
+```
+abcba
+```
+
+**Sample Output 9**
+```
+1
+```
+
+**Tags**
+Two Pointers, Strings
+
+---
+
+## Midterm: Search Insert Position
+**Difficulty**: Easy
+
+**Problem Statement**
+Given a sorted (strictly increasing) array of distinct integers `nums` and an integer `target`, return the 0-based index of `target` if it is present, otherwise return the index where it should be inserted in order to keep the array sorted. The required running time is `O(log N)`.
+
+**Input Format**
+- Line 1: two space-separated integers `N` (size of the array) and `target`.
+- Line 2: `N` space-separated integers — the sorted, strictly increasing array.
+
+**Output Format**
+A single integer: the index of `target` if found, otherwise the index at which it should be inserted.
+
+**Constraints**
+- `1 <= N <= 200000`
+- `-10^9 <= nums[i], target <= 10^9`
+- Values in `nums` are strictly increasing (no duplicates).
+- A linear scan will time out on the full test set; the intended solution is binary search in `O(log N)`.
+
+**Sample Input 0**
+```
+4 5
+1 3 5 6
+```
+
+**Sample Output 0**
+```
+2
+```
+
+**Sample Explanation 0**
+Target `5` is present at index `2`, so the answer is `2`.
+
+**Sample Input 1**
+```
+4 2
+1 3 5 6
+```
+
+**Sample Output 1**
+```
+1
+```
+
+**Sample Explanation 1**
+Target `2` is not present. To keep the array sorted it must be placed between `1` (index 0) and `3` (index 1), i.e. at index `1`.
+
+**Sample Input 2**
+```
+4 7
+1 3 5 6
+```
+
+**Sample Output 2**
+```
+4
+```
+
+**Sample Input 3**
+```
+4 0
+1 3 5 6
+```
+
+**Sample Output 3**
+```
+0
+```
+
+**Sample Input 4**
+```
+1 1
+1
+```
+
+**Sample Output 4**
+```
+0
+```
+
+**Sample Input 5**
+```
+1 2
+1
+```
+
+**Sample Output 5**
+```
+1
+```
+
+**Sample Input 6**
+```
+1 0
+1
+```
+
+**Sample Output 6**
+```
+0
+```
+
+**Sample Input 7**
+```
+5 3
+1 2 4 5 6
+```
+
+**Sample Output 7**
+```
+2
+```
+
+**Sample Input 8**
+```
+6 10
+2 4 6 8 10 12
+```
+
+**Sample Output 8**
+```
+4
+```
+
+**Sample Input 9**
+```
+8 100
+-50 -20 -10 0 10 20 50 90
+```
+
+**Sample Output 9**
+```
+8
+```
+
+**Tags**
+Binary Search, Arrays
+
+---
+
+## Midterm: Binary Tree Preorder Traversal
+**Difficulty**: Easy
+
+**Problem Statement**
+Given the root of a binary tree, return its preorder traversal (root, left, right) of node values, space-separated on one line. If the tree is empty, print an empty line.
+
+**Input Format**
+A single line containing the level-order serialization of the tree (see the "Tree input convention" at the top of this file). Tokens are space-separated; `null` denotes an absent node.
+
+**Output Format**
+A single line with the preorder traversal of the node values, separated by single spaces. Print an empty line if the tree is empty.
+
+**Constraints**
+- `0 <= number of nodes <= 100000`
+- `-10^9 <= Node.val <= 10^9`
+- The intended solution runs in `O(N)` time and `O(H)` auxiliary space, where `H` is the tree height. Hidden tests include deeply skewed trees (`H ≈ N`), so recursion without tail elimination may stack-overflow — an explicit stack or careful recursion is expected.
+
+**Sample Input 0**
+```
+1 null 2 3
+```
+
+**Sample Output 0**
+```
+1 2 3
+```
+
+**Sample Explanation 0**
+The tree has root `1` with no left child and right child `2`, whose left child is `3`. Preorder visits root → left → right: visit `1`, then recurse right into `2`, visit `2`, then recurse left into `3`, visit `3`. Final order: `1 2 3`.
+
+**Sample Input 1**
+```
+
+```
+
+**Sample Output 1**
+```
+
+```
+
+**Sample Explanation 1**
+The input line is empty, so the tree has no nodes. The preorder traversal is also empty.
+
+**Sample Input 2**
+```
+1
+```
+
+**Sample Output 2**
+```
+1
+```
+
+**Sample Input 3**
+```
+1 2 3 4 5 6 7
+```
+
+**Sample Output 3**
+```
+1 2 4 5 3 6 7
+```
+
+**Sample Input 4**
+```
+5 3 8 1 4 7 9
+```
+
+**Sample Output 4**
+```
+5 3 1 4 8 7 9
+```
+
+**Sample Input 5**
+```
+1 2 null 3 null 4
+```
+
+**Sample Output 5**
+```
+1 2 3 4
+```
+
+**Sample Input 6**
+```
+1 null 2 null 3 null 4
+```
+
+**Sample Output 6**
+```
+1 2 3 4
+```
+
+**Sample Input 7**
+```
+10 5 15 null null 12 20
+```
+
+**Sample Output 7**
+```
+10 5 15 12 20
+```
+
+**Sample Input 8**
+```
+-1 -2 -3
+```
+
+**Sample Output 8**
+```
+-1 -2 -3
+```
+
+**Sample Input 9**
+```
+7 3 9 1 5 8 10
+```
+
+**Sample Output 9**
+```
+7 3 1 5 9 8 10
+```
+
+**Tags**
+Binary Tree, DFS, Recursion
+
+**Boilerplate (C++14)** — NOT parsed by the automator. Paste into HackerRank admin **Head Code / Body / Tail Code** slots after upload.
+
+Head Code:
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
+
+struct TreeNode {
+    int val;
+    TreeNode* left;
+    TreeNode* right;
+    TreeNode(int v) : val(v), left(nullptr), right(nullptr) {}
+};
+
+static TreeNode* buildTree(const string& line) {
+    vector<string> toks;
+    {
+        stringstream ss(line);
+        string t;
+        while (ss >> t) toks.push_back(t);
+    }
+    if (toks.empty() || toks[0] == "null") return nullptr;
+    TreeNode* root = new TreeNode(stoi(toks[0]));
+    queue<TreeNode*> q;
+    q.push(root);
+    size_t i = 1;
+    while (!q.empty() && i < toks.size()) {
+        TreeNode* node = q.front(); q.pop();
+        if (i < toks.size()) {
+            if (toks[i] != "null") {
+                node->left = new TreeNode(stoi(toks[i]));
+                q.push(node->left);
+            }
+            ++i;
+        }
+        if (i < toks.size()) {
+            if (toks[i] != "null") {
+                node->right = new TreeNode(stoi(toks[i]));
+                q.push(node->right);
+            }
+            ++i;
+        }
+    }
+    return root;
+}
+```
+
+Solution Template (the user writes only this):
+```cpp
+vector<int> preorderTraversal(TreeNode* root) {
+    // Write your code here
+    return {};
+}
+```
+
+Tail Code:
+```cpp
+int main() {
+    string line;
+    getline(cin, line);
+    TreeNode* root = buildTree(line);
+    vector<int> ans = preorderTraversal(root);
+    for (size_t i = 0; i < ans.size(); ++i) {
+        if (i) cout << ' ';
+        cout << ans[i];
+    }
+    cout << endl;
+    return 0;
+}
+```
+
+**Boilerplate (Java 8)** — same convention as the C++ version above.
+
+Head Code:
+```java
+import java.util.*;
+import java.io.*;
+
+class TreeNode {
+    int val;
+    TreeNode left, right;
+    TreeNode(int v) { val = v; }
+}
+
+public class Solution {
+    static TreeNode buildTree(String line) {
+        if (line == null) return null;
+        String[] toks = line.trim().split("\\s+");
+        if (toks.length == 0 || toks[0].isEmpty() || toks[0].equals("null")) return null;
+        TreeNode root = new TreeNode(Integer.parseInt(toks[0]));
+        Queue<TreeNode> q = new ArrayDeque<>();
+        q.add(root);
+        int i = 1;
+        while (!q.isEmpty() && i < toks.length) {
+            TreeNode node = q.poll();
+            if (i < toks.length) {
+                if (!toks[i].equals("null")) {
+                    node.left = new TreeNode(Integer.parseInt(toks[i]));
+                    q.add(node.left);
+                }
+                i++;
+            }
+            if (i < toks.length) {
+                if (!toks[i].equals("null")) {
+                    node.right = new TreeNode(Integer.parseInt(toks[i]));
+                    q.add(node.right);
+                }
+                i++;
+            }
+        }
+        return root;
+    }
+```
+
+Solution Template:
+```java
+    static List<Integer> preorderTraversal(TreeNode root) {
+        // Write your code here
+        return new ArrayList<>();
+    }
+```
+
+Tail Code:
+```java
+    public static void main(String[] args) throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        String line = br.readLine();
+        TreeNode root = buildTree(line == null ? "" : line);
+        List<Integer> ans = preorderTraversal(root);
+        StringBuilder sb = new StringBuilder();
+        for (int i = 0; i < ans.size(); i++) {
+            if (i > 0) sb.append(' ');
+            sb.append(ans.get(i));
+        }
+        System.out.println(sb.toString());
+    }
+}
+```
+
+---
+
+## Midterm: Invert Binary Tree
+**Difficulty**: Easy
+
+**Problem Statement**
+Given the root of a binary tree, invert it by swapping the left and right children of every node, and return the root. Output the level-order serialization of the inverted tree, using `null` for absent children. Trailing `null` tokens (null children of null nodes, i.e. tokens that carry no information) must be omitted. Print an empty line for an empty tree.
+
+**Input Format**
+A single line containing the level-order serialization of the tree (see the "Tree input convention" at the top of this file).
+
+**Output Format**
+A single line: the level-order serialization of the inverted tree, with trailing `null` tokens trimmed. Print an empty line if the tree is empty.
+
+**Constraints**
+- `0 <= number of nodes <= 100000`
+- `-10^9 <= Node.val <= 10^9`
+- The intended solution runs in `O(N)` time and `O(H)` auxiliary space.
+
+**Sample Input 0**
+```
+4 2 7 1 3 6 9
+```
+
+**Sample Output 0**
+```
+4 7 2 9 6 3 1
+```
+
+**Sample Explanation 0**
+The original tree is a complete tree with root `4`, left subtree rooted at `2` (children `1, 3`), and right subtree rooted at `7` (children `6, 9`). Swapping children at every node turns it into root `4` with left subtree rooted at `7` (children `9, 6`) and right subtree rooted at `2` (children `3, 1`). Level order: `4 7 2 9 6 3 1`.
+
+**Sample Input 1**
+```
+2 1 3
+```
+
+**Sample Output 1**
+```
+2 3 1
+```
+
+**Sample Explanation 1**
+Root `2` has left child `1` and right child `3`. After inversion, left child becomes `3` and right child becomes `1`. Level order: `2 3 1`.
+
+**Sample Input 2**
+```
+
+```
+
+**Sample Output 2**
+```
+
+```
+
+**Sample Input 3**
+```
+1
+```
+
+**Sample Output 3**
+```
+1
+```
+
+**Sample Input 4**
+```
+1 2
+```
+
+**Sample Output 4**
+```
+1 null 2
+```
+
+**Sample Input 5**
+```
+1 null 2
+```
+
+**Sample Output 5**
+```
+1 2
+```
+
+**Sample Input 6**
+```
+1 2 3 4 5 6 7
+```
+
+**Sample Output 6**
+```
+1 3 2 7 6 5 4
+```
+
+**Sample Input 7**
+```
+3 9 20 null null 15 7
+```
+
+**Sample Output 7**
+```
+3 20 9 7 15
+```
+
+**Sample Input 8**
+```
+5 3 8 1 4 null 9
+```
+
+**Sample Output 8**
+```
+5 8 3 9 null 4 1
+```
+
+**Sample Input 9**
+```
+1 2 3 null 4
+```
+
+**Sample Output 9**
+```
+1 3 2 null null 4
+```
+
+**Tags**
+Binary Tree, DFS, BFS, Recursion
+
+**Boilerplate (C++14)** — NOT parsed by the automator.
+
+Head Code:
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
+
+struct TreeNode {
+    int val;
+    TreeNode* left;
+    TreeNode* right;
+    TreeNode(int v) : val(v), left(nullptr), right(nullptr) {}
+};
+
+static TreeNode* buildTree(const string& line) {
+    vector<string> toks;
+    {
+        stringstream ss(line);
+        string t;
+        while (ss >> t) toks.push_back(t);
+    }
+    if (toks.empty() || toks[0] == "null") return nullptr;
+    TreeNode* root = new TreeNode(stoi(toks[0]));
+    queue<TreeNode*> q;
+    q.push(root);
+    size_t i = 1;
+    while (!q.empty() && i < toks.size()) {
+        TreeNode* node = q.front(); q.pop();
+        if (i < toks.size()) {
+            if (toks[i] != "null") {
+                node->left = new TreeNode(stoi(toks[i]));
+                q.push(node->left);
+            }
+            ++i;
+        }
+        if (i < toks.size()) {
+            if (toks[i] != "null") {
+                node->right = new TreeNode(stoi(toks[i]));
+                q.push(node->right);
+            }
+            ++i;
+        }
+    }
+    return root;
+}
+
+static string serialize(TreeNode* root) {
+    if (!root) return "";
+    vector<string> out;
+    queue<TreeNode*> q;
+    q.push(root);
+    while (!q.empty()) {
+        TreeNode* n = q.front(); q.pop();
+        if (!n) { out.push_back("null"); continue; }
+        out.push_back(to_string(n->val));
+        q.push(n->left);
+        q.push(n->right);
+    }
+    while (!out.empty() && out.back() == "null") out.pop_back();
+    string s;
+    for (size_t i = 0; i < out.size(); ++i) {
+        if (i) s += ' ';
+        s += out[i];
+    }
+    return s;
+}
+```
+
+Solution Template:
+```cpp
+TreeNode* invertTree(TreeNode* root) {
+    // Write your code here
+    return root;
+}
+```
+
+Tail Code:
+```cpp
+int main() {
+    string line;
+    getline(cin, line);
+    TreeNode* root = buildTree(line);
+    TreeNode* inv = invertTree(root);
+    cout << serialize(inv) << endl;
+    return 0;
+}
+```
+
+**Boilerplate (Java 8)**
+
+Head Code:
+```java
+import java.util.*;
+import java.io.*;
+
+class TreeNode {
+    int val;
+    TreeNode left, right;
+    TreeNode(int v) { val = v; }
+}
+
+public class Solution {
+    static TreeNode buildTree(String line) {
+        if (line == null) return null;
+        String[] toks = line.trim().split("\\s+");
+        if (toks.length == 0 || toks[0].isEmpty() || toks[0].equals("null")) return null;
+        TreeNode root = new TreeNode(Integer.parseInt(toks[0]));
+        Queue<TreeNode> q = new ArrayDeque<>();
+        q.add(root);
+        int i = 1;
+        while (!q.isEmpty() && i < toks.length) {
+            TreeNode node = q.poll();
+            if (i < toks.length) {
+                if (!toks[i].equals("null")) {
+                    node.left = new TreeNode(Integer.parseInt(toks[i]));
+                    q.add(node.left);
+                }
+                i++;
+            }
+            if (i < toks.length) {
+                if (!toks[i].equals("null")) {
+                    node.right = new TreeNode(Integer.parseInt(toks[i]));
+                    q.add(node.right);
+                }
+                i++;
+            }
+        }
+        return root;
+    }
+
+    static String serialize(TreeNode root) {
+        if (root == null) return "";
+        List<TreeNode> order = new ArrayList<>();
+        order.add(root);
+        int idx = 0;
+        while (idx < order.size()) {
+            TreeNode n = order.get(idx++);
+            if (n == null) continue;
+            order.add(n.left);
+            order.add(n.right);
+        }
+        List<String> out = new ArrayList<>();
+        for (TreeNode n : order) out.add(n == null ? "null" : Integer.toString(n.val));
+        int end = out.size();
+        while (end > 0 && out.get(end - 1).equals("null")) end--;
+        StringBuilder sb = new StringBuilder();
+        for (int i = 0; i < end; i++) {
+            if (i > 0) sb.append(' ');
+            sb.append(out.get(i));
+        }
+        return sb.toString();
+    }
+```
+
+Solution Template:
+```java
+    static TreeNode invertTree(TreeNode root) {
+        // Write your code here
+        return root;
+    }
+```
+
+Tail Code:
+```java
+    public static void main(String[] args) throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        String line = br.readLine();
+        TreeNode root = buildTree(line == null ? "" : line);
+        TreeNode inv = invertTree(root);
+        System.out.println(serialize(inv));
+    }
+}
+```
+
+---
+
+## Midterm: Product of Array Except Self
+**Difficulty**: Medium
+
+**Problem Statement**
+Given an integer array `nums` of length `N`, return an array `ans` of the same length where `ans[i]` is the product of every element of `nums` except `nums[i]`. The algorithm must run in `O(N)` time, must not use the division operator, and is guaranteed by the constraints to fit in a signed 64-bit integer.
+
+**Input Format**
+- Line 1: a single integer `N` — the size of the array.
+- Line 2: `N` space-separated integers — the array elements.
+
+**Output Format**
+A single line of `N` space-separated integers — the array `ans`.
+
+**Constraints**
+- `2 <= N <= 100000`
+- `-1 <= nums[i] <= 1`
+- Every prefix and suffix product therefore fits in a signed 64-bit integer.
+- A nested `O(N^2)` loop will time out on the full test set. The intended solution uses two linear passes (prefix / suffix products) in `O(N)` time and `O(1)` extra space (not counting the output array). Division is forbidden because the input may contain zeroes.
+
+**Sample Input 0**
+```
+4
+1 2 3 4
+```
+
+**Sample Output 0**
+```
+24 12 8 6
+```
+
+**Sample Explanation 0**
+`ans[0] = 2*3*4 = 24`, `ans[1] = 1*3*4 = 12`, `ans[2] = 1*2*4 = 8`, `ans[3] = 1*2*3 = 6`.
+
+**Sample Input 1**
+```
+5
+-1 1 0 -3 3
+```
+
+**Sample Output 1**
+```
+0 0 9 0 0
+```
+
+**Sample Explanation 1**
+Every position except index `2` includes the zero at index `2` in its product, so it becomes `0`. At index `2` the product of the remaining elements is `(-1) * 1 * (-3) * 3 = 9`.
+
+**Sample Input 2**
+```
+2
+1 2
+```
+
+**Sample Output 2**
+```
+2 1
+```
+
+**Sample Input 3**
+```
+3
+2 3 4
+```
+
+**Sample Output 3**
+```
+12 8 6
+```
+
+**Sample Input 4**
+```
+3
+0 0 1
+```
+
+**Sample Output 4**
+```
+0 0 0
+```
+
+**Sample Input 5**
+```
+4
+5 5 5 5
+```
+
+**Sample Output 5**
+```
+125 125 125 125
+```
+
+**Sample Input 6**
+```
+5
+1 1 1 1 1
+```
+
+**Sample Output 6**
+```
+1 1 1 1 1
+```
+
+**Sample Input 7**
+```
+3
+-1 -2 -3
+```
+
+**Sample Output 7**
+```
+6 3 2
+```
+
+**Sample Input 8**
+```
+4
+2 3 0 4
+```
+
+**Sample Output 8**
+```
+0 0 24 0
+```
+
+**Sample Input 9**
+```
+6
+2 2 2 2 2 2
+```
+
+**Sample Output 9**
+```
+32 32 32 32 32 32
+```
+
+**Tags**
+Arrays, Prefix Product
+
+---
+
+## Midterm: Asteroid Collision
+**Difficulty**: Medium
+
+**Problem Statement**
+Given an array `asteroids` representing asteroids moving along a single row, simulate their collisions. The absolute value of each entry is the asteroid's size; the sign gives direction (`+` moves right, `−` moves left). All asteroids move at the same speed. Two asteroids collide when one moving right meets one moving left; the smaller (by absolute value) explodes, and if they are equal both explode. Asteroids moving in the same direction never collide. Print the surviving asteroids in order, space-separated on one line. Print an empty line if none survive.
+
+**Input Format**
+- Line 1: a single integer `N` — the number of asteroids.
+- Line 2: `N` space-separated non-zero integers — the asteroids in order.
+
+**Output Format**
+A single line with the surviving asteroids in order, separated by single spaces, or an empty line if none remain.
+
+**Constraints**
+- `1 <= N <= 100000`
+- `-1000 <= asteroids[i] <= 1000`
+- `asteroids[i] != 0`
+- The intended solution uses an explicit stack and runs in `O(N)` amortized time. A naive repeated-scan simulation is `O(N^2)` in the worst case and will time out.
+
+**Sample Input 0**
+```
+3
+5 10 -5
+```
+
+**Sample Output 0**
+```
+5 10
+```
+
+**Sample Explanation 0**
+`10` (right-moving) meets `-5` (left-moving) and `|10| > |-5|`, so `-5` is destroyed. `5` and `10` are both right-moving and never collide. Survivors: `5 10`.
+
+**Sample Input 1**
+```
+2
+8 -8
+```
+
+**Sample Output 1**
+```
+
+```
+
+**Sample Explanation 1**
+`8` (right) collides with `-8` (left). They have equal absolute values, so both are destroyed. No survivors — print an empty line.
+
+**Sample Input 2**
+```
+3
+10 2 -5
+```
+
+**Sample Output 2**
+```
+10
+```
+
+**Sample Input 3**
+```
+4
+-2 -1 1 2
+```
+
+**Sample Output 3**
+```
+-2 -1 1 2
+```
+
+**Sample Input 4**
+```
+1
+5
+```
+
+**Sample Output 4**
+```
+5
+```
+
+**Sample Input 5**
+```
+1
+-5
+```
+
+**Sample Output 5**
+```
+-5
+```
+
+**Sample Input 6**
+```
+2
+5 -5
+```
+
+**Sample Output 6**
+```
+
+```
+
+**Sample Input 7**
+```
+3
+-5 5 -3
+```
+
+**Sample Output 7**
+```
+-5 5
+```
+
+**Sample Input 8**
+```
+4
+4 -2 -1 -5
+```
+
+**Sample Output 8**
+```
+-5
+```
+
+**Sample Input 9**
+```
+5
+1 -1 2 -2 3
+```
+
+**Sample Output 9**
+```
+3
+```
+
+**Tags**
+Stack, Simulation, Arrays
+
+---
+
+## Midterm: Zigzag Level Order Traversal of a Binary Tree
+**Difficulty**: Medium
+
+**Problem Statement**
+Given the root of a binary tree, print its level-order traversal in zigzag order: level 1 is printed left-to-right, level 2 right-to-left, level 3 left-to-right, and so on. Nodes within the same level are separated by single spaces; each level is printed on its own line. Print nothing if the tree is empty.
+
+**Input Format**
+A single line containing the level-order serialization of the tree (see the "Tree input convention" at the top of this file).
+
+**Output Format**
+Print each level on its own line, with the values on that level separated by single spaces and the direction alternating as described above.
+
+**Constraints**
+- `0 <= number of nodes <= 100000`
+- `-10^9 <= Node.val <= 10^9`
+- The intended solution uses BFS with a `deque` (or BFS followed by in-place reversal of alternating levels) and runs in `O(N)` time.
+
+**Sample Input 0**
+```
+3 9 20 null null 15 7
+```
+
+**Sample Output 0**
+```
+3
+20 9
+15 7
+```
+
+**Sample Explanation 0**
+Level 1 (L→R): `3`. Level 2 (R→L): the children of `3` are `9, 20` left-to-right, reversed to `20 9`. Level 3 (L→R): the children of `20` that exist are `15, 7`.
+
+**Sample Input 1**
+```
+1
+```
+
+**Sample Output 1**
+```
+1
+```
+
+**Sample Explanation 1**
+A single-node tree has one level, printed left-to-right as `1`.
+
+**Sample Input 2**
+```
+
+```
+
+**Sample Output 2**
+```
+
+```
+
+**Sample Input 3**
+```
+1 2 3 4 5 6 7
+```
+
+**Sample Output 3**
+```
+1
+3 2
+4 5 6 7
+```
+
+**Sample Input 4**
+```
+1 null 2 null 3
+```
+
+**Sample Output 4**
+```
+1
+2
+3
+```
+
+**Sample Input 5**
+```
+1 2 null 3 null 4
+```
+
+**Sample Output 5**
+```
+1
+2
+3
+4
+```
+
+**Sample Input 6**
+```
+10 5 15 3 7 12 20
+```
+
+**Sample Output 6**
+```
+10
+15 5
+3 7 12 20
+```
+
+**Sample Input 7**
+```
+-1 -2 -3 -4 -5
+```
+
+**Sample Output 7**
+```
+-1
+-3 -2
+-4 -5
+```
+
+**Sample Input 8**
+```
+5 3 8 1 4 7 9
+```
+
+**Sample Output 8**
+```
+5
+8 3
+1 4 7 9
+```
+
+**Sample Input 9**
+```
+1 2 3 4 null null 5 null 6
+```
+
+**Sample Output 9**
+```
+1
+3 2
+4 5
+6
+```
+
+**Tags**
+Binary Tree, BFS, Deque
+
+**Boilerplate (C++14)** — NOT parsed by the automator.
+
+Head Code:
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
+
+struct TreeNode {
+    int val;
+    TreeNode* left;
+    TreeNode* right;
+    TreeNode(int v) : val(v), left(nullptr), right(nullptr) {}
+};
+
+static TreeNode* buildTree(const string& line) {
+    vector<string> toks;
+    {
+        stringstream ss(line);
+        string t;
+        while (ss >> t) toks.push_back(t);
+    }
+    if (toks.empty() || toks[0] == "null") return nullptr;
+    TreeNode* root = new TreeNode(stoi(toks[0]));
+    queue<TreeNode*> q;
+    q.push(root);
+    size_t i = 1;
+    while (!q.empty() && i < toks.size()) {
+        TreeNode* node = q.front(); q.pop();
+        if (i < toks.size()) {
+            if (toks[i] != "null") {
+                node->left = new TreeNode(stoi(toks[i]));
+                q.push(node->left);
+            }
+            ++i;
+        }
+        if (i < toks.size()) {
+            if (toks[i] != "null") {
+                node->right = new TreeNode(stoi(toks[i]));
+                q.push(node->right);
+            }
+            ++i;
+        }
+    }
+    return root;
+}
+```
+
+Solution Template:
+```cpp
+vector<vector<int>> zigzagLevelOrder(TreeNode* root) {
+    // Write your code here
+    return {};
+}
+```
+
+Tail Code:
+```cpp
+int main() {
+    string line;
+    getline(cin, line);
+    TreeNode* root = buildTree(line);
+    vector<vector<int>> ans = zigzagLevelOrder(root);
+    for (const auto& level : ans) {
+        for (size_t i = 0; i < level.size(); ++i) {
+            if (i) cout << ' ';
+            cout << level[i];
+        }
+        cout << '\n';
+    }
+    return 0;
+}
+```
+
+**Boilerplate (Java 8)**
+
+Head Code:
+```java
+import java.util.*;
+import java.io.*;
+
+class TreeNode {
+    int val;
+    TreeNode left, right;
+    TreeNode(int v) { val = v; }
+}
+
+public class Solution {
+    static TreeNode buildTree(String line) {
+        if (line == null) return null;
+        String[] toks = line.trim().split("\\s+");
+        if (toks.length == 0 || toks[0].isEmpty() || toks[0].equals("null")) return null;
+        TreeNode root = new TreeNode(Integer.parseInt(toks[0]));
+        Queue<TreeNode> q = new ArrayDeque<>();
+        q.add(root);
+        int i = 1;
+        while (!q.isEmpty() && i < toks.length) {
+            TreeNode node = q.poll();
+            if (i < toks.length) {
+                if (!toks[i].equals("null")) {
+                    node.left = new TreeNode(Integer.parseInt(toks[i]));
+                    q.add(node.left);
+                }
+                i++;
+            }
+            if (i < toks.length) {
+                if (!toks[i].equals("null")) {
+                    node.right = new TreeNode(Integer.parseInt(toks[i]));
+                    q.add(node.right);
+                }
+                i++;
+            }
+        }
+        return root;
+    }
+```
+
+Solution Template:
+```java
+    static List<List<Integer>> zigzagLevelOrder(TreeNode root) {
+        // Write your code here
+        return new ArrayList<>();
+    }
+```
+
+Tail Code:
+```java
+    public static void main(String[] args) throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        String line = br.readLine();
+        TreeNode root = buildTree(line == null ? "" : line);
+        List<List<Integer>> ans = zigzagLevelOrder(root);
+        StringBuilder sb = new StringBuilder();
+        for (List<Integer> level : ans) {
+            for (int i = 0; i < level.size(); i++) {
+                if (i > 0) sb.append(' ');
+                sb.append(level.get(i));
+            }
+            sb.append('\n');
+        }
+        System.out.print(sb.toString());
+    }
+}
+```
+
+---
+
+## Midterm: Validate Binary Search Tree v2
+**Difficulty**: Medium
+
+**Problem Statement**
+Given the root of a binary tree, determine whether it is a valid Binary Search Tree. A BST is defined so that for every node:
+- All values in its left subtree are strictly less than the node's value.
+- All values in its right subtree are strictly greater than the node's value.
+- Both left and right subtrees are themselves BSTs.
+
+Print `1` if the tree is a valid BST, else `0`. An empty tree is considered a valid BST.
+
+**Input Format**
+A single line containing the level-order serialization of the tree (see the "Tree input convention" at the top of this file).
+
+**Output Format**
+A single integer: `1` if the tree is a valid BST, else `0`.
+
+**Constraints**
+- `0 <= number of nodes <= 100000`
+- `-10^9 <= Node.val <= 10^9`
+- A naive solution that, at every node, scans its entire left/right subtrees for min/max is `O(N^2)` and will time out. The intended solution is `O(N)` using an inherited (`low, high`) range or in-order traversal with a running previous value.
+
+**Sample Input 0**
+```
+4 2 6 1 3 5 7
+```
+
+**Sample Output 0**
+```
+1
+```
+
+**Sample Explanation 0**
+Inorder of this tree is `1 2 3 4 5 6 7`, strictly increasing. Every node satisfies the BST invariant, so the answer is `1`.
+
+**Sample Input 1**
+```
+5 1 4 null null 3 6
+```
+
+**Sample Output 1**
+```
+0
+```
+
+**Sample Explanation 1**
+The right child of root `5` is `4`, but every value in the right subtree of `5` must be strictly greater than `5`. The invariant is violated, so the tree is not a valid BST — output `0`.
+
+**Sample Input 2**
+```
+
+```
+
+**Sample Output 2**
+```
+1
+```
+
+**Sample Input 3**
+```
+1
+```
+
+**Sample Output 3**
+```
+1
+```
+
+**Sample Input 4**
+```
+10 5 15 null null 6 20
+```
+
+**Sample Output 4**
+```
+0
+```
+
+**Sample Input 5**
+```
+10 5 15 3 7 12 20
+```
+
+**Sample Output 5**
+```
+1
+```
+
+**Sample Input 6**
+```
+2 2 2
+```
+
+**Sample Output 6**
+```
+0
+```
+
+**Sample Input 7**
+```
+3 1 5 0 2 4 6
+```
+
+**Sample Output 7**
+```
+1
+```
+
+**Sample Input 8**
+```
+5 4 6 null null 3 7
+```
+
+**Sample Output 8**
+```
+0
+```
+
+**Sample Input 9**
+```
+50 30 70 20 40 60 80
+```
+
+**Sample Output 9**
+```
+1
+```
+
+**Tags**
+Binary Search Tree, DFS, Recursion
+
+**Boilerplate (C++14)** — NOT parsed by the automator.
+
+Head Code:
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
+
+struct TreeNode {
+    int val;
+    TreeNode* left;
+    TreeNode* right;
+    TreeNode(int v) : val(v), left(nullptr), right(nullptr) {}
+};
+
+static TreeNode* buildTree(const string& line) {
+    vector<string> toks;
+    {
+        stringstream ss(line);
+        string t;
+        while (ss >> t) toks.push_back(t);
+    }
+    if (toks.empty() || toks[0] == "null") return nullptr;
+    TreeNode* root = new TreeNode(stoi(toks[0]));
+    queue<TreeNode*> q;
+    q.push(root);
+    size_t i = 1;
+    while (!q.empty() && i < toks.size()) {
+        TreeNode* node = q.front(); q.pop();
+        if (i < toks.size()) {
+            if (toks[i] != "null") {
+                node->left = new TreeNode(stoi(toks[i]));
+                q.push(node->left);
+            }
+            ++i;
+        }
+        if (i < toks.size()) {
+            if (toks[i] != "null") {
+                node->right = new TreeNode(stoi(toks[i]));
+                q.push(node->right);
+            }
+            ++i;
+        }
+    }
+    return root;
+}
+```
+
+Solution Template:
+```cpp
+bool isValidBST(TreeNode* root) {
+    // Write your code here
+    return true;
+}
+```
+
+Tail Code:
+```cpp
+int main() {
+    string line;
+    getline(cin, line);
+    TreeNode* root = buildTree(line);
+    cout << (isValidBST(root) ? 1 : 0) << endl;
+    return 0;
+}
+```
+
+**Boilerplate (Java 8)**
+
+Head Code:
+```java
+import java.util.*;
+import java.io.*;
+
+class TreeNode {
+    int val;
+    TreeNode left, right;
+    TreeNode(int v) { val = v; }
+}
+
+public class Solution {
+    static TreeNode buildTree(String line) {
+        if (line == null) return null;
+        String[] toks = line.trim().split("\\s+");
+        if (toks.length == 0 || toks[0].isEmpty() || toks[0].equals("null")) return null;
+        TreeNode root = new TreeNode(Integer.parseInt(toks[0]));
+        Queue<TreeNode> q = new ArrayDeque<>();
+        q.add(root);
+        int i = 1;
+        while (!q.isEmpty() && i < toks.length) {
+            TreeNode node = q.poll();
+            if (i < toks.length) {
+                if (!toks[i].equals("null")) {
+                    node.left = new TreeNode(Integer.parseInt(toks[i]));
+                    q.add(node.left);
+                }
+                i++;
+            }
+            if (i < toks.length) {
+                if (!toks[i].equals("null")) {
+                    node.right = new TreeNode(Integer.parseInt(toks[i]));
+                    q.add(node.right);
+                }
+                i++;
+            }
+        }
+        return root;
+    }
+```
+
+Solution Template:
+```java
+    static boolean isValidBST(TreeNode root) {
+        // Write your code here
+        return true;
+    }
+```
+
+Tail Code:
+```java
+    public static void main(String[] args) throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        String line = br.readLine();
+        TreeNode root = buildTree(line == null ? "" : line);
+        System.out.println(isValidBST(root) ? 1 : 0);
+    }
+}
+```
+
+---
+
+## Midterm: Kth Smallest Element in a BST
+**Difficulty**: Medium
+
+**Problem Statement**
+Given the root of a Binary Search Tree and an integer `k`, return the `k`-th smallest value stored in the tree (1-indexed). It is guaranteed that `1 <= k <= number of nodes` and that the input is a valid BST.
+
+**Input Format**
+- Line 1: level-order serialization of the tree (see the "Tree input convention" at the top of this file).
+- Line 2: a single integer `k`.
+
+**Output Format**
+A single integer — the `k`-th smallest value in the BST.
+
+**Constraints**
+- `1 <= number of nodes <= 100000`
+- `1 <= k <= number of nodes`
+- `-10^9 <= Node.val <= 10^9`
+- Values in the BST are unique and the tree satisfies the BST ordering invariant.
+- Materializing the full in-order list and indexing is accepted in the easy range but is unnecessary; the intended solution performs an iterative in-order traversal and stops as soon as the `k`-th node is reached in `O(H + k)` time.
+
+**Sample Input 0**
+```
+3 1 4 null 2
+1
+```
+
+**Sample Output 0**
+```
+1
+```
+
+**Sample Explanation 0**
+In-order traversal of this BST is `1 2 3 4`. The 1st smallest value is `1`.
+
+**Sample Input 1**
+```
+5 3 6 2 4 null null 1
+3
+```
+
+**Sample Output 1**
+```
+3
+```
+
+**Sample Explanation 1**
+The BST stores `1,2,3,4,5,6`. In-order yields `1 2 3 4 5 6`; the 3rd smallest is `3`.
+
+**Sample Input 2**
+```
+1
+1
+```
+
+**Sample Output 2**
+```
+1
+```
+
+**Sample Input 3**
+```
+2 1
+2
+```
+
+**Sample Output 3**
+```
+2
+```
+
+**Sample Input 4**
+```
+2 1 3
+2
+```
+
+**Sample Output 4**
+```
+2
+```
+
+**Sample Input 5**
+```
+5 3 7 2 4 6 8
+5
+```
+
+**Sample Output 5**
+```
+6
+```
+
+**Sample Input 6**
+```
+10 5 15 3 7 12 20
+7
+```
+
+**Sample Output 6**
+```
+20
+```
+
+**Sample Input 7**
+```
+20 10 30 5 15 25 35
+4
+```
+
+**Sample Output 7**
+```
+20
+```
+
+**Sample Input 8**
+```
+100 50 150 25 75 125 175
+1
+```
+
+**Sample Output 8**
+```
+25
+```
+
+**Sample Input 9**
+```
+8 4 12 2 6 10 14 1 3 5 7 9 11 13 15
+8
+```
+
+**Sample Output 9**
+```
+8
+```
+
+**Tags**
+Binary Search Tree, Inorder Traversal, DFS
+
+**Boilerplate (C++14)** — NOT parsed by the automator.
+
+Head Code:
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
+
+struct TreeNode {
+    int val;
+    TreeNode* left;
+    TreeNode* right;
+    TreeNode(int v) : val(v), left(nullptr), right(nullptr) {}
+};
+
+static TreeNode* buildTree(const string& line) {
+    vector<string> toks;
+    {
+        stringstream ss(line);
+        string t;
+        while (ss >> t) toks.push_back(t);
+    }
+    if (toks.empty() || toks[0] == "null") return nullptr;
+    TreeNode* root = new TreeNode(stoi(toks[0]));
+    queue<TreeNode*> q;
+    q.push(root);
+    size_t i = 1;
+    while (!q.empty() && i < toks.size()) {
+        TreeNode* node = q.front(); q.pop();
+        if (i < toks.size()) {
+            if (toks[i] != "null") {
+                node->left = new TreeNode(stoi(toks[i]));
+                q.push(node->left);
+            }
+            ++i;
+        }
+        if (i < toks.size()) {
+            if (toks[i] != "null") {
+                node->right = new TreeNode(stoi(toks[i]));
+                q.push(node->right);
+            }
+            ++i;
+        }
+    }
+    return root;
+}
+```
+
+Solution Template:
+```cpp
+int kthSmallest(TreeNode* root, int k) {
+    // Write your code here
+    return 0;
+}
+```
+
+Tail Code:
+```cpp
+int main() {
+    string line;
+    getline(cin, line);
+    TreeNode* root = buildTree(line);
+    int k;
+    cin >> k;
+    cout << kthSmallest(root, k) << endl;
+    return 0;
+}
+```
+
+**Boilerplate (Java 8)**
+
+Head Code:
+```java
+import java.util.*;
+import java.io.*;
+
+class TreeNode {
+    int val;
+    TreeNode left, right;
+    TreeNode(int v) { val = v; }
+}
+
+public class Solution {
+    static TreeNode buildTree(String line) {
+        if (line == null) return null;
+        String[] toks = line.trim().split("\\s+");
+        if (toks.length == 0 || toks[0].isEmpty() || toks[0].equals("null")) return null;
+        TreeNode root = new TreeNode(Integer.parseInt(toks[0]));
+        Queue<TreeNode> q = new ArrayDeque<>();
+        q.add(root);
+        int i = 1;
+        while (!q.isEmpty() && i < toks.length) {
+            TreeNode node = q.poll();
+            if (i < toks.length) {
+                if (!toks[i].equals("null")) {
+                    node.left = new TreeNode(Integer.parseInt(toks[i]));
+                    q.add(node.left);
+                }
+                i++;
+            }
+            if (i < toks.length) {
+                if (!toks[i].equals("null")) {
+                    node.right = new TreeNode(Integer.parseInt(toks[i]));
+                    q.add(node.right);
+                }
+                i++;
+            }
+        }
+        return root;
+    }
+```
+
+Solution Template:
+```java
+    static int kthSmallest(TreeNode root, int k) {
+        // Write your code here
+        return 0;
+    }
+```
+
+Tail Code:
+```java
+    public static void main(String[] args) throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        String line = br.readLine();
+        TreeNode root = buildTree(line == null ? "" : line);
+        int k = Integer.parseInt(br.readLine().trim());
+        System.out.println(kthSmallest(root, k));
+    }
+}
+```
+
+---
+
+## Midterm: First and Last Position in Sorted Array
+**Difficulty**: Medium
+
+**Problem Statement**
+Given a sorted (non-decreasing) array of integers `nums` that may contain duplicates, and an integer `target`, return the starting and ending 0-based indices of `target` in `nums`. If `target` is not present, print `-1 -1`. The required running time is `O(log N)`.
+
+**Input Format**
+- Line 1: two space-separated integers `N` (size of the array) and `target`.
+- Line 2: `N` space-separated integers — the non-decreasing array.
+
+**Output Format**
+Two space-separated integers on one line: the first and last index of `target` in `nums`, or `-1 -1` if absent.
+
+**Constraints**
+- `1 <= N <= 200000`
+- `-10^9 <= nums[i], target <= 10^9`
+- `nums` is sorted in non-decreasing order.
+- A linear scan to find the two indices is `O(N)` and will time out on the full test set. The intended solution performs two binary searches (lower and upper bound) in `O(log N)`.
+
+**Sample Input 0**
+```
+6 8
+5 7 7 8 8 10
+```
+
+**Sample Output 0**
+```
+3 4
+```
+
+**Sample Explanation 0**
+The value `8` first appears at index `3` and last appears at index `4`.
+
+**Sample Input 1**
+```
+6 6
+5 7 7 8 8 10
+```
+
+**Sample Output 1**
+```
+-1 -1
+```
+
+**Sample Explanation 1**
+`6` does not appear in the array, so the answer is `-1 -1`.
+
+**Sample Input 2**
+```
+1 0
+5
+```
+
+**Sample Output 2**
+```
+-1 -1
+```
+
+**Sample Input 3**
+```
+1 5
+5
+```
+
+**Sample Output 3**
+```
+0 0
+```
+
+**Sample Input 4**
+```
+8 2
+2 2 2 2 2 2 2 2
+```
+
+**Sample Output 4**
+```
+0 7
+```
+
+**Sample Input 5**
+```
+5 3
+1 2 3 4 5
+```
+
+**Sample Output 5**
+```
+2 2
+```
+
+**Sample Input 6**
+```
+10 3
+1 2 3 3 3 3 4 5 6 7
+```
+
+**Sample Output 6**
+```
+2 5
+```
+
+**Sample Input 7**
+```
+5 10
+1 2 3 4 5
+```
+
+**Sample Output 7**
+```
+-1 -1
+```
+
+**Sample Input 8**
+```
+5 -5
+-5 -5 -3 0 5
+```
+
+**Sample Output 8**
+```
+0 1
+```
+
+**Sample Input 9**
+```
+7 7
+1 2 3 4 5 6 8
+```
+
+**Sample Output 9**
+```
+-1 -1
+```
+
+**Tags**
+Binary Search, Arrays
+
+---
+
+## Midterm: Top K Frequent Elements
+**Difficulty**: Medium
+
+**Problem Statement**
+Given an integer array `nums` and an integer `k`, return the `k` most frequent elements. Resolve ties deterministically: elements with higher frequency come first, and if two elements have the same frequency the one with the smaller numeric value comes first.
+
+**Input Format**
+- Line 1: two space-separated integers `N` and `k`.
+- Line 2: `N` space-separated integers — the array elements.
+
+**Output Format**
+A single line of `k` space-separated integers — the top-`k` elements by the ordering rule above.
+
+**Constraints**
+- `1 <= N <= 200000`
+- `1 <= k <= number of distinct values in nums`
+- `-10^9 <= nums[i] <= 10^9`
+- The intended solution is `O(N log k)` using a size-`k` heap, or `O(N)` using bucket sort by frequency, followed by tie-breaking. A full `O(N log N)` sort of (frequency, value) pairs is also accepted, but repeatedly scanning the array to find the next most frequent element is `O(N^2)` and will time out.
+
+**Sample Input 0**
+```
+6 2
+1 1 1 2 2 3
+```
+
+**Sample Output 0**
+```
+1 2
+```
+
+**Sample Explanation 0**
+Frequencies are `1→3, 2→2, 3→1`. The two most frequent are `1` and `2`.
+
+**Sample Input 1**
+```
+1 1
+1
+```
+
+**Sample Output 1**
+```
+1
+```
+
+**Sample Explanation 1**
+The array has a single element `1`, so the top-1 by frequency is `1`.
+
+**Sample Input 2**
+```
+6 1
+4 1 -1 2 -1 2
+```
+
+**Sample Output 2**
+```
+-1
+```
+
+**Sample Input 3**
+```
+6 2
+4 1 -1 2 -1 2
+```
+
+**Sample Output 3**
+```
+-1 2
+```
+
+**Sample Input 4**
+```
+5 3
+1 2 3 4 5
+```
+
+**Sample Output 4**
+```
+1 2 3
+```
+
+**Sample Input 5**
+```
+6 3
+1 1 2 2 3 3
+```
+
+**Sample Output 5**
+```
+1 2 3
+```
+
+**Sample Input 6**
+```
+10 2
+5 5 5 5 3 3 3 2 2 1
+```
+
+**Sample Output 6**
+```
+5 3
+```
+
+**Sample Input 7**
+```
+4 2
+-1 -1 -2 -2
+```
+
+**Sample Output 7**
+```
+-2 -1
+```
+
+**Sample Input 8**
+```
+8 3
+1 2 3 1 2 3 1 2
+```
+
+**Sample Output 8**
+```
+1 2 3
+```
+
+**Sample Input 9**
+```
+7 1
+7 7 7 7 7 7 7
+```
+
+**Sample Output 9**
+```
+7
+```
+
+**Tags**
+Hashmap, Heap, Bucket Sort
+
+---
+
+## Midterm: Room Allocation
+**Difficulty**: Medium
+
+**Problem Statement**
+There are `N` guests, each with an arrival day `a_i` and a departure day `b_i` (inclusive, `a_i <= b_i`). Two guests whose stays overlap — that is, the closed intervals `[a_i, b_i]` and `[a_j, b_j]` intersect, even in a single shared day — cannot share a room. Assign each guest a room (identified by a positive integer) using the minimum possible number of rooms, and print one valid assignment in the input order of the guests.
+
+Assignment rule for determinism: process guests in non-decreasing order of arrival day, breaking ties by their 1-based input index. When a new guest arrives, reuse the available room with the smallest id (a room is available if its most recent occupant has `b < a` of the new guest); otherwise open a new room whose id is `(current room count) + 1`.
+
+**Input Format**
+- Line 1: a single integer `N` — the number of guests.
+- Next `N` lines: each contains two space-separated integers `a_i` and `b_i`.
+
+**Output Format**
+- Line 1: a single integer `K` — the minimum number of rooms required.
+- Line 2: `N` space-separated integers — the room id assigned to each guest, listed in the input order.
+
+**Constraints**
+- `1 <= N <= 100000`
+- `1 <= a_i <= b_i <= 10^9`
+- The intended solution sorts the guests by arrival and uses a min-heap keyed on `(latest_departure, room_id)` with the deterministic reuse rule above, running in `O(N log N)`. A pairwise `O(N^2)` sweep over all guests to find an available room will time out on the full test set.
+
+**Sample Input 0**
+```
+3
+1 2
+2 4
+4 4
+```
+
+**Sample Output 0**
+```
+2
+1 2 1
+```
+
+**Sample Explanation 0**
+Sorted by arrival: guest 1 `[1,2]`, guest 2 `[2,4]`, guest 3 `[4,4]`. Guest 1 opens room 1 (occupied through day 2). Guest 2 arrives on day 2; room 1's occupant leaves on day 2 (not strictly before day 2), so a new room 2 is opened. Guest 3 arrives on day 4; room 1 became free after day 2 (`2 < 4`), so it is reused. In input order: `1 2 1`. Two rooms suffice.
+
+**Sample Input 1**
+```
+4
+1 2
+3 4
+5 6
+7 8
+```
+
+**Sample Output 1**
+```
+1
+1 1 1 1
+```
+
+**Sample Explanation 1**
+No two intervals overlap, so every guest can be placed in the same room one after another. Only one room is ever needed.
+
+**Sample Input 2**
+```
+3
+1 10
+2 5
+3 7
+```
+
+**Sample Output 2**
+```
+3
+1 2 3
+```
+
+**Sample Input 3**
+```
+1
+5 10
+```
+
+**Sample Output 3**
+```
+1
+1
+```
+
+**Sample Input 4**
+```
+5
+1 2
+2 3
+3 4
+4 5
+5 6
+```
+
+**Sample Output 4**
+```
+2
+1 2 1 2 1
+```
+
+**Sample Input 5**
+```
+2
+1 1000000000
+500 600
+```
+
+**Sample Output 5**
+```
+2
+1 2
+```
+
+**Sample Input 6**
+```
+4
+5 10
+1 3
+2 4
+6 9
+```
+
+**Sample Output 6**
+```
+2
+1 1 2 2
+```
+
+**Sample Input 7**
+```
+5
+1 5
+2 6
+3 7
+4 8
+5 9
+```
+
+**Sample Output 7**
+```
+5
+1 2 3 4 5
+```
+
+**Sample Input 8**
+```
+6
+1 2
+3 4
+2 3
+4 5
+5 6
+6 7
+```
+
+**Sample Output 8**
+```
+2
+1 1 2 2 1 2
+```
+
+**Sample Input 9**
+```
+3
+1 100
+50 150
+100 200
+```
+
+**Sample Output 9**
+```
+3
+1 2 3
+```
+
+**Tags**
+Greedy, Sorting, Heap, Sweep Line
+
+---
+
+## Midterm: Subarray Sum Equals K
+**Difficulty**: Medium
+
+**Problem Statement**
+Given an integer array `nums` and an integer `k`, count the number of contiguous (possibly length-1) subarrays whose elements sum to `k`.
+
+**Input Format**
+- Line 1: two space-separated integers `N` and `k`.
+- Line 2: `N` space-separated integers — the array elements.
+
+**Output Format**
+A single integer — the number of contiguous subarrays whose sum equals `k`.
+
+**Constraints**
+- `1 <= N <= 100000`
+- `-10^4 <= nums[i] <= 10^4`
+- `-10^9 <= k <= 10^9`
+- The number of valid subarrays fits in a signed 64-bit integer.
+- A nested `O(N^2)` enumeration of (start, end) pairs will time out on the full test set. The intended solution builds prefix sums and uses a hash map `prefix_sum_count` to count, for each prefix, how many earlier prefixes have value `(current - k)`, running in `O(N)` average time.
+
+**Sample Input 0**
+```
+2 2
+1 1
+```
+
+**Sample Output 0**
+```
+1
+```
+
+**Sample Explanation 0**
+The subarrays are `[1]` (sum 1), `[1]` (sum 1), `[1,1]` (sum 2). Only the last one has sum `2`, so the count is `1`.
+
+**Sample Input 1**
+```
+4 3
+1 2 3 4
+```
+
+**Sample Output 1**
+```
+2
+```
+
+**Sample Explanation 1**
+The contiguous subarrays whose sum equals `3` are `[1,2]` and `[3]`, so the count is `2`.
+
+**Sample Input 2**
+```
+5 7
+3 4 7 2 -3
+```
+
+**Sample Output 2**
+```
+2
+```
+
+**Sample Input 3**
+```
+3 0
+1 -1 0
+```
+
+**Sample Output 3**
+```
+3
+```
+
+**Sample Input 4**
+```
+1 1
+1
+```
+
+**Sample Output 4**
+```
+1
+```
+
+**Sample Input 5**
+```
+1 0
+0
+```
+
+**Sample Output 5**
+```
+1
+```
+
+**Sample Input 6**
+```
+5 5
+5 5 5 5 5
+```
+
+**Sample Output 6**
+```
+5
+```
+
+**Sample Input 7**
+```
+6 0
+1 -1 1 -1 1 -1
+```
+
+**Sample Output 7**
+```
+9
+```
+
+**Sample Input 8**
+```
+5 3
+1 1 1 1 1
+```
+
+**Sample Output 8**
+```
+3
+```
+
+**Sample Input 9**
+```
+4 -2
+-1 -1 1 1
+```
+
+**Sample Output 9**
+```
+1
+```
+
+**Tags**
+Prefix Sum, Hashmap, Arrays
+
+---
+
+## Midterm: Minimum Window Substring
+**Difficulty**: Medium
+
+**Problem Statement**
+Given two strings `s` and `t`, return the shortest contiguous substring of `s` that contains every character of `t`, including the required multiplicities. If no such substring exists, print an empty line. If multiple substrings of the same minimum length exist, print the leftmost (smallest starting index) one.
+
+**Input Format**
+- Line 1: the string `s`.
+- Line 2: the string `t`.
+
+**Output Format**
+A single line — the minimum-length window substring, or an empty line if no window exists.
+
+**Constraints**
+- `1 <= |s| <= 100000`
+- `1 <= |t| <= 1000`
+- Both strings consist of printable ASCII characters without whitespace. Matching is case-sensitive.
+- A brute-force enumeration of all `O(|s|^2)` substrings with per-substring frequency comparison is `O(|s|^2 * sigma)` and will time out on the full test set. The intended solution uses a sliding window with a frequency table and a "required characters remaining" counter, running in `O(|s| + |t|)`.
+
+**Sample Input 0**
+```
+ADOBECODEBANC
+ABC
+```
+
+**Sample Output 0**
+```
+BANC
+```
+
+**Sample Explanation 0**
+`t = "ABC"`. The window `"BANC"` (indices 9..12 of `s`) contains `A`, `B`, and `C` with the required counts and has length 4. No shorter window of `s` covers all of `A, B, C`, so the answer is `BANC`.
+
+**Sample Input 1**
+```
+a
+a
+```
+
+**Sample Output 1**
+```
+a
+```
+
+**Sample Explanation 1**
+The whole string `s = "a"` already contains the required `"a"`. The minimum window is `"a"` itself.
+
+**Sample Input 2**
+```
+a
+aa
+```
+
+**Sample Output 2**
+```
+
+```
+
+**Sample Input 3**
+```
+ab
+b
+```
+
+**Sample Output 3**
+```
+b
+```
+
+**Sample Input 4**
+```
+cabwefgewcwaefgcf
+cae
+```
+
+**Sample Output 4**
+```
+cwae
+```
+
+**Sample Input 5**
+```
+AA
+AA
+```
+
+**Sample Output 5**
+```
+AA
+```
+
+**Sample Input 6**
+```
+AaAbb
+aA
+```
+
+**Sample Output 6**
+```
+Aa
+```
+
+**Sample Input 7**
+```
+abcdef
+z
+```
+
+**Sample Output 7**
+```
+
+```
+
+**Sample Input 8**
+```
+aaabbb
+ab
+```
+
+**Sample Output 8**
+```
+ab
+```
+
+**Sample Input 9**
+```
+HELLOWORLD
+ORL
+```
+
+**Sample Output 9**
+```
+ORL
+```
+
+**Tags**
+Sliding Window, Hashmap, Strings

@@ -1,0 +1,137 @@
+
+Day 1 - Getting started, Output, Input, Data Types, Variables
+  [Homework 1] Print your daily timetable as text
+  [Homework 2] Print a 4-line ASCII figure
+  [Homework 3] Print sizeof of each type
+
+Day 2 - Operators
+  [Homework 3] Remove the last digit of a given number. Say 45983
+
+Day 4 - if / if-else
+  [Homework 3] Take two numbers as integer input and print the larger number as the output in the integer format.
+  [Homework 4] Take an integer input and print Even if the integer is even else print Odd.
+  [Homework 5] Take income of a person as input from the user, print “No tax to be paid” if income is less than 500,000 and print “Tax to be paid” if income is greater than or equal to 500,000.
+  [Homework 6] A teacher adds 4 marks as grace marks only if the marks of the student is below 33. Print the final marks of student given by the teacher.
+  [Homework 7] Take age as input from the user. a.        Print “Super Senior Citizen” if age is above 70 b.        Print “Senior Citizen” if age is below 70 but equal to or above 59. c.        Print “Adult” if age is below 59 but equal to or above 18. d.        Print “Underage” is age is below 18 but above 1. e.        Print “New Born” if none of the above conditions follow.
+  [Homework 8] The government adds money into the account of a person based on his age. Take age and salary of the person as inputs. And print his final income. a.        if age is above 60, Rs. 1000 is added into the account b.        if age is above 40 and less than or equal to 60, Rs. 500 is added. c.        No money is added if the age is below 40.
+
+Day 6 - Nested if-else & else-if ladder
+  [Homework 1] Largest of three distinct numbers
+  [Homework 2] Calculator using if-else
+  [Homework 3] Ticket price by age group
+
+Day 7 - switch-case
+  [Homework 1] Menu-driven program
+  [Homework 2] Number of days in a month
+
+Day 8 - for loop
+  [Homework 2] Factorial with a loop
+  [Homework 3] Repeated digit sum to one digit
+
+Day 9 - while & do-while  Conversion of for loop into while loop like format
+  [Homework 1] GCD by repeated subtraction
+  [Homework 2] Binary form of a number using while
+
+Day 10 - Nested Loops
+  [Homework 1] Print all pairs with i < j
+  [Homework 2] Print a coordinate grid
+
+Day 11 - Nested Loops Pattern Questions
+  [Homework 1] Arithmetic-progression sum
+  [Homework 2] Fibonacci series with a loop
+  [Homework 3] Floyd's number triangle
+
+Day 12 - for loop - number problems
+  [Homework 1] Repeated digit sum to one digit
+
+Day 13 - while & do-while
+  [Homework 1] GCD by repeated subtraction
+  [Homework 2] Binary form of a number using while
+
+Day 14 - Nested loops
+  [Homework 1] Print all pairs with i < j
+  [Homework 2] Print a coordinate grid
+
+Day 15 - Loop practice
+  [Homework 1] Arithmetic-progression sum
+  [Homework 2] Fibonacci series with a loop
+
+Day 16 - Patterns I
+  [Homework 1] Floyd's number triangle
+
+Day 17 - Patterns II
+  [Homework 1] Half-diamond
+
+Day 19 - Time Complexity I
+  [Homework 2] Determine TC of finding max element in array
+
+Day 21 - Time & Space Complexity
+  [Homework 1] Calculate SC of nested arrays (matrices)
+
+Day 23 - Multi-parameter functions
+  [Homework 2] isLeapYear(y) returning bool
+
+Day 25 - Primes & factors
+  [Homework 1] Sieve of Eratosthenes
+
+Day 26 - GCD, LCM & number basics
+  [Homework 2] Reduce a fraction to lowest terms
+
+Day 29 - Arrays - intro
+  [Homework 2] Count positive elements
+
+Day 30 - Array traversal
+  [Homework 2] Count even and odd
+
+Day 31 - Sorting basics I
+  [Homework 1] Count total swaps in bubble sort
+
+Day 34 - Linear search
+  [Homework 1] Check if a value exists (boolean)
+
+Day 35 - Binary search
+  [Homework 1] LC34 Find First and Last Position of Element in Sorted Array
+
+Day 38 - Array practice
+  [Homework 2] Rearrange positives and negatives alternately
+
+Day 39 - Prefix sums & range queries
+  [Homework 2] Range increment with a difference array (GfG)
+
+Day 40 - Maximum subarray (Kadane)
+  [Homework 1] Maximum contiguous sum (GfG)
+
+Day 41 - Count / frequency arrays
+  [Homework 2] Element appearing once
+
+Day 42 - Count-array problems
+  [Homework 2] Check if arrays are permutations of each other
+
+Day 43 - Two pointers - intro
+  [Homework 2] Remove duplicates from a sorted array (LC26)
+
+Day 44 - Two pointers II
+  [Homework 2] Container with most water (intro)
+
+Day 45 - Two pointers III
+  [Homework 1] LC16 3Sum Closest
+  [Homework 2] Two-sum on an unsorted array (hashing preview)
+
+Day 47 - Sliding window (Variable)
+  [Homework 2] Smallest window containing all characters of string (GfG)
+
+Day 48 - Strings - deeper
+  [Homework 2] Longest word in a sentence
+
+Day 50 - 2-D arrays I
+  [Homework 1] Row with the maximum sum
+  [Homework 2] Check the identity matrix
+
+Day 52 - Bit Manipulation I
+  [Homework 1] Multiply/Divide a number by 2 using bit shifts
+
+Day 54 - Bit Manipulation III
+  [Homework 2] Find the two non-repeating elements (GfG)
+
+Day 59 - Mixed Problem Solving I
+  [Homework 1] LC75 Sort Colors

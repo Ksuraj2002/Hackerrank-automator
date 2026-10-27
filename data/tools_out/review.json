@@ -1,0 +1,3922 @@
+[
+  {
+    "item": {
+      "week": 1,
+      "day": "Day 2",
+      "lecture_name": "Operators-I",
+      "kind": "Classwork",
+      "index": 1,
+      "text": "Swap two numbers using a third variable",
+      "lc": null,
+      "gfg": false,
+      "key": "swap-two-numbers-using-a-third-variable"
+    },
+    "candidate": {
+      "name": "Swap the Numbers Without using a Third variable",
+      "slug": "swap-the-numbers-without-using-a-third-variable",
+      "id": 282588
+    },
+    "score": 0.89,
+    "why": "modifier-drift"
+  },
+  {
+    "item": {
+      "week": 9,
+      "day": "Day 44",
+      "lecture_name": "Two pointers II",
+      "kind": "Homework",
+      "index": 1,
+      "text": "Merge two sorted arrays in place (LC88)",
+      "lc": 88,
+      "gfg": false,
+      "key": "lc88"
+    },
+    "candidate": {
+      "name": "HW_Merge two sorted arrays",
+      "slug": "merge-two-sorted-arrays-6-3",
+      "id": 289041
+    },
+    "score": 0.89,
+    "why": "modifier-drift"
+  },
+  {
+    "item": {
+      "week": 11,
+      "day": "Day 51",
+      "lecture_name": "2-D Arrays II",
+      "kind": "Homework",
+      "index": 1,
+      "text": "LC59 Spiral Matrix II",
+      "lc": 59,
+      "gfg": false,
+      "key": "lc59"
+    },
+    "candidate": {
+      "name": "Spiral Matrix 44",
+      "slug": "spiral-matrix-44",
+      "id": 290219
+    },
+    "score": 0.89,
+    "why": "modifier-drift"
+  },
+  {
+    "item": {
+      "week": 9,
+      "day": "Day 45",
+      "lecture_name": "Two pointers III",
+      "kind": "Classwork",
+      "index": 1,
+      "text": "LC15 3Sum",
+      "lc": 15,
+      "gfg": false,
+      "key": "lc15"
+    },
+    "candidate": {
+      "name": "3 Sum",
+      "slug": "target-triplets",
+      "id": 290076
+    },
+    "score": 0.889,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 4,
+      "day": "Day 17",
+      "lecture_name": "Patterns II",
+      "kind": "Homework",
+      "index": 2,
+      "text": "Right-aligned triangle",
+      "lc": null,
+      "gfg": false,
+      "key": "right-aligned-triangle"
+    },
+    "candidate": {
+      "name": "Right-angled Triangle",
+      "slug": "right-angled-triangle-6",
+      "id": 391578
+    },
+    "score": 0.884,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 1,
+      "day": "Day 1",
+      "lecture_name": "Getting started, Output, Input, Data Types, Variables",
+      "kind": "Classwork",
+      "index": 5,
+      "text": "Area and perimeter of a rectangle",
+      "lc": null,
+      "gfg": false,
+      "key": "area-and-perimeter-of-a-rectangle"
+    },
+    "candidate": {
+      "name": "HW_Area_Of_Rectangle",
+      "slug": "gkstr03-area-of-rectangle",
+      "id": 275459
+    },
+    "score": 0.883,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 1,
+      "day": "Day 2",
+      "lecture_name": "Operators-I",
+      "kind": "Homework",
+      "index": 2,
+      "text": "Celsius to Fahrenheit converter",
+      "lc": null,
+      "gfg": false,
+      "key": "celsius-to-fahrenheit-converter"
+    },
+    "candidate": {
+      "name": "Fahrenheit and Celsius",
+      "slug": "fahrenheit-and-celsius",
+      "id": 284882
+    },
+    "score": 0.883,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 2,
+      "day": "Day 8",
+      "lecture_name": "for loop",
+      "kind": "Classwork",
+      "index": 1,
+      "text": "Print 1..N and even numbers to N",
+      "lc": null,
+      "gfg": false,
+      "key": "print-1-n-and-even-numbers-to-n"
+    },
+    "candidate": {
+      "name": "Print N to 1 3",
+      "slug": "print-n-to-1-3",
+      "id": 292607
+    },
+    "score": 0.883,
+    "why": "modifier-drift"
+  },
+  {
+    "item": {
+      "week": 2,
+      "day": "Day 9",
+      "lecture_name": "while & do-while  Conversion of for loop into while loop like format",
+      "kind": "Classwork",
+      "index": 1,
+      "text": "Sum of digits with while",
+      "lc": null,
+      "gfg": false,
+      "key": "sum-of-digits-with-while"
+    },
+    "candidate": {
+      "name": "Sum of Digits 81",
+      "slug": "sum-of-digits-81-3",
+      "id": 339252
+    },
+    "score": 0.883,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 2,
+      "day": "Day 9",
+      "lecture_name": "while & do-while  Conversion of for loop into while loop like format",
+      "kind": "Classwork",
+      "index": 3,
+      "text": "Count digits with while",
+      "lc": null,
+      "gfg": false,
+      "key": "count-digits-with-while"
+    },
+    "candidate": {
+      "name": "Count number of digits  1",
+      "slug": "count-number-of-digits-1-2",
+      "id": 239623
+    },
+    "score": 0.883,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 3,
+      "day": "Day 13",
+      "lecture_name": "while & do-while",
+      "kind": "Classwork",
+      "index": 1,
+      "text": "Sum of digits with while",
+      "lc": null,
+      "gfg": false,
+      "key": "sum-of-digits-with-while"
+    },
+    "candidate": {
+      "name": "Sum of Digits 81",
+      "slug": "sum-of-digits-81-3",
+      "id": 339252
+    },
+    "score": 0.883,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 3,
+      "day": "Day 13",
+      "lecture_name": "while & do-while",
+      "kind": "Classwork",
+      "index": 3,
+      "text": "Count digits with while",
+      "lc": null,
+      "gfg": false,
+      "key": "count-digits-with-while"
+    },
+    "candidate": {
+      "name": "Count number of digits  1",
+      "slug": "count-number-of-digits-1-2",
+      "id": 239623
+    },
+    "score": 0.883,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 3,
+      "day": "Day 15",
+      "lecture_name": "Loop practice",
+      "kind": "Classwork",
+      "index": 1,
+      "text": "Sum of a series",
+      "lc": null,
+      "gfg": false,
+      "key": "sum-of-a-series"
+    },
+    "candidate": {
+      "name": "Sum of Fibonacci Series 4",
+      "slug": "sum-of-fibonacci-series-4",
+      "id": 398458
+    },
+    "score": 0.883,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 3,
+      "day": "Day 15",
+      "lecture_name": "Loop practice",
+      "kind": "Homework",
+      "index": 2,
+      "text": "Fibonacci series with a loop",
+      "lc": null,
+      "gfg": false,
+      "key": "fibonacci-series-with-a-loop"
+    },
+    "candidate": {
+      "name": "HW_Print fibonacci series 2",
+      "slug": "print-fibonacci-series-2",
+      "id": 287153
+    },
+    "score": 0.883,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 5,
+      "day": "Day 25",
+      "lecture_name": "Primes & factors",
+      "kind": "Classwork",
+      "index": 2,
+      "text": "Print primes 1..N",
+      "lc": null,
+      "gfg": false,
+      "key": "print-primes-1-n"
+    },
+    "candidate": {
+      "name": "Print N to 1 3",
+      "slug": "print-n-to-1-3",
+      "id": 292607
+    },
+    "score": 0.883,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 6,
+      "day": "Day 27",
+      "lecture_name": "Recursion - intro",
+      "kind": "Classwork",
+      "index": 2,
+      "text": "Print 1..N and N..1 recursively",
+      "lc": null,
+      "gfg": false,
+      "key": "print-1-n-and-n-1-recursively"
+    },
+    "candidate": {
+      "name": "Print N to 1 3",
+      "slug": "print-n-to-1-3",
+      "id": 292607
+    },
+    "score": 0.883,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 6,
+      "day": "Day 27",
+      "lecture_name": "Recursion - intro",
+      "kind": "Classwork",
+      "index": 3,
+      "text": "Sum of digits recursively",
+      "lc": null,
+      "gfg": false,
+      "key": "sum-of-digits-recursively"
+    },
+    "candidate": {
+      "name": "Sum of Digits 81",
+      "slug": "sum-of-digits-81-3",
+      "id": 339252
+    },
+    "score": 0.883,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 6,
+      "day": "Day 28",
+      "lecture_name": "Recursion - practice",
+      "kind": "Homework",
+      "index": 1,
+      "text": "Count vowels recursively",
+      "lc": null,
+      "gfg": false,
+      "key": "count-vowels-recursively"
+    },
+    "candidate": {
+      "name": "Count Vowels",
+      "slug": "count-vowels-8-1",
+      "id": 266993
+    },
+    "score": 0.883,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 6,
+      "day": "Day 28",
+      "lecture_name": "Recursion - practice",
+      "kind": "Homework",
+      "index": 2,
+      "text": "Reverse a string recursively",
+      "lc": null,
+      "gfg": false,
+      "key": "reverse-a-string-recursively"
+    },
+    "candidate": {
+      "name": "Reverse The String",
+      "slug": "reverse-a-string-1-4",
+      "id": 267032
+    },
+    "score": 0.883,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 6,
+      "day": "Day 29",
+      "lecture_name": "Arrays - intro",
+      "kind": "Homework",
+      "index": 1,
+      "text": "Sum of an array",
+      "lc": null,
+      "gfg": false,
+      "key": "sum-of-an-array"
+    },
+    "candidate": {
+      "name": "Sum of all Elements of Array",
+      "slug": "sum-of-all-elements-of-array",
+      "id": 239565
+    },
+    "score": 0.883,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 6,
+      "day": "Day 30",
+      "lecture_name": "Array traversal",
+      "kind": "Classwork",
+      "index": 1,
+      "text": "Max and min in one pass",
+      "lc": null,
+      "gfg": false,
+      "key": "max-and-min-in-one-pass"
+    },
+    "candidate": {
+      "name": "Max and Min 5",
+      "slug": "max-and-min-5",
+      "id": 200654
+    },
+    "score": 0.883,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 6,
+      "day": "Day 30",
+      "lecture_name": "Array traversal",
+      "kind": "Homework",
+      "index": 1,
+      "text": "Second largest element",
+      "lc": null,
+      "gfg": false,
+      "key": "second-largest-element"
+    },
+    "candidate": {
+      "name": "Second largest number 16",
+      "slug": "second-largest-number-16-2",
+      "id": 455967
+    },
+    "score": 0.883,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 6,
+      "day": "Day 30",
+      "lecture_name": "Array traversal",
+      "kind": "Homework",
+      "index": 2,
+      "text": "Count even and odd",
+      "lc": null,
+      "gfg": false,
+      "key": "count-even-and-odd"
+    },
+    "candidate": {
+      "name": "HW_Odd Even 11",
+      "slug": "odd-even-11-1",
+      "id": 267551
+    },
+    "score": 0.883,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 7,
+      "day": "Day 32",
+      "lecture_name": "Sorting basics II",
+      "kind": "Classwork",
+      "index": 1,
+      "text": "Insertion sort implementation",
+      "lc": null,
+      "gfg": false,
+      "key": "insertion-sort-implementation"
+    },
+    "candidate": {
+      "name": "Insertion Sort 28",
+      "slug": "insertion-sort-28-5",
+      "id": 255806
+    },
+    "score": 0.883,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 7,
+      "day": "Day 34",
+      "lecture_name": "Linear search",
+      "kind": "Classwork",
+      "index": 2,
+      "text": "Count occurrences of x",
+      "lc": null,
+      "gfg": false,
+      "key": "count-occurrences-of-x"
+    },
+    "candidate": {
+      "name": "Count the Occurrences!",
+      "slug": "count-the-occurrences",
+      "id": 192332
+    },
+    "score": 0.883,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 7,
+      "day": "Day 34",
+      "lecture_name": "Linear search",
+      "kind": "Homework",
+      "index": 2,
+      "text": "Return index of the maximum element",
+      "lc": null,
+      "gfg": false,
+      "key": "return-index-of-the-maximum-element"
+    },
+    "candidate": {
+      "name": "HW_Element as an index",
+      "slug": "element-as-an-index",
+      "id": 326746
+    },
+    "score": 0.883,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 7,
+      "day": "Day 35",
+      "lecture_name": "Binary search",
+      "kind": "Classwork",
+      "index": 1,
+      "text": "LC704 Binary Search",
+      "lc": 704,
+      "gfg": false,
+      "key": "lc704"
+    },
+    "candidate": {
+      "name": "Binary Search in an Array",
+      "slug": "search-in-array-2",
+      "id": 292087
+    },
+    "score": 0.883,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 8,
+      "day": "Day 36",
+      "lecture_name": "Reverse & rearrange",
+      "kind": "Classwork",
+      "index": 3,
+      "text": "Reverse a sub-range",
+      "lc": null,
+      "gfg": false,
+      "key": "reverse-a-sub-range"
+    },
+    "candidate": {
+      "name": "HW_REVERSE IN RANGE",
+      "slug": "reverse-in-range",
+      "id": 290014
+    },
+    "score": 0.883,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 8,
+      "day": "Day 37",
+      "lecture_name": "Rotation",
+      "kind": "Homework",
+      "index": 1,
+      "text": "Check if one array is a rotation of another",
+      "lc": null,
+      "gfg": false,
+      "key": "check-if-one-array-is-a-rotation-of-another"
+    },
+    "candidate": {
+      "name": "Check Array Rotation 6",
+      "slug": "check-array-rotation-6",
+      "id": 255805
+    },
+    "score": 0.883,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 8,
+      "day": "Day 40",
+      "lecture_name": "Maximum subarray (Kadane)",
+      "kind": "Classwork",
+      "index": 1,
+      "text": "LC53 Maximum Subarray",
+      "lc": 53,
+      "gfg": false,
+      "key": "lc53"
+    },
+    "candidate": {
+      "name": "Maximum Product Subarray 2",
+      "slug": "maximum-product-subarray-2",
+      "id": 206079
+    },
+    "score": 0.883,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 9,
+      "day": "Day 41",
+      "lecture_name": "Count / frequency arrays",
+      "kind": "Homework",
+      "index": 1,
+      "text": "Missing number in 1..N",
+      "lc": null,
+      "gfg": false,
+      "key": "missing-number-in-1-n"
+    },
+    "candidate": {
+      "name": "Print N to 1 3",
+      "slug": "print-n-to-1-3",
+      "id": 292607
+    },
+    "score": 0.883,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 10,
+      "day": "Day 46",
+      "lecture_name": "Sliding window",
+      "kind": "Homework",
+      "index": 2,
+      "text": "Count occurrences of anagrams (GfG)",
+      "lc": null,
+      "gfg": true,
+      "key": "count-occurrences-of-anagrams"
+    },
+    "candidate": {
+      "name": "Count the Occurrences!",
+      "slug": "count-the-occurrences",
+      "id": 192332
+    },
+    "score": 0.883,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 10,
+      "day": "Day 48",
+      "lecture_name": "Strings - deeper",
+      "kind": "Classwork",
+      "index": 2,
+      "text": "Count the words using stringstream",
+      "lc": null,
+      "gfg": false,
+      "key": "count-the-words-using-stringstream"
+    },
+    "candidate": {
+      "name": "Count Words",
+      "slug": "count-words-11",
+      "id": 290808
+    },
+    "score": 0.883,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 11,
+      "day": "Day 51",
+      "lecture_name": "2-D Arrays II",
+      "kind": "Classwork",
+      "index": 1,
+      "text": "Transpose a matrix in place",
+      "lc": null,
+      "gfg": false,
+      "key": "transpose-a-matrix-in-place"
+    },
+    "candidate": {
+      "name": "Transpose of matrix 7",
+      "slug": "transpose-of-matrix-7",
+      "id": 291127
+    },
+    "score": 0.883,
+    "why": "modifier-drift"
+  },
+  {
+    "item": {
+      "week": 11,
+      "day": "Day 52",
+      "lecture_name": "Bit Manipulation I",
+      "kind": "Classwork",
+      "index": 2,
+      "text": "Check if a number is odd/even using Bitwise AND",
+      "lc": null,
+      "gfg": false,
+      "key": "check-if-a-number-is-odd-even-using-bitwise-and"
+    },
+    "candidate": {
+      "name": "HW_Odd Even 11",
+      "slug": "odd-even-11-1",
+      "id": 267551
+    },
+    "score": 0.883,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 11,
+      "day": "Day 52",
+      "lecture_name": "Bit Manipulation I",
+      "kind": "Homework",
+      "index": 2,
+      "text": "XOR of numbers from 1 to N (GfG)",
+      "lc": null,
+      "gfg": true,
+      "key": "xor-of-numbers-from-1-to-n"
+    },
+    "candidate": {
+      "name": "Print N to 1 3",
+      "slug": "print-n-to-1-3",
+      "id": 292607
+    },
+    "score": 0.883,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 12,
+      "day": "Day 56",
+      "lecture_name": "Subarray Optimization",
+      "kind": "Classwork",
+      "index": 1,
+      "text": "LC53 Maximum Subarray (Review)",
+      "lc": 53,
+      "gfg": false,
+      "key": "lc53"
+    },
+    "candidate": {
+      "name": "Maximum Product Subarray 2",
+      "slug": "maximum-product-subarray-2",
+      "id": 206079
+    },
+    "score": 0.883,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 12,
+      "day": "Day 57",
+      "lecture_name": "Advanced String Manipulations",
+      "kind": "Classwork",
+      "index": 1,
+      "text": "LC14 Longest Common Prefix",
+      "lc": 14,
+      "gfg": false,
+      "key": "lc14"
+    },
+    "candidate": {
+      "name": "HW_common prefix 1",
+      "slug": "common-prefix-1",
+      "id": 310382
+    },
+    "score": 0.883,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 5,
+      "day": "Day 22",
+      "lecture_name": "Functions - basics",
+      "kind": "Homework",
+      "index": 2,
+      "text": "isPalindromeNumber(n)",
+      "lc": null,
+      "gfg": false,
+      "key": "ispalindromenumber-n"
+    },
+    "candidate": {
+      "name": "Palindrome Number 48",
+      "slug": "palindrome-number-48-1",
+      "id": 351929
+    },
+    "score": 0.865,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 2,
+      "day": "Day 8",
+      "lecture_name": "for loop",
+      "kind": "Classwork",
+      "index": 4,
+      "text": "Print all factors of N",
+      "lc": null,
+      "gfg": false,
+      "key": "print-all-factors-of-n"
+    },
+    "candidate": {
+      "name": "Print all factors of a number",
+      "slug": "print-all-factors-of-a-number",
+      "id": 286954
+    },
+    "score": 0.863,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 3,
+      "day": "Day 12",
+      "lecture_name": "for loop - number problems",
+      "kind": "Classwork",
+      "index": 1,
+      "text": "Print all factors of N",
+      "lc": null,
+      "gfg": false,
+      "key": "print-all-factors-of-n"
+    },
+    "candidate": {
+      "name": "Print all factors of a number",
+      "slug": "print-all-factors-of-a-number",
+      "id": 286954
+    },
+    "score": 0.863,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 8,
+      "day": "Day 40",
+      "lecture_name": "Maximum subarray (Kadane)",
+      "kind": "Homework",
+      "index": 2,
+      "text": "Largest sum of exactly k elements",
+      "lc": null,
+      "gfg": false,
+      "key": "largest-sum-of-exactly-k-elements"
+    },
+    "candidate": {
+      "name": "k largest elements 5",
+      "slug": "k-largest-elements-5",
+      "id": 355018
+    },
+    "score": 0.86,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 11,
+      "day": "Day 54",
+      "lecture_name": "Bit Manipulation III",
+      "kind": "Classwork",
+      "index": 2,
+      "text": "Clear rightmost set bit (N & (N-1))",
+      "lc": null,
+      "gfg": false,
+      "key": "clear-rightmost-set-bit-n-n-1"
+    },
+    "candidate": {
+      "name": "Rightmost set bit of number",
+      "slug": "rightmost-set-bit-of-number",
+      "id": 294586
+    },
+    "score": 0.86,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 11,
+      "day": "Day 55",
+      "lecture_name": "Subarrays Deep Dive",
+      "kind": "Classwork",
+      "index": 2,
+      "text": "Find max subarray sum using O(N^2)",
+      "lc": null,
+      "gfg": false,
+      "key": "find-max-subarray-sum-using-o-n-2"
+    },
+    "candidate": {
+      "name": "Max subarray sum 5",
+      "slug": "max-subarray-sum-5",
+      "id": 289745
+    },
+    "score": 0.86,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 12,
+      "day": "Day 58",
+      "lecture_name": "2-D Matrix Searches",
+      "kind": "Homework",
+      "index": 1,
+      "text": "Median in a row-wise sorted Matrix (GfG)",
+      "lc": null,
+      "gfg": true,
+      "key": "median-in-a-row-wise-sorted-matrix"
+    },
+    "candidate": {
+      "name": "Print the Matrix Row-wise",
+      "slug": "print-the-matrix-row-wise",
+      "id": 293719
+    },
+    "score": 0.86,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 12,
+      "day": "Day 59",
+      "lecture_name": "Mixed Problem Solving I",
+      "kind": "Classwork",
+      "index": 3,
+      "text": "LC128 Longest Consecutive Sequence (Sorting approach)",
+      "lc": 128,
+      "gfg": false,
+      "key": "lc128"
+    },
+    "candidate": {
+      "name": "Longest Consecutive Sequence 2",
+      "slug": "longest-consecutive-sequence-2-2",
+      "id": 337368
+    },
+    "score": 0.86,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 6,
+      "day": "Day 28",
+      "lecture_name": "Recursion - practice",
+      "kind": "Classwork",
+      "index": 2,
+      "text": "All subsequences of a string",
+      "lc": null,
+      "gfg": false,
+      "key": "all-subsequences-of-a-string"
+    },
+    "candidate": {
+      "name": "Subsequence of String",
+      "slug": "subsequence-of-string-1",
+      "id": 257185
+    },
+    "score": 0.857,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 1,
+      "day": "Day 2",
+      "lecture_name": "Operators-I",
+      "kind": "Classwork",
+      "index": 9,
+      "text": "Take an integer input and check if the number is divisible by 7 or not.",
+      "lc": null,
+      "gfg": false,
+      "key": "take-an-integer-input-and-check-if-the-number-is-divisible-by-7-or-not"
+    },
+    "candidate": {
+      "name": "Divisible by 7 or not",
+      "slug": "divisible-by-7-or-not",
+      "id": 284922
+    },
+    "score": 0.85,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 9,
+      "day": "Day 41",
+      "lecture_name": "Count / frequency arrays",
+      "kind": "Classwork",
+      "index": 2,
+      "text": "Most frequent element",
+      "lc": null,
+      "gfg": false,
+      "key": "most-frequent-element"
+    },
+    "candidate": {
+      "name": "HW_k frequent elements",
+      "slug": "k-frequent-character",
+      "id": 327125
+    },
+    "score": 0.85,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 5,
+      "day": "Day 22",
+      "lecture_name": "Functions - basics",
+      "kind": "Homework",
+      "index": 1,
+      "text": "sumOfDigits(n)",
+      "lc": null,
+      "gfg": false,
+      "key": "sumofdigits-n"
+    },
+    "candidate": {
+      "name": "Sum of Digits 81",
+      "slug": "sum-of-digits-81-3",
+      "id": 339252
+    },
+    "score": 0.846,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 11,
+      "day": "Day 55",
+      "lecture_name": "Subarrays Deep Dive",
+      "kind": "Homework",
+      "index": 2,
+      "text": "Product of all subarrays (GfG)",
+      "lc": null,
+      "gfg": true,
+      "key": "product-of-all-subarrays"
+    },
+    "candidate": {
+      "name": "HW_Product of Arrays 1",
+      "slug": "product-of-arrays-1",
+      "id": 288785
+    },
+    "score": 0.829,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 10,
+      "day": "Day 48",
+      "lecture_name": "Strings - deeper",
+      "kind": "Classwork",
+      "index": 3,
+      "text": "LC125 Valid Palindrome",
+      "lc": 125,
+      "gfg": false,
+      "key": "lc125"
+    },
+    "candidate": {
+      "name": "Is Palindrome",
+      "slug": "cc01-is-palindrome",
+      "id": 278075
+    },
+    "score": 0.828,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 2,
+      "day": "Day 6",
+      "lecture_name": "Nested if-else & else-if ladder",
+      "kind": "Homework",
+      "index": 2,
+      "text": "Calculator using if-else",
+      "lc": null,
+      "gfg": false,
+      "key": "calculator-using-if-else"
+    },
+    "candidate": {
+      "name": "calculator using class",
+      "slug": "calculator-using-class",
+      "id": 438686
+    },
+    "score": 0.826,
+    "why": "modifier-drift"
+  },
+  {
+    "item": {
+      "week": 10,
+      "day": "Day 46",
+      "lecture_name": "Sliding window",
+      "kind": "Classwork",
+      "index": 1,
+      "text": "Maximum sum window of size k (GfG)",
+      "lc": null,
+      "gfg": true,
+      "key": "maximum-sum-window-of-size-k"
+    },
+    "candidate": {
+      "name": "Maximum Element in window of size k",
+      "slug": "maximum-element-in-window-of-size-k",
+      "id": 262322
+    },
+    "score": 0.825,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 1,
+      "day": "Day 2",
+      "lecture_name": "Operators-I",
+      "kind": "Classwork",
+      "index": 3,
+      "text": "Sum of digits of a 3-digit number",
+      "lc": null,
+      "gfg": false,
+      "key": "sum-of-digits-of-a-3-digit-number"
+    },
+    "candidate": {
+      "name": "3 Sum",
+      "slug": "target-triplets",
+      "id": 290076
+    },
+    "score": 0.825,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 2,
+      "day": "Day 7",
+      "lecture_name": "switch-case",
+      "kind": "Classwork",
+      "index": 2,
+      "text": "Day of the week from a number",
+      "lc": null,
+      "gfg": false,
+      "key": "day-of-the-week-from-a-number"
+    },
+    "candidate": {
+      "name": "HW_Print the day",
+      "slug": "print-the-day",
+      "id": 333887
+    },
+    "score": 0.825,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 2,
+      "day": "Day 7",
+      "lecture_name": "switch-case",
+      "kind": "Homework",
+      "index": 2,
+      "text": "Number of days in a month",
+      "lc": null,
+      "gfg": false,
+      "key": "number-of-days-in-a-month"
+    },
+    "candidate": {
+      "name": "HW_Print the month",
+      "slug": "print-the-month",
+      "id": 333893
+    },
+    "score": 0.825,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 2,
+      "day": "Day 8",
+      "lecture_name": "for loop",
+      "kind": "Homework",
+      "index": 1,
+      "text": "Print N down to 1",
+      "lc": null,
+      "gfg": false,
+      "key": "print-n-down-to-1"
+    },
+    "candidate": {
+      "name": "Print n to 1",
+      "slug": "print-n-to-1-2",
+      "id": 285635
+    },
+    "score": 0.825,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 2,
+      "day": "Day 8",
+      "lecture_name": "for loop",
+      "kind": "Homework",
+      "index": 2,
+      "text": "Factorial with a loop",
+      "lc": null,
+      "gfg": false,
+      "key": "factorial-with-a-loop"
+    },
+    "candidate": {
+      "name": "Factorial 156",
+      "slug": "factorial-156",
+      "id": 265684
+    },
+    "score": 0.825,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 2,
+      "day": "Day 9",
+      "lecture_name": "while & do-while  Conversion of for loop into while loop like format",
+      "kind": "Classwork",
+      "index": 2,
+      "text": "Reverse a number with while",
+      "lc": null,
+      "gfg": false,
+      "key": "reverse-a-number-with-while"
+    },
+    "candidate": {
+      "name": "Reverse Numbers 4",
+      "slug": "reverse-numbers-4",
+      "id": 200730
+    },
+    "score": 0.825,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 3,
+      "day": "Day 13",
+      "lecture_name": "while & do-while",
+      "kind": "Classwork",
+      "index": 2,
+      "text": "Reverse a number with while",
+      "lc": null,
+      "gfg": false,
+      "key": "reverse-a-number-with-while"
+    },
+    "candidate": {
+      "name": "Reverse Numbers 4",
+      "slug": "reverse-numbers-4",
+      "id": 200730
+    },
+    "score": 0.825,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 3,
+      "day": "Day 14",
+      "lecture_name": "Nested loops",
+      "kind": "Classwork",
+      "index": 1,
+      "text": "Print a grid of numbers",
+      "lc": null,
+      "gfg": false,
+      "key": "print-a-grid-of-numbers"
+    },
+    "candidate": {
+      "name": "Grid Problem 3",
+      "slug": "grid-problem-3",
+      "id": 195676
+    },
+    "score": 0.825,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 4,
+      "day": "Day 17",
+      "lecture_name": "Patterns II",
+      "kind": "Classwork",
+      "index": 1,
+      "text": "Pyramid of stars",
+      "lc": null,
+      "gfg": false,
+      "key": "pyramid-of-stars"
+    },
+    "candidate": {
+      "name": "print Numbers and stars",
+      "slug": "print-numbers-and-stars",
+      "id": 311690
+    },
+    "score": 0.825,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 4,
+      "day": "Day 18",
+      "lecture_name": "Patterns III",
+      "kind": "Classwork",
+      "index": 3,
+      "text": "Alphabet pattern",
+      "lc": null,
+      "gfg": false,
+      "key": "alphabet-pattern"
+    },
+    "candidate": {
+      "name": "HW_Print the Number Pattern 2",
+      "slug": "print-the-number-pattern-2",
+      "id": 287892
+    },
+    "score": 0.825,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 4,
+      "day": "Day 18",
+      "lecture_name": "Patterns III",
+      "kind": "Homework",
+      "index": 1,
+      "text": "Butterfly pattern",
+      "lc": null,
+      "gfg": false,
+      "key": "butterfly-pattern"
+    },
+    "candidate": {
+      "name": "HW_Print the Number Pattern 2",
+      "slug": "print-the-number-pattern-2",
+      "id": 287892
+    },
+    "score": 0.825,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 5,
+      "day": "Day 22",
+      "lecture_name": "Functions - basics",
+      "kind": "Classwork",
+      "index": 1,
+      "text": "isPrime(n)",
+      "lc": null,
+      "gfg": false,
+      "key": "isprime-n"
+    },
+    "candidate": {
+      "name": "Print n to 1",
+      "slug": "print-n-to-1-2",
+      "id": 285635
+    },
+    "score": 0.825,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 6,
+      "day": "Day 26",
+      "lecture_name": "GCD, LCM & number basics",
+      "kind": "Classwork",
+      "index": 1,
+      "text": "GCD using Euclid",
+      "lc": null,
+      "gfg": false,
+      "key": "gcd-using-euclid"
+    },
+    "candidate": {
+      "name": "Find GCD of two number",
+      "slug": "find-gcd-of-two-number",
+      "id": 283254
+    },
+    "score": 0.825,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 6,
+      "day": "Day 27",
+      "lecture_name": "Recursion - intro",
+      "kind": "Classwork",
+      "index": 1,
+      "text": "Factorial recursively",
+      "lc": null,
+      "gfg": false,
+      "key": "factorial-recursively"
+    },
+    "candidate": {
+      "name": "Factorial 156",
+      "slug": "factorial-156",
+      "id": 265684
+    },
+    "score": 0.825,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 6,
+      "day": "Day 27",
+      "lecture_name": "Recursion - intro",
+      "kind": "Homework",
+      "index": 2,
+      "text": "Recursive palindrome check",
+      "lc": null,
+      "gfg": false,
+      "key": "recursive-palindrome-check"
+    },
+    "candidate": {
+      "name": "Is Palindrome",
+      "slug": "cc01-is-palindrome",
+      "id": 278075
+    },
+    "score": 0.825,
+    "why": "modifier-drift"
+  },
+  {
+    "item": {
+      "week": 6,
+      "day": "Day 30",
+      "lecture_name": "Array traversal",
+      "kind": "Classwork",
+      "index": 2,
+      "text": "Average of the array",
+      "lc": null,
+      "gfg": false,
+      "key": "average-of-the-array"
+    },
+    "candidate": {
+      "name": "Find Average",
+      "slug": "addition-of-two-numbers-22",
+      "id": 263669
+    },
+    "score": 0.825,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 7,
+      "day": "Day 33",
+      "lecture_name": "std::sort & comparators",
+      "kind": "Homework",
+      "index": 2,
+      "text": "Sort array elements by frequency (Intro)",
+      "lc": null,
+      "gfg": false,
+      "key": "sort-array-elements-by-frequency"
+    },
+    "candidate": {
+      "name": "HW_Print Elements of Array",
+      "slug": "array-basic-i",
+      "id": 287631
+    },
+    "score": 0.825,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 7,
+      "day": "Day 35",
+      "lecture_name": "Binary search",
+      "kind": "Homework",
+      "index": 2,
+      "text": "Find Ceil of x in sorted array (GfG)",
+      "lc": null,
+      "gfg": true,
+      "key": "find-ceil-of-x-in-sorted-array"
+    },
+    "candidate": {
+      "name": "is array sorted",
+      "slug": "is-array-sorted",
+      "id": 267782
+    },
+    "score": 0.825,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 8,
+      "day": "Day 36",
+      "lecture_name": "Reverse & rearrange",
+      "kind": "Homework",
+      "index": 2,
+      "text": "Check if the array is a palindrome",
+      "lc": null,
+      "gfg": false,
+      "key": "check-if-the-array-is-a-palindrome"
+    },
+    "candidate": {
+      "name": "Is Palindrome",
+      "slug": "cc01-is-palindrome",
+      "id": 278075
+    },
+    "score": 0.825,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 8,
+      "day": "Day 38",
+      "lecture_name": "Array practice",
+      "kind": "Classwork",
+      "index": 2,
+      "text": "Sum of a given range",
+      "lc": null,
+      "gfg": false,
+      "key": "sum-of-a-given-range"
+    },
+    "candidate": {
+      "name": "Two Sum 14",
+      "slug": "two-sum-14-1",
+      "id": 193324
+    },
+    "score": 0.825,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 8,
+      "day": "Day 39",
+      "lecture_name": "Prefix sums & range queries",
+      "kind": "Classwork",
+      "index": 1,
+      "text": "Build a prefix-sum array",
+      "lc": null,
+      "gfg": false,
+      "key": "build-a-prefix-sum-array"
+    },
+    "candidate": {
+      "name": "Print Prefix Sum",
+      "slug": "print-prefix-sum",
+      "id": 290035
+    },
+    "score": 0.825,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 9,
+      "day": "Day 43",
+      "lecture_name": "Two pointers - intro",
+      "kind": "Classwork",
+      "index": 1,
+      "text": "Reverse using two pointers",
+      "lc": null,
+      "gfg": false,
+      "key": "reverse-using-two-pointers"
+    },
+    "candidate": {
+      "name": "Reverse Numbers 4",
+      "slug": "reverse-numbers-4",
+      "id": 200730
+    },
+    "score": 0.825,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 9,
+      "day": "Day 43",
+      "lecture_name": "Two pointers - intro",
+      "kind": "Homework",
+      "index": 2,
+      "text": "Remove duplicates from a sorted array (LC26)",
+      "lc": 26,
+      "gfg": false,
+      "key": "lc26"
+    },
+    "candidate": {
+      "name": "is array sorted",
+      "slug": "is-array-sorted",
+      "id": 267782
+    },
+    "score": 0.825,
+    "why": "modifier-drift"
+  },
+  {
+    "item": {
+      "week": 9,
+      "day": "Day 45",
+      "lecture_name": "Two pointers III",
+      "kind": "Classwork",
+      "index": 2,
+      "text": "LC26 Remove Duplicates from Sorted Array",
+      "lc": 26,
+      "gfg": false,
+      "key": "lc26"
+    },
+    "candidate": {
+      "name": "is array sorted",
+      "slug": "is-array-sorted",
+      "id": 267782
+    },
+    "score": 0.825,
+    "why": "modifier-drift"
+  },
+  {
+    "item": {
+      "week": 10,
+      "day": "Day 49",
+      "lecture_name": "Strings & frequency",
+      "kind": "Classwork",
+      "index": 3,
+      "text": "Frequency of each character",
+      "lc": null,
+      "gfg": false,
+      "key": "frequency-of-each-character"
+    },
+    "candidate": {
+      "name": "Character and it's Frequency",
+      "slug": "character-by-frequency",
+      "id": 292354
+    },
+    "score": 0.825,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 11,
+      "day": "Day 55",
+      "lecture_name": "Subarrays Deep Dive",
+      "kind": "Classwork",
+      "index": 1,
+      "text": "Print all subarrays of an array",
+      "lc": null,
+      "gfg": false,
+      "key": "print-all-subarrays-of-an-array"
+    },
+    "candidate": {
+      "name": "Print All Subarrays",
+      "slug": "print-subsets-1",
+      "id": 289739
+    },
+    "score": 0.825,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 12,
+      "day": "Day 56",
+      "lecture_name": "Subarray Optimization",
+      "kind": "Classwork",
+      "index": 3,
+      "text": "LC560 Subarray Sum Equals K (Using prefix sums/hashmap intro)",
+      "lc": 560,
+      "gfg": false,
+      "key": "lc560"
+    },
+    "candidate": {
+      "name": "HW_Sum Equals One",
+      "slug": "sum-equals-one",
+      "id": 289742
+    },
+    "score": 0.825,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 12,
+      "day": "Day 57",
+      "lecture_name": "Advanced String Manipulations",
+      "kind": "Classwork",
+      "index": 3,
+      "text": "LC415 Add Strings",
+      "lc": 415,
+      "gfg": false,
+      "key": "lc415"
+    },
+    "candidate": {
+      "name": "Add One",
+      "slug": "cc5-02-add-one",
+      "id": 281620
+    },
+    "score": 0.825,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 12,
+      "day": "Day 57",
+      "lecture_name": "Advanced String Manipulations",
+      "kind": "Homework",
+      "index": 1,
+      "text": "LC43 Multiply Strings",
+      "lc": 43,
+      "gfg": false,
+      "key": "lc43"
+    },
+    "candidate": {
+      "name": "Two-Strings",
+      "slug": "two-strings-9",
+      "id": 284840
+    },
+    "score": 0.825,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 12,
+      "day": "Day 59",
+      "lecture_name": "Mixed Problem Solving I",
+      "kind": "Classwork",
+      "index": 2,
+      "text": "LC31 Next Permutation",
+      "lc": 31,
+      "gfg": false,
+      "key": "lc31"
+    },
+    "candidate": {
+      "name": "HW_Find Permutation 1",
+      "slug": "find-permutation-1",
+      "id": 288150
+    },
+    "score": 0.825,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 12,
+      "day": "Day 59",
+      "lecture_name": "Mixed Problem Solving I",
+      "kind": "Homework",
+      "index": 1,
+      "text": "LC75 Sort Colors",
+      "lc": 75,
+      "gfg": false,
+      "key": "lc75"
+    },
+    "candidate": {
+      "name": "sort 987",
+      "slug": "sort-9-8-7",
+      "id": 310567
+    },
+    "score": 0.825,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 12,
+      "day": "Day 59",
+      "lecture_name": "Mixed Problem Solving I",
+      "kind": "Homework",
+      "index": 2,
+      "text": "Trapping Rain Water (LC42 - Brute/Better approach)",
+      "lc": 42,
+      "gfg": false,
+      "key": "lc42"
+    },
+    "candidate": {
+      "name": "Trapping Rain Water 10",
+      "slug": "trapping-rain-water-10-1",
+      "id": 289981
+    },
+    "score": 0.825,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 12,
+      "day": "Day 58",
+      "lecture_name": "2-D Matrix Searches",
+      "kind": "Classwork",
+      "index": 1,
+      "text": "LC74 Search a 2D Matrix",
+      "lc": 74,
+      "gfg": false,
+      "key": "lc74"
+    },
+    "candidate": {
+      "name": "HW_Search in a sorted matrix",
+      "slug": "search-in-a-sorted-matrix",
+      "id": 292527
+    },
+    "score": 0.791,
+    "why": "modifier-drift"
+  },
+  {
+    "item": {
+      "week": 5,
+      "day": "Day 23",
+      "lecture_name": "Multi-parameter functions",
+      "kind": "Homework",
+      "index": 1,
+      "text": "min/max of three via a function",
+      "lc": null,
+      "gfg": false,
+      "key": "min-max-of-three-via-a-function"
+    },
+    "candidate": {
+      "name": "Max and Min 5",
+      "slug": "max-and-min-5",
+      "id": 200654
+    },
+    "score": 0.79,
+    "why": "modifier-drift"
+  },
+  {
+    "item": {
+      "week": 8,
+      "day": "Day 39",
+      "lecture_name": "Prefix sums & range queries",
+      "kind": "Classwork",
+      "index": 3,
+      "text": "Equilibrium index via prefix sum",
+      "lc": null,
+      "gfg": false,
+      "key": "equilibrium-index-via-prefix-sum"
+    },
+    "candidate": {
+      "name": "Print Prefix Sum",
+      "slug": "print-prefix-sum",
+      "id": 290035
+    },
+    "score": 0.79,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 9,
+      "day": "Day 43",
+      "lecture_name": "Two pointers - intro",
+      "kind": "Classwork",
+      "index": 2,
+      "text": "LC167 Two Sum II - Input Array Is Sorted",
+      "lc": 167,
+      "gfg": false,
+      "key": "lc167"
+    },
+    "candidate": {
+      "name": "is array sorted",
+      "slug": "is-array-sorted",
+      "id": 267782
+    },
+    "score": 0.79,
+    "why": "modifier-drift"
+  },
+  {
+    "item": {
+      "week": 11,
+      "day": "Day 52",
+      "lecture_name": "Bit Manipulation I",
+      "kind": "Homework",
+      "index": 1,
+      "text": "Multiply/Divide a number by 2 using bit shifts",
+      "lc": null,
+      "gfg": false,
+      "key": "multiply-divide-a-number-by-2-using-bit-shifts"
+    },
+    "candidate": {
+      "name": "Multiply Divide",
+      "slug": "multiply-divide",
+      "id": 202787
+    },
+    "score": 0.79,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 1,
+      "day": "Day 2",
+      "lecture_name": "Operators-I",
+      "kind": "Classwork",
+      "index": 8,
+      "text": "Take four integer inputs and check if the product of them is greater than 1000 or not. Print true or false accordingly.",
+      "lc": null,
+      "gfg": false,
+      "key": "take-four-integer-inputs-and-check-if-the-product-of-them-is-greater-than-1000-o"
+    },
+    "candidate": {
+      "name": "HW_Greater than 1000 or not.",
+      "slug": "greater-than-1000-or-not-",
+      "id": 284917
+    },
+    "score": 0.775,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 1,
+      "day": "Day 4",
+      "lecture_name": "if / if-else",
+      "kind": "Homework",
+      "index": 4,
+      "text": "Take an integer input and print Even if the integer is even else print Odd.",
+      "lc": null,
+      "gfg": false,
+      "key": "take-an-integer-input-and-print-even-if-the-integer-is-even-else-print-odd"
+    },
+    "candidate": {
+      "name": "HW_Odd Even 11",
+      "slug": "odd-even-11-1",
+      "id": 267551
+    },
+    "score": 0.767,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 2,
+      "day": "Day 6",
+      "lecture_name": "Nested if-else & else-if ladder",
+      "kind": "Homework",
+      "index": 1,
+      "text": "Largest of three distinct numbers",
+      "lc": null,
+      "gfg": false,
+      "key": "largest-of-three-distinct-numbers"
+    },
+    "candidate": {
+      "name": "Largest of 3!",
+      "slug": "largest-of-3-2",
+      "id": 282769
+    },
+    "score": 0.767,
+    "why": "modifier-drift"
+  },
+  {
+    "item": {
+      "week": 2,
+      "day": "Day 6",
+      "lecture_name": "Nested if-else & else-if ladder",
+      "kind": "Homework",
+      "index": 4,
+      "text": "Valid triangle and its type",
+      "lc": null,
+      "gfg": false,
+      "key": "valid-triangle-and-its-type"
+    },
+    "candidate": {
+      "name": "valid 1",
+      "slug": "valid-1-1",
+      "id": 343125
+    },
+    "score": 0.767,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 2,
+      "day": "Day 8",
+      "lecture_name": "for loop",
+      "kind": "Classwork",
+      "index": 2,
+      "text": "Sum of first N numbers",
+      "lc": null,
+      "gfg": false,
+      "key": "sum-of-first-n-numbers"
+    },
+    "candidate": {
+      "name": "Two Sum 14",
+      "slug": "two-sum-14-1",
+      "id": 193324
+    },
+    "score": 0.767,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 2,
+      "day": "Day 8",
+      "lecture_name": "for loop",
+      "kind": "Homework",
+      "index": 3,
+      "text": "Repeated digit sum to one digit",
+      "lc": null,
+      "gfg": false,
+      "key": "repeated-digit-sum-to-one-digit"
+    },
+    "candidate": {
+      "name": "Two Sum 14",
+      "slug": "two-sum-14-1",
+      "id": 193324
+    },
+    "score": 0.767,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 2,
+      "day": "Day 9",
+      "lecture_name": "while & do-while  Conversion of for loop into while loop like format",
+      "kind": "Homework",
+      "index": 1,
+      "text": "GCD by repeated subtraction",
+      "lc": null,
+      "gfg": false,
+      "key": "gcd-by-repeated-subtraction"
+    },
+    "candidate": {
+      "name": "Find GCD of two number",
+      "slug": "find-gcd-of-two-number",
+      "id": 283254
+    },
+    "score": 0.767,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 2,
+      "day": "Day 9",
+      "lecture_name": "while & do-while  Conversion of for loop into while loop like format",
+      "kind": "Homework",
+      "index": 2,
+      "text": "Binary form of a number using while",
+      "lc": null,
+      "gfg": false,
+      "key": "binary-form-of-a-number-using-while"
+    },
+    "candidate": {
+      "name": "Print Binary",
+      "slug": "print-binary-1",
+      "id": 291642
+    },
+    "score": 0.767,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 3,
+      "day": "Day 12",
+      "lecture_name": "for loop - number problems",
+      "kind": "Homework",
+      "index": 1,
+      "text": "Repeated digit sum to one digit",
+      "lc": null,
+      "gfg": false,
+      "key": "repeated-digit-sum-to-one-digit"
+    },
+    "candidate": {
+      "name": "Two Sum 14",
+      "slug": "two-sum-14-1",
+      "id": 193324
+    },
+    "score": 0.767,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 3,
+      "day": "Day 13",
+      "lecture_name": "while & do-while",
+      "kind": "Homework",
+      "index": 1,
+      "text": "GCD by repeated subtraction",
+      "lc": null,
+      "gfg": false,
+      "key": "gcd-by-repeated-subtraction"
+    },
+    "candidate": {
+      "name": "Find GCD of two number",
+      "slug": "find-gcd-of-two-number",
+      "id": 283254
+    },
+    "score": 0.767,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 3,
+      "day": "Day 13",
+      "lecture_name": "while & do-while",
+      "kind": "Homework",
+      "index": 2,
+      "text": "Binary form of a number using while",
+      "lc": null,
+      "gfg": false,
+      "key": "binary-form-of-a-number-using-while"
+    },
+    "candidate": {
+      "name": "Print Binary",
+      "slug": "print-binary-1",
+      "id": 291642
+    },
+    "score": 0.767,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 3,
+      "day": "Day 15",
+      "lecture_name": "Loop practice",
+      "kind": "Homework",
+      "index": 1,
+      "text": "Arithmetic-progression sum",
+      "lc": null,
+      "gfg": false,
+      "key": "arithmetic-progression-sum"
+    },
+    "candidate": {
+      "name": "Two Sum 14",
+      "slug": "two-sum-14-1",
+      "id": 193324
+    },
+    "score": 0.767,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 4,
+      "day": "Day 16",
+      "lecture_name": "Patterns I",
+      "kind": "Classwork",
+      "index": 1,
+      "text": "Solid square of stars",
+      "lc": null,
+      "gfg": false,
+      "key": "solid-square-of-stars"
+    },
+    "candidate": {
+      "name": "print Numbers and stars",
+      "slug": "print-numbers-and-stars",
+      "id": 311690
+    },
+    "score": 0.767,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 4,
+      "day": "Day 16",
+      "lecture_name": "Patterns I",
+      "kind": "Homework",
+      "index": 2,
+      "text": "Hollow square",
+      "lc": null,
+      "gfg": false,
+      "key": "hollow-square"
+    },
+    "candidate": {
+      "name": "Pattern 8 - Print a hollow square without top",
+      "slug": "pattern-8-print-a-hollow-square-without-top",
+      "id": 286491
+    },
+    "score": 0.767,
+    "why": "modifier-drift"
+  },
+  {
+    "item": {
+      "week": 4,
+      "day": "Day 18",
+      "lecture_name": "Patterns III",
+      "kind": "Classwork",
+      "index": 1,
+      "text": "Full diamond of stars",
+      "lc": null,
+      "gfg": false,
+      "key": "full-diamond-of-stars"
+    },
+    "candidate": {
+      "name": "print Numbers and stars",
+      "slug": "print-numbers-and-stars",
+      "id": 311690
+    },
+    "score": 0.767,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 4,
+      "day": "Day 18",
+      "lecture_name": "Patterns III",
+      "kind": "Homework",
+      "index": 2,
+      "text": "Pascal-style number pattern",
+      "lc": null,
+      "gfg": false,
+      "key": "pascal-style-number-pattern"
+    },
+    "candidate": {
+      "name": "HW_Print the Number Pattern 2",
+      "slug": "print-the-number-pattern-2",
+      "id": 287892
+    },
+    "score": 0.767,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 5,
+      "day": "Day 21",
+      "lecture_name": "Time & Space Complexity",
+      "kind": "Homework",
+      "index": 2,
+      "text": "Find O(1) space solutions vs O(N) solutions",
+      "lc": null,
+      "gfg": false,
+      "key": "find-o-1-space-solutions-vs-o-n-solutions"
+    },
+    "candidate": {
+      "name": "Print N to 1 3",
+      "slug": "print-n-to-1-3",
+      "id": 292607
+    },
+    "score": 0.767,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 5,
+      "day": "Day 23",
+      "lecture_name": "Multi-parameter functions",
+      "kind": "Classwork",
+      "index": 1,
+      "text": "nCr using a factorial helper",
+      "lc": null,
+      "gfg": false,
+      "key": "ncr-using-a-factorial-helper"
+    },
+    "candidate": {
+      "name": "Factorial 156",
+      "slug": "factorial-156",
+      "id": 265684
+    },
+    "score": 0.767,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 5,
+      "day": "Day 23",
+      "lecture_name": "Multi-parameter functions",
+      "kind": "Classwork",
+      "index": 2,
+      "text": "power(base, exp)",
+      "lc": null,
+      "gfg": false,
+      "key": "power-base-exp"
+    },
+    "candidate": {
+      "name": "Find power of a number 3",
+      "slug": "find-power-of-a-number-3",
+      "id": 241063
+    },
+    "score": 0.767,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 5,
+      "day": "Day 24",
+      "lecture_name": "Digit problems",
+      "kind": "Homework",
+      "index": 2,
+      "text": "Armstrong number; largest digit",
+      "lc": null,
+      "gfg": false,
+      "key": "armstrong-number-largest-digit"
+    },
+    "candidate": {
+      "name": "Armstrong number 59",
+      "slug": "armstrong-number-59",
+      "id": 201906
+    },
+    "score": 0.767,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 5,
+      "day": "Day 25",
+      "lecture_name": "Primes & factors",
+      "kind": "Classwork",
+      "index": 3,
+      "text": "Count factors of N",
+      "lc": null,
+      "gfg": false,
+      "key": "count-factors-of-n"
+    },
+    "candidate": {
+      "name": "Print Factors of number",
+      "slug": "print-factors-of-number",
+      "id": 283462
+    },
+    "score": 0.767,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 5,
+      "day": "Day 25",
+      "lecture_name": "Primes & factors",
+      "kind": "Homework",
+      "index": 2,
+      "text": "Sum of divisors of N",
+      "lc": null,
+      "gfg": false,
+      "key": "sum-of-divisors-of-n"
+    },
+    "candidate": {
+      "name": "Two Sum 14",
+      "slug": "two-sum-14-1",
+      "id": 193324
+    },
+    "score": 0.767,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 6,
+      "day": "Day 27",
+      "lecture_name": "Recursion - intro",
+      "kind": "Homework",
+      "index": 1,
+      "text": "Fast power a^b",
+      "lc": null,
+      "gfg": false,
+      "key": "fast-power-a-b"
+    },
+    "candidate": {
+      "name": "Find power of a number 3",
+      "slug": "find-power-of-a-number-3",
+      "id": 241063
+    },
+    "score": 0.767,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 6,
+      "day": "Day 28",
+      "lecture_name": "Recursion - practice",
+      "kind": "Classwork",
+      "index": 3,
+      "text": "Sum of an array recursively",
+      "lc": null,
+      "gfg": false,
+      "key": "sum-of-an-array-recursively"
+    },
+    "candidate": {
+      "name": "Two Sum 14",
+      "slug": "two-sum-14-1",
+      "id": 193324
+    },
+    "score": 0.767,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 6,
+      "day": "Day 29",
+      "lecture_name": "Arrays - intro",
+      "kind": "Classwork",
+      "index": 2,
+      "text": "Print in reverse order by index",
+      "lc": null,
+      "gfg": false,
+      "key": "print-in-reverse-order-by-index"
+    },
+    "candidate": {
+      "name": "Reverse Numbers 4",
+      "slug": "reverse-numbers-4",
+      "id": 200730
+    },
+    "score": 0.767,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 6,
+      "day": "Day 29",
+      "lecture_name": "Arrays - intro",
+      "kind": "Classwork",
+      "index": 3,
+      "text": "Print elements at even indices",
+      "lc": null,
+      "gfg": false,
+      "key": "print-elements-at-even-indices"
+    },
+    "candidate": {
+      "name": "HW_print all even number",
+      "slug": "print-all-even-number",
+      "id": 288263
+    },
+    "score": 0.767,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 7,
+      "day": "Day 31",
+      "lecture_name": "Sorting basics I",
+      "kind": "Classwork",
+      "index": 1,
+      "text": "Bubble sort implementation",
+      "lc": null,
+      "gfg": false,
+      "key": "bubble-sort-implementation"
+    },
+    "candidate": {
+      "name": "sort 987",
+      "slug": "sort-9-8-7",
+      "id": 310567
+    },
+    "score": 0.767,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 7,
+      "day": "Day 31",
+      "lecture_name": "Sorting basics I",
+      "kind": "Classwork",
+      "index": 2,
+      "text": "Selection sort implementation",
+      "lc": null,
+      "gfg": false,
+      "key": "selection-sort-implementation"
+    },
+    "candidate": {
+      "name": "sort 987",
+      "slug": "sort-9-8-7",
+      "id": 310567
+    },
+    "score": 0.767,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 7,
+      "day": "Day 33",
+      "lecture_name": "std::sort & comparators",
+      "kind": "Classwork",
+      "index": 3,
+      "text": "Sort strings by length",
+      "lc": null,
+      "gfg": false,
+      "key": "sort-strings-by-length"
+    },
+    "candidate": {
+      "name": "Two-Strings",
+      "slug": "two-strings-9",
+      "id": 284840
+    },
+    "score": 0.767,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 7,
+      "day": "Day 33",
+      "lecture_name": "std::sort & comparators",
+      "kind": "Homework",
+      "index": 1,
+      "text": "LC56 Merge Intervals (Intro - sort by start time)",
+      "lc": 56,
+      "gfg": false,
+      "key": "lc56"
+    },
+    "candidate": {
+      "name": "Merge Sort  4",
+      "slug": "merge-sort-4-1",
+      "id": 239373
+    },
+    "score": 0.767,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 7,
+      "day": "Day 35",
+      "lecture_name": "Binary search",
+      "kind": "Homework",
+      "index": 1,
+      "text": "LC34 Find First and Last Position of Element in Sorted Array",
+      "lc": 34,
+      "gfg": false,
+      "key": "lc34"
+    },
+    "candidate": {
+      "name": "is array sorted",
+      "slug": "is-array-sorted",
+      "id": 267782
+    },
+    "score": 0.767,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 8,
+      "day": "Day 36",
+      "lecture_name": "Reverse & rearrange",
+      "kind": "Classwork",
+      "index": 1,
+      "text": "Reverse an array in place",
+      "lc": null,
+      "gfg": false,
+      "key": "reverse-an-array-in-place"
+    },
+    "candidate": {
+      "name": "Reverse Numbers 4",
+      "slug": "reverse-numbers-4",
+      "id": 200730
+    },
+    "score": 0.767,
+    "why": "modifier-drift"
+  },
+  {
+    "item": {
+      "week": 8,
+      "day": "Day 37",
+      "lecture_name": "Rotation",
+      "kind": "Classwork",
+      "index": 2,
+      "text": "Rotate by k using reversal",
+      "lc": null,
+      "gfg": false,
+      "key": "rotate-by-k-using-reversal"
+    },
+    "candidate": {
+      "name": "HW_Rotate Number 1",
+      "slug": "rotate-number-1",
+      "id": 289941
+    },
+    "score": 0.767,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 8,
+      "day": "Day 37",
+      "lecture_name": "Rotation",
+      "kind": "Classwork",
+      "index": 3,
+      "text": "Left rotate by k",
+      "lc": null,
+      "gfg": false,
+      "key": "left-rotate-by-k"
+    },
+    "candidate": {
+      "name": "HW_Rotate Number 1",
+      "slug": "rotate-number-1",
+      "id": 289941
+    },
+    "score": 0.767,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 8,
+      "day": "Day 37",
+      "lecture_name": "Rotation",
+      "kind": "Homework",
+      "index": 2,
+      "text": "Rotate a matrix row",
+      "lc": null,
+      "gfg": false,
+      "key": "rotate-a-matrix-row"
+    },
+    "candidate": {
+      "name": "HW_Rotate Number 1",
+      "slug": "rotate-number-1",
+      "id": 289941
+    },
+    "score": 0.767,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 8,
+      "day": "Day 40",
+      "lecture_name": "Maximum subarray (Kadane)",
+      "kind": "Homework",
+      "index": 1,
+      "text": "Maximum contiguous sum (GfG)",
+      "lc": null,
+      "gfg": true,
+      "key": "maximum-contiguous-sum"
+    },
+    "candidate": {
+      "name": "Two Sum 14",
+      "slug": "two-sum-14-1",
+      "id": 193324
+    },
+    "score": 0.767,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 9,
+      "day": "Day 42",
+      "lecture_name": "Count-array problems",
+      "kind": "Homework",
+      "index": 2,
+      "text": "Check if arrays are permutations of each other",
+      "lc": null,
+      "gfg": false,
+      "key": "check-if-arrays-are-permutations-of-each-other"
+    },
+    "candidate": {
+      "name": "Two-Arrays",
+      "slug": "two-arrays-8",
+      "id": 284717
+    },
+    "score": 0.767,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 10,
+      "day": "Day 50",
+      "lecture_name": "2-D arrays I",
+      "kind": "Classwork",
+      "index": 2,
+      "text": "Sum of each row and column",
+      "lc": null,
+      "gfg": false,
+      "key": "sum-of-each-row-and-column"
+    },
+    "candidate": {
+      "name": "Two Sum 14",
+      "slug": "two-sum-14-1",
+      "id": 193324
+    },
+    "score": 0.767,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 10,
+      "day": "Day 50",
+      "lecture_name": "2-D arrays I",
+      "kind": "Classwork",
+      "index": 3,
+      "text": "Sum of both diagonals",
+      "lc": null,
+      "gfg": false,
+      "key": "sum-of-both-diagonals"
+    },
+    "candidate": {
+      "name": "Two Sum 14",
+      "slug": "two-sum-14-1",
+      "id": 193324
+    },
+    "score": 0.767,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 10,
+      "day": "Day 50",
+      "lecture_name": "2-D arrays I",
+      "kind": "Homework",
+      "index": 1,
+      "text": "Row with the maximum sum",
+      "lc": null,
+      "gfg": false,
+      "key": "row-with-the-maximum-sum"
+    },
+    "candidate": {
+      "name": "Two Sum 14",
+      "slug": "two-sum-14-1",
+      "id": 193324
+    },
+    "score": 0.767,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 11,
+      "day": "Day 52",
+      "lecture_name": "Bit Manipulation I",
+      "kind": "Classwork",
+      "index": 1,
+      "text": "Print binary representation of N",
+      "lc": null,
+      "gfg": false,
+      "key": "print-binary-representation-of-n"
+    },
+    "candidate": {
+      "name": "Print n to 1",
+      "slug": "print-n-to-1-2",
+      "id": 285635
+    },
+    "score": 0.767,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 11,
+      "day": "Day 55",
+      "lecture_name": "Subarrays Deep Dive",
+      "kind": "Classwork",
+      "index": 3,
+      "text": "Check if any subarray has sum 0 (GfG)",
+      "lc": null,
+      "gfg": true,
+      "key": "check-if-any-subarray-has-sum-0"
+    },
+    "candidate": {
+      "name": "Two Sum 14",
+      "slug": "two-sum-14-1",
+      "id": 193324
+    },
+    "score": 0.767,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 12,
+      "day": "Day 59",
+      "lecture_name": "Mixed Problem Solving I",
+      "kind": "Classwork",
+      "index": 1,
+      "text": "LC238 Product of Array Except Self",
+      "lc": 238,
+      "gfg": false,
+      "key": "lc238"
+    },
+    "candidate": {
+      "name": "HW_Product of Arrays 1",
+      "slug": "product-of-arrays-1",
+      "id": 288785
+    },
+    "score": 0.756,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 1,
+      "day": "Day 4",
+      "lecture_name": "if / if-else",
+      "kind": "Classwork",
+      "index": 4,
+      "text": "Take two integer inputs x and y. Print “High Sum” if sum is greater than or equal to 100, and print “Low Sum” otherwise.",
+      "lc": null,
+      "gfg": false,
+      "key": "take-two-integer-inputs-x-and-y-print-high-sum-if-sum-is-greater-than-or-equal-t"
+    },
+    "candidate": {
+      "name": "High Sum or Low Sum",
+      "slug": "high-sum-or-low-sum",
+      "id": 285147
+    },
+    "score": 0.75,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 2,
+      "day": "Day 6",
+      "lecture_name": "Nested if-else & else-if ladder",
+      "kind": "Classwork",
+      "index": 1,
+      "text": "Maximum of three",
+      "lc": null,
+      "gfg": false,
+      "key": "maximum-of-three"
+    },
+    "candidate": {
+      "name": "Maximum of Array",
+      "slug": "maximum-of-array",
+      "id": 189536
+    },
+    "score": 0.75,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 11,
+      "day": "Day 53",
+      "lecture_name": "Bit Manipulation II",
+      "kind": "Homework",
+      "index": 2,
+      "text": "LC338 Counting Bits",
+      "lc": 338,
+      "gfg": false,
+      "key": "lc338"
+    },
+    "candidate": {
+      "name": "Counting jumps",
+      "slug": "counting-jumps",
+      "id": 194614
+    },
+    "score": 0.741,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 3,
+      "day": "Day 15",
+      "lecture_name": "Loop practice",
+      "kind": "Classwork",
+      "index": 3,
+      "text": "Print a simple triangle",
+      "lc": null,
+      "gfg": false,
+      "key": "print-a-simple-triangle"
+    },
+    "candidate": {
+      "name": "Hw_Print Inverted triangle",
+      "slug": "print-inverted-triangle",
+      "id": 288731
+    },
+    "score": 0.739,
+    "why": "modifier-drift"
+  },
+  {
+    "item": {
+      "week": 8,
+      "day": "Day 36",
+      "lecture_name": "Reverse & rearrange",
+      "kind": "Homework",
+      "index": 1,
+      "text": "Move all zeros to the end",
+      "lc": null,
+      "gfg": false,
+      "key": "move-all-zeros-to-the-end"
+    },
+    "candidate": {
+      "name": "Push All Zeros To End",
+      "slug": "push-all-zeros-to-end",
+      "id": 239372
+    },
+    "score": 0.739,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 12,
+      "day": "Day 58",
+      "lecture_name": "2-D Matrix Searches",
+      "kind": "Classwork",
+      "index": 2,
+      "text": "LC240 Search a 2D Matrix II",
+      "lc": 240,
+      "gfg": false,
+      "key": "lc240"
+    },
+    "candidate": {
+      "name": "HW_Search in a sorted matrix",
+      "slug": "search-in-a-sorted-matrix",
+      "id": 292527
+    },
+    "score": 0.739,
+    "why": "modifier-drift"
+  },
+  {
+    "item": {
+      "week": 1,
+      "day": "Day 1",
+      "lecture_name": "Getting started, Output, Input, Data Types, Variables",
+      "kind": "Classwork",
+      "index": 7,
+      "text": "Find the last digit of a given number. Say 45983",
+      "lc": null,
+      "gfg": false,
+      "key": "find-the-last-digit-of-a-given-number-say-45983"
+    },
+    "candidate": {
+      "name": "Hw_Print two-digit number",
+      "slug": "print-two-digit-number",
+      "id": 285475
+    },
+    "score": 0.738,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 1,
+      "day": "Day 4",
+      "lecture_name": "if / if-else",
+      "kind": "Homework",
+      "index": 1,
+      "text": "Positive, negative or zero",
+      "lc": null,
+      "gfg": false,
+      "key": "positive-negative-or-zero"
+    },
+    "candidate": {
+      "name": "print Zero one",
+      "slug": "print-zero-one",
+      "id": 369170
+    },
+    "score": 0.738,
+    "why": "modifier-drift"
+  },
+  {
+    "item": {
+      "week": 4,
+      "day": "Day 17",
+      "lecture_name": "Patterns II",
+      "kind": "Classwork",
+      "index": 3,
+      "text": "Number pyramid",
+      "lc": null,
+      "gfg": false,
+      "key": "number-pyramid"
+    },
+    "candidate": {
+      "name": "GKSTR24 Pattern_7_Pyramid",
+      "slug": "gkstr25-pattern-7-pyramid",
+      "id": 276077
+    },
+    "score": 0.738,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 6,
+      "day": "Day 29",
+      "lecture_name": "Arrays - intro",
+      "kind": "Classwork",
+      "index": 1,
+      "text": "Read N values and print them",
+      "lc": null,
+      "gfg": false,
+      "key": "read-n-values-and-print-them"
+    },
+    "candidate": {
+      "name": "Print n to 1",
+      "slug": "print-n-to-1-2",
+      "id": 285635
+    },
+    "score": 0.738,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 6,
+      "day": "Day 30",
+      "lecture_name": "Array traversal",
+      "kind": "Classwork",
+      "index": 3,
+      "text": "Count elements above the average",
+      "lc": null,
+      "gfg": false,
+      "key": "count-elements-above-the-average"
+    },
+    "candidate": {
+      "name": "Find Average",
+      "slug": "addition-of-two-numbers-22",
+      "id": 263669
+    },
+    "score": 0.738,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 7,
+      "day": "Day 31",
+      "lecture_name": "Sorting basics I",
+      "kind": "Homework",
+      "index": 2,
+      "text": "Sort an array in descending order",
+      "lc": null,
+      "gfg": false,
+      "key": "sort-an-array-in-descending-order"
+    },
+    "candidate": {
+      "name": "print the array 4",
+      "slug": "print-the-array-4-1",
+      "id": 292611
+    },
+    "score": 0.738,
+    "why": "modifier-drift"
+  },
+  {
+    "item": {
+      "week": 7,
+      "day": "Day 33",
+      "lecture_name": "std::sort & comparators",
+      "kind": "Classwork",
+      "index": 1,
+      "text": "Sort a vector ascending / descending",
+      "lc": null,
+      "gfg": false,
+      "key": "sort-a-vector-ascending-descending"
+    },
+    "candidate": {
+      "name": "sort 987",
+      "slug": "sort-9-8-7",
+      "id": 310567
+    },
+    "score": 0.738,
+    "why": "modifier-drift"
+  },
+  {
+    "item": {
+      "week": 7,
+      "day": "Day 35",
+      "lecture_name": "Binary search",
+      "kind": "Classwork",
+      "index": 3,
+      "text": "First occurrence using binary search",
+      "lc": null,
+      "gfg": false,
+      "key": "first-occurrence-using-binary-search"
+    },
+    "candidate": {
+      "name": "Print Binary",
+      "slug": "print-binary-1",
+      "id": 291642
+    },
+    "score": 0.738,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 8,
+      "day": "Day 39",
+      "lecture_name": "Prefix sums & range queries",
+      "kind": "Classwork",
+      "index": 2,
+      "text": "LC303 Range Sum Query - Immutable",
+      "lc": 303,
+      "gfg": false,
+      "key": "lc303"
+    },
+    "candidate": {
+      "name": "Two Sum 14",
+      "slug": "two-sum-14-1",
+      "id": 193324
+    },
+    "score": 0.738,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 8,
+      "day": "Day 39",
+      "lecture_name": "Prefix sums & range queries",
+      "kind": "Homework",
+      "index": 2,
+      "text": "Range increment with a difference array (GfG)",
+      "lc": null,
+      "gfg": true,
+      "key": "range-increment-with-a-difference-array"
+    },
+    "candidate": {
+      "name": "Find the Difference 4",
+      "slug": "find-the-difference-4-1",
+      "id": 188486
+    },
+    "score": 0.738,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 9,
+      "day": "Day 45",
+      "lecture_name": "Two pointers III",
+      "kind": "Classwork",
+      "index": 3,
+      "text": "Count pairs with difference k",
+      "lc": null,
+      "gfg": false,
+      "key": "count-pairs-with-difference-k"
+    },
+    "candidate": {
+      "name": "Find the Difference 4",
+      "slug": "find-the-difference-4-1",
+      "id": 188486
+    },
+    "score": 0.738,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 10,
+      "day": "Day 46",
+      "lecture_name": "Sliding window",
+      "kind": "Classwork",
+      "index": 2,
+      "text": "LC643 Maximum Average Subarray I",
+      "lc": 643,
+      "gfg": false,
+      "key": "lc643"
+    },
+    "candidate": {
+      "name": "Find Average",
+      "slug": "addition-of-two-numbers-22",
+      "id": 263669
+    },
+    "score": 0.738,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 10,
+      "day": "Day 47",
+      "lecture_name": "Sliding window (Variable)",
+      "kind": "Classwork",
+      "index": 1,
+      "text": "LC209 Minimum Size Subarray Sum",
+      "lc": 209,
+      "gfg": false,
+      "key": "lc209"
+    },
+    "candidate": {
+      "name": "Two Sum 14",
+      "slug": "two-sum-14-1",
+      "id": 193324
+    },
+    "score": 0.738,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 10,
+      "day": "Day 47",
+      "lecture_name": "Sliding window (Variable)",
+      "kind": "Classwork",
+      "index": 2,
+      "text": "Longest subarray with sum <= k",
+      "lc": null,
+      "gfg": false,
+      "key": "longest-subarray-with-sum-k"
+    },
+    "candidate": {
+      "name": "Two Sum 14",
+      "slug": "two-sum-14-1",
+      "id": 193324
+    },
+    "score": 0.738,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 12,
+      "day": "Day 57",
+      "lecture_name": "Advanced String Manipulations",
+      "kind": "Classwork",
+      "index": 2,
+      "text": "LC28 Find the Index of the First Occurrence in a String",
+      "lc": 28,
+      "gfg": false,
+      "key": "lc28"
+    },
+    "candidate": {
+      "name": "HW_String Print",
+      "slug": "string-print-2",
+      "id": 284007
+    },
+    "score": 0.738,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 12,
+      "day": "Day 57",
+      "lecture_name": "Advanced String Manipulations",
+      "kind": "Homework",
+      "index": 2,
+      "text": "Check if a string is a valid shuffle of two strings (GfG)",
+      "lc": null,
+      "gfg": true,
+      "key": "check-if-a-string-is-a-valid-shuffle-of-two-strings"
+    },
+    "candidate": {
+      "name": "HW_String Print",
+      "slug": "string-print-2",
+      "id": 284007
+    },
+    "score": 0.738,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 11,
+      "day": "Day 52",
+      "lecture_name": "Bit Manipulation I",
+      "kind": "Classwork",
+      "index": 3,
+      "text": "Swap two numbers using XOR",
+      "lc": null,
+      "gfg": false,
+      "key": "swap-two-numbers-using-xor"
+    },
+    "candidate": {
+      "name": "Add Two Numbers in LL",
+      "slug": "add-two-numbers-46",
+      "id": 189052
+    },
+    "score": 0.723,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 1,
+      "day": "Day 2",
+      "lecture_name": "Operators-I",
+      "kind": "Homework",
+      "index": 3,
+      "text": "Remove the last digit of a given number. Say 45983",
+      "lc": null,
+      "gfg": false,
+      "key": "remove-the-last-digit-of-a-given-number-say-45983"
+    },
+    "candidate": {
+      "name": "Hw_Print two-digit number",
+      "slug": "print-two-digit-number",
+      "id": 285475
+    },
+    "score": 0.72,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 1,
+      "day": "Day 4",
+      "lecture_name": "if / if-else",
+      "kind": "Homework",
+      "index": 6,
+      "text": "A teacher adds 4 marks as grace marks only if the marks of the student is below 33. Print the final marks of student given by the teacher.",
+      "lc": null,
+      "gfg": false,
+      "key": "a-teacher-adds-4-marks-as-grace-marks-only-if-the-marks-of-the-student-is-below-"
+    },
+    "candidate": {
+      "name": "HW_Grace Marks 1",
+      "slug": "grace-marks-1",
+      "id": 285157
+    },
+    "score": 0.72,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 2,
+      "day": "Day 6",
+      "lecture_name": "Nested if-else & else-if ladder",
+      "kind": "Classwork",
+      "index": 7,
+      "text": "Classify a character (vowel/consonant/digit)",
+      "lc": null,
+      "gfg": false,
+      "key": "classify-a-character-vowel-consonant-digit"
+    },
+    "candidate": {
+      "name": "Hw_Print two-digit number",
+      "slug": "print-two-digit-number",
+      "id": 285475
+    },
+    "score": 0.72,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 5,
+      "day": "Day 21",
+      "lecture_name": "Time & Space Complexity",
+      "kind": "Homework",
+      "index": 1,
+      "text": "Calculate SC of nested arrays (matrices)",
+      "lc": null,
+      "gfg": false,
+      "key": "calculate-sc-of-nested-arrays-matrices"
+    },
+    "candidate": {
+      "name": "Two-Arrays",
+      "slug": "two-arrays-8",
+      "id": 284717
+    },
+    "score": 0.72,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 7,
+      "day": "Day 31",
+      "lecture_name": "Sorting basics I",
+      "kind": "Homework",
+      "index": 1,
+      "text": "Count total swaps in bubble sort",
+      "lc": null,
+      "gfg": false,
+      "key": "count-total-swaps-in-bubble-sort"
+    },
+    "candidate": {
+      "name": "sort 987",
+      "slug": "sort-9-8-7",
+      "id": 310567
+    },
+    "score": 0.72,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 7,
+      "day": "Day 32",
+      "lecture_name": "Sorting basics II",
+      "kind": "Homework",
+      "index": 1,
+      "text": "Sort an array of strings by first letter",
+      "lc": null,
+      "gfg": false,
+      "key": "sort-an-array-of-strings-by-first-letter"
+    },
+    "candidate": {
+      "name": "Two-Strings",
+      "slug": "two-strings-9",
+      "id": 284840
+    },
+    "score": 0.72,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 7,
+      "day": "Day 33",
+      "lecture_name": "std::sort & comparators",
+      "kind": "Classwork",
+      "index": 2,
+      "text": "Sort vector of pairs by the second value",
+      "lc": null,
+      "gfg": false,
+      "key": "sort-vector-of-pairs-by-the-second-value"
+    },
+    "candidate": {
+      "name": "sort 987",
+      "slug": "sort-9-8-7",
+      "id": 310567
+    },
+    "score": 0.72,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 8,
+      "day": "Day 40",
+      "lecture_name": "Maximum subarray (Kadane)",
+      "kind": "Classwork",
+      "index": 3,
+      "text": "Subarray with largest sum (all negatives case)",
+      "lc": null,
+      "gfg": false,
+      "key": "subarray-with-largest-sum-all-negatives-case"
+    },
+    "candidate": {
+      "name": "Two Sum 14",
+      "slug": "two-sum-14-1",
+      "id": 193324
+    },
+    "score": 0.72,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 9,
+      "day": "Day 42",
+      "lecture_name": "Count-array problems",
+      "kind": "Classwork",
+      "index": 3,
+      "text": "Counting sort a small-range array",
+      "lc": null,
+      "gfg": false,
+      "key": "counting-sort-a-small-range-array"
+    },
+    "candidate": {
+      "name": "print the array 4",
+      "slug": "print-the-array-4-1",
+      "id": 292611
+    },
+    "score": 0.72,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 9,
+      "day": "Day 45",
+      "lecture_name": "Two pointers III",
+      "kind": "Homework",
+      "index": 2,
+      "text": "Two-sum on an unsorted array (hashing preview)",
+      "lc": null,
+      "gfg": false,
+      "key": "two-sum-on-an-unsorted-array-hashing-preview"
+    },
+    "candidate": {
+      "name": "Two Sum 14",
+      "slug": "two-sum-14-1",
+      "id": 193324
+    },
+    "score": 0.72,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 10,
+      "day": "Day 47",
+      "lecture_name": "Sliding window (Variable)",
+      "kind": "Homework",
+      "index": 1,
+      "text": "Longest subarray with k distinct characters (GfG)",
+      "lc": null,
+      "gfg": true,
+      "key": "longest-subarray-with-k-distinct-characters"
+    },
+    "candidate": {
+      "name": "Print Characters",
+      "slug": "print-character-1",
+      "id": 290803
+    },
+    "score": 0.72,
+    "why": "modifier-drift"
+  },
+  {
+    "item": {
+      "week": 10,
+      "day": "Day 47",
+      "lecture_name": "Sliding window (Variable)",
+      "kind": "Homework",
+      "index": 2,
+      "text": "Smallest window containing all characters of string (GfG)",
+      "lc": null,
+      "gfg": true,
+      "key": "smallest-window-containing-all-characters-of-string"
+    },
+    "candidate": {
+      "name": "HW_String Print",
+      "slug": "string-print-2",
+      "id": 284007
+    },
+    "score": 0.72,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 11,
+      "day": "Day 55",
+      "lecture_name": "Subarrays Deep Dive",
+      "kind": "Homework",
+      "index": 1,
+      "text": "Count subarrays with sum exactly K (Brute force)",
+      "lc": null,
+      "gfg": false,
+      "key": "count-subarrays-with-sum-exactly-k-brute-force"
+    },
+    "candidate": {
+      "name": "Two Sum 14",
+      "slug": "two-sum-14-1",
+      "id": 193324
+    },
+    "score": 0.72,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 8,
+      "day": "Day 36",
+      "lecture_name": "Reverse & rearrange",
+      "kind": "Classwork",
+      "index": 2,
+      "text": "Swap first and last",
+      "lc": null,
+      "gfg": false,
+      "key": "swap-first-and-last"
+    },
+    "candidate": {
+      "name": "First and Last Digit 2",
+      "slug": "first-and-last-digit-2",
+      "id": 200736
+    },
+    "score": 0.718,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 7,
+      "day": "Day 34",
+      "lecture_name": "Linear search",
+      "kind": "Classwork",
+      "index": 3,
+      "text": "First and last index of x",
+      "lc": null,
+      "gfg": false,
+      "key": "first-and-last-index-of-x"
+    },
+    "candidate": {
+      "name": "First and Last Digit 2",
+      "slug": "first-and-last-digit-2",
+      "id": 200736
+    },
+    "score": 0.711,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 4,
+      "day": "Day 19",
+      "lecture_name": "Time Complexity I",
+      "kind": "Homework",
+      "index": 2,
+      "text": "Determine TC of finding max element in array",
+      "lc": null,
+      "gfg": false,
+      "key": "determine-tc-of-finding-max-element-in-array"
+    },
+    "candidate": {
+      "name": "Number finding",
+      "slug": "number-finding",
+      "id": 189224
+    },
+    "score": 0.708,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 8,
+      "day": "Day 40",
+      "lecture_name": "Maximum subarray (Kadane)",
+      "kind": "Classwork",
+      "index": 2,
+      "text": "Track the start and end indices of max sum",
+      "lc": null,
+      "gfg": false,
+      "key": "track-the-start-and-end-indices-of-max-sum"
+    },
+    "candidate": {
+      "name": "Two Sum 14",
+      "slug": "two-sum-14-1",
+      "id": 193324
+    },
+    "score": 0.708,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 10,
+      "day": "Day 49",
+      "lecture_name": "Strings & frequency",
+      "kind": "Homework",
+      "index": 1,
+      "text": "LC49 Group Anagrams (Intro via sorting strings)",
+      "lc": 49,
+      "gfg": false,
+      "key": "lc49"
+    },
+    "candidate": {
+      "name": "Anagrams 25",
+      "slug": "anagrams-25-3",
+      "id": 205075
+    },
+    "score": 0.708,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 3,
+      "day": "Day 15",
+      "lecture_name": "Loop practice",
+      "kind": "Classwork",
+      "index": 2,
+      "text": "Count multiples in a range",
+      "lc": null,
+      "gfg": false,
+      "key": "count-multiples-in-a-range"
+    },
+    "candidate": {
+      "name": "HW_Count Numbers In a String",
+      "slug": "count-numbers-in-a-string",
+      "id": 290955
+    },
+    "score": 0.706,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 10,
+      "day": "Day 46",
+      "lecture_name": "Sliding window",
+      "kind": "Classwork",
+      "index": 3,
+      "text": "First negative in each window (GfG)",
+      "lc": null,
+      "gfg": true,
+      "key": "first-negative-in-each-window"
+    },
+    "candidate": {
+      "name": "First Negative Integer 2",
+      "slug": "first-negative-integer-2",
+      "id": 291835
+    },
+    "score": 0.706,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 1,
+      "day": "Day 1",
+      "lecture_name": "Getting started, Output, Input, Data Types, Variables",
+      "kind": "Classwork",
+      "index": 8,
+      "text": "Take input of p,r,t and calculate si",
+      "lc": null,
+      "gfg": false,
+      "key": "take-input-of-p-r-t-and-calculate-si"
+    },
+    "candidate": {
+      "name": "HW_Print A.P",
+      "slug": "print-a-p",
+      "id": 311694
+    },
+    "score": 0.7,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 10,
+      "day": "Day 46",
+      "lecture_name": "Sliding window",
+      "kind": "Homework",
+      "index": 1,
+      "text": "LC1343 Number of Subarrays of Size K and Average Greater than or Equal to Threshold",
+      "lc": 1343,
+      "gfg": false,
+      "key": "lc1343"
+    },
+    "candidate": {
+      "name": "Find Average",
+      "slug": "addition-of-two-numbers-22",
+      "id": 263669
+    },
+    "score": 0.689,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 1,
+      "day": "Day 4",
+      "lecture_name": "if / if-else",
+      "kind": "Homework",
+      "index": 8,
+      "text": "The government adds money into the account of a person based on his age. Take age and salary of the person as inputs. And print his final income. a.        if age is above 60, Rs. 1000 is added into the account b.        if age is above 40 and less than or equal to 60, Rs. 500 is added. c.        No money is added if the age is below 40.",
+      "lc": null,
+      "gfg": false,
+      "key": "the-government-adds-money-into-the-account-of-a-person-based-on-his-age-take-age"
+    },
+    "candidate": {
+      "name": "HW_Print final salary given age",
+      "slug": "print-final-salary-given-age",
+      "id": 285160
+    },
+    "score": 0.688,
+    "why": "modifier-drift"
+  },
+  {
+    "item": {
+      "week": 7,
+      "day": "Day 32",
+      "lecture_name": "Sorting basics II",
+      "kind": "Homework",
+      "index": 2,
+      "text": "Find median after sorting",
+      "lc": null,
+      "gfg": false,
+      "key": "find-median-after-sorting"
+    },
+    "candidate": {
+      "name": "hw_Find Target Indices After Sorting Array",
+      "slug": "find-target-indices-after-sorting-array",
+      "id": 284561
+    },
+    "score": 0.688,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 1,
+      "day": "Day 4",
+      "lecture_name": "if / if-else",
+      "kind": "Classwork",
+      "index": 6,
+      "text": "A shop will give a discount of 10% on the total cost if the cost of the quantity purchased is more than 1000. a.        Ask user for quantity b.        Suppose, one unit will cost 100. c.        Judge and print total cost for the user.",
+      "lc": null,
+      "gfg": false,
+      "key": "a-shop-will-give-a-discount-of-10-on-the-total-cost-if-the-cost-of-the-quantity-"
+    },
+    "candidate": {
+      "name": "Shop Discount",
+      "slug": "shop-discount",
+      "id": 285150
+    },
+    "score": 0.685,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 6,
+      "day": "Day 29",
+      "lecture_name": "Arrays - intro",
+      "kind": "Homework",
+      "index": 2,
+      "text": "Count positive elements",
+      "lc": null,
+      "gfg": false,
+      "key": "count-positive-elements"
+    },
+    "candidate": {
+      "name": "Unique elements 10",
+      "slug": "unique-elements-10-1",
+      "id": 267045
+    },
+    "score": 0.684,
+    "why": "modifier-drift"
+  },
+  {
+    "item": {
+      "week": 11,
+      "day": "Day 53",
+      "lecture_name": "Bit Manipulation II",
+      "kind": "Classwork",
+      "index": 2,
+      "text": "LC191 Number of 1 Bits",
+      "lc": 191,
+      "gfg": false,
+      "key": "lc191"
+    },
+    "candidate": {
+      "name": "Count number of digits  1",
+      "slug": "count-number-of-digits-1-2",
+      "id": 239623
+    },
+    "score": 0.684,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 1,
+      "day": "Day 4",
+      "lecture_name": "if / if-else",
+      "kind": "Classwork",
+      "index": 2,
+      "text": "Take age of a person as input, print “Adult” if age is greater than or equal to 18 and print “Below age” if age is below 18.",
+      "lc": null,
+      "gfg": false,
+      "key": "take-age-of-a-person-as-input-print-adult-if-age-is-greater-than-or-equal-to-18-"
+    },
+    "candidate": {
+      "name": "Is Equal?",
+      "slug": "is-equal-1",
+      "id": 290804
+    },
+    "score": 0.682,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 9,
+      "day": "Day 41",
+      "lecture_name": "Count / frequency arrays",
+      "kind": "Classwork",
+      "index": 1,
+      "text": "Frequency of each element",
+      "lc": null,
+      "gfg": false,
+      "key": "frequency-of-each-element"
+    },
+    "candidate": {
+      "name": "HW_k frequent elements",
+      "slug": "k-frequent-character",
+      "id": 327125
+    },
+    "score": 0.682,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 1,
+      "day": "Day 2",
+      "lecture_name": "Operators-I",
+      "kind": "Classwork",
+      "index": 7,
+      "text": "Take marks of a student in five subjects as input in a double variable. Print the sum of total marks and also find the percentage of the student.",
+      "lc": null,
+      "gfg": false,
+      "key": "take-marks-of-a-student-in-five-subjects-as-input-in-a-double-variable-print-the"
+    },
+    "candidate": {
+      "name": "Two Sum 14",
+      "slug": "two-sum-14-1",
+      "id": 193324
+    },
+    "score": 0.679,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 2,
+      "day": "Day 6",
+      "lecture_name": "Nested if-else & else-if ladder",
+      "kind": "Classwork",
+      "index": 5,
+      "text": "Short Circuit tech (tell them ki interview me pooch skte h ese, ise)",
+      "lc": null,
+      "gfg": false,
+      "key": "short-circuit-tech-tell-them-ki-interview-me-pooch-skte-h-ese-ise"
+    },
+    "candidate": {
+      "name": "HW_Find Me 6",
+      "slug": "find-me-6-2",
+      "id": 288767
+    },
+    "score": 0.677,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 1,
+      "day": "Day 4",
+      "lecture_name": "if / if-else",
+      "kind": "Homework",
+      "index": 5,
+      "text": "Take income of a person as input from the user, print “No tax to be paid” if income is less than 500,000 and print “Tax to be paid” if income is greater than or equal to 500,000.",
+      "lc": null,
+      "gfg": false,
+      "key": "take-income-of-a-person-as-input-from-the-user-print-no-tax-to-be-paid-if-income"
+    },
+    "candidate": {
+      "name": "Is Equal?",
+      "slug": "is-equal-1",
+      "id": 290804
+    },
+    "score": 0.672,
+    "why": "modifier-drift"
+  },
+  {
+    "item": {
+      "week": 1,
+      "day": "Day 2",
+      "lecture_name": "Operators-I",
+      "kind": "Classwork",
+      "index": 6,
+      "text": "Store these expressions inside a Boolean variable ans. Print their outputs true or false accordingly a.        bool ans = 3 > 2 b.        bool ans = 3 ≥ 3 c.        bool ans = 4 + 3 > 9 d.        bool ans = 10 + 8 > 10 e.        bool ans = 12 != 10 f.        bool ans = 13 == 13 g.        bool ans = 14 != 14 h.        bool ans = 20 == 5*4 i.        bool ans = 30 != 3+4-10 j.        bool ans = 20 == 41/2",
+      "lc": null,
+      "gfg": false,
+      "key": "store-these-expressions-inside-a-boolean-variable-ans-print-their-outputs-true-o"
+    },
+    "candidate": {
+      "name": "Print 2,9,16...",
+      "slug": "print-2916-",
+      "id": 285631
+    },
+    "score": 0.669,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 1,
+      "day": "Day 4",
+      "lecture_name": "if / if-else",
+      "kind": "Classwork",
+      "index": 7,
+      "text": "The bonus in a company is given by Bonus= Salary * (5 / 100). A company decided to give a bonus of 5% to employees if his/her year of service is more than 5 years. Ask user for their salary and year of service and print the net bonus amount.",
+      "lc": null,
+      "gfg": false,
+      "key": "the-bonus-in-a-company-is-given-by-bonus-salary-5-100-a-company-decided-to-give-"
+    },
+    "candidate": {
+      "name": "Print Bonus",
+      "slug": "print-bonus",
+      "id": 285152
+    },
+    "score": 0.667,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 3,
+      "day": "Day 14",
+      "lecture_name": "Nested loops",
+      "kind": "Classwork",
+      "index": 3,
+      "text": "Count all pairs (i, j)",
+      "lc": null,
+      "gfg": false,
+      "key": "count-all-pairs-i-j"
+    },
+    "candidate": {
+      "name": "HW_Count All Palindromic Rows",
+      "slug": "cc3-03-count-all-palindromic-rows",
+      "id": 280132
+    },
+    "score": 0.667,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 3,
+      "day": "Day 14",
+      "lecture_name": "Nested loops",
+      "kind": "Homework",
+      "index": 2,
+      "text": "Print a coordinate grid",
+      "lc": null,
+      "gfg": false,
+      "key": "print-a-coordinate-grid"
+    },
+    "candidate": {
+      "name": "Print Alternate Row",
+      "slug": "print-alternate-row",
+      "id": 290209
+    },
+    "score": 0.667,
+    "why": "modifier-drift"
+  },
+  {
+    "item": {
+      "week": 5,
+      "day": "Day 22",
+      "lecture_name": "Functions - basics",
+      "kind": "Classwork",
+      "index": 3,
+      "text": "max(a, b)",
+      "lc": null,
+      "gfg": false,
+      "key": "max-a-b"
+    },
+    "candidate": {
+      "name": "Max and Min 5",
+      "slug": "max-and-min-5",
+      "id": 200654
+    },
+    "score": 0.667,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 6,
+      "day": "Day 26",
+      "lecture_name": "GCD, LCM & number basics",
+      "kind": "Classwork",
+      "index": 3,
+      "text": "Check if two numbers are coprime",
+      "lc": null,
+      "gfg": false,
+      "key": "check-if-two-numbers-are-coprime"
+    },
+    "candidate": {
+      "name": "Check if the number is balanced",
+      "slug": "check-if-the-number-is-balanced-1",
+      "id": 282257
+    },
+    "score": 0.667,
+    "why": "score"
+  },
+  {
+    "item": {
+      "week": 1,
+      "day": "Day 4",
+      "lecture_name": "if / if-else",
+      "kind": "Homework",
+      "index": 7,
+      "text": "Take age as input from the user. a.        Print “Super Senior Citizen” if age is above 70 b.        Print “Senior Citizen” if age is below 70 but equal to or above 59. c.        Print “Adult” if age is below 59 but equal to or above 18. d.        Print “Underage” is age is below 18 but above 1. e.        Print “New Born” if none of the above conditions follow.",
+      "lc": null,
+      "gfg": false,
+      "key": "take-age-as-input-from-the-user-a-print-super-senior-citizen-if-age-is-above-70-"
+    },
+    "candidate": {
+      "name": "Is Equal?",
+      "slug": "is-equal-1",
+      "id": 290804
+    },
+    "score": 0.663,
+    "why": "score"
+  }
+]

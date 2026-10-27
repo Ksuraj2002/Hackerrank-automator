@@ -1,0 +1,50 @@
+# Questions the standardised sheet adds, vs DSA_101_Curriculum.xlsx [DSA_101]
+
+CREATE  Day 1   Classwork Find the last digit of a given number. Say 45983
+        note: only 'First and Last Digit 2' and 'Add Last Digits' exist - neither is this
+CREATE  Day 1   Classwork Take input of p,r,t and calculate si
+        note: no challenge name mentions interest at all
+CREATE  Day 2   Homework  Remove the last digit of a given number. Say 45983
+        note: 'Remove first and last characters' is a string problem
+CREATE  Day 4   Classwork Grading System 1. You are given as input marks of a student. 2. Display an appropriate message b
+        note: 'Grading 2' and 'Grade the student 1' exist but use unknown bands; this sheet fixes six specific bands, so it needs its own challenge
+CREATE  Day 4   Homework  Take age as input from the user. a.        Print “Super Senior Citizen” if age is above 70 b.   
+        note: no name mentions senior/citizen; 5-band ladder is unique
+CREATE  Day 6   Classwork Coding Bat Make chocolates and bricks problem
+        note: two distinct CodingBat problems; 'Chocolate pattern' is unrelated, no brick challenge exists
+EXISTS  Day 1   Classwork Take input of a number a print it.
+        existing: Simple Input
+EXISTS  Day 2   Classwork Take marks of a student in five subjects as input in a double variable. Print the sum of total m
+        existing: HW_Marks of a student in 5 subjects
+EXISTS  Day 2   Classwork Take four integer inputs and check if the product of them is greater than 1000 or not. Print tru
+        existing: HW_Greater than 1000 or not.
+EXISTS  Day 2   Classwork Take an integer input and check if the number is divisible by 7 or not.
+        existing: Divisible by 7 or not
+EXISTS  Day 4   Classwork Take age of a person as input, print “Adult” if age is greater than or equal to 18 and print “Be
+        existing: Adult or not 1
+EXISTS  Day 4   Classwork Maximum of two numbers, (user input)
+        existing: Greater between Two numbers
+EXISTS  Day 4   Classwork Take two integer inputs x and y. Print “High Sum” if sum is greater than or equal to 100, and pr
+        existing: High Sum or Low Sum
+EXISTS  Day 4   Classwork A shop will give a discount of 10% on the total cost if the cost of the quantity purchased is mo
+        existing: Shop Discount
+EXISTS  Day 4   Classwork The bonus in a company is given by Bonus= Salary * (5 / 100). A company decided to give a bonus 
+        existing: Print Bonus
+EXISTS  Day 4   Homework  Take two numbers as integer input and print the larger number as the output in the integer forma
+        existing: Greater between Two numbers
+        note: duplicate of the Day 4 classwork 'maximum of two numbers' item
+EXISTS  Day 4   Homework  Take an integer input and print Even if the integer is even else print Odd.
+        existing: HW_Odd Even 11
+EXISTS  Day 4   Homework  Take income of a person as input from the user, print “No tax to be paid” if income is less than
+        existing: hw_Tax or not
+EXISTS  Day 4   Homework  A teacher adds 4 marks as grace marks only if the marks of the student is below 33. Print the fi
+        existing: HW_Grace Marks 1
+EXISTS  Day 4   Homework  The government adds money into the account of a person based on his age. Take age and salary of 
+        existing: HW_Print final salary given age
+EXISTS  Day 6   Classwork Leap Year
+        existing: Is Leap Year
+DRILL   Day 2   Classwork Store these expressions inside a Boolean variable ans. Print their outputs true or false accordi
+        note: evaluate given expressions on paper - no input/output
+DRILL   Day 6   Classwork Short Circuit tech (tell them ki interview me pooch skte h ese, ise)
+        note: teaching note to the instructor, not a question
+

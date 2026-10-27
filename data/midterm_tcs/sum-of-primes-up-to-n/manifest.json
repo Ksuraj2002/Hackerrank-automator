@@ -1,0 +1,82 @@
+[
+  {
+    "index": 0,
+    "name": "n_1",
+    "input_bytes": 2,
+    "expected_bytes": 1,
+    "input_preview": "1\n",
+    "expected_preview": "0"
+  },
+  {
+    "index": 1,
+    "name": "n_2",
+    "input_bytes": 2,
+    "expected_bytes": 1,
+    "input_preview": "2\n",
+    "expected_preview": "2"
+  },
+  {
+    "index": 2,
+    "name": "n_10",
+    "input_bytes": 3,
+    "expected_bytes": 2,
+    "input_preview": "10\n",
+    "expected_preview": "17"
+  },
+  {
+    "index": 3,
+    "name": "n_100",
+    "input_bytes": 4,
+    "expected_bytes": 4,
+    "input_preview": "100\n",
+    "expected_preview": "1060"
+  },
+  {
+    "index": 4,
+    "name": "n_1000",
+    "input_bytes": 5,
+    "expected_bytes": 5,
+    "input_preview": "1000\n",
+    "expected_preview": "76127"
+  },
+  {
+    "index": 5,
+    "name": "n_10000",
+    "input_bytes": 6,
+    "expected_bytes": 7,
+    "input_preview": "10000\n",
+    "expected_preview": "5736396"
+  },
+  {
+    "index": 6,
+    "name": "n_100000",
+    "input_bytes": 7,
+    "expected_bytes": 9,
+    "input_preview": "100000\n",
+    "expected_preview": "454396537"
+  },
+  {
+    "index": 7,
+    "name": "n_1000000",
+    "input_bytes": 8,
+    "expected_bytes": 11,
+    "input_preview": "1000000\n",
+    "expected_preview": "37550402023"
+  },
+  {
+    "index": 8,
+    "name": "n_5000000",
+    "input_bytes": 8,
+    "expected_bytes": 12,
+    "input_preview": "5000000\n",
+    "expected_preview": "838596693108"
+  },
+  {
+    "index": 9,
+    "name": "n_10000000",
+    "input_bytes": 9,
+    "expected_bytes": 13,
+    "input_preview": "10000000\n",
+    "expected_preview": "3203324994356"
+  }
+]

@@ -1,0 +1,51 @@
+Day 1   Classwork Print "Hello, World!"                                           <-- Print Hello World 36                             1.00 score
+Day 2   Classwork Last digit and first digit of a number                          <-- First and Last Digit 2                           1.00 score
+Day 4   Classwork Odd or even                                                     <-- HW_GKSTR04 Even_Or_Odd                           0.91 score
+Day 4   Homework  Divisible by 5?                                                 <-- Numbers divisible by 2.                          1.00 score
+Day 6   Classwork Leap Year                                                       <-- Is Leap Year                                     1.00 score
+Day 7   Classwork Calculator using switch                                         <-- Switch Calculator 1                              1.00 score
+Day 8   Classwork Multiplication table                                            <-- Multiplication Table 36                          1.00 score
+Day 8   Classwork Count digits                                                    <-- Count number of digits  1                        1.00 score
+Day 8   Classwork Reverse a number                                                <-- Reverse Numbers 4                                1.00 score
+Day 8   Homework  Check Armstrong number                                          <-- Armstrong number 59                              1.00 score
+Day 12  Classwork Count digits                                                    <-- Count number of digits  1                        1.00 score
+Day 12  Classwork Reverse a number                                                <-- Reverse Numbers 4                                1.00 score
+Day 12  Homework  Check Armstrong number                                          <-- Armstrong number 59                              1.00 score
+Day 16  Classwork Right-angled triangle                                           <-- Right-angled Triangle                            1.00 score
+Day 16  Classwork Inverted right-angled triangle                                  <-- HW_Print Inverted Right Angled Triangle Pattern  0.93 score
+Day 22  Classwork factorial(n)                                                    <-- Factorial of N                                   1.00 score
+Day 24  Classwork Reverse a number                                                <-- Reverse Numbers 4                                1.00 score
+Day 24  Classwork Sum of digits                                                   <-- Sum of Digits 81                                 1.00 score
+Day 24  Classwork Count digits                                                    <-- Count number of digits  1                        1.00 score
+Day 24  Homework  Palindrome number                                               <-- Is Palindrome                                    1.00 score
+Day 26  Classwork LCM of two numbers                                              <-- Find LCM 3                                       1.00 score
+Day 26  Homework  GCD of an array                                                 <-- Find GCD of Array                                1.00 score
+Day 28  Classwork Nth Fibonacci number                                            <-- Nth Fibonacci Number 7                           1.00 score
+Day 35  Classwork LC35 Search Insert Position                                     <-- Search insert position                           1.00 score
+Day 37  Classwork Rotate right by 1                                               <-- Rotate Right                                     1.00 score
+Day 38  Classwork Check if the array is sorted and rotated (LC1752)               <-- Check if Array Is Sorted and Rotated 1           1.00 score
+Day 38  Classwork Merge two sorted arrays                                         <-- HW_Merge two sorted arrays                       1.00 score
+Day 38  Homework  Leaders in an array (GfG)                                       <-- Leaders in array 4                               1.00 score
+Day 39  Homework  LC724 Find Pivot Index                                          <-- Find Pivot Index                                 1.00 score
+Day 42  Classwork LC242 Valid Anagram                                             <-- HW_Valid Anagram 3                               1.00 score
+Day 42  Classwork LC387 First Unique Character in a String                        <-- HW_First Unique Character in a String            1.00 score
+Day 42  Homework  LC169 Majority Element                                          <-- HW_Majority Element 10                           1.00 score
+Day 43  Classwork String palindrome check                                         <-- Is String a Palindrome                           1.00 score
+Day 43  Homework  LC977 Squares of a Sorted Array                                 <-- Squares of a Sorted Array 2                      1.00 score
+Day 47  Classwork LC3 Longest Substring Without Repeating Characters (Intro)      <-- Longest Substring Without Repeating Characters 6 1.00 score
+Day 48  Classwork LC151 Reverse Words in a String                                 <-- Reverse Words in a Given String                  1.00 score
+Day 48  Homework  Print all substrings                                            <-- Print All Substrings                             1.00 score
+Day 49  Classwork LC242 Valid Anagram                                             <-- HW_Valid Anagram 3                               1.00 score
+Day 49  Classwork LC387 First Unique Character in a String                        <-- HW_First Unique Character in a String            1.00 score
+Day 49  Homework  LC1047 Remove All Adjacent Duplicates In String                 <-- Remove All Adjacent Duplicates In String         1.00 score
+Day 51  Classwork LC48 Rotate Image                                               <-- Rotate Image                                     1.00 score
+Day 51  Classwork LC54 Spiral Matrix                                              <-- Spiral Matrix 44                                 1.00 score
+Day 51  Homework  LC73 Set Matrix Zeroes                                          <-- Set Matrix Zeroes 2                              1.00 score
+Day 53  Classwork LC136 Single Number                                             <-- HW_Single Number 3                               1.00 score
+Day 53  Homework  Set the rightmost unset bit (GfG)                               <-- Rightmost set bit of number                      0.91 score
+Day 54  Classwork LC231 Power of Two                                              <-- Find power of a number 3                         1.00 score
+Day 54  Homework  LC268 Missing Number (Using XOR)                                <-- HW_Find the missing number                       1.00 score
+Day 56  Classwork LC918 Maximum Sum Circular Subarray                             <-- Maximum Sum Circular Subarray 2                  1.00 score
+Day 56  Homework  LC974 Subarray Sums Divisible by K                              <-- Subarray Sums Divisible by K                     1.00 score
+Day 56  Homework  Maximum product subarray (LC152)                                <-- Maximum Product Subarray 2                       1.00 score
+Day 58  Homework  LC378 Kth Smallest Element in a Sorted Matrix                   <-- Kth Smallest Element in a Sorted Matrix 1        1.00 score

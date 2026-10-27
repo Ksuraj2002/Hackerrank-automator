@@ -1,0 +1,80 @@
+Day 1   Classwork Print "Hello, World!"                                           <-- Print Hello World 36                             1.00 score
+Day 1   Classwork Print a small ASCII box                                         <-- Classwork: Print a Small ASCII Box               1.00 score
+Day 1   Classwork Declare and print a variable of each type                       <-- Classwork: Declare and Print a Variable of Each  1.00 score
+Day 1   Classwork Take input of a number a print it.                              <-- Classwork: Take Input of a Number and Print It   1.00 score
+Day 2   Classwork Last digit and first digit of a 3 digit number                  <-- First and Last Digit 2                           0.91 score
+Day 2   Classwork Sum of digits of a 3-digit number                               <-- Classwork: Sum of Digits of a 3-Digit Number     1.00 score
+Day 2   Classwork Evaluate a mixed expression, then verify                        <-- Classwork: Evaluate a Mixed Expression           0.91 score
+Day 6   Classwork Maximum of three                                                <-- Classwork: Maximum of Three Numbers              1.00 score
+Day 6   Classwork Grade from marks (A/B/C/F)                                      <-- Classwork: Grade from Marks (A/B/C/F)            1.00 score
+Day 6   Classwork Triangle type from its sides                                    <-- Classwork: Triangle Type from Its Sides          1.00 score
+Day 6   Classwork Leap Year                                                       <-- Is Leap Year                                     1.00 score
+Day 6   Classwork Is a point inside a rectangle?                                  <-- Classwork: Is a Point Inside a Rectangle         1.00 score
+Day 7   Classwork Calculator using switch                                         <-- Switch Calculator 1                              1.00 score
+Day 7   Classwork Day of the week from a number                                   <-- Classwork: Day of the Week from a Number         1.00 score
+Day 7   Classwork Vowel check using switch                                        <-- Classwork: Vowel Check using Switch              1.00 score
+Day 8   Classwork Multiplication table                                            <-- Multiplication Table 36                          1.00 score
+Day 8   Classwork Count digits                                                    <-- Count number of digits  1                        1.00 score
+Day 8   Classwork Reverse a number                                                <-- Reverse of a number 8                            1.00 score
+Day 11  Classwork Count multiples in a range                                      <-- Classwork: Count Multiples of K in a Range       0.91 score
+Day 11  Classwork Solid square of stars                                           <-- Classwork: Solid Square of Stars                 1.00 score
+Day 11  Classwork Right-angled triangle                                           <-- Right-angled Triangle                            1.00 score
+Day 11  Classwork Inverted right-angled triangle                                  <-- HW_Print Inverted Right Angled Triangle Pattern  0.93 score
+Day 12  Classwork Count digits                                                    <-- Count number of digits  1                        1.00 score
+Day 12  Classwork Reverse a number                                                <-- Reverse of a number 8                            1.00 score
+Day 15  Classwork Count multiples in a range                                      <-- Classwork: Count Multiples of K in a Range       0.91 score
+Day 16  Classwork Solid square of stars                                           <-- Classwork: Solid Square of Stars                 1.00 score
+Day 16  Classwork Right-angled triangle                                           <-- Right-angled Triangle                            1.00 score
+Day 16  Classwork Inverted right-angled triangle                                  <-- HW_Print Inverted Right Angled Triangle Pattern  0.93 score
+Day 17  Classwork Pyramid of stars                                                <-- Classwork: Pyramid of Stars                      1.00 score
+Day 17  Classwork Number pyramid                                                  <-- Classwork: Number Pyramid                        1.00 score
+Day 18  Classwork Full diamond of stars                                           <-- Classwork: Full Diamond of Stars                 1.00 score
+Day 22  Classwork factorial(n)                                                    <-- N factorial 2                                    1.00 score
+Day 23  Classwork nCr using a factorial helper                                    <-- Classwork: nCr using a Factorial Helper          1.00 score
+Day 24  Classwork Reverse a number                                                <-- Reverse of a number 8                            1.00 score
+Day 24  Classwork Sum of digits                                                   <-- Sum of Digits 81                                 1.00 score
+Day 24  Classwork Count digits                                                    <-- Count number of digits  1                        1.00 score
+Day 26  Classwork LCM of two numbers                                              <-- LCM of two numbers 8                             1.00 score
+Day 26  Classwork Check if two numbers are coprime                                <-- Classwork: Check if Two Numbers are Coprime      1.00 score
+Day 27  Classwork Factorial recursively                                           <-- Classwork: Factorial Recursively                 1.00 score
+Day 28  Classwork Nth Fibonacci number                                            <-- Nth Fibonacci Number 7                           1.00 score
+Day 28  Classwork Sum of an array recursively                                     <-- Classwork: Sum of Array Recursively              1.00 score
+Day 30  Classwork Count elements above the average                                <-- Classwork: Count Elements Above the Average      1.00 score
+Day 33  Classwork Sort vector of pairs by the second value                        <-- Classwork: Sort Pairs by the Second Value        0.93 score
+Day 34  Classwork Linear search - return the index                                <-- Classwork: Linear Search - Return the Index      1.00 score
+Day 35  Classwork LC35 Search Insert Position                                     <-- Search insert position                           1.00 score
+Day 37  Classwork Rotate right by 1                                               <-- Rotate Right                                     1.00 score
+Day 38  Classwork Check if the array is sorted and rotated (LC1752)               <-- Check if Array Is Sorted and Rotated 1           1.00 score
+Day 38  Classwork Sum of a given range                                            <-- Classwork: Sum of a Given Range                  1.00 score
+Day 38  Classwork Merge two sorted arrays                                         <-- Merge two sorted arrays 7                        1.00 score
+Day 39  Classwork LC303 Range Sum Query - Immutable                               <-- Classwork: Range Sum Query - Immutable (LC303)   1.00 lc-number
+Day 41  Classwork Frequency of each element                                       <-- Classwork: Frequency of Each Element             1.00 score
+Day 41  Classwork Most frequent element                                           <-- Classwork: Most Frequent Element                 1.00 score
+Day 41  Classwork Count of distinct elements                                      <-- Classwork: Count of Distinct Elements            1.00 score
+Day 42  Classwork LC242 Valid Anagram                                             <-- Valid Anagram 5                                  1.00 score
+Day 42  Classwork LC387 First Unique Character in a String                        <-- HW_First Unique Character in a String            1.00 score
+Day 42  Classwork Counting sort a small-range array                               <-- Classwork: Counting Sort a Small-Range Array     1.00 score
+Day 43  Classwork LC167 Two Sum II - Input Array Is Sorted                        <-- Classwork: Two Sum on a Sorted Array (LC167)     1.00 lc-number
+Day 43  Classwork String palindrome check                                         <-- Is String a Palindrome                           1.00 score
+Day 44  Classwork LC283 Move Zeroes                                               <-- Classwork: Move Zeroes to the End (LC283)        1.00 lc-number
+Day 44  Classwork Partition around a pivot                                        <-- Classwork: Partition an Array Around a Pivot     0.91 score
+Day 44  Classwork Move negatives to the left                                      <-- Classwork: Move Negatives to the Left            1.00 score
+Day 45  Classwork LC15 3Sum                                                       <-- Classwork: 3Sum (LC15)                           1.00 lc-number
+Day 45  Classwork LC26 Remove Duplicates from Sorted Array                        <-- Classwork: Remove Duplicates from a Sorted Array 1.00 lc-number
+Day 45  Classwork Count pairs with difference k                                   <-- Classwork: Count Pairs with Difference K         1.00 score
+Day 47  Classwork LC3 Longest Substring Without Repeating Characters (Intro)      <-- Longest Substring Without Repeating Characters 6 1.00 score
+Day 48  Classwork LC151 Reverse Words in a String                                 <-- Reverse words in a String 8                      1.00 score
+Day 49  Classwork LC242 Valid Anagram                                             <-- Valid Anagram 5                                  1.00 score
+Day 49  Classwork LC387 First Unique Character in a String                        <-- HW_First Unique Character in a String            1.00 score
+Day 50  Classwork Read and print a matrix                                         <-- Classwork: Read and Print a Matrix               1.00 score
+Day 50  Classwork Sum of each row and column                                      <-- Classwork: Sum of Each Row and Column            1.00 score
+Day 51  Classwork LC48 Rotate Image                                               <-- Rotate Image                                     1.00 score
+Day 51  Classwork LC54 Spiral Matrix                                              <-- Spiral Matrix 44                                 1.00 score
+Day 52  Classwork Swap two numbers using XOR                                      <-- Classwork: Swap Two Numbers using XOR            1.00 score
+Day 53  Classwork Check if k-th bit is set (GfG)                                  <-- Classwork: Check if the K-th Bit is Set          1.00 score
+Day 53  Classwork LC136 Single Number                                             <-- HW_Single Number 3                               1.00 score
+Day 54  Classwork LC231 Power of Two                                              <-- Power of 4                                       1.00 score
+Day 56  Classwork LC918 Maximum Sum Circular Subarray                             <-- Maximum Sum Circular Subarray 2                  1.00 score
+Day 57  Classwork LC28 Find the Index of the First Occurrence in a String         <-- Classwork: Find the Index of the First Occurrenc 1.00 lc-number
+Day 57  Classwork LC415 Add Strings                                               <-- Classwork: Add Two Numbers Given as Strings (LC4 1.00 lc-number
+Day 59  Classwork LC31 Next Permutation                                           <-- Classwork: Next Permutation (LC31)               1.00 lc-number

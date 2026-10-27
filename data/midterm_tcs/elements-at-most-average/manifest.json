@@ -1,0 +1,66 @@
+[
+  {
+    "index": 0,
+    "name": "A_sample_1_to_5",
+    "input_bytes": 12,
+    "expected_bytes": 1,
+    "input_preview": "5\n1 2 3 4 5\n",
+    "expected_preview": "3"
+  },
+  {
+    "index": 1,
+    "name": "B_all_equal",
+    "input_bytes": 14,
+    "expected_bytes": 1,
+    "input_preview": "6\n2 2 2 2 2 2\n",
+    "expected_preview": "6"
+  },
+  {
+    "index": 2,
+    "name": "C_singleton",
+    "input_bytes": 4,
+    "expected_bytes": 1,
+    "input_preview": "1\n7\n",
+    "expected_preview": "1"
+  },
+  {
+    "index": 3,
+    "name": "D_TLE_100k_ones",
+    "input_bytes": 200007,
+    "expected_bytes": 6,
+    "input_preview": "100000\n1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1",
+    "expected_preview": "100000"
+  },
+  {
+    "index": 4,
+    "name": "E_overflow_pos_neg_10e9",
+    "input_bytes": 1150007,
+    "expected_bytes": 5,
+    "input_preview": "100000\n1000000000 1000000000 1000000000 1000000000 1000000000 1000000000 1000000",
+    "expected_preview": "50000"
+  },
+  {
+    "index": 5,
+    "name": "F_precision_3_3_3_1",
+    "input_bytes": 10,
+    "expected_bytes": 1,
+    "input_preview": "4\n3 3 3 1\n",
+    "expected_preview": "1"
+  },
+  {
+    "index": 6,
+    "name": "G_precision_fractional",
+    "input_bytes": 8,
+    "expected_bytes": 1,
+    "input_preview": "3\n1 2 2\n",
+    "expected_preview": "1"
+  },
+  {
+    "index": 7,
+    "name": "H_random_50k",
+    "input_bytes": 519509,
+    "expected_bytes": 5,
+    "input_preview": "50000\n-711454982 222356005 819850095 722851096 640193506 -864479128 -452243426 -",
+    "expected_preview": "25042"
+  }
+]

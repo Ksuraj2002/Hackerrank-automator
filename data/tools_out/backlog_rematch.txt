@@ -1,0 +1,369 @@
+
+STRONG CW-D01-2  Print your name, class and roll on separate lines
+        0.64 HW_Print numbers 1-n in separate lines.    [print-numbers-7]
+        0.32 calculator using class                     [calculator-using-class]
+        0.32 Rectangle Class 1                          [rectangle-class-1]
+        0.32 HW-Class Objects 2_2                       [class-objects-2-1]
+
+NONE   CW-D01-3  Print a small ASCII box
+        0.33 Small Capital or Digit                     [small-capital-or-digit]
+        0.33 Prefix Small from Right                    [prefix-small-from-right]
+        0.33 HW_Prefix Small from Left                  [prefix-small-from-left]
+        0.33 String ASCII value                         [string-ascii-value]
+
+NONE   CW-D02-1  Declare and print a variable of each type
+        0.33 Predict distance type.                     [predict-distance-type-]
+        0.30 Swap the Numbers Without using a Third var [swap-the-numbers-without-using-a-t]  (already used by another row)
+
+STRONG CW-D04-3  Read 3 marks, print total and average
+        0.55 Average it!                                [average-it]  (already used by another row)
+        0.35 Total Number of Words                      [total-number-of-words]
+        0.35 HW_Total Salary 2                          [total-salary-2]
+        0.35 HW_Marks and Rank                          [marks-and-rank]
+
+NONE   CW-D06-2  Eligible to vote
+        no bank challenge shares a keyword
+
+WEAK   CW-D07-2  Grade from marks (A/B/C/F)
+        0.50 HW_Marks and Rank                          [marks-and-rank]
+        0.50 HW_Grace Marks 1                           [grace-marks-1]
+        0.50 Meaning Of A Grade                         [meaning-of-a-grade]
+        0.50 Grade the student-2                        [grade-the-student-2]
+
+WEAK   CW-D08-3  Is a point inside a rectangle?
+        0.40 Rectangle Class 1                          [rectangle-class-1]
+        0.40 Maximal Rectangle 3                        [maximal-rectangle-3]
+        0.40 HW_Area_Of_Rectangle                       [gkstr03-area-of-rectangle]
+        0.40 CC02 Equilibrium Point                     [cc02-equilibrium-point]
+
+STRONG CW-D09-2  Day of the week from a number
+        0.70 HW_Print the day                           [print-the-day]
+
+WEAK   CW-D10-2  Convert case using ASCII
+        0.40 Convert 1-D Array to 2-D Array             [cc3-02-convert-1-d-array-to-2-d-ar]
+        0.40 Check Case 2                               [check-case-2]
+        0.40 Check Case 1                               [check-case-1-2]
+        0.33 String ASCII value                         [string-ascii-value]
+
+WEAK   CW-D14-2  Tables 1..10 with nested loops
+        0.40 Nested-if-else                             [nested-if-else-4]
+        0.33 Nested Dictionary Addition                 [nested-dictionary-addition]
+        0.33 String Reversal using loops                [string-reversal-loops]
+        0.30 Ex-10. Nested Dictionary Val Change        [ex-10-nested-dictionary-val-change]
+
+STRONG CW-D16-1  Solid square of stars
+        0.60 print Numbers and stars                    [print-numbers-and-stars]
+        0.40 Square root of number                      [square-root-of-number]
+        0.40 Square checker                             [square-checker]
+        0.40 Square Pattern 12                          [square-pattern-12]
+
+STRONG CW-D17-1  Pyramid of stars
+        0.70 print Numbers and stars                    [print-numbers-and-stars]
+        0.43 Program to print alphabet “A” using stars  [program-to-print-alphabet-a-using-]
+        0.43 GKSTR24 Pattern_7_Pyramid                  [gkstr25-pattern-7-pyramid]
+        0.40 Pattern 1 - Print Stars in same line       [pattern-1-print-stars-in-same-line]
+
+WEAK   CW-D17-2  Inverted pyramid
+        0.50 Hw_Print Inverted triangle                 [print-inverted-triangle]
+        0.43 GKSTR24 Pattern_7_Pyramid                  [gkstr25-pattern-7-pyramid]
+        0.40 GKSTR25_Pattern_8_Reversed_Pyramid         [gkstr26-pattern-8-reversed-pyramid]
+        0.40 HW_Print Inverted Right-angled whole numbe [print-pattern-41]
+
+STRONG CW-D18-1  Full diamond of stars
+        0.60 print Numbers and stars                    [print-numbers-and-stars]
+        0.33 Program to print alphabet “A” using stars  [program-to-print-alphabet-a-using-]
+        0.33 GKSTR29_Pattern_12_Diamond                 [gkstr30-pattern-12-diamond]
+        0.30 Pattern 1 - Print Stars in same line       [pattern-1-print-stars-in-same-line]
+
+WEAK   CW-D18-2  Hollow triangle
+        0.50 Pascal's Triangle 35                       [pascals-triangle-35-3]
+        0.50 Hw_Print Inverted triangle                 [print-inverted-triangle]
+        0.50 HW_If triangle is possible.                [if-triangle-is-possible-]
+        0.50 HW_Area of triangle 13                     [area-of-triangle-13-2]
+
+NONE   CW-D22-1  isPrime(n)
+        no bank challenge shares a keyword
+
+STRONG CW-D23-1  nCr using a factorial helper
+        0.60 N factorial 2                              [n-factorial-2-1]  (already used by another row)
+        0.60 Factorial 204                              [factorial-204]
+        0.60 Factorial 156                              [factorial-156]
+        0.60  Factorial of N                            [mpc03-factorial-of-n]
+
+STRONG CW-D23-3  Area functions for shapes
+        0.60 Functions 1_3                              [functions-1-3]
+        0.40 HW_Calculate Area 3                        [calculate-area-3]
+        0.40 HW_Area_Of_Rectangle                       [gkstr03-area-of-rectangle]
+        0.40 HW_Area of triangle 13                     [area-of-triangle-13-2]
+
+NONE   CW-D25-1  isPrime optimized
+        no bank challenge shares a keyword
+
+WEAK   CW-D26-1  GCD using Euclid
+        0.50 GCD Problem 1                              [gcd-problem-1]
+        0.50 Find GCD 3                                 [find-gcd-3-4]
+        0.43 Find GCD of two number                     [find-gcd-of-two-number]
+        0.43 Find GCD of Array                          [find-gcd-of-array]  (already used by another row)
+
+NONE   CW-D27-2  Print 1..N and N..1 recursively
+        no bank challenge shares a keyword
+
+NONE   CW-D29-1  Read N values and print them
+        0.30 Ex-4. Initialise Dictionary with Default V [ex-4-initialise-dictionary-with-de]
+        0.28 Keep Multiplying Found Values by Two       [keep-multiplying-found-values-by-t]
+
+STRONG CW-D29-2  Print in reverse order by index
+        0.60 print reverse 5                            [print-reverse-5-1]
+        0.60 Reverse of a number 8                      [reverse-of-a-number-8]  (already used by another row)
+        0.60 Reverse it!                                [reverse-it-8]
+        0.60 Reverse integer 5                          [reverse-integer-5-1]
+
+STRONG CW-D30-3  Count elements above the average
+        0.55 Average it!                                [average-it]  (already used by another row)
+        0.55 HW_print above given ab                    [print-above-given-ab]
+        0.35 k largest elements 5                       [k-largest-elements-5]  (already used by another row)
+        0.35 common elements 6                          [common-elements-6-2]
+
+WEAK   CW-D33-2  Sort vector of pairs by the second value
+        0.52 sort 987                                   [sort-9-8-7]
+        0.52 Sort 0 1 2                                 [sort-0-1-2-2]
+        0.52 Sort 0 1                                   [sort-0-1-4]  (already used by another row)
+        0.32 Sort a stack 3                             [sort-a-stack-3]
+
+STRONG CW-D33-3  Sort strings by length
+        0.60 sort 987                                   [sort-9-8-7]
+        0.60 Sort 0 1 2                                 [sort-0-1-2-2]
+        0.60 Sort 0 1                                   [sort-0-1-4]  (already used by another row)
+        0.40 Two-Strings                                [two-strings-9]
+
+STRONG CW-D34-1  Linear search - return the index
+        0.55 The To Be Index                            [the-to-be-index]
+        0.35 Search Problem                             [binary-search-5-2]
+        0.35 Search Character                           [search-character]
+        0.35 Print character at 3rd index               [print-character-at-3rd-index]
+
+WEAK   CW-D40-2  Track the start and end indices of max sum
+        0.50 3 Sum                                      [target-triplets]
+        0.50 2sum 2                                     [2sum-2]
+        0.50 Max-10-20                                  [max-10-20]
+        0.47 Max subarray sum 5                         [max-subarray-sum-5]  (already used by another row)
+
+WEAK   CW-D42-3  Counting sort a small-range array
+        0.52 sort 987                                   [sort-9-8-7]
+        0.52 Sort 0 1 2                                 [sort-0-1-2-2]
+        0.52 Sort 0 1                                   [sort-0-1-4]  (already used by another row)
+        0.52 HW_Print In Range(x and y)                 [print-in-rangex-and-y]
+
+STRONG CW-D43-1  Reverse using two pointers
+        0.60 Two-Numbers                                [two-numbers-6]  (already used by another row)
+        0.60 print reverse 5                            [print-reverse-5-1]
+        0.60 Reverse of a number 8                      [reverse-of-a-number-8]  (already used by another row)
+        0.60 Reverse it!                                [reverse-it-8]
+
+WEAK   CW-D44-3  Move negatives to the left
+        0.40 Left - Right                               [left-right-4]
+        0.33 HW_Toggle and 2 jumps left                 [toggle-and-2-jumps-left]
+        0.33 HW_Prefix Small from Left                  [prefix-small-from-left]
+        0.30 Print the matrix left-diagonal wise        [print-the-matrix-left-diagonal-wis]
+
+STRONG CW-D45-1  LC15 3Sum
+        1.00 3 Sum                                      [target-triplets]
+        1.00 2sum 2                                     [2sum-2]
+        0.80 Two Sum 14                                 [two-sum-14-1]
+        0.80 Target Sum                                 [target-sum-3]
+
+STRONG CW-D50-3  Sum of both diagonals
+        0.60 3 Sum                                      [target-triplets]
+        0.60 2sum 2                                     [2sum-2]
+        0.40 Two Sum 14                                 [two-sum-14-1]
+        0.40 Target Sum                                 [target-sum-3]
+
+STRONG CW-D52-2  Check if a number is odd/even using Bitwise AND
+        0.70 HW_Odd Even 11                             [odd-even-11-1]
+        0.70 HW_Even Odd 1000                           [even-odd-1000]
+        0.70 HW_Check Odd                               [check-odd]
+        0.57 Sum of even & odd 2                        [sum-of-even-odd-2]  (already used by another row)
+
+NONE   CW-D54-3  Generate all subsets using bit manipulation (GfG)
+        0.32 Count of subsets                           [count-of-subsets]
+        0.32 String Manipulation 31                     [string-manipulation-31]
+        0.32 List Manipulation 4                        [list-manipulation-4]
+        0.32 List Manipulation 3                        [list-manipulation-3-1]
+
+WEAK   CW-D55-3  Check if any subarray has sum 0 (GfG)
+        0.52 3 Sum                                      [target-triplets]
+        0.52 2sum 2                                     [2sum-2]
+        0.52 Check for ly                               [check-for-ly]
+        0.52 Check for 10                               [check-for-10]
+
+STRONG CW-D58-3  Find row with max 1s (GfG)
+        0.55 Max-10-20                                  [max-10-20]
+        0.55 HW_Find Me 6                               [find-me-6-2]
+        0.35 Print Alternate Row                        [print-alternate-row]
+        0.35 HW_Print The Row With Maximum Number of 1’ [print-the-row]
+
+WEAK   HW-D01-1  Print your daily timetable as text
+        0.40 HW_Daily temperatures 1                    [daily-temperatures-1]
+
+WEAK   HW-D01-2  Print a 4-line ASCII figure
+        0.40 print Character in line                    [print-character-in-line]
+        0.33 HW_Print count of digits and digits line b [print-count-of-digits-and-digits-l]
+        0.33 String ASCII value                         [string-ascii-value]
+        0.33 Find the ASCII Value                       [find-the-ascii-value]
+
+WEAK   HW-D02-1  Print sizeof of each type
+        0.43 Predict distance type.                     [predict-distance-type-]
+
+WEAK   HW-D03-1  Total seconds to h:m:s
+        0.50 Total Number of Words                      [total-number-of-words]
+        0.50 HW_Total Salary 2                          [total-salary-2]
+        0.43 Print total steps when n/2                 [print-total-steps-when-n2]
+
+NONE   HW-D04-1  Bill = price x quantity (2 decimals)
+        no bank challenge shares a keyword
+
+WEAK   HW-D05-1  Voting eligibility as a boolean
+        0.40 check eligibility                          [check-eligibility]
+
+STRONG HW-D07-1  Largest of three distinct numbers
+        0.60 k largest                                  [k-largest]
+        0.60 Largest of 3!                              [largest-of-3-2]
+        0.60 Largest Number 23                          [largest-number-23]
+        0.40 Print digit by digit of a three digit numb [print-digit-by-digit-of-a-three-di]
+
+WEAK   HW-D08-1  Ticket price by age group
+        0.35 HW_Print age bracket                       [print-age-bracket]
+        0.28 Reverse Nodes in k-Group 1                 [reverse-nodes-in-k-group-1-1]
+        0.28 Predict Future Age                         [predict-future-age]
+        0.28 HW_Print final salary given age            [print-final-salary-given-age]
+
+STRONG HW-D09-2  Number of days in a month
+        0.70 HW_Print the month                         [print-the-month]
+
+WEAK   HW-D13-1  GCD by repeated subtraction
+        0.40 GCD Problem 1                              [gcd-problem-1]
+        0.40 Find GCD 3                                 [find-gcd-3-4]
+        0.33 Find GCD of two number                     [find-gcd-of-two-number]
+        0.33 Find GCD of Array                          [find-gcd-of-array]  (already used by another row)
+
+WEAK   HW-D14-2  Print a coordinate grid
+        0.50 Grid Problem 3                             [grid-problem-3]
+
+STRONG HW-D15-1  Arithmetic-progression sum
+        0.60 3 Sum                                      [target-triplets]
+        0.60 2sum 2                                     [2sum-2]
+        0.60 Arithmetic Number 1                        [arithmetic-number-1]
+        0.40 Two Sum 14                                 [two-sum-14-1]
+
+WEAK   HW-D16-1  Floyd's number triangle
+        0.50 Pascal's Triangle 35                       [pascals-triangle-35-3]
+        0.50 Hw_Print Inverted triangle                 [print-inverted-triangle]
+        0.50 HW_If triangle is possible.                [if-triangle-is-possible-]
+        0.50 HW_Area of triangle 13                     [area-of-triangle-13-2]
+
+NONE   HW-D22-1  sumOfDigits(n)
+        no bank challenge shares a keyword
+
+NONE   HW-D22-2  isPalindromeNumber(n)
+        no bank challenge shares a keyword
+
+NONE   HW-D23-2  isLeapYear(y) returning bool
+        no bank challenge shares a keyword
+
+NONE   HW-D25-1  Sieve of Eratosthenes
+        no bank challenge shares a keyword
+
+STRONG HW-D26-2  Reduce a fraction to lowest terms
+        0.55 Terms of AP 1                              [terms-of-ap-1]
+        0.35 Python Reduce                              [python-reduce]
+        0.25 Reduce Array Size to the half 1            [reduce-array-size-to-the-half-1]
+
+WEAK   HW-D31-1  Count total swaps in bubble sort
+        0.52 sort 987                                   [sort-9-8-7]
+        0.52 Sort 0 1 2                                 [sort-0-1-2-2]
+        0.52 Sort 0 1                                   [sort-0-1-4]  (already used by another row)
+        0.51 GKSTR44 Bubble Sort                        [gkstr44-bubble-sort]  (already used by another row)
+
+WEAK   HW-D32-1  Sort an array of strings by first letter
+        0.52 sort 987                                   [sort-9-8-7]
+        0.52 Sort 0 1 2                                 [sort-0-1-2-2]
+        0.52 Sort 0 1                                   [sort-0-1-4]  (already used by another row)
+        0.52 print the array 4                          [print-the-array-4-1]
+
+STRONG HW-D34-1  Check if a value exists (boolean)
+        0.55 Check for ly                               [check-for-ly]
+        0.55 Check for 10                               [check-for-10]
+        0.35 check eligibility                          [check-eligibility]
+        0.35 check Palindrome                           [check-palindrome-26]
+
+WEAK   HW-D38-2  Rearrange positives and negatives alternately
+        0.35 Rearrange_string                           [rearrange-string]
+        0.35 Rearrange a string                         [rearrange-a-string-1-1]
+        0.28 Print two arrays alternately               [array-basic-vii]
+        0.25 Rearrange an array with O(1) extra space.  [rearrange-an-array-with-o1-extra-s]
+
+WEAK   HW-D39-2  Range increment with a difference array (GfG)
+        0.52 HW_Print In Range(x and y)                 [print-in-rangex-and-y]
+        0.52 Increment By 6                             [increment-by-6]
+        0.52 The Difference 4                           [the-difference-4-1]
+        0.52 print the array 4                          [print-the-array-4-1]
+
+WEAK   HW-D41-2  Element appearing once
+        0.40 Sum of all element                         [sum-of-all-element]
+        0.40 Peak element 5                             [peak-element-5-3]
+        0.40 Majority Element II                        [majority-element-ii]  (already used by another row)
+        0.40 Insert Element 2                           [insert-element-2-2]
+
+STRONG HW-D42-2  Check if arrays are permutations of each other
+        0.55 Check for ly                               [check-for-ly]
+        0.55 Check for 10                               [check-for-10]
+        0.50 Check if two arrays are identical?         [is-identical]
+        0.46 Check If Two String Arrays are Equivalent  [check-if-two-string-arrays-are-equ]
+
+NONE   HW-D44-2  Container with most water (intro)
+        0.28 Trapping Rain Water 10                     [trapping-rain-water-10-1]  (already used by another row)
+        0.28 GKSTR42 Milk and Water                     [gkstr42-milk-and-water]
+        0.25 Most Popular Video Creator                 [most-popular-video-creator]
+        0.25 CC5_04 Indices of Most Frequent Character  [cc5-04-indices-of-most-frequent-ch]
+
+STRONG HW-D45-1  LC16 3Sum Closest
+        0.70 3 Sum                                      [target-triplets]
+        0.70 2sum 2                                     [2sum-2]
+        0.50 Two Sum 14                                 [two-sum-14-1]
+        0.50 Target Sum                                 [target-sum-3]
+
+STRONG HW-D46-1  LC1343 Number of Subarrays of Size K and Average Greater than or Equal to Threshold
+        0.57 Greater Than Me                            [greater-than-me]
+        0.49 Print All Subarrays                        [print-subsets-1]  (already used by another row)
+        0.49 Is Equal?                                  [is-equal-1]
+        0.49 Average it!                                [average-it]  (already used by another row)
+
+WEAK   HW-D48-2  Longest word in a sentence
+        0.40 Word Pattern 7                             [word-pattern-7]
+        0.40 Word Meaning                               [word-meaning-1]
+        0.40 Reverse Each Word 1                        [reverse-each-word-1]
+        0.40 HW_last word 4                             [last-word-4]
+
+STRONG HW-D50-2  Check the identity matrix
+        0.67 HW_Rotation Check In Matrix                [rotation-check-in-matrix]
+        0.60 Check for ly                               [check-for-ly]
+        0.60 Check for 10                               [check-for-10]
+        0.40 Transpose of matrix 7                      [transpose-of-matrix-7]
+
+STRONG HW-D52-1  Multiply/Divide a number by 2 using bit shifts
+        0.70 Multiply Divide                            [multiply-divide]
+        0.55 HW_Multiply x by 5                         [multiply-x-by-5]
+        0.35 Multiply Complex Number                    [multiply-complex-number]
+        0.35 Divide Sequence 1                          [divide-sequence-1]
+
+WEAK   HW-D54-2  Find the two non-repeating elements (GfG)
+        0.50 Two-Numbers                                [two-numbers-6]  (already used by another row)
+        0.50 HW_Find Me 6                               [find-me-6-2]
+        0.47 Find GCD of two number                     [find-gcd-of-two-number]
+        0.40 HW_First Non-Repeating char                [first-non-repeating-char-1]
+
+STRONG HW-D57-2  Check if a string is a valid shuffle of two strings (GfG)
+        0.57 Two-Strings                                [two-strings-9]
+        0.50 Check If Two String Arrays are Equivalent  [check-if-two-string-arrays-are-equ]
+        0.49 valid 1                                    [valid-1-1]
+        0.49 Two-Numbers                                [two-numbers-6]  (already used by another row)

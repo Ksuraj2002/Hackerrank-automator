@@ -1,0 +1,346 @@
+Day 1  |Clas1 |lc=None|Print "Hello, World!"
+Day 1  |Clas2 |lc=None|Print your name, class and roll on separate lines
+Day 1  |Clas3 |lc=None|Print a small ASCII box
+Day 1  |Clas4 |lc=None|Declare and print a variable of each type
+Day 1  |Clas5 |lc=None|Area and perimeter of a rectangle
+Day 1  |Clas6 |lc=None|Take input of a number a print it.
+Day 1  |Clas7 |lc=None|Find the last digit of a given number. Say 45983
+Day 1  |Clas8 |lc=None|Take input of p,r,t and calculate si
+Day 1  |Home1 |lc=None|Print your daily timetable as text
+Day 1  |Home2 |lc=None|Print a 4-line ASCII figure
+Day 1  |Home3 |lc=None|Print sizeof of each type
+Day 2  |Clas1 |lc=None|Swap two numbers using a third variable
+Day 2  |Clas2 |lc=None|Last digit and first digit of a number
+Day 2  |Clas3 |lc=None|Sum of digits of a 3-digit number
+Day 2  |Clas4 |lc=None|Evaluate a mixed expression, then verify
+Day 2  |Clas5 |lc=None|Find the answer of the following expressions a.        Int x = 7+3+4 b.        Int x = 12 + 5 + 8 c.        double x= 12 + 5.0 + 2.76 d.        double
+Day 2  |Clas6 |lc=None|Store these expressions inside a Boolean variable ans. Print their outputs true or false accordingly a.        bool ans = 3 > 2 b.        bool ans = 3
+Day 2  |Clas7 |lc=None|Take marks of a student in five subjects as input in a double variable. Print the sum of total marks and also find the percentage of the student.
+Day 2  |Clas8 |lc=None|Take four integer inputs and check if the product of them is greater than 1000 or not. Print true or false accordingly.
+Day 2  |Clas9 |lc=None|Take an integer input and check if the number is divisible by 7 or not.
+Day 2  |Home1 |lc=None|Find the answer of the following expressions a.        Int x= 13/5 + 18/8 b.        double x=121/3 + 213.0/2 c.        double x=94/2 + 75.0/4 d.      
+Day 2  |Home2 |lc=None|Celsius to Fahrenheit converter
+Day 2  |Home3 |lc=None|Remove the last digit of a given number. Say 45983
+Day 3  |Clas1 |lc=None|bool ans= 3>2 && 14>3
+Day 3  |Clas2 |lc=None|bool ans = 40>3 && 40 > 50
+Day 3  |Clas3 |lc=None|bool ans = 40>=40 || 50>=2*25
+Day 3  |Clas4 |lc=None|bool ans = (2*3==4 && 6*4==9) || (4>2)
+Day 3  |Clas5 |lc=None|bool ans = (4>5) && (3>5 && 80==2*40)
+Day 3  |Clas6 |lc=None|bool ans = (20*5==100 || 10==10) && (30*2==60 || 40>30)
+Day 3  |Clas7 |lc=None|bool ans = !(30>20)
+Day 3  |Clas8 |lc=None|bool ans = !(30==30)
+Day 3  |Clas9 |lc=None|bool ans = !(30≥20 || 40≥10)
+Day 3  |Clas10|lc=None|bool ans = !( (20*4 + 40 ≥100 || 20==10) && (3*2<=60 || 4≥30) )
+Day 3  |Clas11|lc=None|bool ans = !( 20%3==2 )
+Day 3  |Clas12|lc=None|bool ans = ( !(40==40) && 80>36)
+Day 3  |Clas13|lc=None|bool ans = ( !(50>20) || 90>2*45) && ( 30!=2*15)
+Day 3  |Home1 |lc=None|bool ans = 40>=2*45 || 30>=2*10
+Day 3  |Home2 |lc=None|bool ans= 40>3 && 20>3
+Day 3  |Home3 |lc=None|bool ans= 50>7 && 30>=40
+Day 3  |Home4 |lc=None|bool ans= 50<25 || 30>2
+Day 3  |Home5 |lc=None|bool ans= 70<=75 || 40<=2
+Day 3  |Home6 |lc=None|bool ans = !( 45==35)
+Day 3  |Home7 |lc=None|bool ans= (20<32 && 2!=30) && (35>=20 || 35!=25)
+Day 3  |Home8 |lc=None|bool ans= !(20>=30)
+Day 3  |Home9 |lc=None|bool ans= !(30>40)
+Day 3  |Home10|lc=None|bool ans = !(40==2*20) && 75==15*5
+Day 3  |Home11|lc=None|bool ans = !(40>=40) || (50>=2*25)
+Day 3  |Home12|lc=None|bool ans = !(10*5==50) || (2*3==7 || 9==28/3)
+Day 3  |Home13|lc=None|bool ans = (20*5==100 || 10!=10) && (30*2==60 || 50<40)
+Day 3  |Home14|lc=None|bool ans = ( !(90>=40) && !(80>36) )
+Day 3  |Home15|lc=None|bool ans = ( (50>=20) || 90>2*45) && ( 30!=2*15)
+Day 4  |Clas1 |lc=None|Odd or even
+Day 4  |Clas2 |lc=None|Take age of a person as input, print “Adult” if age is greater than or equal to 18 and print “Below age” if age is below 18.
+Day 4  |Clas3 |lc=None|Maximum of two numbers, (user input)
+Day 4  |Clas4 |lc=None|Take two integer inputs x and y. Print “High Sum” if sum is greater than or equal to 100, and print “Low Sum” otherwise.
+Day 4  |Clas5 |lc=None|Grading System
+Day 4  |Clas6 |lc=None|You are given as input marks of a student.
+Day 4  |Clas7 |lc=None|Display an appropriate message based on the following rules: 2.1 for marks above 90, print excellent. 2.2 for marks above 80 and less than equal to 90
+Day 4  |Clas8 |lc=None|A shop will give a discount of 10% on the total cost if the cost of the quantity purchased is more than 1000. a.        Ask user for quantity b.      
+Day 4  |Clas9 |lc=None|The bonus in a company is given by Bonus= Salary * (5 / 100). A company decided to give a bonus of 5% to employees if his/her year of service is more 
+Day 4  |Home1 |lc=None|Positive, negative or zero
+Day 4  |Home2 |lc=None|Divisible by 5?
+Day 4  |Home3 |lc=None|Take two numbers as integer input and print the larger number as the output in the integer format.
+Day 4  |Home4 |lc=None|Take an integer input and print Even if the integer is even else print Odd.
+Day 4  |Home5 |lc=None|Take income of a person as input from the user, print “No tax to be paid” if income is less than 500,000 and print “Tax to be paid” if income is great
+Day 4  |Home6 |lc=None|A teacher adds 4 marks as grace marks only if the marks of the student is below 33. Print the final marks of student given by the teacher.
+Day 4  |Home7 |lc=None|Take age as input from the user. a.        Print “Super Senior Citizen” if age is above 70 b.        Print “Senior Citizen” if age is below 70 but equ
+Day 4  |Home8 |lc=None|The government adds money into the account of a person based on his age. Take age and salary of the person as inputs. And print his final income. a.  
+Day 5  |Clas1 |lc=None|IDE, Leetcode CakeWalk, Account Creation on all platforms including Codechef, Codeforces, Hackerrank and submit easy problems with them Github and che
+Day 5  |Home1 |lc=None|Questions sheet
+Day 6  |Clas1 |lc=None|Maximum of three
+Day 6  |Clas2 |lc=None|Grade from marks (A/B/C/F)
+Day 6  |Clas3 |lc=None|Triangle type from its sides
+Day 6  |Clas4 |lc=None|Leap Year
+Day 6  |Clas5 |lc=None|Short Circuit tech (tell them ki interview me pooch skte h ese, ise)
+Day 6  |Clas6 |lc=None|Coding Bat Make chocolates and bricks problem
+Day 6  |Clas7 |lc=None|Classify a character (vowel/consonant/digit)
+Day 6  |Clas8 |lc=None|Is a point inside a rectangle?
+Day 6  |Home1 |lc=None|Largest of three distinct numbers
+Day 6  |Home2 |lc=None|Calculator using if-else
+Day 6  |Home3 |lc=None|Ticket price by age group
+Day 6  |Home4 |lc=None|Valid triangle and its type
+Day 7  |Clas1 |lc=None|Calculator using switch
+Day 7  |Clas2 |lc=None|Day of the week from a number
+Day 7  |Clas3 |lc=None|Vowel check using switch
+Day 7  |Home1 |lc=None|Menu-driven program
+Day 7  |Home2 |lc=None|Number of days in a month
+Day 8  |Clas1 |lc=None|Print 1..N and even numbers to N
+Day 8  |Clas2 |lc=None|Sum of first N numbers
+Day 8  |Clas3 |lc=None|Multiplication table
+Day 8  |Clas4 |lc=None|Print all factors of N
+Day 8  |Clas5 |lc=None|Count digits
+Day 8  |Clas6 |lc=None|Reverse a number
+Day 8  |Home1 |lc=None|Print N down to 1
+Day 8  |Home2 |lc=None|Factorial with a loop
+Day 8  |Home3 |lc=None|Repeated digit sum to one digit
+Day 8  |Home4 |lc=None|Check Armstrong number
+Day 9  |Clas1 |lc=None|Sum of digits with while
+Day 9  |Clas2 |lc=None|Reverse a number with while
+Day 9  |Clas3 |lc=None|Count digits with while
+Day 9  |Home1 |lc=None|GCD by repeated subtraction
+Day 9  |Home2 |lc=None|Binary form of a number using while
+Day 12 |Clas1 |lc=None|Print all factors of N
+Day 12 |Clas2 |lc=None|Count digits
+Day 12 |Clas3 |lc=None|Reverse a number
+Day 12 |Home1 |lc=None|Repeated digit sum to one digit
+Day 12 |Home2 |lc=None|Check Armstrong number
+Day 13 |Clas1 |lc=None|Sum of digits with while
+Day 13 |Clas2 |lc=None|Reverse a number with while
+Day 13 |Clas3 |lc=None|Count digits with while
+Day 13 |Home1 |lc=None|GCD by repeated subtraction
+Day 13 |Home2 |lc=None|Binary form of a number using while
+Day 14 |Clas1 |lc=None|Print a grid of numbers
+Day 14 |Clas2 |lc=None|Tables 1..10 with nested loops
+Day 14 |Clas3 |lc=None|Count all pairs (i, j)
+Day 14 |Home1 |lc=None|Print all pairs with i < j
+Day 14 |Home2 |lc=None|Print a coordinate grid
+Day 15 |Clas1 |lc=None|Sum of a series
+Day 15 |Clas2 |lc=None|Count multiples in a range
+Day 15 |Clas3 |lc=None|Print a simple triangle
+Day 15 |Home1 |lc=None|Arithmetic-progression sum
+Day 15 |Home2 |lc=None|Fibonacci series with a loop
+Day 16 |Clas1 |lc=None|Solid square of stars
+Day 16 |Clas2 |lc=None|Right-angled triangle
+Day 16 |Clas3 |lc=None|Inverted right-angled triangle
+Day 16 |Home1 |lc=None|Floyd's number triangle
+Day 16 |Home2 |lc=None|Hollow square
+Day 17 |Clas1 |lc=None|Pyramid of stars
+Day 17 |Clas2 |lc=None|Inverted pyramid
+Day 17 |Clas3 |lc=None|Number pyramid
+Day 17 |Home1 |lc=None|Half-diamond
+Day 17 |Home2 |lc=None|Right-aligned triangle
+Day 18 |Clas1 |lc=None|Full diamond of stars
+Day 18 |Clas2 |lc=None|Hollow triangle
+Day 18 |Clas3 |lc=None|Alphabet pattern
+Day 18 |Home1 |lc=None|Butterfly pattern
+Day 18 |Home2 |lc=None|Pascal-style number pattern
+Day 19 |Clas1 |lc=None|Calculate TC of a standard for loop
+Day 19 |Clas2 |lc=None|Calculate TC of a while loop halving N
+Day 19 |Clas3 |lc=None|Differentiate O(1) ops from O(N) ops
+Day 19 |Home1 |lc=None|Read up on Omega and Theta notation
+Day 19 |Home2 |lc=None|Determine TC of finding max element in array
+Day 20 |Clas1 |lc=None|TC of nested loop (1 to N, 1 to N)
+Day 20 |Clas2 |lc=None|TC of dependent loop (i from 1 to N, j from 1 to i)
+Day 20 |Clas3 |lc=None|TC of i *= 2 loop (Log N)
+Day 20 |Home1 |lc=None|TC of three nested loops (O(N^3))
+Day 20 |Home2 |lc=None|TC of loop jumping by i+=2 vs i*=2
+Day 21 |Clas1 |lc=None|Space complexity of creating an array of size N
+Day 21 |Clas2 |lc=None|Space complexity of basic recursion
+Day 21 |Clas3 |lc=None|Time-Space trade-off examples
+Day 21 |Home1 |lc=None|Calculate SC of nested arrays (matrices)
+Day 21 |Home2 |lc=None|Find O(1) space solutions vs O(N) solutions
+Day 22 |Clas1 |lc=None|isPrime(n)
+Day 22 |Clas2 |lc=None|factorial(n)
+Day 22 |Clas3 |lc=None|max(a, b)
+Day 22 |Home1 |lc=None|sumOfDigits(n)
+Day 22 |Home2 |lc=None|isPalindromeNumber(n)
+Day 23 |Clas1 |lc=None|nCr using a factorial helper
+Day 23 |Clas2 |lc=None|power(base, exp)
+Day 23 |Clas3 |lc=None|Area functions for shapes
+Day 23 |Home1 |lc=None|min/max of three via a function
+Day 23 |Home2 |lc=None|isLeapYear(y) returning bool
+Day 24 |Clas1 |lc=None|Reverse a number
+Day 24 |Clas2 |lc=None|Sum of digits
+Day 24 |Clas3 |lc=None|Count digits
+Day 24 |Home1 |lc=None|Palindrome number
+Day 24 |Home2 |lc=None|Armstrong number; largest digit
+Day 25 |Clas1 |lc=None|isPrime optimized
+Day 25 |Clas2 |lc=None|Print primes 1..N
+Day 25 |Clas3 |lc=None|Count factors of N
+Day 25 |Home1 |lc=None|Sieve of Eratosthenes
+Day 25 |Home2 |lc=None|Sum of divisors of N
+Day 26 |Clas1 |lc=None|GCD using Euclid
+Day 26 |Clas2 |lc=None|LCM of two numbers
+Day 26 |Clas3 |lc=None|Check if two numbers are coprime
+Day 26 |Home1 |lc=None|GCD of an array
+Day 26 |Home2 |lc=None|Reduce a fraction to lowest terms
+Day 27 |Clas1 |lc=None|Factorial recursively
+Day 27 |Clas2 |lc=None|Print 1..N and N..1 recursively
+Day 27 |Clas3 |lc=None|Sum of digits recursively
+Day 27 |Home1 |lc=None|Fast power a^b
+Day 27 |Home2 |lc=None|Recursive palindrome check
+Day 28 |Clas1 |lc=None|Nth Fibonacci number
+Day 28 |Clas2 |lc=None|All subsequences of a string
+Day 28 |Clas3 |lc=None|Sum of an array recursively
+Day 28 |Home1 |lc=None|Count vowels recursively
+Day 28 |Home2 |lc=None|Reverse a string recursively
+Day 29 |Clas1 |lc=None|Read N values and print them
+Day 29 |Clas2 |lc=None|Print in reverse order by index
+Day 29 |Clas3 |lc=None|Print elements at even indices
+Day 29 |Home1 |lc=None|Sum of an array
+Day 29 |Home2 |lc=None|Count positive elements
+Day 30 |Clas1 |lc=None|Max and min in one pass
+Day 30 |Clas2 |lc=None|Average of the array
+Day 30 |Clas3 |lc=None|Count elements above the average
+Day 30 |Home1 |lc=None|Second largest element
+Day 30 |Home2 |lc=None|Count even and odd
+Day 31 |Clas1 |lc=None|Bubble sort implementation
+Day 31 |Clas2 |lc=None|Selection sort implementation
+Day 31 |Clas3 |lc=None|Trace selection sort on paper
+Day 31 |Home1 |lc=None|Count total swaps in bubble sort
+Day 31 |Home2 |lc=None|Sort an array in descending order
+Day 32 |Clas1 |lc=None|Insertion sort implementation
+Day 32 |Clas2 |lc=None|Trace insertion sort shifts
+Day 32 |Clas3 |lc=None|Compare stability of Bubble vs Selection
+Day 32 |Home1 |lc=None|Sort an array of strings by first letter
+Day 32 |Home2 |lc=None|Find median after sorting
+Day 33 |Clas1 |lc=None|Sort a vector ascending / descending
+Day 33 |Clas2 |lc=None|Sort vector of pairs by the second value
+Day 33 |Clas3 |lc=None|Sort strings by length
+Day 33 |Home1 |lc=56|LC56 Merge Intervals (Intro - sort by start time)
+Day 33 |Home2 |lc=None|Sort array elements by frequency (Intro)
+Day 34 |Clas1 |lc=None|Linear search - return the index
+Day 34 |Clas2 |lc=None|Count occurrences of x
+Day 34 |Clas3 |lc=None|First and last index of x
+Day 34 |Home1 |lc=None|Check if a value exists (boolean)
+Day 34 |Home2 |lc=None|Return index of the maximum element
+Day 35 |Clas1 |lc=704|LC704 Binary Search
+Day 35 |Clas2 |lc=35|LC35 Search Insert Position
+Day 35 |Clas3 |lc=None|First occurrence using binary search
+Day 35 |Home1 |lc=34|LC34 Find First and Last Position of Element in Sorted Array
+Day 35 |Home2 |lc=None|Find Ceil of x in sorted array (GfG)
+Day 36 |Clas1 |lc=None|Reverse an array in place
+Day 36 |Clas2 |lc=None|Swap first and last
+Day 36 |Clas3 |lc=None|Reverse a sub-range
+Day 36 |Home1 |lc=None|Move all zeros to the end
+Day 36 |Home2 |lc=None|Check if the array is a palindrome
+Day 37 |Clas1 |lc=None|Rotate right by 1
+Day 37 |Clas2 |lc=None|Rotate by k using reversal
+Day 37 |Clas3 |lc=None|Left rotate by k
+Day 37 |Home1 |lc=None|Check if one array is a rotation of another
+Day 37 |Home2 |lc=None|Rotate a matrix row
+Day 38 |Clas1 |lc=1752|Check if the array is sorted and rotated (LC1752)
+Day 38 |Clas2 |lc=None|Sum of a given range
+Day 38 |Clas3 |lc=None|Merge two sorted arrays
+Day 38 |Home1 |lc=None|Leaders in an array (GfG)
+Day 38 |Home2 |lc=None|Rearrange positives and negatives alternately
+Day 39 |Clas1 |lc=None|Build a prefix-sum array
+Day 39 |Clas2 |lc=303|LC303 Range Sum Query - Immutable
+Day 39 |Clas3 |lc=None|Equilibrium index via prefix sum
+Day 39 |Home1 |lc=724|LC724 Find Pivot Index
+Day 39 |Home2 |lc=None|Range increment with a difference array (GfG)
+Day 40 |Clas1 |lc=53|LC53 Maximum Subarray
+Day 40 |Clas2 |lc=None|Track the start and end indices of max sum
+Day 40 |Clas3 |lc=None|Subarray with largest sum (all negatives case)
+Day 40 |Home1 |lc=None|Maximum contiguous sum (GfG)
+Day 40 |Home2 |lc=None|Largest sum of exactly k elements
+Day 41 |Clas1 |lc=None|Frequency of each element
+Day 41 |Clas2 |lc=None|Most frequent element
+Day 41 |Clas3 |lc=None|Count of distinct elements
+Day 41 |Home1 |lc=None|Missing number in 1..N
+Day 41 |Home2 |lc=None|Element appearing once
+Day 42 |Clas1 |lc=242|LC242 Valid Anagram
+Day 42 |Clas2 |lc=387|LC387 First Unique Character in a String
+Day 42 |Clas3 |lc=None|Counting sort a small-range array
+Day 42 |Home1 |lc=169|LC169 Majority Element
+Day 42 |Home2 |lc=None|Check if arrays are permutations of each other
+Day 43 |Clas1 |lc=None|Reverse using two pointers
+Day 43 |Clas2 |lc=167|LC167 Two Sum II - Input Array Is Sorted
+Day 43 |Clas3 |lc=None|String palindrome check
+Day 43 |Home1 |lc=977|LC977 Squares of a Sorted Array
+Day 43 |Home2 |lc=26|Remove duplicates from a sorted array (LC26)
+Day 44 |Clas1 |lc=283|LC283 Move Zeroes
+Day 44 |Clas2 |lc=None|Partition around a pivot
+Day 44 |Clas3 |lc=None|Move negatives to the left
+Day 44 |Home1 |lc=88|Merge two sorted arrays in place (LC88)
+Day 44 |Home2 |lc=None|Container with most water (intro)
+Day 45 |Clas1 |lc=15|LC15 3Sum
+Day 45 |Clas2 |lc=26|LC26 Remove Duplicates from Sorted Array
+Day 45 |Clas3 |lc=None|Count pairs with difference k
+Day 45 |Home1 |lc=16|LC16 3Sum Closest
+Day 45 |Home2 |lc=None|Two-sum on an unsorted array (hashing preview)
+Day 46 |Clas1 |lc=None|Maximum sum window of size k (GfG)
+Day 46 |Clas2 |lc=643|LC643 Maximum Average Subarray I
+Day 46 |Clas3 |lc=None|First negative in each window (GfG)
+Day 46 |Home1 |lc=1343|LC1343 Number of Subarrays of Size K and Average Greater than or Equal to Threshold
+Day 46 |Home2 |lc=None|Count occurrences of anagrams (GfG)
+Day 47 |Clas1 |lc=209|LC209 Minimum Size Subarray Sum
+Day 47 |Clas2 |lc=None|Longest subarray with sum <= k
+Day 47 |Clas3 |lc=3|LC3 Longest Substring Without Repeating Characters (Intro)
+Day 47 |Home1 |lc=None|Longest subarray with k distinct characters (GfG)
+Day 47 |Home2 |lc=None|Smallest window containing all characters of string (GfG)
+Day 48 |Clas1 |lc=151|LC151 Reverse Words in a String
+Day 48 |Clas2 |lc=None|Count the words using stringstream
+Day 48 |Clas3 |lc=125|LC125 Valid Palindrome
+Day 48 |Home1 |lc=None|Print all substrings
+Day 48 |Home2 |lc=None|Longest word in a sentence
+Day 49 |Clas1 |lc=242|LC242 Valid Anagram
+Day 49 |Clas2 |lc=387|LC387 First Unique Character in a String
+Day 49 |Clas3 |lc=None|Frequency of each character
+Day 49 |Home1 |lc=49|LC49 Group Anagrams (Intro via sorting strings)
+Day 49 |Home2 |lc=1047|LC1047 Remove All Adjacent Duplicates In String
+Day 50 |Clas1 |lc=None|Read and print a matrix
+Day 50 |Clas2 |lc=None|Sum of each row and column
+Day 50 |Clas3 |lc=None|Sum of both diagonals
+Day 50 |Home1 |lc=None|Row with the maximum sum
+Day 50 |Home2 |lc=None|Check the identity matrix
+Day 51 |Clas1 |lc=None|Transpose a matrix in place
+Day 51 |Clas2 |lc=48|LC48 Rotate Image
+Day 51 |Clas3 |lc=54|LC54 Spiral Matrix
+Day 51 |Home1 |lc=59|LC59 Spiral Matrix II
+Day 51 |Home2 |lc=73|LC73 Set Matrix Zeroes
+Day 52 |Clas1 |lc=None|Print binary representation of N
+Day 52 |Clas2 |lc=None|Check if a number is odd/even using Bitwise AND
+Day 52 |Clas3 |lc=None|Swap two numbers using XOR
+Day 52 |Home1 |lc=None|Multiply/Divide a number by 2 using bit shifts
+Day 52 |Home2 |lc=None|XOR of numbers from 1 to N (GfG)
+Day 53 |Clas1 |lc=None|Check if k-th bit is set (GfG)
+Day 53 |Clas2 |lc=191|LC191 Number of 1 Bits
+Day 53 |Clas3 |lc=136|LC136 Single Number
+Day 53 |Home1 |lc=None|Set the rightmost unset bit (GfG)
+Day 53 |Home2 |lc=338|LC338 Counting Bits
+Day 54 |Clas1 |lc=231|LC231 Power of Two
+Day 54 |Clas2 |lc=None|Clear rightmost set bit (N & (N-1))
+Day 54 |Clas3 |lc=None|Generate all subsets using bit manipulation (GfG)
+Day 54 |Home1 |lc=268|LC268 Missing Number (Using XOR)
+Day 54 |Home2 |lc=None|Find the two non-repeating elements (GfG)
+Day 55 |Clas1 |lc=None|Print all subarrays of an array
+Day 55 |Clas2 |lc=None|Find max subarray sum using O(N^2)
+Day 55 |Clas3 |lc=None|Check if any subarray has sum 0 (GfG)
+Day 55 |Home1 |lc=None|Count subarrays with sum exactly K (Brute force)
+Day 55 |Home2 |lc=None|Product of all subarrays (GfG)
+Day 56 |Clas1 |lc=53|LC53 Maximum Subarray (Review)
+Day 56 |Clas2 |lc=918|LC918 Maximum Sum Circular Subarray
+Day 56 |Clas3 |lc=560|LC560 Subarray Sum Equals K (Using prefix sums/hashmap intro)
+Day 56 |Home1 |lc=974|LC974 Subarray Sums Divisible by K
+Day 56 |Home2 |lc=152|Maximum product subarray (LC152)
+Day 57 |Clas1 |lc=14|LC14 Longest Common Prefix
+Day 57 |Clas2 |lc=28|LC28 Find the Index of the First Occurrence in a String
+Day 57 |Clas3 |lc=415|LC415 Add Strings
+Day 57 |Home1 |lc=43|LC43 Multiply Strings
+Day 57 |Home2 |lc=None|Check if a string is a valid shuffle of two strings (GfG)
+Day 58 |Clas1 |lc=74|LC74 Search a 2D Matrix
+Day 58 |Clas2 |lc=240|LC240 Search a 2D Matrix II
+Day 58 |Clas3 |lc=None|Find row with max 1s (GfG)
+Day 58 |Home1 |lc=None|Median in a row-wise sorted Matrix (GfG)
+Day 58 |Home2 |lc=378|LC378 Kth Smallest Element in a Sorted Matrix
+Day 59 |Clas1 |lc=238|LC238 Product of Array Except Self
+Day 59 |Clas2 |lc=31|LC31 Next Permutation
+Day 59 |Clas3 |lc=128|LC128 Longest Consecutive Sequence (Sorting approach)
+Day 59 |Home1 |lc=75|LC75 Sort Colors
+Day 59 |Home2 |lc=42|Trapping Rain Water (LC42 - Brute/Better approach)
+Day 60 |Clas1 |lc=None|Mock Test: 3 standard problems (Easy, Med, Med) across Arrays/Strings/Bits
+Day 60 |Clas2 |lc=None|Dry run space/time analysis of your solutions
+Day 60 |Home1 |lc=None|Complete any pending HWs
+Day 60 |Home2 |lc=None|Rest and prepare for DSA 301!

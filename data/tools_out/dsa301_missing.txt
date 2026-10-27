@@ -1,0 +1,13 @@
+LEC-1   Lambdas I          Easy   Print each element of a vector using for_each and a lambda
+LEC-1   Lambdas I          Medium Store three lambdas in vector<function<int(int)>> and apply each
+LEC-1   Lambdas I          Easy   Sum a vector via for_each capturing an accumulator by reference
+LEC-1   Lambdas I          Medium Write a lambda capturing a threshold by value to filter a vector
+LEC-2   Lambdas II         Easy   Sort a vector<string> in reverse alphabetical order with a lambda
+LEC-3   STL Containers     Medium Group anagrams together using map<string, vector<string>>
+LEC-3   STL Containers     Easy   Insert into a map and print all key-value pairs sorted by key
+LEC-4   STL Algorithms     Easy   Sort a vector of structs by one field using a custom comparator
+LEC-5   DSA Revision       Easy   Search for a value in a linked list and return true/false
+LEC-6   Hashmap Basics     Easy   LC136 Single Number
+LEC-8   Heaps Basics       Easy   LC1464 Maximum Product of Two Elements in an Array
+LEC-9   Advanced Heaps     Easy   LC1337 The K Weakest Rows in a Matrix
+LEC-10  Hashmaps + Heaps   Easy   LC1394 Find Lucky Integer in an Array

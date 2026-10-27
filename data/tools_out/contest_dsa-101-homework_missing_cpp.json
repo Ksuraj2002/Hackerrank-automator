@@ -1,0 +1,58 @@
+[
+  {
+    "id": 72131,
+    "name": "Classifying Feedbacks into Positive or Negative",
+    "slug": "classifying-feedbacks-into-positive-or-negative",
+    "languages": [],
+    "error": "HTTP 403 on /rest/administration/challenges/72131"
+  },
+  {
+    "id": 12887,
+    "name": "Type of Triangle",
+    "slug": "what-type-of-triangle",
+    "languages": [],
+    "error": "HTTP 403 on /rest/administration/challenges/12887"
+  },
+  {
+    "id": 226762,
+    "name": "Max Min",
+    "slug": "three-month-preparation-kit-angry-children",
+    "languages": [],
+    "error": "HTTP 403 on /rest/administration/challenges/226762"
+  },
+  {
+    "id": 9828,
+    "name": "Simple Array Sum",
+    "slug": "simple-array-sum",
+    "languages": [],
+    "error": "HTTP 403 on /rest/administration/challenges/9828"
+  },
+  {
+    "id": 2619,
+    "name": "Maximum Subarray Sum",
+    "slug": "maximum-subarray-sum",
+    "languages": [],
+    "error": "HTTP 403 on /rest/administration/challenges/2619"
+  },
+  {
+    "id": 57402,
+    "name": "Sum of Digits of a Five Digit Number",
+    "slug": "sum-of-digits-of-a-five-digit-number",
+    "languages": [],
+    "error": "HTTP 403 on /rest/administration/challenges/57402"
+  },
+  {
+    "id": 226722,
+    "name": "Highest Value Palindrome",
+    "slug": "one-month-preparation-kit-richie-rich",
+    "languages": [],
+    "error": "HTTP 403 on /rest/administration/challenges/226722"
+  },
+  {
+    "id": 226696,
+    "name": "Recursive Digit Sum",
+    "slug": "one-month-preparation-kit-recursive-digit-sum",
+    "languages": [],
+    "error": "HTTP 403 on /rest/administration/challenges/226696"
+  }
+]

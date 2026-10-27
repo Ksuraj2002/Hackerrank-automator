@@ -1,0 +1,372 @@
+{
+ "classwork": [
+  {
+   "id": "CW-D02-1",
+   "problem": "Declare and print a variable of each type",
+   "slug": "sort-the-array-according-to-their-square-of-each-element",
+   "score": 0.301
+  },
+  {
+   "id": "CW-D04-3",
+   "problem": "Read 3 marks, print total and average",
+   "slug": "marks-and-rank",
+   "score": 0.325
+  },
+  {
+   "id": "CW-D29-1",
+   "problem": "Read N values and print them",
+   "slug": "keep-multiplying-found-values-by-two",
+   "score": 0.327
+  },
+  {
+   "id": "CW-D40-2",
+   "problem": "Track the start and end indices of max sum",
+   "slug": "re-start-re-end",
+   "score": 0.35
+  },
+  {
+   "id": "CW-D44-3",
+   "problem": "Move negatives to the left",
+   "slug": "next-greater-element-on-left-1",
+   "score": 0.36
+  },
+  {
+   "id": "CW-D01-3",
+   "problem": "Print a small ASCII box",
+   "slug": "find-the-ascii-value",
+   "score": 0.381
+  },
+  {
+   "id": "CW-D58-3",
+   "problem": "Find row with max 1s (GfG)",
+   "slug": "print-the-row",
+   "score": 0.383
+  },
+  {
+   "id": "CW-D18-1",
+   "problem": "Full diamond of stars",
+   "slug": "print-numbers-and-stars",
+   "score": 0.39
+  },
+  {
+   "id": "CW-D33-2",
+   "problem": "Sort vector of pairs by the second value",
+   "slug": "vector-sort",
+   "score": 0.398
+  },
+  {
+   "id": "CW-D09-2",
+   "problem": "Day of the week from a number",
+   "slug": "find-the-highest-number-1",
+   "score": 0.4
+  },
+  {
+   "id": "CW-D10-2",
+   "problem": "Convert case using ASCII",
+   "slug": "check-case-1-2",
+   "score": 0.401
+  },
+  {
+   "id": "CW-D34-1",
+   "problem": "Linear search - return the index",
+   "slug": "the-to-be-index",
+   "score": 0.401
+  },
+  {
+   "id": "CW-D33-3",
+   "problem": "Sort strings by length",
+   "slug": "isomorphic-strings-4",
+   "score": 0.402
+  },
+  {
+   "id": "CW-D54-3",
+   "problem": "Generate all subsets using bit manipulation (GfG)",
+   "slug": "print-subsets-1",
+   "score": 0.409
+  },
+  {
+   "id": "CW-D08-3",
+   "problem": "Is a point inside a rectangle?",
+   "slug": "points-on-rectangle",
+   "score": 0.415
+  },
+  {
+   "id": "CW-D50-3",
+   "problem": "Sum of both diagonals",
+   "slug": "sum-finding",
+   "score": 0.415
+  },
+  {
+   "id": "CW-D16-1",
+   "problem": "Solid square of stars",
+   "slug": "find-square-root-1-2",
+   "score": 0.427
+  },
+  {
+   "id": "CW-D43-1",
+   "problem": "Reverse using two pointers",
+   "slug": "reverse-it-8",
+   "score": 0.429
+  },
+  {
+   "id": "CW-D30-3",
+   "problem": "Count elements above the average",
+   "slug": "bash-tutorials-count-the-number-of-elements-in-an-array",
+   "score": 0.432
+  },
+  {
+   "id": "CW-D23-3",
+   "problem": "Area functions for shapes",
+   "slug": "functions-1-3",
+   "score": 0.435
+  },
+  {
+   "id": "CW-D23-1",
+   "problem": "nCr using a factorial helper",
+   "slug": "n-factorial-2-1",
+   "score": 0.436
+  },
+  {
+   "id": "CW-D29-2",
+   "problem": "Print in reverse order by index",
+   "slug": "print-reverse-5-1",
+   "score": 0.442
+  },
+  {
+   "id": "CW-D14-2",
+   "problem": "Tables 1..10 with nested loops",
+   "slug": "ex-10-nested-dictionary-val-change",
+   "score": 0.443
+  },
+  {
+   "id": "CW-D42-3",
+   "problem": "Counting sort a small-range array",
+   "slug": "counting-smaller-numbers-in-an-array",
+   "score": 0.462
+  },
+  {
+   "id": "CW-D01-2",
+   "problem": "Print your name, class and roll on separate lines",
+   "slug": "print-numbers-7",
+   "score": 0.463
+  },
+  {
+   "id": "CW-D17-2",
+   "problem": "Inverted pyramid",
+   "slug": "print-inverted-triangle",
+   "score": 0.471
+  },
+  {
+   "id": "CW-D55-3",
+   "problem": "Check if any subarray has sum 0 (GfG)",
+   "slug": "max-subarray-sum-5",
+   "score": 0.473
+  },
+  {
+   "id": "CW-D52-2",
+   "problem": "Check if a number is odd/even using Bitwise AND",
+   "slug": "check-if-the-number-is-balanced-1",
+   "score": 0.474
+  },
+  {
+   "id": "CW-D26-1",
+   "problem": "GCD using Euclid",
+   "slug": "find-gcd-3-4",
+   "score": 0.492
+  },
+  {
+   "id": "CW-D18-2",
+   "problem": "Hollow triangle",
+   "slug": "right-angled-triangle-6",
+   "score": 0.493
+  },
+  {
+   "id": "CW-D17-1",
+   "problem": "Pyramid of stars",
+   "slug": "stars",
+   "score": 0.494
+  },
+  {
+   "id": "CW-D07-2",
+   "problem": "Grade from marks (A/B/C/F)",
+   "slug": "grace-marks-1",
+   "score": 0.496
+  }
+ ],
+ "homework": [
+  {
+   "id": "HW-D46-1",
+   "problem": "LC1343 Number of Subarrays of Size K and Average Greater than or Equal to Threshold",
+   "slug": "greater-than-100-or-not",
+   "score": 0.305
+  },
+  {
+   "id": "HW-D04-1",
+   "problem": "Bill = price x quantity (2 decimals)",
+   "slug": "rounding-in-price-breakdown",
+   "score": 0.314
+  },
+  {
+   "id": "HW-D08-1",
+   "problem": "Ticket price by age group",
+   "slug": "predict-future-age",
+   "score": 0.319
+  },
+  {
+   "id": "HW-D38-2",
+   "problem": "Rearrange positives and negatives alternately",
+   "slug": "rearrange-string",
+   "score": 0.327
+  },
+  {
+   "id": "HW-D26-2",
+   "problem": "Reduce a fraction to lowest terms",
+   "slug": "reduce-array-size-to-the-half-1",
+   "score": 0.328
+  },
+  {
+   "id": "HW-D44-2",
+   "problem": "Container with most water (intro)",
+   "slug": "gkstr42-milk-and-water",
+   "score": 0.356
+  },
+  {
+   "id": "HW-D01-1",
+   "problem": "Print your daily timetable as text",
+   "slug": "daily-temperatures-1",
+   "score": 0.373
+  },
+  {
+   "id": "HW-D02-1",
+   "problem": "Print sizeof of each type",
+   "slug": "predict-distance-type-",
+   "score": 0.38
+  },
+  {
+   "id": "HW-D34-1",
+   "problem": "Check if a value exists (boolean)",
+   "slug": "find-the-ascii-value",
+   "score": 0.381
+  },
+  {
+   "id": "HW-D13-1",
+   "problem": "GCD by repeated subtraction",
+   "slug": "repeated-string",
+   "score": 0.392
+  },
+  {
+   "id": "HW-D41-2",
+   "problem": "Element appearing once",
+   "slug": "tuple-element-printer",
+   "score": 0.401
+  },
+  {
+   "id": "HW-D48-2",
+   "problem": "Longest word in a sentence",
+   "slug": "longest-consecutive-sequence-2-2",
+   "score": 0.402
+  },
+  {
+   "id": "HW-D01-2",
+   "problem": "Print a 4-line ASCII figure",
+   "slug": "find-the-ascii-value",
+   "score": 0.403
+  },
+  {
+   "id": "HW-D05-1",
+   "problem": "Voting eligibility as a boolean",
+   "slug": "check-eligibility",
+   "score": 0.415
+  },
+  {
+   "id": "HW-D16-1",
+   "problem": "Floyd's number triangle",
+   "slug": "number-finding",
+   "score": 0.425
+  },
+  {
+   "id": "HW-D07-1",
+   "problem": "Largest of three distinct numbers",
+   "slug": "three-month-preparation-kit-separate-the-numbers",
+   "score": 0.442
+  },
+  {
+   "id": "HW-D14-2",
+   "problem": "Print a coordinate grid",
+   "slug": "hexagonal-grid",
+   "score": 0.447
+  },
+  {
+   "id": "HW-D31-1",
+   "problem": "Count total swaps in bubble sort",
+   "slug": "gkstr44-bubble-sort",
+   "score": 0.447
+  },
+  {
+   "id": "HW-D03-1",
+   "problem": "Total seconds to h:m:s",
+   "slug": "total-number-of-words",
+   "score": 0.456
+  },
+  {
+   "id": "HW-D42-2",
+   "problem": "Check if arrays are permutations of each other",
+   "slug": "is-identical",
+   "score": 0.458
+  },
+  {
+   "id": "HW-D45-1",
+   "problem": "LC16 3Sum Closest",
+   "slug": "closest-number",
+   "score": 0.46
+  },
+  {
+   "id": "HW-D15-1",
+   "problem": "Arithmetic-progression sum",
+   "slug": "arithmetic-progressions",
+   "score": 0.46
+  },
+  {
+   "id": "HW-D32-1",
+   "problem": "Sort an array of strings by first letter",
+   "slug": "sort-an-array-in-wave-form-1",
+   "score": 0.46
+  },
+  {
+   "id": "HW-D52-1",
+   "problem": "Multiply/Divide a number by 2 using bit shifts",
+   "slug": "multiply-divide",
+   "score": 0.463
+  },
+  {
+   "id": "HW-D39-2",
+   "problem": "Range increment with a difference array (GfG)",
+   "slug": "minimum-absolute-difference-in-an-array",
+   "score": 0.466
+  },
+  {
+   "id": "HW-D57-2",
+   "problem": "Check if a string is a valid shuffle of two strings (GfG)",
+   "slug": "check-if-two-string-arrays-are-equivalent-1",
+   "score": 0.484
+  },
+  {
+   "id": "HW-D54-2",
+   "problem": "Find the two non-repeating elements (GfG)",
+   "slug": "first-non-repeating-char-1",
+   "score": 0.496
+  },
+  {
+   "id": "HW-D50-2",
+   "problem": "Check the identity matrix",
+   "slug": "modify-the-matrix",
+   "score": 0.496
+  },
+  {
+   "id": "HW-D09-2",
+   "problem": "Number of days in a month",
+   "slug": "three-month-preparation-kit-kangaroo",
+   "score": 0.498
+  }
+ ]
+}

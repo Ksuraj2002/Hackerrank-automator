@@ -1,0 +1,169 @@
+ Longest Consecutive Sequence 2
+ Right-angled Triangle
+Area and Perimeter 5
+Average it!
+Ayush and his Matrix
+Binary Search in an Array
+Character and it's Frequency
+Character is Vowel or Consonant 1
+Check if Array Is Sorted and Rotated 1
+Classwork: 3Sum (LC15)
+Classwork: Add Two Numbers Given as Strings (LC415)
+Classwork: Adult or Below Age
+Classwork: All Non-Empty Subsequences of a String
+Classwork: Areas of Square, Rectangle and Circle
+Classwork: Bubble Sort (Ascending)
+Classwork: Check Divisibility by 7
+Classwork: Check if Two Numbers are Coprime
+Classwork: Check if a Number is Prime (Without Sieve)
+Classwork: Check if the K-th Bit is Set
+Classwork: Coding Bat - Make Chocolates
+Classwork: Count All Pairs (i, j) with i less than j
+Classwork: Count Elements Above the Average
+Classwork: Count Multiples of K in a Range
+Classwork: Count Pairs with Difference K
+Classwork: Count of Distinct Elements
+Classwork: Counting Sort a Small-Range Array
+Classwork: Day of the Week from a Number
+Classwork: Declare and Print a Variable of Each Type
+Classwork: Employee Bonus Calculation
+Classwork: Evaluate a Mixed Expression
+Classwork: Factorial Recursively
+Classwork: Find the Index of the First Occurrence (LC28)
+Classwork: Find the Row with the Maximum 1s
+Classwork: Frequency of Each Element
+Classwork: Full Diamond of Stars
+Classwork: GCD using Euclidean Algorithm
+Classwork: Generate All Non-Empty Subsets using Bit Manipulation
+Classwork: Grade from Marks (A/B/C/F)
+Classwork: Grading System: Marks to Message
+Classwork: High Sum or Low Sum
+Classwork: Hollow Right Triangle
+Classwork: Inverted Pyramid of Stars
+Classwork: Is a Point Inside a Rectangle
+Classwork: Last Digit of a Number
+Classwork: Linear Search - Return the Index
+Classwork: Make Bricks (CodingBat)
+Classwork: Make Chocolate (CodingBat)
+Classwork: Maximum Subarray with Start and End Indices
+Classwork: Maximum of Three Numbers
+Classwork: Maximum of Two Numbers
+Classwork: Most Frequent Element
+Classwork: Move Negatives to the Left
+Classwork: Move Zeroes to the End (LC283)
+Classwork: Multiplication Tables 1..N with Nested Loops 1
+Classwork: Next Permutation (LC31)
+Classwork: Number Pyramid
+Classwork: Partition an Array Around a Pivot
+Classwork: Print Name Class and Roll
+Classwork: Print a Small ASCII Box
+Classwork: Product of Four Integers Greater than 1000
+Classwork: Pyramid of Stars
+Classwork: Range Sum Query - Immutable (LC303)
+Classwork: Read and Print a Matrix
+Classwork: Remove Duplicates from a Sorted Array (LC26)
+Classwork: Selection Sort (Ascending)
+Classwork: Shopping Discount Calculator
+Classwork: Simple Interest
+Classwork: Solid Square of Stars
+Classwork: Sort Pairs by the Second Value
+Classwork: Sum of Array Recursively
+Classwork: Sum of Both Diagonals of a Square Matrix
+Classwork: Sum of Digits of a 3-Digit Number
+Classwork: Sum of Each Row and Column
+Classwork: Sum of a Given Range
+Classwork: Swap Two Numbers using XOR
+Classwork: Take Input of a Number and Print It
+Classwork: Total and Percentage of Five Subjects
+Classwork: Triangle Type from Its Sides
+Classwork: Two Sum on a Sorted Array (LC167)
+Classwork: Vowel Check using Switch
+Classwork: nCr using a Factorial Helper
+Count Vowels 
+Count Words 
+Count number of digits  1
+Count the Number of Vowel Strings in Range
+Count the Occurrences!
+Cycle Detection
+Find product of the two numbers using function.
+First Negative Integer 2
+First and Last Digit 2
+GKSTR32 Reverse_Array
+GKSTR44 Bubble Sort
+GKSTR45 Selection Sort
+HW_Area of a circle 6
+HW_First Unique Character in a String 
+HW_Half Ascending Half Descending
+HW_K Frequent Characters
+HW_Print Even Array Elements inline
+HW_Print Inverted Right Angled Triangle Pattern
+HW_Print Primes 1
+HW_REVERSE IN RANGE
+HW_Single Number 3
+HW_Sort the array according to their cubes of each element
+HW_common prefix 1
+Insertion Sort 28
+Is Leap Year
+Is Palindrome
+Is String a Palindrome
+LCM of two numbers 8
+Largest Row or Column 1
+Left Rotation
+Longest Substring Without Repeating Characters 6
+Max and Min 5
+Max subarray sum 5
+Max-Vowels
+Maximum Element in window of size k
+Maximum Perimeter Triangle
+Maximum Product Subarray 2
+Maximum Subarray Sum
+Maximum Sum Circular Subarray 2
+Merge two sorted arrays 7
+Multiplication Table 36
+N factorial 2
+Nth Fibonacci Number 7
+Number finding
+Odd Even Pattern
+Partition Array According to Given Pivot
+Positive Prefix Sum Array
+Power of 4
+Power of two number
+Print All Subarrays
+Print Binary 
+Print Characters 
+Print Even Numbers 4
+Print Factors of number
+Print Hello World 36
+Print Prefix Sum
+Print all factors of a number
+Print first index of x in array
+Print pattern 1
+Print the numbers to N.
+Product of Elements Except Itself
+Reverse of a number 8
+Reverse words in a String 8
+Rightmost set bit of number
+Rotate Image
+Rotate Right 
+SHIFT ZEROES
+Search an Element in 2-D Matrix
+Search an element in array using Binary Search
+Search insert position
+Set Kth Bit 
+Simple Array Sum
+Spiral Matrix 44
+Subarray with Given Sum 8
+Sum Finding
+Sum of Digits 81
+Sum of Even Numbers till N 1
+Sum of Fibonacci Series 4
+Swap the Numbers Without using a Third variable
+Switch Calculator 1
+Toggle all characters in a string
+Transpose of Matrix of N*N
+Tuple Reversal
+Two-Numbers
+Valid Anagram 5
+Vowel Checker
+merge two unsorted array in sorted form.
+swap 2 numbers 3

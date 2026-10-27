@@ -1,0 +1,3386 @@
+{
+  "source": "/rest/administration/challenges?offset={offset}&limit={limit}",
+  "count": 338,
+  "records": [
+    {
+      "id": 590516,
+      "slug": "first-mirai-code",
+      "name": "Hey, This is my first code at Mirai !",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 590930,
+      "slug": "descending-order-sort",
+      "name": "Descending Order Sort",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 590960,
+      "slug": "count-elements-greater-than-k",
+      "name": "Count Elements Greater Than K",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 590970,
+      "slug": "generic-lambda-add",
+      "name": "Generic Lambda Add",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 590972,
+      "slug": "generic-lambda-addition",
+      "name": "Generic Lambda Addition",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 590977,
+      "slug": "sum-of-vector-using-for-each",
+      "name": "Sum of vector using for_each",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 590980,
+      "slug": "sort-pairs-by-second-then-first",
+      "name": "Sort Pairs by Second Then First",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 590981,
+      "slug": "store-and-apply-lambdas-using-function",
+      "name": "Store and Apply Lambdas using function",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 590989,
+      "slug": "first-element-greater-than-k",
+      "name": "First Element Greater Than K",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591004,
+      "slug": "delete-all-odd-numbers",
+      "name": "Delete All Odd Numbers",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591007,
+      "slug": "filter-a-vector-capturing-threshold-by-value",
+      "name": "Filter a Vector Capturing Threshold by Value",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591015,
+      "slug": "classwork-lc767-reorganize-string-3",
+      "name": "Classwork: LC767 Reorganize String 3",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591016,
+      "slug": "classwork-lc621-task-scheduler-2",
+      "name": "Classwork: LC621 Task Scheduler 2",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591017,
+      "slug": "classwork-minimum-cost-to-connect-ropes-gfg-1",
+      "name": "Classwork: Minimum cost to connect ropes (GfG) 1",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591018,
+      "slug": "homework-rearrange-characters-so-that-none-are-adjacent-gfg-2",
+      "name": "Homework: Rearrange characters so that none are adjacent (GfG) 2",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591019,
+      "slug": "homework-lc1353-maximum-number-of-events-that-can-be-attended-1",
+      "name": "Homework: LC1353 Maximum Number of Events That Can Be Attended",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591020,
+      "slug": "homework-lc860-lemonade-change-1",
+      "name": "Homework: LC860 Lemonade Change",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591021,
+      "slug": "classwork-lc70-climbing-stairs",
+      "name": "Classwork: LC70 Climbing Stairs",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591022,
+      "slug": "classwork-lc198-house-robber",
+      "name": "Classwork: LC198 House Robber",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591023,
+      "slug": "homework-lc746-min-cost-climbing-stairs",
+      "name": "Homework: LC746 Min Cost Climbing Stairs",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591024,
+      "slug": "homework-lc213-house-robber-ii-1",
+      "name": "Homework: LC213 House Robber II",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591025,
+      "slug": "classwork-minimum-number-of-coins-gfg",
+      "name": "Classwork: Minimum number of coins (GfG)",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591027,
+      "slug": "homework-number-of-ways-to-make-change-gfg",
+      "name": "Homework: Number of ways to make change (GfG)",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591028,
+      "slug": "classwork-lc300-longest-increasing-subsequence",
+      "name": "Classwork: LC300 Longest Increasing Subsequence",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591029,
+      "slug": "classwork-lc1143-longest-common-subsequence",
+      "name": "Classwork: LC1143 Longest Common Subsequence",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591030,
+      "slug": "classwork-longest-increasing-subsequence-in-on-log-n-gfg",
+      "name": "Classwork: Longest Increasing Subsequence in O(n log n) (GfG)",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591032,
+      "slug": "homework-lc673-number-of-longest-increasing-subsequence",
+      "name": "Homework: LC673 Number of Longest Increasing Subsequence",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591033,
+      "slug": "homework-lc1035-uncrossed-lines",
+      "name": "Homework: LC1035 Uncrossed Lines",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591034,
+      "slug": "homework-longest-common-substring-gfg",
+      "name": "Homework: Longest common substring (GfG)",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591035,
+      "slug": "classwork-lc62-unique-paths",
+      "name": "Classwork: LC62 Unique Paths",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591036,
+      "slug": "classwork-lc64-minimum-path-sum",
+      "name": "Classwork: LC64 Minimum Path Sum",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591038,
+      "slug": "classwork-lc63-unique-paths-ii",
+      "name": "Classwork: LC63 Unique Paths II",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591039,
+      "slug": "homework-lc931-minimum-falling-path-sum",
+      "name": "Homework: LC931 Minimum Falling Path Sum",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591040,
+      "slug": "homework-lc221-maximal-square",
+      "name": "Homework: LC221 Maximal Square",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591041,
+      "slug": "classwork-subset-sum-gfg",
+      "name": "Classwork: Subset Sum (GfG)",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591042,
+      "slug": "classwork-lc416-partition-equal-subset-sum",
+      "name": "Classwork: LC416 Partition Equal Subset Sum",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591043,
+      "slug": "classwork-lc91-decode-ways",
+      "name": "Homework: LC91 Decode Ways",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591044,
+      "slug": "homework-count-of-subsets-with-a-given-sum-gfg",
+      "name": "Homework: Count of subsets with a given sum (GfG)",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591045,
+      "slug": "homework-maximum-sum-of-non-adjacent-elements-gfg",
+      "name": "Homework: Maximum sum of non-adjacent elements (GfG)",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591046,
+      "slug": "homework-lc740-delete-and-earn",
+      "name": "Homework: LC740 Delete and Earn",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591048,
+      "slug": "classwork-01-knapsack-gfg",
+      "name": "Classwork: 0/1 Knapsack (GfG)",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591049,
+      "slug": "classwork-lc416-partition-equal-subset-sum-1",
+      "name": "Classwork: LC416 Partition Equal Subset Sum 1",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591050,
+      "slug": "classwork-lc494-target-sum",
+      "name": "Classwork: LC494 Target Sum",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591051,
+      "slug": "homework-count-subsets-with-a-given-difference-gfg",
+      "name": "Homework: Count subsets with a given difference (GfG)",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591052,
+      "slug": "homework-lc1049-last-stone-weight-ii",
+      "name": "Homework: LC1049 Last Stone Weight II",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591053,
+      "slug": "homework-minimum-subset-sum-difference-gfg",
+      "name": "Homework: Minimum subset-sum difference (GfG)",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591054,
+      "slug": "classwork-unbounded-knapsack-gfg",
+      "name": "Classwork: Unbounded Knapsack (GfG)",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591055,
+      "slug": "classwork-rod-cutting-gfg",
+      "name": "Classwork: Rod Cutting (GfG)",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591057,
+      "slug": "classwork-lc322-coin-change-1",
+      "name": "Classwork: LC322 Coin Change",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591058,
+      "slug": "homework-lc518-coin-change-ii",
+      "name": "Classwork: LC518 Coin Change II",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591059,
+      "slug": "homework-maximum-ribbon-cut-gfg",
+      "name": "Homework: Maximum ribbon cut (GfG)",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591060,
+      "slug": "homework-lc343-integer-break",
+      "name": "Homework: LC343 Integer Break",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591062,
+      "slug": "classwork-lc72-edit-distance",
+      "name": "Classwork: LC72 Edit Distance",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591063,
+      "slug": "classwork-lc583-delete-operation-for-two-strings",
+      "name": "Classwork: LC583 Delete Operation for Two Strings",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591064,
+      "slug": "classwork-lc712-minimum-ascii-delete-sum-for-two-strings",
+      "name": "Classwork: LC712 Minimum ASCII Delete Sum for Two Strings",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591065,
+      "slug": "homework-lc97-interleaving-string",
+      "name": "Homework: LC97 Interleaving String",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591067,
+      "slug": "homework-lc115-distinct-subsequences",
+      "name": "Homework: LC115 Distinct Subsequences",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591068,
+      "slug": "homework-lc161-one-edit-distance",
+      "name": "Homework: LC161 One Edit Distance",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591070,
+      "slug": "classwork-lc1092-shortest-common-supersequence",
+      "name": "Classwork: LC1092 Shortest Common Supersequence",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591071,
+      "slug": "classwork-lc516-longest-palindromic-subsequence",
+      "name": "Classwork: LC516 Longest Palindromic Subsequence",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591072,
+      "slug": "classwork-matrix-chain-multiplication-gfg",
+      "name": "Classwork: Matrix Chain Multiplication (GfG)",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591073,
+      "slug": "homework-lc5-longest-palindromic-substring",
+      "name": "Homework: LC5 Longest Palindromic Substring",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591074,
+      "slug": "homework-lc647-palindromic-substrings",
+      "name": "Homework: LC647 Palindromic Substrings",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591075,
+      "slug": "homework-lc1312-minimum-insertion-steps-to-make-a-string-palindrome",
+      "name": "Homework: LC1312 Minimum Insertion Steps to Make a String Palindrome",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591542,
+      "slug": "classwork-use-find-if-to-return-the-first-element-greater-than-k",
+      "name": "Classwork: Use find_if to return the first element greater than K",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591543,
+      "slug": "classwork-use-remove-if-erase-to-delete-all-odd-numbers-from-a-vector",
+      "name": "Classwork: Use remove_if + erase to delete all odd numbers from a vector",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591544,
+      "slug": "homework-print-unordered-map-entries-sorted-by-count-using-a-lambda",
+      "name": "Homework: Print unordered_map entries sorted by count using a lambda",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591545,
+      "slug": "homework-sort-strings-by-length-then-lexicographically-with-one-lambda",
+      "name": "Homework: Sort strings by length then lexicographically with one lambda",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591546,
+      "slug": "homework-write-a-function-that-returns-a-lambda-multiplying-by-a-captured-factor",
+      "name": "Homework: Write a function that returns a lambda multiplying by a captured factor",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591547,
+      "slug": "classwork-remove-duplicates-from-a-vector-using-a-set",
+      "name": "Classwork: Remove duplicates from a vector using a set",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591548,
+      "slug": "classwork-count-word-frequencies-from-input-using-unordered-map",
+      "name": "Classwork: Count word frequencies from input using unordered_map",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591549,
+      "slug": "classwork-implement-browser-backforward-history-using-two-stacks",
+      "name": "Classwork: Implement browser back/forward history using two stacks",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591550,
+      "slug": "homework-compute-a-fixed-size-sliding-window-maximum-using-a-deque",
+      "name": "Homework: Compute a fixed-size sliding-window maximum using a deque",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591551,
+      "slug": "homework-maintain-a-sorted-stream-with-a-multiset-and-query-the-smallest",
+      "name": "Homework: Maintain a sorted stream with a multiset and query the smallest",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591552,
+      "slug": "classwork-find-the-k-th-largest-element-using-a-priority-queue",
+      "name": "Classwork: Find the k-th largest element using a priority_queue",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591553,
+      "slug": "classwork-binary-search-a-target-in-a-sorted-vector-with-lower-bound",
+      "name": "Classwork: Binary-search a target in a sorted vector with lower_bound",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591554,
+      "slug": "classwork-count-distinct-elements-using-sort-unique",
+      "name": "Classwork: Count distinct elements using sort + unique",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591555,
+      "slug": "homework-merge-k-sorted-vectors-into-one-using-a-min-heap",
+      "name": "Homework: Merge k sorted vectors into one using a min-heap",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591556,
+      "slug": "homework-generate-all-permutations-of-a-string-with-next-permutation",
+      "name": "Homework: Generate all permutations of a string with next_permutation",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591557,
+      "slug": "homework-answer-range-sum-queries-using-prefix-sums-partial-sum",
+      "name": "Homework: Answer range-sum queries using prefix sums (partial_sum)",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591558,
+      "slug": "classwork-compute-factorial-and-ncr-recursively",
+      "name": "Classwork: Compute factorial and nCr recursively",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591559,
+      "slug": "classwork-reverse-a-singly-linked-list-iteratively",
+      "name": "Classwork: Reverse a singly linked list iteratively",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591560,
+      "slug": "classwork-print-numbers-1-n-and-n-1-using-recursion",
+      "name": "Classwork: Print numbers 1..N and N..1 using recursion",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591561,
+      "slug": "homework-fibonacci-with-memoization",
+      "name": "Homework: Fibonacci with memoization",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591562,
+      "slug": "homework-detect-a-cycle-in-a-linked-list-floyds-algorithm",
+      "name": "Homework: Detect a cycle in a linked list (Floyd's algorithm)",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591563,
+      "slug": "homework-find-the-middle-node-of-a-linked-list-in-one-pass",
+      "name": "Homework: Find the middle node of a linked list in one pass",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591564,
+      "slug": "classwork-lc1-two-sum",
+      "name": "Classwork: LC1 Two Sum",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591565,
+      "slug": "classwork-frequency-of-elements-gfg",
+      "name": "Classwork: Frequency of elements (GfG)",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591566,
+      "slug": "classwork-lc217-contains-duplicate",
+      "name": "Classwork: LC217 Contains Duplicate",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591567,
+      "slug": "homework-lc387-first-unique-character-in-a-string",
+      "name": "Homework: LC387 First Unique Character in a String",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591568,
+      "slug": "homework-lc242-valid-anagram",
+      "name": "Homework: LC242 Valid Anagram",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591569,
+      "slug": "homework-lc219-contains-duplicate-ii",
+      "name": "Homework: LC219 Contains Duplicate II",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591570,
+      "slug": "classwork-lc560-subarray-sum-equals-k",
+      "name": "Classwork: LC560 Subarray Sum Equals K",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591571,
+      "slug": "classwork-lc49-group-anagrams",
+      "name": "Classwork: LC49 Group Anagrams",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591573,
+      "slug": "classwork-lc3-longest-substring-without-repeating-characters",
+      "name": "Classwork: LC3 Longest Substring Without Repeating Characters",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591574,
+      "slug": "homework-lc974-subarray-sums-divisible-by-k",
+      "name": "Homework: LC974 Subarray Sums Divisible by K",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591575,
+      "slug": "homework-lc128-longest-consecutive-sequence",
+      "name": "Homework: LC128 Longest Consecutive Sequence",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591576,
+      "slug": "homework-largest-subarray-with-0-sum-gfg",
+      "name": "Homework: Largest subarray with 0 sum (GfG)",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591577,
+      "slug": "classwork-lc215-kth-largest-element-in-an-array",
+      "name": "Classwork: LC215 Kth Largest Element in an Array",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591578,
+      "slug": "classwork-kth-smallest-element-gfg",
+      "name": "Classwork: Kth smallest element (GfG)",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591579,
+      "slug": "classwork-lc1046-last-stone-weight",
+      "name": "Classwork: LC1046 Last Stone Weight",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591580,
+      "slug": "homework-lc703-kth-largest-element-in-a-stream",
+      "name": "Homework: LC703 Kth Largest Element in a Stream",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591581,
+      "slug": "homework-lc973-k-closest-points-to-origin",
+      "name": "Homework: LC973 K Closest Points to Origin",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591582,
+      "slug": "homework-minimum-cost-of-ropes-gfg",
+      "name": "Homework: Minimum cost of ropes (GfG)",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591583,
+      "slug": "classwork-lc347-top-k-frequent-elements",
+      "name": "Classwork: LC347 Top K Frequent Elements",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591584,
+      "slug": "classwork-lc23-merge-k-sorted-lists",
+      "name": "Classwork: LC23 Merge k Sorted Lists",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591585,
+      "slug": "classwork-lc295-find-median-from-data-stream",
+      "name": "Classwork: LC295 Find Median from Data Stream",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591586,
+      "slug": "homework-lc378-kth-smallest-element-in-a-sorted-matrix",
+      "name": "Homework: LC378 Kth Smallest Element in a Sorted Matrix",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591588,
+      "slug": "homework-lc692-top-k-frequent-words",
+      "name": "Homework: LC692 Top K Frequent Words",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591589,
+      "slug": "homework-lc451-sort-characters-by-frequency",
+      "name": "Homework: LC451 Sort Characters By Frequency",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591590,
+      "slug": "classwork-lc767-reorganize-string-4",
+      "name": "Classwork: LC767 Reorganize String 4",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591591,
+      "slug": "classwork-lc355-design-twitter",
+      "name": "Classwork: LC355 Design Twitter",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591592,
+      "slug": "classwork-lc895-maximum-frequency-stack",
+      "name": "Classwork: LC895 Maximum Frequency Stack",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591593,
+      "slug": "homework-lc621-task-scheduler",
+      "name": "Homework: LC621 Task Scheduler",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591594,
+      "slug": "homework-lc146-lru-cache",
+      "name": "Homework: LC146 LRU Cache",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591595,
+      "slug": "homework-lc432-all-o-one-data-structure",
+      "name": "Homework: LC432 All O one Data Structure",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591596,
+      "slug": "classwork-lc94-binary-tree-inorder-traversal",
+      "name": "Classwork: LC94 Binary Tree Inorder Traversal",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591597,
+      "slug": "classwork-lc144-binary-tree-preorder-traversal",
+      "name": "Classwork: LC144 Binary Tree Preorder Traversal",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591598,
+      "slug": "classwork-lc145-binary-tree-postorder-traversal",
+      "name": "Classwork: LC145 Binary Tree Postorder Traversal",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591599,
+      "slug": "homework-lc589-n-ary-tree-preorder-traversal",
+      "name": "Homework: LC589 N-ary Tree Preorder Traversal",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591600,
+      "slug": "homework-count-the-total-number-of-nodes-recursively",
+      "name": "Homework: Count the total number of nodes recursively",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591601,
+      "slug": "homework-print-all-leaf-nodes-from-left-to-right",
+      "name": "Homework: Print all leaf nodes from left to right",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591602,
+      "slug": "classwork-lc102-binary-tree-level-order-traversal",
+      "name": "Classwork: LC102 Binary Tree Level Order Traversal",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591603,
+      "slug": "classwork-lc199-binary-tree-right-side-view",
+      "name": "Classwork: LC199 Binary Tree Right Side View",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591604,
+      "slug": "classwork-lc94-inorder-traversal-iterative",
+      "name": "Classwork: LC94 Inorder Traversal (iterative)",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591606,
+      "slug": "homework-lc103-binary-tree-zigzag-level-order-traversal",
+      "name": "Homework: LC103 Binary Tree Zigzag Level Order Traversal",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591607,
+      "slug": "homework-lc107-binary-tree-level-order-traversal-ii",
+      "name": "Homework: LC107 Binary Tree Level Order Traversal II",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591608,
+      "slug": "homework-lc637-average-of-levels-in-binary-tree",
+      "name": "Homework: LC637 Average of Levels in Binary Tree",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591609,
+      "slug": "classwork-lc104-maximum-depth-of-binary-tree",
+      "name": "Classwork: LC104 Maximum Depth of Binary Tree",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591610,
+      "slug": "classwork-lc543-diameter-of-binary-tree",
+      "name": "Classwork: LC543 Diameter of Binary Tree",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591611,
+      "slug": "classwork-lc111-minimum-depth-of-binary-tree",
+      "name": "Classwork: LC111 Minimum Depth of Binary Tree",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591612,
+      "slug": "homework-lc559-maximum-depth-of-n-ary-tree",
+      "name": "Homework: LC559 Maximum Depth of N-ary Tree",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591613,
+      "slug": "homework-count-the-number-of-nodes-at-maximum-depth",
+      "name": "Homework: Count the number of nodes at maximum depth",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591614,
+      "slug": "homework-check-whether-two-trees-have-equal-height",
+      "name": "Homework: Check whether two trees have equal height",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591615,
+      "slug": "classwork-lc110-balanced-binary-tree",
+      "name": "Classwork: LC110 Balanced Binary Tree",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591616,
+      "slug": "classwork-lc101-symmetric-tree",
+      "name": "Classwork: LC101 Symmetric Tree",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591617,
+      "slug": "classwork-lc199-binary-tree-right-side-view-1",
+      "name": "Classwork: LC199 Binary Tree Right Side View 1",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591618,
+      "slug": "homework-lc100-same-tree",
+      "name": "Homework: LC100 Same Tree",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591620,
+      "slug": "homework-lc965-univalued-binary-tree",
+      "name": "Homework: LC965 Univalued Binary Tree",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591621,
+      "slug": "homework-lc872-leaf-similar-trees",
+      "name": "Homework: LC872 Leaf-Similar Trees",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591622,
+      "slug": "classwork-lc987-vertical-order-traversal-of-a-binary-tree",
+      "name": "Classwork: LC987 Vertical Order Traversal of a Binary Tree",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591623,
+      "slug": "classwork-top-view-of-a-binary-tree-gfg",
+      "name": "Classwork: Top view of a binary tree (GfG)",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591625,
+      "slug": "classwork-boundary-traversal-of-a-binary-tree-gfg",
+      "name": "Classwork: Boundary traversal of a binary tree (GfG)",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591626,
+      "slug": "homework-morris-inorder-traversal-o1-space-gfg",
+      "name": "Homework: Morris inorder traversal (O(1) space) (GfG)",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591627,
+      "slug": "homework-bottom-view-of-a-binary-tree-gfg",
+      "name": "Homework: Bottom view of a binary tree (GfG)",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591628,
+      "slug": "homework-diagonal-traversal-of-a-binary-tree-gfg",
+      "name": "Homework: Diagonal traversal of a binary tree (GfG)",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591629,
+      "slug": "classwork-lc226-invert-binary-tree",
+      "name": "Classwork: LC226 Invert Binary Tree",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591630,
+      "slug": "classwork-lc101-symmetric-tree-1",
+      "name": "Classwork: LC101 Symmetric Tree 1",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591631,
+      "slug": "classwork-lc100-same-tree",
+      "name": "Classwork: LC100 Same Tree",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591632,
+      "slug": "homework-lc951-flip-equivalent-binary-trees",
+      "name": "Homework: LC951 Flip Equivalent Binary Trees",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591634,
+      "slug": "homework-check-if-one-tree-is-the-mirror-of-another-gfg",
+      "name": "Homework: Check if one tree is the mirror of another (GfG)",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591635,
+      "slug": "homework-convert-a-tree-to-its-mirror-in-place-gfg",
+      "name": "Homework: Convert a tree to its mirror in place (GfG)",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591637,
+      "slug": "classwork-lc112-path-sum",
+      "name": "Classwork: LC112 Path Sum",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591638,
+      "slug": "classwork-lc113-path-sum-ii",
+      "name": "Classwork: LC113 Path Sum II",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591639,
+      "slug": "classwork-lc124-binary-tree-maximum-path-sum",
+      "name": "Classwork: LC124 Binary Tree Maximum Path Sum",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591640,
+      "slug": "homework-lc437-path-sum-iii",
+      "name": "Homework: LC437 Path Sum III",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591641,
+      "slug": "homework-lc129-sum-root-to-leaf-numbers",
+      "name": "Homework: LC129 Sum Root to Leaf Numbers",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591642,
+      "slug": "homework-lc988-smallest-string-starting-from-leaf",
+      "name": "Homework: LC988 Smallest String Starting From Leaf",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591644,
+      "slug": "classwork-lc236-lowest-common-ancestor-of-a-binary-tree",
+      "name": "Classwork: LC236 Lowest Common Ancestor of a Binary Tree",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591646,
+      "slug": "classwork-lca-using-root-to-node-paths-gfg",
+      "name": "Classwork: LCA using root-to-node paths (GfG)",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591647,
+      "slug": "classwork-distance-between-two-nodes-via-lca-gfg",
+      "name": "Classwork: Distance between two nodes via LCA (GfG)",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591648,
+      "slug": "homework-lc1650-lowest-common-ancestor-iii",
+      "name": "Homework: LC1650 Lowest Common Ancestor III",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591649,
+      "slug": "homework-lc1123-lowest-common-ancestor-of-deepest-leaves",
+      "name": "Homework: LC1123 Lowest Common Ancestor of Deepest Leaves",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591650,
+      "slug": "homework-kth-ancestor-of-a-node-in-a-tree-gfg",
+      "name": "Homework: Kth ancestor of a node in a tree (GfG)",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591651,
+      "slug": "classwork-lc105-construct-binary-tree-from-preorder-and-inorder",
+      "name": "Classwork: LC105 Construct Binary Tree from Preorder and Inorder",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591652,
+      "slug": "classwork-lc106-construct-binary-tree-from-inorder-and-postorder",
+      "name": "Classwork: LC106 Construct Binary Tree from Inorder and Postorder",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591653,
+      "slug": "classwork-lc114-flatten-binary-tree-to-linked-list",
+      "name": "Classwork: LC114 Flatten Binary Tree to Linked List",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591654,
+      "slug": "homework-lc889-construct-binary-tree-from-preorder-and-postorder",
+      "name": "Homework: LC889 Construct Binary Tree from Preorder and Postorder",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591655,
+      "slug": "homework-lc1008-construct-bst-from-preorder-traversal",
+      "name": "Homework: LC1008 Construct BST from Preorder Traversal",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591656,
+      "slug": "homework-lc426-convert-bst-to-sorted-doubly-linked-list",
+      "name": "Homework: LC426 Convert BST to Sorted Doubly Linked List",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591657,
+      "slug": "classwork-lc297-serialize-and-deserialize-binary-tree",
+      "name": "Classwork: LC297 Serialize and Deserialize Binary Tree",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591659,
+      "slug": "classwork-lc222-count-complete-tree-nodes",
+      "name": "Classwork: LC222 Count Complete Tree Nodes",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591660,
+      "slug": "classwork-lc863-all-nodes-distance-k-in-binary-tree",
+      "name": "Classwork: LC863 All Nodes Distance K in Binary Tree",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591661,
+      "slug": "homework-lc129-sum-root-to-leaf-numbers-1",
+      "name": "Homework: LC129 Sum Root to Leaf Numbers 1",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591662,
+      "slug": "homework-lc662-maximum-width-of-binary-tree",
+      "name": "Homework: LC662 Maximum Width of Binary Tree",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591663,
+      "slug": "homework-lc116-populating-next-right-pointers-in-each-node",
+      "name": "Homework: LC116 Populating Next Right Pointers in Each Node",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591709,
+      "slug": "classwork-search-in-a-binary-search-tree",
+      "name": "Classwork: Search in a Binary Search Tree",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591710,
+      "slug": "classwork-insert-into-a-binary-search-tree",
+      "name": "Classwork: Insert into a Binary Search Tree",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591721,
+      "slug": "classwork-two-sum-iv-input-is-a-bst",
+      "name": "Classwork: Two Sum IV - Input is a BST",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591722,
+      "slug": "classwork-range-sum-of-bst",
+      "name": "Classwork: Range Sum of BST",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591725,
+      "slug": "homework-largest-bst-subtree",
+      "name": "LC333 Largest BST Subtree",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591726,
+      "slug": "classwork-non-overlapping-intervals",
+      "name": "Classwork: LC435 Non-overlapping Intervals",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591921,
+      "slug": "homework-search-keys-within-a-range-in-a-bst",
+      "name": "Homework: Search keys within a range in a BST (GfG)",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591924,
+      "slug": "classwork-validate-binary-search-tree",
+      "name": "Classwork: LC98 Validate Binary Search Tree",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591925,
+      "slug": "classwork-minimum-absolute-difference-in-bst",
+      "name": "Classwork: LC530 Minimum Absolute Difference in BST",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591926,
+      "slug": "classwork-find-mode-in-binary-search-tree",
+      "name": "Classwork: LC501 Find Mode in Binary Search Tree",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591927,
+      "slug": "homework-recover-binary-search-tree",
+      "name": "Homework: LC99 Recover Binary Search Tree",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591928,
+      "slug": "homework-minimum-distance-between-bst-nodes",
+      "name": "Homework: LC783 Minimum Distance Between BST Nodes",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591930,
+      "slug": "homework-verify-preorder-sequence-in-bst",
+      "name": "Homework: LC255 Verify Preorder Sequence in BST",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591931,
+      "slug": "classwork-delete-node-in-a-bst",
+      "name": "Classwork: LC450 Delete Node in a BST",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591933,
+      "slug": "classwork-kth-smallest-element-in-a-bst",
+      "name": "Classwork: LC230 Kth Smallest Element in a BST",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591935,
+      "slug": "classwork-kth-largest-element-in-a-bst",
+      "name": "Classwork: Kth largest element in a BST (GfG)",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591936,
+      "slug": "homework-trim-a-binary-search-tree",
+      "name": "Homework: Trim a Binary Search Tree",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591937,
+      "slug": "homework-inorder-successor-in-bst",
+      "name": "LC285 Inorder Successor in BST",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591938,
+      "slug": "homework-inorder-predecessor-in-a-bst",
+      "name": "Inorder predecessor in a BST (GfG)",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591941,
+      "slug": "classwork-lowest-common-ancestor-of-a-bst",
+      "name": "LC235 Lowest Common Ancestor of a BST",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591942,
+      "slug": "classwork-convert-sorted-array-to-binary-search-tree",
+      "name": "LC108 Convert Sorted Array to Binary Search Tree",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591943,
+      "slug": "classwork-binary-search-tree-iterator",
+      "name": "Classwork: Binary Search Tree Iterator",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591944,
+      "slug": "homework-convert-sorted-list-to-binary-search-tree",
+      "name": "LC109 Convert Sorted List to Binary Search Tree",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591946,
+      "slug": "homework-range-sum-of-bst",
+      "name": "Homework: Range Sum of BST",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591947,
+      "slug": "classwork-two-sum-iv-input-is-a-bst-1",
+      "name": "Classwork: Two Sum IV - Input is a BST 1",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591949,
+      "slug": "classwork-trim-a-binary-search-tree",
+      "name": "Classwork: Trim a Binary Search Tree",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591951,
+      "slug": "homework-convert-bst-to-greater-tree",
+      "name": "LC538 Convert BST to Greater Tree",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591952,
+      "slug": "homework-balance-a-binary-search-tree",
+      "name": "LC1382 Balance a Binary Search Tree",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591953,
+      "slug": "classwork-n-meetings-in-one-room",
+      "name": "Classwork: N meetings in one room (GfG)",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591954,
+      "slug": "classwork-maximum-number-of-activities-selected",
+      "name": "Classwork: Maximum number of activities selected (GfG)",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591955,
+      "slug": "homework-minimum-number-of-arrows-to-burst-balloons",
+      "name": "Homework: LC452 Minimum Number of Arrows to Burst Balloons",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591956,
+      "slug": "homework-maximum-length-of-pair-chain",
+      "name": "Homework: LC646 Maximum Length of Pair Chain",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591958,
+      "slug": "homework-maximize-meetings-attended-in-one-room",
+      "name": "Homework: Maximize meetings attended in one room (GfG)",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591959,
+      "slug": "classwork-merge-intervals",
+      "name": "Classwork: LC56 Merge Intervals",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591960,
+      "slug": "classwork-insert-interval",
+      "name": "Classwork: LC57 Insert Interval",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591961,
+      "slug": "classwork-minimum-number-of-platforms",
+      "name": "Classwork: Minimum number of platforms (GfG)",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591963,
+      "slug": "homework-interval-list-intersections",
+      "name": "Homework: LC986 Interval List Intersections",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591965,
+      "slug": "homework-car-pooling",
+      "name": "Homework: LC1094 Car Pooling",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591967,
+      "slug": "homework-maximum-number-of-overlapping-intervals",
+      "name": "Homework: Maximum number of overlapping intervals (GfG)",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591968,
+      "slug": "classwork-fractional-knapsack",
+      "name": "Classwork: Fractional Knapsack (GfG)",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591969,
+      "slug": "classwork-job-sequencing-problem",
+      "name": "Classwork: Job Sequencing Problem (GfG)",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591970,
+      "slug": "classwork-minimum-cost-to-connect-ropes",
+      "name": "Classwork: Minimum cost to connect ropes",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591971,
+      "slug": "homework-assign-cookies",
+      "name": "Homework: LC455 Assign Cookies",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591972,
+      "slug": "homework-huffman-encoding",
+      "name": "Homework: Huffman Encoding (GfG)",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591974,
+      "slug": "homework-minimum-number-of-coins",
+      "name": "Homework: Minimum number of coins",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591975,
+      "slug": "classwork-jump-game",
+      "name": "Classwork: LC55 Jump Game",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591976,
+      "slug": "classwork-gas-station",
+      "name": "Classwork: LC134 Gas Station",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591977,
+      "slug": "classwork-candy",
+      "name": "LC135 Candy",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591978,
+      "slug": "homework-jump-game-ii",
+      "name": "LC45 Jump Game II",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591979,
+      "slug": "homework-partition-labels",
+      "name": "Homework: LC763 Partition Labels",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591980,
+      "slug": "homework-write-up-a-coin-system-where-greedy-fails-counterexample",
+      "name": "Homework: Write-up: a coin system where greedy fails (counterexample)",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591982,
+      "slug": "classwork-reorganize-string",
+      "name": "Classwork: Reorganize String",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591984,
+      "slug": "classwork-task-scheduler",
+      "name": "Classwork: Task Scheduler",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591985,
+      "slug": "classwork-minimum-cost-to-connect-ropes-1",
+      "name": "Classwork: Minimum cost to connect ropes 1",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591986,
+      "slug": "homework-rearrange-characters-so-that-none-are-adjacent",
+      "name": "Homework: Rearrange characters so that none are adjacent",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591987,
+      "slug": "homework-maximum-number-of-events-that-can-be-attended",
+      "name": "Homework: Maximum Number of Events That Can Be Attended",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 591988,
+      "slug": "homework-lemonade-change",
+      "name": "Homework: Lemonade Change",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 592038,
+      "slug": "classwork-search-in-a-binary-search-tree-1",
+      "name": "Classwork: Search in a Binary Search Tree 1",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 592040,
+      "slug": "classwork-insert-into-a-binary-search-tree-1",
+      "name": "Classwork: Insert into a Binary Search Tree 1",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 592041,
+      "slug": "classwork-iterative-bst-search",
+      "name": "Iterative BST search (GfG)",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 592043,
+      "slug": "homework-iterative-bst-insert",
+      "name": "Homework: Iterative BST insert (GfG)",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 592045,
+      "slug": "homework-count-bst-nodes-lying-in-a-given-range",
+      "name": "Homework: Count BST nodes lying in a given range (GfG)",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 592075,
+      "slug": "classwork-matrix-chain-multiplication-gfg-1",
+      "name": "Classwork: Matrix Chain Multiplication (GfG) 1",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 592076,
+      "slug": "classwork-lc132-palindrome-partitioning-ii",
+      "name": "Classwork: LC132 Palindrome Partitioning II",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 592077,
+      "slug": "classwork-lc312-burst-balloons",
+      "name": "Classwork: LC312 Burst Balloons",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 592079,
+      "slug": "homework-boolean-parenthesization-gfg",
+      "name": "Homework: Boolean Parenthesization (GfG)",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 592081,
+      "slug": "homework-lc1547-minimum-cost-to-cut-a-stick",
+      "name": "Homework: LC1547 Minimum Cost to Cut a Stick",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 592082,
+      "slug": "homework-lc1043-partition-array-for-maximum-sum",
+      "name": "Homework: LC1043 Partition Array for Maximum Sum",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 592083,
+      "slug": "classwork-lc200-number-of-islands",
+      "name": "Classwork: LC200 Number of Islands",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 592084,
+      "slug": "classwork-lc547-number-of-provinces",
+      "name": "Classwork: LC547 Number of Provinces",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 592085,
+      "slug": "classwork-lc133-clone-graph",
+      "name": "Classwork: LC133 Clone Graph",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 592086,
+      "slug": "homework-lc733-flood-fill",
+      "name": "Homework: LC733 Flood Fill",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 592087,
+      "slug": "homework-lc695-max-area-of-island",
+      "name": "Homework: LC695 Max Area of Island",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 592088,
+      "slug": "homework-lc1971-find-if-path-exists-in-graph",
+      "name": "Homework: LC1971 Find if Path Exists in Graph",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 592090,
+      "slug": "classwork-lc207-course-schedule",
+      "name": "Classwork: LC207 Course Schedule",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 592091,
+      "slug": "classwork-lc785-is-graph-bipartite",
+      "name": "Classwork: LC785 Is Graph Bipartite?",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 592092,
+      "slug": "classwork-detect-cycle-in-an-undirected-graph-gfg",
+      "name": "Classwork: Detect cycle in an undirected graph (GfG)",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 592093,
+      "slug": "homework-detect-cycle-in-a-directed-graph-gfg",
+      "name": "Homework: Detect cycle in a directed graph (GfG)",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 592094,
+      "slug": "homework-lc886-possible-bipartition",
+      "name": "Homework: LC886 Possible Bipartition",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 592096,
+      "slug": "homework-lc684-redundant-connection",
+      "name": "Homework: LC684 Redundant Connection",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 592097,
+      "slug": "classwork-lc210-course-schedule-ii",
+      "name": "Classwork: LC210 Course Schedule II",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 592098,
+      "slug": "classwork-topological-sort-gfg",
+      "name": "Classwork: Topological Sort (GfG)",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 592099,
+      "slug": "classwork-kahns-algorithm-for-topological-sort-gfg",
+      "name": "Classwork: Kahn's algorithm for topological sort (GfG)",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 592100,
+      "slug": "homework-lc269-alien-dictionary",
+      "name": "Homework: LC269 Alien Dictionary",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 592101,
+      "slug": "homework-lc2115-find-all-possible-recipes-from-given-supplies",
+      "name": "Homework: LC2115 Find All Possible Recipes from Given Supplies",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 592102,
+      "slug": "homework-lc1462-course-schedule-iv",
+      "name": "Homework: LC1462 Course Schedule IV",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 592103,
+      "slug": "classwork-lc743-network-delay-time",
+      "name": "Classwork: LC743 Network Delay Time",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 592104,
+      "slug": "classwork-lc1631-path-with-minimum-effort",
+      "name": "Classwork: LC1631 Path With Minimum Effort",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 592105,
+      "slug": "classwork-dijkstras-shortest-path-gfg",
+      "name": "Classwork: Dijkstra's shortest path (GfG)",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 592106,
+      "slug": "homework-lc1584-min-cost-to-connect-all-points-mst",
+      "name": "Homework: LC1584 Min Cost to Connect All Points (MST)",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 592107,
+      "slug": "homework-01-bfs-shortest-path-gfg",
+      "name": "Homework: 0/1 BFS shortest path (GfG)",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 592108,
+      "slug": "classwork-bellman-ford-algorithm-gfg",
+      "name": "Classwork: Bellman-Ford algorithm (GfG)",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 592109,
+      "slug": "classwork-floyd-warshall-all-pairs-shortest-path-gfg",
+      "name": "Classwork: Floyd-Warshall all-pairs shortest path (GfG)",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 592110,
+      "slug": "classwork-lc994-rotting-oranges",
+      "name": "Classwork: LC994 Rotting Oranges",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 592112,
+      "slug": "homework-lc542-01-matrix",
+      "name": "Homework: LC542 01 Matrix",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 592113,
+      "slug": "homework-lc1091-shortest-path-in-binary-matrix",
+      "name": "Homework: LC1091 Shortest Path in Binary Matrix",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 592114,
+      "slug": "homework-lc1192-critical-connections-in-a-network",
+      "name": "Homework: LC1192 Critical Connections in a Network",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 592115,
+      "slug": "classwork-lc543-diameter-of-binary-tree-via-dp",
+      "name": "Classwork: LC543 Diameter of Binary Tree (via DP)",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 592116,
+      "slug": "classwork-lc337-house-robber-iii",
+      "name": "Classwork: LC337 House Robber III",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 592117,
+      "slug": "classwork-lc124-binary-tree-maximum-path-sum-1",
+      "name": "Classwork: LC124 Binary Tree Maximum Path Sum 1",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 592118,
+      "slug": "homework-lc968-binary-tree-cameras",
+      "name": "Homework: LC968 Binary Tree Cameras",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 592119,
+      "slug": "homework-lc687-longest-univalue-path",
+      "name": "Homework: LC687 Longest Univalue Path",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 592120,
+      "slug": "homework-maximum-sum-of-non-adjacent-nodes-in-a-tree-gfg",
+      "name": "Homework: Maximum sum of non-adjacent nodes in a tree (GfG)",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 592121,
+      "slug": "classwork-lc78-subsets",
+      "name": "Classwork: LC78 Subsets",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 592122,
+      "slug": "classwork-lc46-permutations",
+      "name": "Classwork: LC46 Permutations",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 592123,
+      "slug": "classwork-lc77-combinations",
+      "name": "Classwork: LC77 Combinations",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 592124,
+      "slug": "homework-lc90-subsets-ii",
+      "name": "Homework: LC90 Subsets II",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 592125,
+      "slug": "homework-lc39-combination-sum",
+      "name": "Homework: LC39 Combination Sum",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 592126,
+      "slug": "homework-lc131-palindrome-partitioning",
+      "name": "Homework: LC131 Palindrome Partitioning",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 592127,
+      "slug": "classwork-lc79-word-search",
+      "name": "Classwork: LC79 Word Search",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 592128,
+      "slug": "classwork-lc51-n-queens",
+      "name": "Classwork: LC51 N-Queens",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 592129,
+      "slug": "classwork-lc22-generate-parentheses",
+      "name": "Classwork: LC22 Generate Parentheses",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 592130,
+      "slug": "homework-lc37-sudoku-solver",
+      "name": "Homework: LC37 Sudoku Solver",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 592131,
+      "slug": "homework-lc212-word-search-ii",
+      "name": "Homework: LC212 Word Search II",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 592132,
+      "slug": "homework-lc93-restore-ip-addresses",
+      "name": "Homework: LC93 Restore IP Addresses",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 592134,
+      "slug": "classwork-lc3-longest-substring-without-repeating-characters-1",
+      "name": "Classwork: LC3 Longest Substring Without Repeating Characters 1",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 592135,
+      "slug": "classwork-lc209-minimum-size-subarray-sum",
+      "name": "Classwork: LC209 Minimum Size Subarray Sum",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 592137,
+      "slug": "classwork-lc15-3sum",
+      "name": "Classwork: LC15 3Sum",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 592138,
+      "slug": "homework-lc76-minimum-window-substring",
+      "name": "Homework: LC76 Minimum Window Substring",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 592141,
+      "slug": "homework-lc424-longest-repeating-character-replacement",
+      "name": "Homework: LC424 Longest Repeating Character Replacement",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 592142,
+      "slug": "homework-lc11-container-with-most-water",
+      "name": "Homework: LC11 Container With Most Water",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 592143,
+      "slug": "classwork-lc994-rotting-oranges-bfs-walkthrough",
+      "name": "Classwork: LC994 Rotting Oranges (BFS Walkthrough)",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 592144,
+      "slug": "classwork-lc300-longest-increasing-subsequence-dp-walkthrough",
+      "name": "Classwork: LC300 Longest Increasing Subsequence (DP Walkthrough)",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 592145,
+      "slug": "homework-lc207-course-schedule-graph-end-to-end",
+      "name": "Homework: LC207 Course Schedule (Graph End-to-End)",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 592146,
+      "slug": "homework-lc236-lowest-common-ancestor-of-a-binary-tree-tree-end-to-end",
+      "name": "Homework: LC236 Lowest Common Ancestor of a Binary Tree (Tree End-to-End)",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 592148,
+      "slug": "homework-lc322-coin-change-dp-end-to-end",
+      "name": "Homework: LC322 Coin Change (DP End-to-End)",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 592149,
+      "slug": "homework-lc787-cheapest-flights-within-k-stops",
+      "name": "Homework: LC787 Cheapest Flights Within K Stops",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 592150,
+      "slug": "classwork-classify-five-mixed-problems-by-technique",
+      "name": "Classwork: Classify five mixed problems by technique",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 593084,
+      "slug": "homework-lc120-triangle",
+      "name": "Homework: LC120 Triangle",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 593086,
+      "slug": "homework-lc279-perfect-squares",
+      "name": "Homework: LC279 Perfect Squares",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 593089,
+      "slug": "homework-lc377-combination-sum-iv",
+      "name": "Homework: LC377 Combination Sum IV",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 593093,
+      "slug": "classwork-lc509-fibonacci-number",
+      "name": "Classwork: LC509 Fibonacci Number",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 594387,
+      "slug": "count-leaf-nodes-2",
+      "name": "Count Leaf Nodes 2",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 594388,
+      "slug": "check-if-binary-tree-is-height-balanced",
+      "name": "Check if Binary Tree is Height Balanced",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 594390,
+      "slug": "next-greater-element-using-set",
+      "name": "Next Greater Element",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 594409,
+      "slug": "sum-and-count-scores-using-map",
+      "name": "Sum and Count Scores",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 594411,
+      "slug": "find-the-most-frequent-element-using-map",
+      "name": "Find the Most Frequent Element",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 594516,
+      "slug": "batsmans-total-score",
+      "name": "Batsman's Total Score",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 594527,
+      "slug": "top-run-scorer-of-the-innings",
+      "name": "Top Run-Scorer of the Innings",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 596082,
+      "slug": "classwork-sum-of-two-integers",
+      "name": "Classwork: Sum of Two Integers",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 596084,
+      "slug": "classwork-sort-in-descending-order",
+      "name": "Classwork: Sort in Descending Order",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 596085,
+      "slug": "classwork-count-elements-greater-than-k",
+      "name": "Classwork: Count Elements Greater Than K",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 596087,
+      "slug": "classwork-add-two-numbers-mixed-types",
+      "name": "Classwork: Add Two Numbers Mixed Types",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 596088,
+      "slug": "classwork-square-every-element",
+      "name": "Classwork: Square Every Element",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 596090,
+      "slug": "classwork-sort-pairs-by-second-value",
+      "name": "Classwork: Sort Pairs by Second Value",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 596091,
+      "slug": "classwork-print-distinct-values-in-sorted-order",
+      "name": "Classwork: Print Distinct Values in Sorted Order",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 596092,
+      "slug": "classwork-sum-and-maximum",
+      "name": "Classwork: Sum and Maximum",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 596093,
+      "slug": "classwork-sum-of-first-n-natural-numbers",
+      "name": "Classwork: Sum of First N Natural Numbers",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 596095,
+      "slug": "classwork-character-frequency",
+      "name": "Classwork: Character Frequency",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 596097,
+      "slug": "classwork-lc1207-unique-number-of-occurrences",
+      "name": "Classwork: LC1207 Unique Number of Occurrences",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 596098,
+      "slug": "classwork-three-smallest-elements",
+      "name": "Classwork: Three Smallest Elements",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 596099,
+      "slug": "classwork-lc506-relative-ranks",
+      "name": "Classwork: LC506 Relative Ranks",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 596100,
+      "slug": "classwork-lc1636-sort-array-by-increasing-frequency",
+      "name": "Classwork: LC1636 Sort Array by Increasing Frequency",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 596120,
+      "slug": "homework-sorted-key-value-pairs",
+      "name": "Homework: Sorted Key-Value Pairs",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 596121,
+      "slug": "homework-sort-records-by-score",
+      "name": "Homework: Sort Records by Score",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 596122,
+      "slug": "homework-contains-value",
+      "name": "Homework: Contains Value",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 596123,
+      "slug": "homework-lc136-single-number",
+      "name": "Homework: LC136 Single Number",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 596124,
+      "slug": "homework-lc1512-number-of-good-pairs",
+      "name": "Homework: LC1512 Number of Good Pairs",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 596125,
+      "slug": "homework-lc1464-maximum-product-of-two-elements-in-an-array",
+      "name": "Homework: LC1464 Maximum Product of Two Elements in an Array",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 596126,
+      "slug": "homework-lc1337-the-k-weakest-rows-in-a-matrix",
+      "name": "Homework: LC1337 The K Weakest Rows in a Matrix",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 596127,
+      "slug": "homework-lc1394-find-lucky-integer-in-an-array",
+      "name": "Homework: LC1394 Find Lucky Integer in an Array",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    },
+    {
+      "id": 596133,
+      "slug": "homework-sort-strings-in-reverse-alphabetical-order",
+      "name": "Homework: Sort Strings in Reverse Alphabetical Order",
+      "hacker_id": 32920309,
+      "hacker": {
+        "id": 32920309,
+        "username": "experience1"
+      }
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+Day 8   Homework  Check Armstrong number                                          <-- Armstrong Number                                 1.00 score
+Day 12  Homework  Check Armstrong number                                          <-- Armstrong Number                                 1.00 score
+Day 24  Homework  Palindrome number                                               <-- Palindrome Number 48                             1.00 score
+Day 26  Homework  GCD of an array                                                 <-- Find GCD of Array                                1.00 score
+Day 38  Homework  Leaders in an array (GfG)                                       <-- Leaders in array 4                               1.00 score
+Day 39  Homework  LC724 Find Pivot Index                                          <-- Find Pivot Index                                 1.00 score
+Day 43  Homework  LC977 Squares of a Sorted Array                                 <-- Squares of a Sorted Array 2                      1.00 score
+Day 48  Homework  Print all substrings                                            <-- Print All Substrings                             1.00 score
+Day 49  Homework  LC1047 Remove All Adjacent Duplicates In String                 <-- Remove All Adjacent Duplicates In String         1.00 score
+Day 51  Homework  LC73 Set Matrix Zeroes                                          <-- Set Matrix Zeroes 2                              1.00 score
+Day 53  Homework  Set the rightmost unset bit (GfG)                               <-- Rightmost set bit of number                      0.91 score
+Day 56  Homework  LC974 Subarray Sums Divisible by K                              <-- Subarray Sums Divisible by K                     1.00 score
+Day 56  Homework  Maximum product subarray (LC152)                                <-- Maximum Product Subarray 2                       1.00 score
+Day 58  Homework  LC378 Kth Smallest Element in a Sorted Matrix                   <-- Kth Smallest Element in a Sorted Matrix 1        1.00 score

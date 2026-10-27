@@ -1,0 +1,1830 @@
+{
+ "account": "experience1",
+ "count": 304,
+ "challenges": [
+  {
+   "id": 590516,
+   "slug": "first-mirai-code",
+   "name": "Hey, This is my first code at Mirai !",
+   "kind": null
+  },
+  {
+   "id": 590930,
+   "slug": "descending-order-sort",
+   "name": "Descending Order Sort",
+   "kind": null
+  },
+  {
+   "id": 590960,
+   "slug": "count-elements-greater-than-k",
+   "name": "Count Elements Greater Than K",
+   "kind": null
+  },
+  {
+   "id": 590970,
+   "slug": "generic-lambda-add",
+   "name": "Generic Lambda Add",
+   "kind": null
+  },
+  {
+   "id": 590972,
+   "slug": "generic-lambda-addition",
+   "name": "Generic Lambda Addition",
+   "kind": null
+  },
+  {
+   "id": 590977,
+   "slug": "sum-of-vector-using-for-each",
+   "name": "Sum of vector using for_each",
+   "kind": null
+  },
+  {
+   "id": 590980,
+   "slug": "sort-pairs-by-second-then-first",
+   "name": "Sort Pairs by Second Then First",
+   "kind": null
+  },
+  {
+   "id": 590981,
+   "slug": "store-and-apply-lambdas-using-function",
+   "name": "Store and Apply Lambdas using function",
+   "kind": null
+  },
+  {
+   "id": 590989,
+   "slug": "first-element-greater-than-k",
+   "name": "First Element Greater Than K",
+   "kind": null
+  },
+  {
+   "id": 591004,
+   "slug": "delete-all-odd-numbers",
+   "name": "Delete All Odd Numbers",
+   "kind": null
+  },
+  {
+   "id": 591007,
+   "slug": "filter-a-vector-capturing-threshold-by-value",
+   "name": "Filter a Vector Capturing Threshold by Value",
+   "kind": null
+  },
+  {
+   "id": 591015,
+   "slug": "classwork-lc767-reorganize-string-3",
+   "name": "Classwork: LC767 Reorganize String 3",
+   "kind": null
+  },
+  {
+   "id": 591016,
+   "slug": "classwork-lc621-task-scheduler-2",
+   "name": "Classwork: LC621 Task Scheduler 2",
+   "kind": null
+  },
+  {
+   "id": 591017,
+   "slug": "classwork-minimum-cost-to-connect-ropes-gfg-1",
+   "name": "Classwork: Minimum cost to connect ropes (GfG) 1",
+   "kind": null
+  },
+  {
+   "id": 591018,
+   "slug": "homework-rearrange-characters-so-that-none-are-adjacent-gfg-2",
+   "name": "Homework: Rearrange characters so that none are adjacent (GfG) 2",
+   "kind": null
+  },
+  {
+   "id": 591019,
+   "slug": "homework-lc1353-maximum-number-of-events-that-can-be-attended-1",
+   "name": "Homework: LC1353 Maximum Number of Events That Can Be Attended 1",
+   "kind": null
+  },
+  {
+   "id": 591020,
+   "slug": "homework-lc860-lemonade-change-1",
+   "name": "Homework: LC860 Lemonade Change 1",
+   "kind": null
+  },
+  {
+   "id": 591021,
+   "slug": "classwork-lc70-climbing-stairs",
+   "name": "Classwork: LC70 Climbing Stairs",
+   "kind": null
+  },
+  {
+   "id": 591022,
+   "slug": "classwork-lc198-house-robber",
+   "name": "Classwork: LC198 House Robber",
+   "kind": null
+  },
+  {
+   "id": 591023,
+   "slug": "homework-lc746-min-cost-climbing-stairs",
+   "name": "Homework: LC746 Min Cost Climbing Stairs",
+   "kind": null
+  },
+  {
+   "id": 591024,
+   "slug": "homework-lc213-house-robber-ii-1",
+   "name": "Homework: LC213 House Robber II 1",
+   "kind": null
+  },
+  {
+   "id": 591025,
+   "slug": "classwork-minimum-number-of-coins-gfg",
+   "name": "Classwork: Minimum number of coins (GfG)",
+   "kind": null
+  },
+  {
+   "id": 591027,
+   "slug": "homework-number-of-ways-to-make-change-gfg",
+   "name": "Homework: Number of ways to make change (GfG)",
+   "kind": null
+  },
+  {
+   "id": 591028,
+   "slug": "classwork-lc300-longest-increasing-subsequence",
+   "name": "Classwork: LC300 Longest Increasing Subsequence",
+   "kind": null
+  },
+  {
+   "id": 591029,
+   "slug": "classwork-lc1143-longest-common-subsequence",
+   "name": "Classwork: LC1143 Longest Common Subsequence",
+   "kind": null
+  },
+  {
+   "id": 591030,
+   "slug": "classwork-longest-increasing-subsequence-in-on-log-n-gfg",
+   "name": "Classwork: Longest Increasing Subsequence in O(n log n) (GfG)",
+   "kind": null
+  },
+  {
+   "id": 591032,
+   "slug": "homework-lc673-number-of-longest-increasing-subsequence",
+   "name": "Homework: LC673 Number of Longest Increasing Subsequence",
+   "kind": null
+  },
+  {
+   "id": 591033,
+   "slug": "homework-lc1035-uncrossed-lines",
+   "name": "Homework: LC1035 Uncrossed Lines",
+   "kind": null
+  },
+  {
+   "id": 591034,
+   "slug": "homework-longest-common-substring-gfg",
+   "name": "Homework: Longest common substring (GfG)",
+   "kind": null
+  },
+  {
+   "id": 591035,
+   "slug": "classwork-lc62-unique-paths",
+   "name": "Classwork: LC62 Unique Paths",
+   "kind": null
+  },
+  {
+   "id": 591036,
+   "slug": "classwork-lc64-minimum-path-sum",
+   "name": "Classwork: LC64 Minimum Path Sum",
+   "kind": null
+  },
+  {
+   "id": 591038,
+   "slug": "classwork-lc63-unique-paths-ii",
+   "name": "Classwork: LC63 Unique Paths II",
+   "kind": null
+  },
+  {
+   "id": 591039,
+   "slug": "homework-lc931-minimum-falling-path-sum",
+   "name": "Homework: LC931 Minimum Falling Path Sum",
+   "kind": null
+  },
+  {
+   "id": 591040,
+   "slug": "homework-lc221-maximal-square",
+   "name": "Homework: LC221 Maximal Square",
+   "kind": null
+  },
+  {
+   "id": 591041,
+   "slug": "classwork-subset-sum-gfg",
+   "name": "Classwork: Subset Sum (GfG)",
+   "kind": null
+  },
+  {
+   "id": 591042,
+   "slug": "classwork-lc416-partition-equal-subset-sum",
+   "name": "Classwork: LC416 Partition Equal Subset Sum",
+   "kind": null
+  },
+  {
+   "id": 591043,
+   "slug": "classwork-lc91-decode-ways",
+   "name": "Classwork: LC91 Decode Ways",
+   "kind": null
+  },
+  {
+   "id": 591044,
+   "slug": "homework-count-of-subsets-with-a-given-sum-gfg",
+   "name": "Homework: Count of subsets with a given sum (GfG)",
+   "kind": null
+  },
+  {
+   "id": 591045,
+   "slug": "homework-maximum-sum-of-non-adjacent-elements-gfg",
+   "name": "Homework: Maximum sum of non-adjacent elements (GfG)",
+   "kind": null
+  },
+  {
+   "id": 591046,
+   "slug": "homework-lc740-delete-and-earn",
+   "name": "Homework: LC740 Delete and Earn",
+   "kind": null
+  },
+  {
+   "id": 591048,
+   "slug": "classwork-01-knapsack-gfg",
+   "name": "Classwork: 0/1 Knapsack (GfG)",
+   "kind": null
+  },
+  {
+   "id": 591049,
+   "slug": "classwork-lc416-partition-equal-subset-sum-1",
+   "name": "Classwork: LC416 Partition Equal Subset Sum 1",
+   "kind": null
+  },
+  {
+   "id": 591050,
+   "slug": "classwork-lc494-target-sum",
+   "name": "Classwork: LC494 Target Sum",
+   "kind": null
+  },
+  {
+   "id": 591051,
+   "slug": "homework-count-subsets-with-a-given-difference-gfg",
+   "name": "Homework: Count subsets with a given difference (GfG)",
+   "kind": null
+  },
+  {
+   "id": 591052,
+   "slug": "homework-lc1049-last-stone-weight-ii",
+   "name": "Homework: LC1049 Last Stone Weight II",
+   "kind": null
+  },
+  {
+   "id": 591053,
+   "slug": "homework-minimum-subset-sum-difference-gfg",
+   "name": "Homework: Minimum subset-sum difference (GfG)",
+   "kind": null
+  },
+  {
+   "id": 591054,
+   "slug": "classwork-unbounded-knapsack-gfg",
+   "name": "Classwork: Unbounded Knapsack (GfG)",
+   "kind": null
+  },
+  {
+   "id": 591055,
+   "slug": "classwork-rod-cutting-gfg",
+   "name": "Classwork: Rod Cutting (GfG)",
+   "kind": null
+  },
+  {
+   "id": 591057,
+   "slug": "classwork-lc322-coin-change-1",
+   "name": "Classwork: LC322 Coin Change 1",
+   "kind": null
+  },
+  {
+   "id": 591058,
+   "slug": "homework-lc518-coin-change-ii",
+   "name": "Homework: LC518 Coin Change II",
+   "kind": null
+  },
+  {
+   "id": 591059,
+   "slug": "homework-maximum-ribbon-cut-gfg",
+   "name": "Homework: Maximum ribbon cut (GfG)",
+   "kind": null
+  },
+  {
+   "id": 591060,
+   "slug": "homework-lc343-integer-break",
+   "name": "Homework: LC343 Integer Break",
+   "kind": null
+  },
+  {
+   "id": 591062,
+   "slug": "classwork-lc72-edit-distance",
+   "name": "Classwork: LC72 Edit Distance",
+   "kind": null
+  },
+  {
+   "id": 591063,
+   "slug": "classwork-lc583-delete-operation-for-two-strings",
+   "name": "Classwork: LC583 Delete Operation for Two Strings",
+   "kind": null
+  },
+  {
+   "id": 591064,
+   "slug": "classwork-lc712-minimum-ascii-delete-sum-for-two-strings",
+   "name": "Classwork: LC712 Minimum ASCII Delete Sum for Two Strings",
+   "kind": null
+  },
+  {
+   "id": 591065,
+   "slug": "homework-lc97-interleaving-string",
+   "name": "Homework: LC97 Interleaving String",
+   "kind": null
+  },
+  {
+   "id": 591067,
+   "slug": "homework-lc115-distinct-subsequences",
+   "name": "Homework: LC115 Distinct Subsequences",
+   "kind": null
+  },
+  {
+   "id": 591068,
+   "slug": "homework-lc161-one-edit-distance",
+   "name": "Homework: LC161 One Edit Distance",
+   "kind": null
+  },
+  {
+   "id": 591070,
+   "slug": "classwork-lc1092-shortest-common-supersequence",
+   "name": "Classwork: LC1092 Shortest Common Supersequence",
+   "kind": null
+  },
+  {
+   "id": 591071,
+   "slug": "classwork-lc516-longest-palindromic-subsequence",
+   "name": "Classwork: LC516 Longest Palindromic Subsequence",
+   "kind": null
+  },
+  {
+   "id": 591072,
+   "slug": "classwork-matrix-chain-multiplication-gfg",
+   "name": "Classwork: Matrix Chain Multiplication (GfG)",
+   "kind": null
+  },
+  {
+   "id": 591073,
+   "slug": "homework-lc5-longest-palindromic-substring",
+   "name": "Homework: LC5 Longest Palindromic Substring",
+   "kind": null
+  },
+  {
+   "id": 591074,
+   "slug": "homework-lc647-palindromic-substrings",
+   "name": "Homework: LC647 Palindromic Substrings",
+   "kind": null
+  },
+  {
+   "id": 591075,
+   "slug": "homework-lc1312-minimum-insertion-steps-to-make-a-string-palindrome",
+   "name": "Homework: LC1312 Minimum Insertion Steps to Make a String Palindrome",
+   "kind": null
+  },
+  {
+   "id": 591542,
+   "slug": "classwork-use-find-if-to-return-the-first-element-greater-than-k",
+   "name": "Classwork: Use find_if to return the first element greater than K",
+   "kind": null
+  },
+  {
+   "id": 591543,
+   "slug": "classwork-use-remove-if-erase-to-delete-all-odd-numbers-from-a-vector",
+   "name": "Classwork: Use remove_if + erase to delete all odd numbers from a vector",
+   "kind": null
+  },
+  {
+   "id": 591544,
+   "slug": "homework-print-unordered-map-entries-sorted-by-count-using-a-lambda",
+   "name": "Homework: Print unordered_map entries sorted by count using a lambda",
+   "kind": null
+  },
+  {
+   "id": 591545,
+   "slug": "homework-sort-strings-by-length-then-lexicographically-with-one-lambda",
+   "name": "Homework: Sort strings by length then lexicographically with one lambda",
+   "kind": null
+  },
+  {
+   "id": 591546,
+   "slug": "homework-write-a-function-that-returns-a-lambda-multiplying-by-a-captured-factor",
+   "name": "Homework: Write a function that returns a lambda multiplying by a captured factor",
+   "kind": null
+  },
+  {
+   "id": 591547,
+   "slug": "classwork-remove-duplicates-from-a-vector-using-a-set",
+   "name": "Classwork: Remove duplicates from a vector using a set",
+   "kind": null
+  },
+  {
+   "id": 591548,
+   "slug": "classwork-count-word-frequencies-from-input-using-unordered-map",
+   "name": "Classwork: Count word frequencies from input using unordered_map",
+   "kind": null
+  },
+  {
+   "id": 591549,
+   "slug": "classwork-implement-browser-backforward-history-using-two-stacks",
+   "name": "Classwork: Implement browser back/forward history using two stacks",
+   "kind": null
+  },
+  {
+   "id": 591550,
+   "slug": "homework-compute-a-fixed-size-sliding-window-maximum-using-a-deque",
+   "name": "Homework: Compute a fixed-size sliding-window maximum using a deque",
+   "kind": null
+  },
+  {
+   "id": 591551,
+   "slug": "homework-maintain-a-sorted-stream-with-a-multiset-and-query-the-smallest",
+   "name": "Homework: Maintain a sorted stream with a multiset and query the smallest",
+   "kind": null
+  },
+  {
+   "id": 591552,
+   "slug": "classwork-find-the-k-th-largest-element-using-a-priority-queue",
+   "name": "Classwork: Find the k-th largest element using a priority_queue",
+   "kind": null
+  },
+  {
+   "id": 591553,
+   "slug": "classwork-binary-search-a-target-in-a-sorted-vector-with-lower-bound",
+   "name": "Classwork: Binary-search a target in a sorted vector with lower_bound",
+   "kind": null
+  },
+  {
+   "id": 591554,
+   "slug": "classwork-count-distinct-elements-using-sort-unique",
+   "name": "Classwork: Count distinct elements using sort + unique",
+   "kind": null
+  },
+  {
+   "id": 591555,
+   "slug": "homework-merge-k-sorted-vectors-into-one-using-a-min-heap",
+   "name": "Homework: Merge k sorted vectors into one using a min-heap",
+   "kind": null
+  },
+  {
+   "id": 591556,
+   "slug": "homework-generate-all-permutations-of-a-string-with-next-permutation",
+   "name": "Homework: Generate all permutations of a string with next_permutation",
+   "kind": null
+  },
+  {
+   "id": 591557,
+   "slug": "homework-answer-range-sum-queries-using-prefix-sums-partial-sum",
+   "name": "Homework: Answer range-sum queries using prefix sums (partial_sum)",
+   "kind": null
+  },
+  {
+   "id": 591558,
+   "slug": "classwork-compute-factorial-and-ncr-recursively",
+   "name": "Classwork: Compute factorial and nCr recursively",
+   "kind": null
+  },
+  {
+   "id": 591559,
+   "slug": "classwork-reverse-a-singly-linked-list-iteratively",
+   "name": "Classwork: Reverse a singly linked list iteratively",
+   "kind": null
+  },
+  {
+   "id": 591560,
+   "slug": "classwork-print-numbers-1-n-and-n-1-using-recursion",
+   "name": "Classwork: Print numbers 1..N and N..1 using recursion",
+   "kind": null
+  },
+  {
+   "id": 591561,
+   "slug": "homework-fibonacci-with-memoization",
+   "name": "Homework: Fibonacci with memoization",
+   "kind": null
+  },
+  {
+   "id": 591562,
+   "slug": "homework-detect-a-cycle-in-a-linked-list-floyds-algorithm",
+   "name": "Homework: Detect a cycle in a linked list (Floyd's algorithm)",
+   "kind": null
+  },
+  {
+   "id": 591563,
+   "slug": "homework-find-the-middle-node-of-a-linked-list-in-one-pass",
+   "name": "Homework: Find the middle node of a linked list in one pass",
+   "kind": null
+  },
+  {
+   "id": 591564,
+   "slug": "classwork-lc1-two-sum",
+   "name": "Classwork: LC1 Two Sum",
+   "kind": null
+  },
+  {
+   "id": 591565,
+   "slug": "classwork-frequency-of-elements-gfg",
+   "name": "Classwork: Frequency of elements (GfG)",
+   "kind": null
+  },
+  {
+   "id": 591566,
+   "slug": "classwork-lc217-contains-duplicate",
+   "name": "Classwork: LC217 Contains Duplicate",
+   "kind": null
+  },
+  {
+   "id": 591567,
+   "slug": "homework-lc387-first-unique-character-in-a-string",
+   "name": "Homework: LC387 First Unique Character in a String",
+   "kind": null
+  },
+  {
+   "id": 591568,
+   "slug": "homework-lc242-valid-anagram",
+   "name": "Homework: LC242 Valid Anagram",
+   "kind": null
+  },
+  {
+   "id": 591569,
+   "slug": "homework-lc219-contains-duplicate-ii",
+   "name": "Homework: LC219 Contains Duplicate II",
+   "kind": null
+  },
+  {
+   "id": 591570,
+   "slug": "classwork-lc560-subarray-sum-equals-k",
+   "name": "Classwork: LC560 Subarray Sum Equals K",
+   "kind": null
+  },
+  {
+   "id": 591571,
+   "slug": "classwork-lc49-group-anagrams",
+   "name": "Classwork: LC49 Group Anagrams",
+   "kind": null
+  },
+  {
+   "id": 591573,
+   "slug": "classwork-lc3-longest-substring-without-repeating-characters",
+   "name": "Classwork: LC3 Longest Substring Without Repeating Characters",
+   "kind": null
+  },
+  {
+   "id": 591574,
+   "slug": "homework-lc974-subarray-sums-divisible-by-k",
+   "name": "Homework: LC974 Subarray Sums Divisible by K",
+   "kind": null
+  },
+  {
+   "id": 591575,
+   "slug": "homework-lc128-longest-consecutive-sequence",
+   "name": "Homework: LC128 Longest Consecutive Sequence",
+   "kind": null
+  },
+  {
+   "id": 591576,
+   "slug": "homework-largest-subarray-with-0-sum-gfg",
+   "name": "Homework: Largest subarray with 0 sum (GfG)",
+   "kind": null
+  },
+  {
+   "id": 591577,
+   "slug": "classwork-lc215-kth-largest-element-in-an-array",
+   "name": "Classwork: LC215 Kth Largest Element in an Array",
+   "kind": null
+  },
+  {
+   "id": 591578,
+   "slug": "classwork-kth-smallest-element-gfg",
+   "name": "Classwork: Kth smallest element (GfG)",
+   "kind": null
+  },
+  {
+   "id": 591579,
+   "slug": "classwork-lc1046-last-stone-weight",
+   "name": "Classwork: LC1046 Last Stone Weight",
+   "kind": null
+  },
+  {
+   "id": 591580,
+   "slug": "homework-lc703-kth-largest-element-in-a-stream",
+   "name": "Homework: LC703 Kth Largest Element in a Stream",
+   "kind": null
+  },
+  {
+   "id": 591581,
+   "slug": "homework-lc973-k-closest-points-to-origin",
+   "name": "Homework: LC973 K Closest Points to Origin",
+   "kind": null
+  },
+  {
+   "id": 591582,
+   "slug": "homework-minimum-cost-of-ropes-gfg",
+   "name": "Homework: Minimum cost of ropes (GfG)",
+   "kind": null
+  },
+  {
+   "id": 591583,
+   "slug": "classwork-lc347-top-k-frequent-elements",
+   "name": "Classwork: LC347 Top K Frequent Elements",
+   "kind": null
+  },
+  {
+   "id": 591584,
+   "slug": "classwork-lc23-merge-k-sorted-lists",
+   "name": "Classwork: LC23 Merge k Sorted Lists",
+   "kind": null
+  },
+  {
+   "id": 591585,
+   "slug": "classwork-lc295-find-median-from-data-stream",
+   "name": "Classwork: LC295 Find Median from Data Stream",
+   "kind": null
+  },
+  {
+   "id": 591586,
+   "slug": "homework-lc378-kth-smallest-element-in-a-sorted-matrix",
+   "name": "Homework: LC378 Kth Smallest Element in a Sorted Matrix",
+   "kind": null
+  },
+  {
+   "id": 591588,
+   "slug": "homework-lc692-top-k-frequent-words",
+   "name": "Homework: LC692 Top K Frequent Words",
+   "kind": null
+  },
+  {
+   "id": 591589,
+   "slug": "homework-lc451-sort-characters-by-frequency",
+   "name": "Homework: LC451 Sort Characters By Frequency",
+   "kind": null
+  },
+  {
+   "id": 591590,
+   "slug": "classwork-lc767-reorganize-string-4",
+   "name": "Classwork: LC767 Reorganize String 4",
+   "kind": null
+  },
+  {
+   "id": 591591,
+   "slug": "classwork-lc355-design-twitter",
+   "name": "Classwork: LC355 Design Twitter",
+   "kind": null
+  },
+  {
+   "id": 591592,
+   "slug": "classwork-lc895-maximum-frequency-stack",
+   "name": "Classwork: LC895 Maximum Frequency Stack",
+   "kind": null
+  },
+  {
+   "id": 591593,
+   "slug": "homework-lc621-task-scheduler",
+   "name": "Homework: LC621 Task Scheduler",
+   "kind": null
+  },
+  {
+   "id": 591594,
+   "slug": "homework-lc146-lru-cache",
+   "name": "Homework: LC146 LRU Cache",
+   "kind": null
+  },
+  {
+   "id": 591595,
+   "slug": "homework-lc432-all-o-one-data-structure",
+   "name": "Homework: LC432 All O one Data Structure",
+   "kind": null
+  },
+  {
+   "id": 591596,
+   "slug": "classwork-lc94-binary-tree-inorder-traversal",
+   "name": "Classwork: LC94 Binary Tree Inorder Traversal",
+   "kind": null
+  },
+  {
+   "id": 591597,
+   "slug": "classwork-lc144-binary-tree-preorder-traversal",
+   "name": "Classwork: LC144 Binary Tree Preorder Traversal",
+   "kind": null
+  },
+  {
+   "id": 591598,
+   "slug": "classwork-lc145-binary-tree-postorder-traversal",
+   "name": "Classwork: LC145 Binary Tree Postorder Traversal",
+   "kind": null
+  },
+  {
+   "id": 591599,
+   "slug": "homework-lc589-n-ary-tree-preorder-traversal",
+   "name": "Homework: LC589 N-ary Tree Preorder Traversal",
+   "kind": null
+  },
+  {
+   "id": 591600,
+   "slug": "homework-count-the-total-number-of-nodes-recursively",
+   "name": "Homework: Count the total number of nodes recursively",
+   "kind": null
+  },
+  {
+   "id": 591601,
+   "slug": "homework-print-all-leaf-nodes-from-left-to-right",
+   "name": "Homework: Print all leaf nodes from left to right",
+   "kind": null
+  },
+  {
+   "id": 591602,
+   "slug": "classwork-lc102-binary-tree-level-order-traversal",
+   "name": "Classwork: LC102 Binary Tree Level Order Traversal",
+   "kind": null
+  },
+  {
+   "id": 591603,
+   "slug": "classwork-lc199-binary-tree-right-side-view",
+   "name": "Classwork: LC199 Binary Tree Right Side View",
+   "kind": null
+  },
+  {
+   "id": 591604,
+   "slug": "classwork-lc94-inorder-traversal-iterative",
+   "name": "Classwork: LC94 Inorder Traversal (iterative)",
+   "kind": null
+  },
+  {
+   "id": 591606,
+   "slug": "homework-lc103-binary-tree-zigzag-level-order-traversal",
+   "name": "Homework: LC103 Binary Tree Zigzag Level Order Traversal",
+   "kind": null
+  },
+  {
+   "id": 591607,
+   "slug": "homework-lc107-binary-tree-level-order-traversal-ii",
+   "name": "Homework: LC107 Binary Tree Level Order Traversal II",
+   "kind": null
+  },
+  {
+   "id": 591608,
+   "slug": "homework-lc637-average-of-levels-in-binary-tree",
+   "name": "Homework: LC637 Average of Levels in Binary Tree",
+   "kind": null
+  },
+  {
+   "id": 591609,
+   "slug": "classwork-lc104-maximum-depth-of-binary-tree",
+   "name": "Classwork: LC104 Maximum Depth of Binary Tree",
+   "kind": null
+  },
+  {
+   "id": 591610,
+   "slug": "classwork-lc543-diameter-of-binary-tree",
+   "name": "Classwork: LC543 Diameter of Binary Tree",
+   "kind": null
+  },
+  {
+   "id": 591611,
+   "slug": "classwork-lc111-minimum-depth-of-binary-tree",
+   "name": "Classwork: LC111 Minimum Depth of Binary Tree",
+   "kind": null
+  },
+  {
+   "id": 591612,
+   "slug": "homework-lc559-maximum-depth-of-n-ary-tree",
+   "name": "Homework: LC559 Maximum Depth of N-ary Tree",
+   "kind": null
+  },
+  {
+   "id": 591613,
+   "slug": "homework-count-the-number-of-nodes-at-maximum-depth",
+   "name": "Homework: Count the number of nodes at maximum depth",
+   "kind": null
+  },
+  {
+   "id": 591614,
+   "slug": "homework-check-whether-two-trees-have-equal-height",
+   "name": "Homework: Check whether two trees have equal height",
+   "kind": null
+  },
+  {
+   "id": 591615,
+   "slug": "classwork-lc110-balanced-binary-tree",
+   "name": "Classwork: LC110 Balanced Binary Tree",
+   "kind": null
+  },
+  {
+   "id": 591616,
+   "slug": "classwork-lc101-symmetric-tree",
+   "name": "Classwork: LC101 Symmetric Tree",
+   "kind": null
+  },
+  {
+   "id": 591617,
+   "slug": "classwork-lc199-binary-tree-right-side-view-1",
+   "name": "Classwork: LC199 Binary Tree Right Side View 1",
+   "kind": null
+  },
+  {
+   "id": 591618,
+   "slug": "homework-lc100-same-tree",
+   "name": "Homework: LC100 Same Tree",
+   "kind": null
+  },
+  {
+   "id": 591620,
+   "slug": "homework-lc965-univalued-binary-tree",
+   "name": "Homework: LC965 Univalued Binary Tree",
+   "kind": null
+  },
+  {
+   "id": 591621,
+   "slug": "homework-lc872-leaf-similar-trees",
+   "name": "Homework: LC872 Leaf-Similar Trees",
+   "kind": null
+  },
+  {
+   "id": 591622,
+   "slug": "classwork-lc987-vertical-order-traversal-of-a-binary-tree",
+   "name": "Classwork: LC987 Vertical Order Traversal of a Binary Tree",
+   "kind": null
+  },
+  {
+   "id": 591623,
+   "slug": "classwork-top-view-of-a-binary-tree-gfg",
+   "name": "Classwork: Top view of a binary tree (GfG)",
+   "kind": null
+  },
+  {
+   "id": 591625,
+   "slug": "classwork-boundary-traversal-of-a-binary-tree-gfg",
+   "name": "Classwork: Boundary traversal of a binary tree (GfG)",
+   "kind": null
+  },
+  {
+   "id": 591626,
+   "slug": "homework-morris-inorder-traversal-o1-space-gfg",
+   "name": "Homework: Morris inorder traversal (O(1) space) (GfG)",
+   "kind": null
+  },
+  {
+   "id": 591627,
+   "slug": "homework-bottom-view-of-a-binary-tree-gfg",
+   "name": "Homework: Bottom view of a binary tree (GfG)",
+   "kind": null
+  },
+  {
+   "id": 591628,
+   "slug": "homework-diagonal-traversal-of-a-binary-tree-gfg",
+   "name": "Homework: Diagonal traversal of a binary tree (GfG)",
+   "kind": null
+  },
+  {
+   "id": 591629,
+   "slug": "classwork-lc226-invert-binary-tree",
+   "name": "Classwork: LC226 Invert Binary Tree",
+   "kind": null
+  },
+  {
+   "id": 591630,
+   "slug": "classwork-lc101-symmetric-tree-1",
+   "name": "Classwork: LC101 Symmetric Tree 1",
+   "kind": null
+  },
+  {
+   "id": 591631,
+   "slug": "classwork-lc100-same-tree",
+   "name": "Classwork: LC100 Same Tree",
+   "kind": null
+  },
+  {
+   "id": 591632,
+   "slug": "homework-lc951-flip-equivalent-binary-trees",
+   "name": "Homework: LC951 Flip Equivalent Binary Trees",
+   "kind": null
+  },
+  {
+   "id": 591634,
+   "slug": "homework-check-if-one-tree-is-the-mirror-of-another-gfg",
+   "name": "Homework: Check if one tree is the mirror of another (GfG)",
+   "kind": null
+  },
+  {
+   "id": 591635,
+   "slug": "homework-convert-a-tree-to-its-mirror-in-place-gfg",
+   "name": "Homework: Convert a tree to its mirror in place (GfG)",
+   "kind": null
+  },
+  {
+   "id": 591637,
+   "slug": "classwork-lc112-path-sum",
+   "name": "Classwork: LC112 Path Sum",
+   "kind": null
+  },
+  {
+   "id": 591638,
+   "slug": "classwork-lc113-path-sum-ii",
+   "name": "Classwork: LC113 Path Sum II",
+   "kind": null
+  },
+  {
+   "id": 591639,
+   "slug": "classwork-lc124-binary-tree-maximum-path-sum",
+   "name": "Classwork: LC124 Binary Tree Maximum Path Sum",
+   "kind": null
+  },
+  {
+   "id": 591640,
+   "slug": "homework-lc437-path-sum-iii",
+   "name": "Homework: LC437 Path Sum III",
+   "kind": null
+  },
+  {
+   "id": 591641,
+   "slug": "homework-lc129-sum-root-to-leaf-numbers",
+   "name": "Homework: LC129 Sum Root to Leaf Numbers",
+   "kind": null
+  },
+  {
+   "id": 591642,
+   "slug": "homework-lc988-smallest-string-starting-from-leaf",
+   "name": "Homework: LC988 Smallest String Starting From Leaf",
+   "kind": null
+  },
+  {
+   "id": 591644,
+   "slug": "classwork-lc236-lowest-common-ancestor-of-a-binary-tree",
+   "name": "Classwork: LC236 Lowest Common Ancestor of a Binary Tree",
+   "kind": null
+  },
+  {
+   "id": 591646,
+   "slug": "classwork-lca-using-root-to-node-paths-gfg",
+   "name": "Classwork: LCA using root-to-node paths (GfG)",
+   "kind": null
+  },
+  {
+   "id": 591647,
+   "slug": "classwork-distance-between-two-nodes-via-lca-gfg",
+   "name": "Classwork: Distance between two nodes via LCA (GfG)",
+   "kind": null
+  },
+  {
+   "id": 591648,
+   "slug": "homework-lc1650-lowest-common-ancestor-iii",
+   "name": "Homework: LC1650 Lowest Common Ancestor III",
+   "kind": null
+  },
+  {
+   "id": 591649,
+   "slug": "homework-lc1123-lowest-common-ancestor-of-deepest-leaves",
+   "name": "Homework: LC1123 Lowest Common Ancestor of Deepest Leaves",
+   "kind": null
+  },
+  {
+   "id": 591650,
+   "slug": "homework-kth-ancestor-of-a-node-in-a-tree-gfg",
+   "name": "Homework: Kth ancestor of a node in a tree (GfG)",
+   "kind": null
+  },
+  {
+   "id": 591651,
+   "slug": "classwork-lc105-construct-binary-tree-from-preorder-and-inorder",
+   "name": "Classwork: LC105 Construct Binary Tree from Preorder and Inorder",
+   "kind": null
+  },
+  {
+   "id": 591652,
+   "slug": "classwork-lc106-construct-binary-tree-from-inorder-and-postorder",
+   "name": "Classwork: LC106 Construct Binary Tree from Inorder and Postorder",
+   "kind": null
+  },
+  {
+   "id": 591653,
+   "slug": "classwork-lc114-flatten-binary-tree-to-linked-list",
+   "name": "Classwork: LC114 Flatten Binary Tree to Linked List",
+   "kind": null
+  },
+  {
+   "id": 591654,
+   "slug": "homework-lc889-construct-binary-tree-from-preorder-and-postorder",
+   "name": "Homework: LC889 Construct Binary Tree from Preorder and Postorder",
+   "kind": null
+  },
+  {
+   "id": 591655,
+   "slug": "homework-lc1008-construct-bst-from-preorder-traversal",
+   "name": "Homework: LC1008 Construct BST from Preorder Traversal",
+   "kind": null
+  },
+  {
+   "id": 591656,
+   "slug": "homework-lc426-convert-bst-to-sorted-doubly-linked-list",
+   "name": "Homework: LC426 Convert BST to Sorted Doubly Linked List",
+   "kind": null
+  },
+  {
+   "id": 591657,
+   "slug": "classwork-lc297-serialize-and-deserialize-binary-tree",
+   "name": "Classwork: LC297 Serialize and Deserialize Binary Tree",
+   "kind": null
+  },
+  {
+   "id": 591659,
+   "slug": "classwork-lc222-count-complete-tree-nodes",
+   "name": "Classwork: LC222 Count Complete Tree Nodes",
+   "kind": null
+  },
+  {
+   "id": 591660,
+   "slug": "classwork-lc863-all-nodes-distance-k-in-binary-tree",
+   "name": "Classwork: LC863 All Nodes Distance K in Binary Tree",
+   "kind": null
+  },
+  {
+   "id": 591661,
+   "slug": "homework-lc129-sum-root-to-leaf-numbers-1",
+   "name": "Homework: LC129 Sum Root to Leaf Numbers 1",
+   "kind": null
+  },
+  {
+   "id": 591662,
+   "slug": "homework-lc662-maximum-width-of-binary-tree",
+   "name": "Homework: LC662 Maximum Width of Binary Tree",
+   "kind": null
+  },
+  {
+   "id": 591663,
+   "slug": "homework-lc116-populating-next-right-pointers-in-each-node",
+   "name": "Homework: LC116 Populating Next Right Pointers in Each Node",
+   "kind": null
+  },
+  {
+   "id": 591709,
+   "slug": "classwork-search-in-a-binary-search-tree",
+   "name": "Classwork: Search in a Binary Search Tree",
+   "kind": null
+  },
+  {
+   "id": 591710,
+   "slug": "classwork-insert-into-a-binary-search-tree",
+   "name": "Classwork: Insert into a Binary Search Tree",
+   "kind": null
+  },
+  {
+   "id": 591721,
+   "slug": "classwork-two-sum-iv-input-is-a-bst",
+   "name": "Classwork: Two Sum IV - Input is a BST",
+   "kind": null
+  },
+  {
+   "id": 591722,
+   "slug": "classwork-range-sum-of-bst",
+   "name": "Classwork: Range Sum of BST",
+   "kind": null
+  },
+  {
+   "id": 591725,
+   "slug": "homework-largest-bst-subtree",
+   "name": "Homework: Largest BST Subtree",
+   "kind": null
+  },
+  {
+   "id": 591726,
+   "slug": "classwork-non-overlapping-intervals",
+   "name": "Classwork: Non-overlapping Intervals",
+   "kind": null
+  },
+  {
+   "id": 591921,
+   "slug": "homework-search-keys-within-a-range-in-a-bst",
+   "name": "Homework: Search keys within a range in a BST",
+   "kind": null
+  },
+  {
+   "id": 591924,
+   "slug": "classwork-validate-binary-search-tree",
+   "name": "Classwork: Validate Binary Search Tree",
+   "kind": null
+  },
+  {
+   "id": 591925,
+   "slug": "classwork-minimum-absolute-difference-in-bst",
+   "name": "Classwork: Minimum Absolute Difference in BST",
+   "kind": null
+  },
+  {
+   "id": 591926,
+   "slug": "classwork-find-mode-in-binary-search-tree",
+   "name": "Classwork: Find Mode in Binary Search Tree",
+   "kind": null
+  },
+  {
+   "id": 591927,
+   "slug": "homework-recover-binary-search-tree",
+   "name": "Homework: Recover Binary Search Tree",
+   "kind": null
+  },
+  {
+   "id": 591928,
+   "slug": "homework-minimum-distance-between-bst-nodes",
+   "name": "Homework: Minimum Distance Between BST Nodes",
+   "kind": null
+  },
+  {
+   "id": 591930,
+   "slug": "homework-verify-preorder-sequence-in-bst",
+   "name": "Homework: Verify Preorder Sequence in BST",
+   "kind": null
+  },
+  {
+   "id": 591931,
+   "slug": "classwork-delete-node-in-a-bst",
+   "name": "Classwork: Delete Node in a BST",
+   "kind": null
+  },
+  {
+   "id": 591933,
+   "slug": "classwork-kth-smallest-element-in-a-bst",
+   "name": "Classwork: Kth Smallest Element in a BST",
+   "kind": null
+  },
+  {
+   "id": 591935,
+   "slug": "classwork-kth-largest-element-in-a-bst",
+   "name": "Classwork: Kth largest element in a BST",
+   "kind": null
+  },
+  {
+   "id": 591936,
+   "slug": "homework-trim-a-binary-search-tree",
+   "name": "Homework: Trim a Binary Search Tree",
+   "kind": null
+  },
+  {
+   "id": 591937,
+   "slug": "homework-inorder-successor-in-bst",
+   "name": "Homework: Inorder Successor in BST",
+   "kind": null
+  },
+  {
+   "id": 591938,
+   "slug": "homework-inorder-predecessor-in-a-bst",
+   "name": "Homework: Inorder predecessor in a BST",
+   "kind": null
+  },
+  {
+   "id": 591941,
+   "slug": "classwork-lowest-common-ancestor-of-a-bst",
+   "name": "Classwork: Lowest Common Ancestor of a BST",
+   "kind": null
+  },
+  {
+   "id": 591942,
+   "slug": "classwork-convert-sorted-array-to-binary-search-tree",
+   "name": "Classwork: Convert Sorted Array to Binary Search Tree",
+   "kind": null
+  },
+  {
+   "id": 591943,
+   "slug": "classwork-binary-search-tree-iterator",
+   "name": "Classwork: Binary Search Tree Iterator",
+   "kind": null
+  },
+  {
+   "id": 591944,
+   "slug": "homework-convert-sorted-list-to-binary-search-tree",
+   "name": "Homework: Convert Sorted List to Binary Search Tree",
+   "kind": null
+  },
+  {
+   "id": 591946,
+   "slug": "homework-range-sum-of-bst",
+   "name": "Homework: Range Sum of BST",
+   "kind": null
+  },
+  {
+   "id": 591947,
+   "slug": "classwork-two-sum-iv-input-is-a-bst-1",
+   "name": "Classwork: Two Sum IV - Input is a BST 1",
+   "kind": null
+  },
+  {
+   "id": 591949,
+   "slug": "classwork-trim-a-binary-search-tree",
+   "name": "Classwork: Trim a Binary Search Tree",
+   "kind": null
+  },
+  {
+   "id": 591951,
+   "slug": "homework-convert-bst-to-greater-tree",
+   "name": "Homework: Convert BST to Greater Tree",
+   "kind": null
+  },
+  {
+   "id": 591952,
+   "slug": "homework-balance-a-binary-search-tree",
+   "name": "Homework: Balance a Binary Search Tree",
+   "kind": null
+  },
+  {
+   "id": 591953,
+   "slug": "classwork-n-meetings-in-one-room",
+   "name": "Classwork: N meetings in one room",
+   "kind": null
+  },
+  {
+   "id": 591954,
+   "slug": "classwork-maximum-number-of-activities-selected",
+   "name": "Classwork: Maximum number of activities selected",
+   "kind": null
+  },
+  {
+   "id": 591955,
+   "slug": "homework-minimum-number-of-arrows-to-burst-balloons",
+   "name": "Homework: Minimum Number of Arrows to Burst Balloons",
+   "kind": null
+  },
+  {
+   "id": 591956,
+   "slug": "homework-maximum-length-of-pair-chain",
+   "name": "Homework: Maximum Length of Pair Chain",
+   "kind": null
+  },
+  {
+   "id": 591958,
+   "slug": "homework-maximize-meetings-attended-in-one-room",
+   "name": "Homework: Maximize meetings attended in one room",
+   "kind": null
+  },
+  {
+   "id": 591959,
+   "slug": "classwork-merge-intervals",
+   "name": "Classwork: Merge Intervals",
+   "kind": null
+  },
+  {
+   "id": 591960,
+   "slug": "classwork-insert-interval",
+   "name": "Classwork: Insert Interval",
+   "kind": null
+  },
+  {
+   "id": 591961,
+   "slug": "classwork-minimum-number-of-platforms",
+   "name": "Classwork: Minimum number of platforms",
+   "kind": null
+  },
+  {
+   "id": 591963,
+   "slug": "homework-interval-list-intersections",
+   "name": "Homework: Interval List Intersections",
+   "kind": null
+  },
+  {
+   "id": 591965,
+   "slug": "homework-car-pooling",
+   "name": "Homework: Car Pooling",
+   "kind": null
+  },
+  {
+   "id": 591967,
+   "slug": "homework-maximum-number-of-overlapping-intervals",
+   "name": "Homework: Maximum number of overlapping intervals",
+   "kind": null
+  },
+  {
+   "id": 591968,
+   "slug": "classwork-fractional-knapsack",
+   "name": "Classwork: Fractional Knapsack",
+   "kind": null
+  },
+  {
+   "id": 591969,
+   "slug": "classwork-job-sequencing-problem",
+   "name": "Classwork: Job Sequencing Problem",
+   "kind": null
+  },
+  {
+   "id": 591970,
+   "slug": "classwork-minimum-cost-to-connect-ropes",
+   "name": "Classwork: Minimum cost to connect ropes",
+   "kind": null
+  },
+  {
+   "id": 591971,
+   "slug": "homework-assign-cookies",
+   "name": "Homework: Assign Cookies",
+   "kind": null
+  },
+  {
+   "id": 591972,
+   "slug": "homework-huffman-encoding",
+   "name": "Homework: Huffman Encoding",
+   "kind": null
+  },
+  {
+   "id": 591974,
+   "slug": "homework-minimum-number-of-coins",
+   "name": "Homework: Minimum number of coins",
+   "kind": null
+  },
+  {
+   "id": 591975,
+   "slug": "classwork-jump-game",
+   "name": "Classwork: Jump Game",
+   "kind": null
+  },
+  {
+   "id": 591976,
+   "slug": "classwork-gas-station",
+   "name": "Classwork: Gas Station",
+   "kind": null
+  },
+  {
+   "id": 591977,
+   "slug": "classwork-candy",
+   "name": "Classwork: Candy",
+   "kind": null
+  },
+  {
+   "id": 591978,
+   "slug": "homework-jump-game-ii",
+   "name": "Homework: Jump Game II",
+   "kind": null
+  },
+  {
+   "id": 591979,
+   "slug": "homework-partition-labels",
+   "name": "Homework: Partition Labels",
+   "kind": null
+  },
+  {
+   "id": 591980,
+   "slug": "homework-write-up-a-coin-system-where-greedy-fails-counterexample",
+   "name": "Homework: Write-up: a coin system where greedy fails (counterexample)",
+   "kind": null
+  },
+  {
+   "id": 591982,
+   "slug": "classwork-reorganize-string",
+   "name": "Classwork: Reorganize String",
+   "kind": null
+  },
+  {
+   "id": 591984,
+   "slug": "classwork-task-scheduler",
+   "name": "Classwork: Task Scheduler",
+   "kind": null
+  },
+  {
+   "id": 591985,
+   "slug": "classwork-minimum-cost-to-connect-ropes-1",
+   "name": "Classwork: Minimum cost to connect ropes 1",
+   "kind": null
+  },
+  {
+   "id": 591986,
+   "slug": "homework-rearrange-characters-so-that-none-are-adjacent",
+   "name": "Homework: Rearrange characters so that none are adjacent",
+   "kind": null
+  },
+  {
+   "id": 591987,
+   "slug": "homework-maximum-number-of-events-that-can-be-attended",
+   "name": "Homework: Maximum Number of Events That Can Be Attended",
+   "kind": null
+  },
+  {
+   "id": 591988,
+   "slug": "homework-lemonade-change",
+   "name": "Homework: Lemonade Change",
+   "kind": null
+  },
+  {
+   "id": 592038,
+   "slug": "classwork-search-in-a-binary-search-tree-1",
+   "name": "Classwork: Search in a Binary Search Tree 1",
+   "kind": null
+  },
+  {
+   "id": 592040,
+   "slug": "classwork-insert-into-a-binary-search-tree-1",
+   "name": "Classwork: Insert into a Binary Search Tree 1",
+   "kind": null
+  },
+  {
+   "id": 592041,
+   "slug": "classwork-iterative-bst-search",
+   "name": "Classwork: Iterative BST search",
+   "kind": null
+  },
+  {
+   "id": 592043,
+   "slug": "homework-iterative-bst-insert",
+   "name": "Homework: Iterative BST insert",
+   "kind": null
+  },
+  {
+   "id": 592045,
+   "slug": "homework-count-bst-nodes-lying-in-a-given-range",
+   "name": "Homework: Count BST nodes lying in a given range",
+   "kind": null
+  },
+  {
+   "id": 592075,
+   "slug": "classwork-matrix-chain-multiplication-gfg-1",
+   "name": "Classwork: Matrix Chain Multiplication (GfG) 1",
+   "kind": null
+  },
+  {
+   "id": 592076,
+   "slug": "classwork-lc132-palindrome-partitioning-ii",
+   "name": "Classwork: LC132 Palindrome Partitioning II",
+   "kind": null
+  },
+  {
+   "id": 592077,
+   "slug": "classwork-lc312-burst-balloons",
+   "name": "Classwork: LC312 Burst Balloons",
+   "kind": null
+  },
+  {
+   "id": 592079,
+   "slug": "homework-boolean-parenthesization-gfg",
+   "name": "Homework: Boolean Parenthesization (GfG)",
+   "kind": null
+  },
+  {
+   "id": 592081,
+   "slug": "homework-lc1547-minimum-cost-to-cut-a-stick",
+   "name": "Homework: LC1547 Minimum Cost to Cut a Stick",
+   "kind": null
+  },
+  {
+   "id": 592082,
+   "slug": "homework-lc1043-partition-array-for-maximum-sum",
+   "name": "Homework: LC1043 Partition Array for Maximum Sum",
+   "kind": null
+  },
+  {
+   "id": 592083,
+   "slug": "classwork-lc200-number-of-islands",
+   "name": "Classwork: LC200 Number of Islands",
+   "kind": null
+  },
+  {
+   "id": 592084,
+   "slug": "classwork-lc547-number-of-provinces",
+   "name": "Classwork: LC547 Number of Provinces",
+   "kind": null
+  },
+  {
+   "id": 592085,
+   "slug": "classwork-lc133-clone-graph",
+   "name": "Classwork: LC133 Clone Graph",
+   "kind": null
+  },
+  {
+   "id": 592086,
+   "slug": "homework-lc733-flood-fill",
+   "name": "Homework: LC733 Flood Fill",
+   "kind": null
+  },
+  {
+   "id": 592087,
+   "slug": "homework-lc695-max-area-of-island",
+   "name": "Homework: LC695 Max Area of Island",
+   "kind": null
+  },
+  {
+   "id": 592088,
+   "slug": "homework-lc1971-find-if-path-exists-in-graph",
+   "name": "Homework: LC1971 Find if Path Exists in Graph",
+   "kind": null
+  },
+  {
+   "id": 592090,
+   "slug": "classwork-lc207-course-schedule",
+   "name": "Classwork: LC207 Course Schedule",
+   "kind": null
+  },
+  {
+   "id": 592091,
+   "slug": "classwork-lc785-is-graph-bipartite",
+   "name": "Classwork: LC785 Is Graph Bipartite?",
+   "kind": null
+  },
+  {
+   "id": 592092,
+   "slug": "classwork-detect-cycle-in-an-undirected-graph-gfg",
+   "name": "Classwork: Detect cycle in an undirected graph (GfG)",
+   "kind": null
+  },
+  {
+   "id": 592093,
+   "slug": "homework-detect-cycle-in-a-directed-graph-gfg",
+   "name": "Homework: Detect cycle in a directed graph (GfG)",
+   "kind": null
+  },
+  {
+   "id": 592094,
+   "slug": "homework-lc886-possible-bipartition",
+   "name": "Homework: LC886 Possible Bipartition",
+   "kind": null
+  },
+  {
+   "id": 592096,
+   "slug": "homework-lc684-redundant-connection",
+   "name": "Homework: LC684 Redundant Connection",
+   "kind": null
+  },
+  {
+   "id": 592097,
+   "slug": "classwork-lc210-course-schedule-ii",
+   "name": "Classwork: LC210 Course Schedule II",
+   "kind": null
+  },
+  {
+   "id": 592098,
+   "slug": "classwork-topological-sort-gfg",
+   "name": "Classwork: Topological Sort (GfG)",
+   "kind": null
+  },
+  {
+   "id": 592099,
+   "slug": "classwork-kahns-algorithm-for-topological-sort-gfg",
+   "name": "Classwork: Kahn's Algorithm for Topological Sort (GfG)",
+   "kind": null
+  },
+  {
+   "id": 592100,
+   "slug": "homework-lc269-alien-dictionary",
+   "name": "Homework: LC269 Alien Dictionary",
+   "kind": null
+  },
+  {
+   "id": 592101,
+   "slug": "homework-lc2115-find-all-possible-recipes-from-given-supplies",
+   "name": "Homework: LC2115 Find All Possible Recipes from Given Supplies",
+   "kind": null
+  },
+  {
+   "id": 592102,
+   "slug": "homework-lc1462-course-schedule-iv",
+   "name": "Homework: LC1462 Course Schedule IV",
+   "kind": null
+  },
+  {
+   "id": 592103,
+   "slug": "classwork-lc743-network-delay-time",
+   "name": "Classwork: LC743 Network Delay Time",
+   "kind": null
+  },
+  {
+   "id": 592104,
+   "slug": "classwork-lc1631-path-with-minimum-effort",
+   "name": "Classwork: LC1631 Path With Minimum Effort",
+   "kind": null
+  },
+  {
+   "id": 592105,
+   "slug": "classwork-dijkstras-shortest-path-gfg",
+   "name": "Classwork: Dijkstra's shortest path (GfG)",
+   "kind": null
+  },
+  {
+   "id": 592106,
+   "slug": "homework-lc1584-min-cost-to-connect-all-points-mst",
+   "name": "Homework: LC1584 Min Cost to Connect All Points (MST)",
+   "kind": null
+  },
+  {
+   "id": 592107,
+   "slug": "homework-01-bfs-shortest-path-gfg",
+   "name": "Homework: 0/1 BFS shortest path (GfG)",
+   "kind": null
+  },
+  {
+   "id": 592108,
+   "slug": "classwork-bellman-ford-algorithm-gfg",
+   "name": "Classwork: Bellman-Ford Algorithm (GfG)",
+   "kind": null
+  },
+  {
+   "id": 592109,
+   "slug": "classwork-floyd-warshall-all-pairs-shortest-path-gfg",
+   "name": "Classwork: Floyd-Warshall All-Pairs Shortest Path (GfG)",
+   "kind": null
+  },
+  {
+   "id": 592110,
+   "slug": "classwork-lc994-rotting-oranges",
+   "name": "Classwork: LC994 Rotting Oranges",
+   "kind": null
+  },
+  {
+   "id": 592112,
+   "slug": "homework-lc542-01-matrix",
+   "name": "Homework: LC542 01 Matrix",
+   "kind": null
+  },
+  {
+   "id": 592113,
+   "slug": "homework-lc1091-shortest-path-in-binary-matrix",
+   "name": "Homework: LC1091 Shortest Path in Binary Matrix",
+   "kind": null
+  },
+  {
+   "id": 592114,
+   "slug": "homework-lc1192-critical-connections-in-a-network",
+   "name": "Homework: LC1192 Critical Connections in a Network",
+   "kind": null
+  },
+  {
+   "id": 592115,
+   "slug": "classwork-lc543-diameter-of-binary-tree-via-dp",
+   "name": "Classwork: LC543 Diameter of Binary Tree (via DP)",
+   "kind": null
+  },
+  {
+   "id": 592116,
+   "slug": "classwork-lc337-house-robber-iii",
+   "name": "Classwork: LC337 House Robber III",
+   "kind": null
+  },
+  {
+   "id": 592117,
+   "slug": "classwork-lc124-binary-tree-maximum-path-sum-1",
+   "name": "Classwork: LC124 Binary Tree Maximum Path Sum 1",
+   "kind": null
+  },
+  {
+   "id": 592118,
+   "slug": "homework-lc968-binary-tree-cameras",
+   "name": "Homework: LC968 Binary Tree Cameras",
+   "kind": null
+  },
+  {
+   "id": 592119,
+   "slug": "homework-lc687-longest-univalue-path",
+   "name": "Homework: LC687 Longest Univalue Path",
+   "kind": null
+  },
+  {
+   "id": 592120,
+   "slug": "homework-maximum-sum-of-non-adjacent-nodes-in-a-tree-gfg",
+   "name": "Homework: Maximum sum of non-adjacent nodes in a tree (GfG)",
+   "kind": null
+  },
+  {
+   "id": 592121,
+   "slug": "classwork-lc78-subsets",
+   "name": "Classwork: LC78 Subsets",
+   "kind": null
+  },
+  {
+   "id": 592122,
+   "slug": "classwork-lc46-permutations",
+   "name": "Classwork: LC46 Permutations",
+   "kind": null
+  },
+  {
+   "id": 592123,
+   "slug": "classwork-lc77-combinations",
+   "name": "Classwork: LC77 Combinations",
+   "kind": null
+  },
+  {
+   "id": 592124,
+   "slug": "homework-lc90-subsets-ii",
+   "name": "Homework: LC90 Subsets II",
+   "kind": null
+  },
+  {
+   "id": 592125,
+   "slug": "homework-lc39-combination-sum",
+   "name": "Homework: LC39 Combination Sum",
+   "kind": null
+  },
+  {
+   "id": 592126,
+   "slug": "homework-lc131-palindrome-partitioning",
+   "name": "Homework: LC131 Palindrome Partitioning",
+   "kind": null
+  },
+  {
+   "id": 592127,
+   "slug": "classwork-lc79-word-search",
+   "name": "Classwork: LC79 Word Search",
+   "kind": null
+  },
+  {
+   "id": 592128,
+   "slug": "classwork-lc51-n-queens",
+   "name": "Classwork: LC51 N-Queens",
+   "kind": null
+  },
+  {
+   "id": 592129,
+   "slug": "classwork-lc22-generate-parentheses",
+   "name": "Classwork: LC22 Generate Parentheses",
+   "kind": null
+  },
+  {
+   "id": 592130,
+   "slug": "homework-lc37-sudoku-solver",
+   "name": "Homework: LC37 Sudoku Solver",
+   "kind": null
+  },
+  {
+   "id": 592131,
+   "slug": "homework-lc212-word-search-ii",
+   "name": "Homework: LC212 Word Search II",
+   "kind": null
+  },
+  {
+   "id": 592132,
+   "slug": "homework-lc93-restore-ip-addresses",
+   "name": "Homework: LC93 Restore IP Addresses",
+   "kind": null
+  },
+  {
+   "id": 592134,
+   "slug": "classwork-lc3-longest-substring-without-repeating-characters-1",
+   "name": "Classwork: LC3 Longest Substring Without Repeating Characters 1",
+   "kind": null
+  },
+  {
+   "id": 592135,
+   "slug": "classwork-lc209-minimum-size-subarray-sum",
+   "name": "Classwork: LC209 Minimum Size Subarray Sum",
+   "kind": null
+  },
+  {
+   "id": 592137,
+   "slug": "classwork-lc15-3sum",
+   "name": "Classwork: LC15 3Sum",
+   "kind": null
+  },
+  {
+   "id": 592138,
+   "slug": "homework-lc76-minimum-window-substring",
+   "name": "Homework: LC76 Minimum Window Substring",
+   "kind": null
+  },
+  {
+   "id": 592141,
+   "slug": "homework-lc424-longest-repeating-character-replacement",
+   "name": "Homework: LC424 Longest Repeating Character Replacement",
+   "kind": null
+  },
+  {
+   "id": 592142,
+   "slug": "homework-lc11-container-with-most-water",
+   "name": "Homework: LC11 Container With Most Water",
+   "kind": null
+  },
+  {
+   "id": 592143,
+   "slug": "classwork-lc994-rotting-oranges-bfs-walkthrough",
+   "name": "Classwork: LC994 Rotting Oranges (BFS Walkthrough)",
+   "kind": null
+  },
+  {
+   "id": 592144,
+   "slug": "classwork-lc300-longest-increasing-subsequence-dp-walkthrough",
+   "name": "Classwork: LC300 Longest Increasing Subsequence (DP Walkthrough)",
+   "kind": null
+  },
+  {
+   "id": 592145,
+   "slug": "homework-lc207-course-schedule-graph-end-to-end",
+   "name": "Homework: LC207 Course Schedule (Graph End-to-End)",
+   "kind": null
+  },
+  {
+   "id": 592146,
+   "slug": "homework-lc236-lowest-common-ancestor-of-a-binary-tree-tree-end-to-end",
+   "name": "Homework: LC236 Lowest Common Ancestor of a Binary Tree (Tree End-to-End)",
+   "kind": null
+  },
+  {
+   "id": 592148,
+   "slug": "homework-lc322-coin-change-dp-end-to-end",
+   "name": "Homework: LC322 Coin Change (DP End-to-End)",
+   "kind": null
+  },
+  {
+   "id": 592149,
+   "slug": "homework-lc787-cheapest-flights-within-k-stops",
+   "name": "Homework: LC787 Cheapest Flights Within K Stops",
+   "kind": null
+  },
+  {
+   "id": 592150,
+   "slug": "classwork-classify-five-mixed-problems-by-technique",
+   "name": "Classwork: Classify five mixed problems by technique",
+   "kind": null
+  }
+ ]
+}

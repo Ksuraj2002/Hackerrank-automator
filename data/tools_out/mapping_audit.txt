@@ -1,0 +1,412 @@
+# Filled slugs, weakest relationship first. Low score = likely wrong mapping.
+
+-1.00 CW-D03-2  classwork Sum of digits of a 3-digit number                          -> SLUG NOT IN BANK
+                                 slug: sum-of-digits-of-a-five-digit-number
+-1.00 CW-D05-1  classwork Print whether a > b                                        -> SLUG NOT IN BANK
+                                 slug: detect-whether-a-linked-list-contains-a-cycle
+-1.00 CW-D07-1  classwork Maximum of three                                           -> SLUG NOT IN BANK
+                                 slug: three-month-preparation-kit-maximum-perimeter-triangle
+-1.00 CW-D07-3  classwork Triangle type from its sides                               -> SLUG NOT IN BANK
+                                 slug: what-type-of-triangle
+-1.00 CW-D14-3  classwork Count all pairs (i, j)                                     -> SLUG NOT IN BANK
+                                 slug: count-the-pairs-of-tracks
+-1.00 CW-D28-3  classwork Sum of an array recursively                                -> SLUG NOT IN BANK
+                                 slug: simple-array-sum
+-1.00 CW-D37-3  classwork Left rotate by k                                           -> SLUG NOT IN BANK
+                                 slug: array-left-rotation
+-1.00 CW-D39-2  classwork LC303 Range Sum Query - Immutable                          -> SLUG NOT IN BANK
+                                 slug: range-minimum-query
+-1.00 CW-D40-1  classwork LC53 Maximum Subarray                                      -> SLUG NOT IN BANK
+                                 slug: maximum-subarray-sum
+-1.00 CW-D40-3  classwork Subarray with largest sum (all negatives case)             -> SLUG NOT IN BANK
+                                 slug: subarray-with-given-sum-8
+-1.00 CW-D41-3  classwork Count of distinct elements                                 -> SLUG NOT IN BANK
+                                 slug: bash-tutorials-count-the-number-of-elements-in-an-array
+-1.00 CW-D45-2  classwork LC26 Remove Duplicates from Sorted Array                   -> SLUG NOT IN BANK
+                                 slug: remove-duplicates
+-1.00 CW-D45-3  classwork Count pairs with difference k                              -> SLUG NOT IN BANK
+                                 slug: count-the-pairs-of-tracks
+-1.00 CW-D47-2  classwork Longest subarray with sum <= k                             -> SLUG NOT IN BANK
+                                 slug: subarray-with-given-sum-8
+-1.00 CW-D56-1  classwork LC53 Maximum Subarray (Review)                             -> SLUG NOT IN BANK
+                                 slug: maximum-subarray-sum
+-1.00 CW-D57-3  classwork LC415 Add Strings                                          -> SLUG NOT IN BANK
+                                 slug: find-strings
+-1.00 CW-D59-2  classwork LC31 Next Permutation                                      -> SLUG NOT IN BANK
+                                 slug: find-the-permutation
+-1.00 HW-D04-2  homework  Read a 3-digit number, print sum of digits                 -> SLUG NOT IN BANK
+                                 slug: sum-of-digits-of-a-five-digit-number
+-1.00 HW-D06-1  homework  Positive, negative or zero                                 -> SLUG NOT IN BANK
+                                 slug: classifying-feedbacks-into-positive-or-negative
+-1.00 HW-D08-2  homework  Valid triangle and its type                                -> SLUG NOT IN BANK
+                                 slug: what-type-of-triangle
+-1.00 HW-D10-2  homework  Check a one-word palindrome                                -> SLUG NOT IN BANK
+                                 slug: one-month-preparation-kit-richie-rich
+-1.00 HW-D11-1  homework  Print N down to 1                                          -> SLUG NOT IN BANK
+                                 slug: down-with-abstractions
+-1.00 HW-D12-1  homework  Repeated digit sum to one digit                            -> SLUG NOT IN BANK
+                                 slug: one-month-preparation-kit-recursive-digit-sum
+-1.00 HW-D23-1  homework  min/max of three via a function                            -> SLUG NOT IN BANK
+                                 slug: three-month-preparation-kit-angry-children
+-1.00 HW-D29-1  homework  Sum of an array                                            -> SLUG NOT IN BANK
+                                 slug: simple-array-sum
+-1.00 HW-D29-2  homework  Count positive elements                                    -> SLUG NOT IN BANK
+                                 slug: bash-tutorials-count-the-number-of-elements-in-an-array
+-1.00 HW-D40-1  homework  Maximum contiguous sum (GfG)                               -> SLUG NOT IN BANK
+                                 slug: maximum-subarray-sum
+-1.00 HW-D57-1  homework  LC43 Multiply Strings                                      -> SLUG NOT IN BANK
+                                 slug: find-strings
+0.00 CW-D08-2  classwork Classify a character (vowel/consonant/digit)               -> Print Characters 
+                                 slug: print-character-1
+0.00 CW-D10-1  classwork Print the ASCII of a character                             -> Print Characters 
+                                 slug: print-character-1
+0.00 HW-D14-1  homework  Print all pairs with i < j                                 -> Print All Substrings
+                                 slug: print-all-substrings
+0.40 HW-D47-1  homework  Longest subarray with k distinct characters (GfG)          -> Longest Substring Without Repeating Characters 6
+                                 slug: longest-substring-without-repeating-characters-6-1
+0.50 CW-D09-3  classwork Vowel check using switch                                   -> Vowel Checker
+                                 slug: vowel-checker-1
+0.50 CW-D15-3  classwork Print a simple triangle                                    ->  Right-angled Triangle
+                                 slug: right-angled-triangle-6
+0.50 CW-D17-3  classwork Number pyramid                                             -> Number finding
+                                 slug: number-finding
+0.50 CW-D25-3  classwork Count factors of N                                         -> Print Factors of number
+                                 slug: print-factors-of-number
+0.50 CW-D28-2  classwork All subsequences of a string                               -> Toggle all characters in a string
+                                 slug: toggle-all-characters-in-a-string
+0.50 CW-D35-3  classwork First occurrence using binary search                       -> Search an element in array using Binary Search
+                                 slug: search-an-element-in-array-using-binary-search
+0.50 CW-D37-2  classwork Rotate by k using reversal                                 -> Tuple Reversal
+                                 slug: tuple-reversal
+0.50 CW-D38-2  classwork Sum of a given range                                       -> Sum Finding
+                                 slug: sum-finding
+0.50 CW-D41-1  classwork Frequency of each element                                  -> HW_Sort the array according to their cubes of each element
+                                 slug: sort-the-array-according-to-their-cubes-of-each-element
+0.50 CW-D41-2  classwork Most frequent element                                      -> HW_K Frequent Characters
+                                 slug: most-occurred-character-1
+0.50 CW-D44-1  classwork LC283 Move Zeroes                                          -> SHIFT ZEROES
+                                 slug: shift-zeroes
+0.50 CW-D50-1  classwork Read and print a matrix                                    -> Ayush and his Matrix
+                                 slug: ayush-and-his-matrix
+0.50 CW-D53-2  classwork LC191 Number of 1 Bits                                     -> Number finding
+                                 slug: number-finding
+0.50 CW-D59-1  classwork LC238 Product of Array Except Self                         -> Product of Elements Except Itself
+                                 slug: product-of-array-except-that-idx
+0.50 HW-D03-2  homework  Simple interest calculator                                 -> Power calculator
+                                 slug: power-calculator
+0.50 HW-D07-2  homework  Calculator using if-else                                   -> pos-neg if-else
+                                 slug: pos-neg-if-else
+0.50 HW-D25-2  homework  Sum of divisors of N                                       -> Sum Finding
+                                 slug: sum-finding
+0.50 HW-D27-2  homework  Recursive palindrome check                                 -> Palindrome Checking 1
+                                 slug: palindrome-checking-1
+0.50 HW-D36-2  homework  Check if the array is a palindrome                         -> Check if Array Is Sorted and Rotated 1
+                                 slug: check-if-array-is-sorted-and-rotated-1
+0.50 HW-D45-2  homework  Two-sum on an unsorted array (hashing preview)             -> merge two unsorted array in sorted form.
+                                 slug: merge-two-unsorted-array-in-sorted-form-
+0.50 HW-D53-2  homework  LC338 Counting Bits                                        -> Counting jumps
+                                 slug: counting-jumps
+0.50 HW-D55-1  homework  Count subarrays with sum exactly K (Brute force)           -> HW_Count Subarray Sum Zero
+                                 slug: count-19-1
+0.67 CW-D05-3  classwork Is a character a vowel? print the bool                     -> Character is Vowel or Consonant 1
+                                 slug: character-is-vowel-or-consonant-1
+0.67 CW-D11-2  classwork Sum of first N numbers                                     -> Sum of Even Numbers till N 1
+                                 slug: sum-of-even-numbers-till-n-1
+0.67 CW-D13-3  classwork Count digits with while                                    -> Count number of digits  1
+                                 slug: count-number-of-digits-1-2
+0.67 CW-D15-2  classwork Count multiples in a range                                 -> Count the Number of Vowel Strings in Range
+                                 slug: count-the-number-of-vowel-strings-in-range-1
+0.67 CW-D29-3  classwork Print elements at even indices                             -> HW_Print Even Array Elements inline
+                                 slug: array-basic-iv
+0.67 CW-D31-1  classwork Bubble sort implementation                                 -> GKSTR44 Bubble Sort
+                                 slug: gkstr44-bubble-sort
+0.67 CW-D31-2  classwork Selection sort implementation                              -> GKSTR45 Selection Sort
+                                 slug: gkstr45-selection-sort
+0.67 CW-D33-1  classwork Sort a vector ascending / descending                       -> HW_Half Ascending Half Descending
+                                 slug: cc03-half-ascending-half-descending
+0.67 CW-D34-3  classwork First and last index of x                                  -> First and Last Digit 2
+                                 slug: first-and-last-digit-2
+0.67 CW-D36-1  classwork Reverse an array in place                                  -> GKSTR32 Reverse_Array
+                                 slug: gkstr32-reverse-array
+0.67 CW-D36-2  classwork Swap first and last                                        -> First and Last Digit 2
+                                 slug: first-and-last-digit-2
+0.67 CW-D44-2  classwork Partition around a pivot                                   -> Partition Array According to Given Pivot
+                                 slug: partition-array-according-to-given-pivot
+0.67 CW-D46-2  classwork LC643 Maximum Average Subarray I                           -> Maximum Product Subarray 2
+                                 slug: maximum-product-subarray-2
+0.67 CW-D46-3  classwork First negative in each window (GfG)                        -> First Negative Integer 2
+                                 slug: first-negative-integer-2
+0.67 CW-D47-1  classwork LC209 Minimum Size Subarray Sum                            -> Max subarray sum 5
+                                 slug: max-subarray-sum-5
+0.67 CW-D50-2  classwork Sum of each row and column                                 -> Largest Row or Column 1
+                                 slug: largest-row-or-column-1
+0.67 CW-D53-1  classwork Check if k-th bit is set (GfG)                             -> Set Kth Bit 
+                                 slug: set-kth-bit-2
+0.67 CW-D56-3  classwork LC560 Subarray Sum Equals K (Using prefix sums/hashmap int -> Max subarray sum 5
+                                 slug: max-subarray-sum-5
+0.67 CW-D57-2  classwork LC28 Find the Index of the First Occurrence in a String    -> Print first index of x in array
+                                 slug: find-the-first-index
+0.67 HW-D09-1  homework  Menu-driven program                                        -> menu driven calculator 1
+                                 slug: menu-driven-calculator-1
+0.67 HW-D13-2  homework  Binary form of a number using while                        -> Form the largest number
+                                 slug: form-the-largest-number
+0.67 HW-D15-2  homework  Fibonacci series with a loop                               -> Sum of Fibonacci Series 4
+                                 slug: sum-of-fibonacci-series-4
+0.67 HW-D17-2  homework  Right-aligned triangle                                     ->  Right-angled Triangle
+                                 slug: right-angled-triangle-6
+0.67 HW-D30-1  homework  Second largest element                                     -> Second largest number 16
+                                 slug: second-largest-number-16-2
+0.67 HW-D30-2  homework  Count even and odd                                         -> Sum of even & odd 2
+                                 slug: sum-of-even-odd-2
+0.67 HW-D32-2  homework  Find median after sorting                                  -> hw_Find Target Indices After Sorting Array
+                                 slug: find-target-indices-after-sorting-array
+0.67 HW-D35-2  homework  Find Ceil of x in sorted array (GfG)                       -> Squares of a Sorted Array 2
+                                 slug: squares-of-a-sorted-array-2
+0.67 HW-D36-1  homework  Move all zeros to the end                                  -> Push All Zeros To End
+                                 slug: push-all-zeros-to-end
+0.67 HW-D37-2  homework  Rotate a matrix row                                        -> Print the Matrix Row-wise
+                                 slug: print-the-matrix-row-wise
+0.67 HW-D43-2  homework  Remove duplicates from a sorted array (LC26)               -> Squares of a Sorted Array 2
+                                 slug: squares-of-a-sorted-array-2
+0.67 HW-D47-2  homework  Smallest window containing all characters of string (GfG)  -> Toggle all characters in a string
+                                 slug: toggle-all-characters-in-a-string
+0.67 HW-D50-1  homework  Row with the maximum sum                                   -> HW_Minimal Maximum Sum
+                                 slug: minimal-maximum-sum
+0.67 HW-D54-1  homework  LC268 Missing Number (Using XOR)                           -> Missing Number Finder 1
+                                 slug: missing-number-finder-1
+0.75 CW-D04-1  classwork Read two numbers, print sum/diff/product                   -> Find product of the two numbers using function.
+                                 slug: find-product-of-the-two-numbers-using-function
+0.75 CW-D39-1  classwork Build a prefix-sum array                                   -> Positive Prefix Sum Array
+                                 slug: positive-prefix
+0.75 CW-D43-2  classwork LC167 Two Sum II - Input Array Is Sorted                   -> merge two unsorted array in sorted form.
+                                 slug: merge-two-unsorted-array-in-sorted-form-
+0.75 CW-D46-1  classwork Maximum sum window of size k (GfG)                         -> Maximum Element in window of size k
+                                 slug: maximum-element-in-window-of-size-k
+0.75 CW-D54-2  classwork Clear rightmost set bit (N & (N-1))                        -> Rightmost set bit of number
+                                 slug: rightmost-set-bit-of-number
+0.75 HW-D31-2  homework  Sort an array in descending order                          -> Sort Array in decreasing order using custom sort 
+                                 slug: sort-array-in-decreasing-order-using-custom-sort
+0.75 HW-D33-2  homework  Sort array elements by frequency (Intro)                   -> Sort Array by Increasing Frequency
+                                 slug: sort-array-by-increasing-frequency
+0.75 HW-D35-1  homework  LC34 Find First and Last Position of Element in Sorted Arr -> hw_single Element in a Sorted Array
+                                 slug: hw-single-element-in-a-sorted-array
+0.75 HW-D53-1  homework  Set the rightmost unset bit (GfG)                          -> Rightmost set bit of number
+                                 slug: rightmost-set-bit-of-number
+0.80 CW-D02-3  classwork Swap two numbers using a third variable                    -> Swap the Numbers Without using a Third variable
+                                 slug: swap-the-numbers-without-using-a-third-variable
+1.00 CW-D01-1  classwork Print "Hello, World!"                                      -> Print Hello World 36
+                                 slug: print-hello-world-36
+1.00 CW-D02-2  classwork Area and perimeter of a rectangle                          -> Area and Perimeter 5
+                                 slug: area-and-perimeter-5
+1.00 CW-D03-1  classwork Last digit and first digit of a number                     -> First and Last Digit 2
+                                 slug: first-and-last-digit-2
+1.00 CW-D04-2  classwork Read radius, print circle area                             -> HW_Area of a circle 6
+                                 slug: area-of-a-circle-6-2
+1.00 CW-D05-2  classwork Leap year as a boolean expression                          -> Is Leap Year
+                                 slug: is-leap-year-1
+1.00 CW-D06-1  classwork Odd or even                                                -> Odd Even Pattern
+                                 slug: odd-even-pattern
+1.00 CW-D06-3  classwork Maximum of two numbers                                     -> Two-Numbers
+                                 slug: two-numbers-6
+1.00 CW-D08-1  classwork Leap year with branching                                   -> Is Leap Year
+                                 slug: is-leap-year-1
+1.00 CW-D09-1  classwork Calculator using switch                                    -> Switch Calculator 1
+                                 slug: switch-calculator-1-1
+1.00 CW-D10-3  classwork Count vowels in a string                                   -> Count Vowels 
+                                 slug: count-vowels-8-1
+1.00 CW-D11-1  classwork Print 1..N and even numbers to N                           -> Print Even Numbers 4
+                                 slug: print-even-numbers-4-1
+1.00 CW-D11-3  classwork Multiplication table                                       -> Multiplication Table 36
+                                 slug: multiplication-table-36
+1.00 CW-D12-1  classwork Print all factors of N                                     -> Print all factors of a number
+                                 slug: print-all-factors-of-a-number
+1.00 CW-D12-2  classwork Count digits                                               -> Count number of digits  1
+                                 slug: count-number-of-digits-1-2
+1.00 CW-D12-3  classwork Reverse a number                                           -> Reverse of a number 8
+                                 slug: reverse-of-a-number-8
+1.00 CW-D13-1  classwork Sum of digits with while                                   -> Sum of Digits 81
+                                 slug: sum-of-digits-81-3
+1.00 CW-D13-2  classwork Reverse a number with while                                -> Reverse of a number 8
+                                 slug: reverse-of-a-number-8
+1.00 CW-D14-1  classwork Print a grid of numbers                                    -> Print the numbers to N.
+                                 slug: print-the-numbers-to-n-
+1.00 CW-D15-1  classwork Sum of a series                                            -> Sum of Fibonacci Series 4
+                                 slug: sum-of-fibonacci-series-4
+1.00 CW-D16-2  classwork Right-angled triangle                                      ->  Right-angled Triangle
+                                 slug: right-angled-triangle-6
+1.00 CW-D16-3  classwork Inverted right-angled triangle                             -> HW_Print Inverted Right Angled Triangle Pattern
+                                 slug: print-the-pattern-31-3
+1.00 CW-D18-3  classwork Alphabet pattern                                           -> Print pattern 1
+                                 slug: print-n-1-1
+1.00 CW-D22-2  classwork factorial(n)                                               -> N factorial 2
+                                 slug: n-factorial-2-1
+1.00 CW-D22-3  classwork max(a, b)                                                  -> Max-Vowels
+                                 slug: max-vowels
+1.00 CW-D23-2  classwork power(base, exp)                                           -> Power of 4
+                                 slug: power-of-4
+1.00 CW-D24-1  classwork Reverse a number                                           -> Reverse of a number 8
+                                 slug: reverse-of-a-number-8
+1.00 CW-D24-2  classwork Sum of digits                                              -> Sum of Digits 81
+                                 slug: sum-of-digits-81-3
+1.00 CW-D24-3  classwork Count digits                                               -> Count number of digits  1
+                                 slug: count-number-of-digits-1-2
+1.00 CW-D25-2  classwork Print primes 1..N                                          -> HW_Print Primes 1
+                                 slug: print-primes-1-1
+1.00 CW-D26-2  classwork LCM of two numbers                                         -> LCM of two numbers 8
+                                 slug: lcm-of-two-numbers-8-1
+1.00 CW-D26-3  classwork Check if two numbers are coprime                           -> Two-Numbers
+                                 slug: two-numbers-6
+1.00 CW-D27-1  classwork Factorial recursively                                      -> N factorial 2
+                                 slug: n-factorial-2-1
+1.00 CW-D27-3  classwork Sum of digits recursively                                  -> Sum of Digits 81
+                                 slug: sum-of-digits-81-3
+1.00 CW-D28-1  classwork Nth Fibonacci number                                       -> Nth Fibonacci Number 7
+                                 slug: nth-fibonacci-number-7
+1.00 CW-D30-1  classwork Max and min in one pass                                    -> Max and Min 5
+                                 slug: max-and-min-5
+1.00 CW-D30-2  classwork Average of the array                                       -> Average it!
+                                 slug: average-it
+1.00 CW-D32-1  classwork Insertion sort implementation                              -> Insertion Sort 28
+                                 slug: insertion-sort-28-5
+1.00 CW-D34-2  classwork Count occurrences of x                                     -> Count the Occurrences!
+                                 slug: count-the-occurrences
+1.00 CW-D35-1  classwork LC704 Binary Search                                        -> Binary Search in an Array
+                                 slug: search-in-array-2
+1.00 CW-D35-2  classwork LC35 Search Insert Position                                -> Search insert position
+                                 slug: search-insert-position-2-1
+1.00 CW-D36-3  classwork Reverse a sub-range                                        -> HW_REVERSE IN RANGE
+                                 slug: reverse-in-range
+1.00 CW-D37-1  classwork Rotate right by 1                                          -> Rotate Right 
+                                 slug: rotate-right-1
+1.00 CW-D38-1  classwork Check if the array is sorted and rotated (LC1752)          -> Check if Array Is Sorted and Rotated 1
+                                 slug: check-if-array-is-sorted-and-rotated-1
+1.00 CW-D38-3  classwork Merge two sorted arrays                                    -> Merge two sorted arrays 7
+                                 slug: merge-two-sorted-arrays-7
+1.00 CW-D39-3  classwork Equilibrium index via prefix sum                           -> Print Prefix Sum
+                                 slug: print-prefix-sum
+1.00 CW-D42-1  classwork LC242 Valid Anagram                                        -> Valid Anagram 5
+                                 slug: valid-anagram-5
+1.00 CW-D42-2  classwork LC387 First Unique Character in a String                   -> HW_First Unique Character in a String 
+                                 slug: first-unique-character-in-a-string-4
+1.00 CW-D43-3  classwork String palindrome check                                    -> Is String a Palindrome
+                                 slug: string-is-a-palindrome
+1.00 CW-D47-3  classwork LC3 Longest Substring Without Repeating Characters (Intro) -> Longest Substring Without Repeating Characters 6
+                                 slug: longest-substring-without-repeating-characters-6-1
+1.00 CW-D48-1  classwork LC151 Reverse Words in a String                            -> Reverse words in a String 8
+                                 slug: reverse-words-in-a-string-8
+1.00 CW-D48-2  classwork Count the words using stringstream                         -> Count Words 
+                                 slug: count-words-11
+1.00 CW-D48-3  classwork LC125 Valid Palindrome                                     -> Is Palindrome
+                                 slug: cc01-is-palindrome
+1.00 CW-D49-1  classwork LC242 Valid Anagram                                        -> Valid Anagram 5
+                                 slug: valid-anagram-5
+1.00 CW-D49-2  classwork LC387 First Unique Character in a String                   -> HW_First Unique Character in a String 
+                                 slug: first-unique-character-in-a-string-4
+1.00 CW-D49-3  classwork Frequency of each character                                -> Character and it's Frequency
+                                 slug: character-by-frequency
+1.00 CW-D51-1  classwork Transpose a matrix in place                                -> Transpose of Matrix of N*N
+                                 slug: transpose-of-matrix-4-1
+1.00 CW-D51-2  classwork LC48 Rotate Image                                          -> Rotate Image
+                                 slug: rotate-matrix-
+1.00 CW-D51-3  classwork LC54 Spiral Matrix                                         -> Spiral Matrix 44
+                                 slug: spiral-matrix-44
+1.00 CW-D52-1  classwork Print binary representation of N                           -> Print Binary 
+                                 slug: print-binary-1
+1.00 CW-D52-3  classwork Swap two numbers using XOR                                 -> swap 2 numbers 3
+                                 slug: swap-2-numbers-3-1
+1.00 CW-D53-3  classwork LC136 Single Number                                        -> HW_Single Number 3
+                                 slug: single-number-3
+1.00 CW-D54-1  classwork LC231 Power of Two                                         -> Power of two number
+                                 slug: power-of-two-number
+1.00 CW-D55-1  classwork Print all subarrays of an array                            -> Print All Subarrays
+                                 slug: print-subsets-1
+1.00 CW-D55-2  classwork Find max subarray sum using O(N^2)                         -> Max subarray sum 5
+                                 slug: max-subarray-sum-5
+1.00 CW-D56-2  classwork LC918 Maximum Sum Circular Subarray                        -> Maximum Sum Circular Subarray 2
+                                 slug: maximum-sum-circular-subarray-2
+1.00 CW-D57-1  classwork LC14 Longest Common Prefix                                 -> HW_common prefix 1
+                                 slug: common-prefix-1
+1.00 CW-D58-1  classwork LC74 Search a 2D Matrix                                    -> Search an Element in 2-D Matrix
+                                 slug: search-an-element-in-2-d-matrix
+1.00 CW-D58-2  classwork LC240 Search a 2D Matrix II                                -> Search an Element in 2-D Matrix
+                                 slug: search-an-element-in-2-d-matrix
+1.00 CW-D59-3  classwork LC128 Longest Consecutive Sequence (Sorting approach)      ->  Longest Consecutive Sequence 2
+                                 slug: longest-consecutive-sequence-2-2
+1.00 HW-D02-2  homework  Celsius to Fahrenheit converter                            -> Fahrenheit and Celsius
+                                 slug: fahrenheit-and-celsius
+1.00 HW-D06-2  homework  Divisible by 5?                                            -> Divisible by 7 or not
+                                 slug: divisible-by-7-or-not
+1.00 HW-D10-1  homework  Reverse a string                                           -> Reverse The String
+                                 slug: reverse-a-string-1-4
+1.00 HW-D11-2  homework  Factorial with a loop                                      -> N factorial 2
+                                 slug: n-factorial-2-1
+1.00 HW-D12-2  homework  Check Armstrong number                                     -> Armstrong Number
+                                 slug: armstrong-number-138
+1.00 HW-D16-2  homework  Hollow square                                              -> Pattern 8 - Print a hollow square without top
+                                 slug: pattern-8-print-a-hollow-square-without-top
+1.00 HW-D17-1  homework  Half-diamond                                               -> Half it!
+                                 slug: half-it
+1.00 HW-D18-1  homework  Butterfly pattern                                          -> print the pattern-1
+                                 slug: print-the-pattern-1-9
+1.00 HW-D18-2  homework  Pascal-style number pattern                                -> HW_Print the Number Pattern 2
+                                 slug: print-the-number-pattern-2
+1.00 HW-D24-1  homework  Palindrome number                                          -> Palindrome Number 48
+                                 slug: palindrome-number-48-1
+1.00 HW-D24-2  homework  Armstrong number; largest digit                            -> Armstrong Number
+                                 slug: armstrong-number-138
+1.00 HW-D26-1  homework  GCD of an array                                            -> Find GCD of Array
+                                 slug: find-gcd-of-array
+1.00 HW-D27-1  homework  Fast power a^b                                             -> find the power 1
+                                 slug: find-the-power-1
+1.00 HW-D28-1  homework  Count vowels recursively                                   -> Count Vowels 
+                                 slug: count-vowels-8-1
+1.00 HW-D28-2  homework  Reverse a string recursively                               -> Reverse The String
+                                 slug: reverse-a-string-1-4
+1.00 HW-D33-1  homework  LC56 Merge Intervals (Intro - sort by start time)          -> Merge Intervals 3
+                                 slug: merge-intervals-3
+1.00 HW-D34-2  homework  Return index of the maximum element                        -> Index of Element 1
+                                 slug: index-of-element-1
+1.00 HW-D37-1  homework  Check if one array is a rotation of another                -> Check Array Rotation 6
+                                 slug: check-array-rotation-6
+1.00 HW-D38-1  homework  Leaders in an array (GfG)                                  -> Leaders in array 4
+                                 slug: leaders-in-array-4
+1.00 HW-D39-1  homework  LC724 Find Pivot Index                                     -> Find Pivot Index 
+                                 slug: find-pivot-index-1
+1.00 HW-D40-2  homework  Largest sum of exactly k elements                          -> k largest elements 5
+                                 slug: k-largest-elements-5
+1.00 HW-D41-1  homework  Missing number in 1..N                                     -> Missing Number Finder 1
+                                 slug: missing-number-finder-1
+1.00 HW-D42-1  homework  LC169 Majority Element                                     -> Majority Element II
+                                 slug: majority-element-ii
+1.00 HW-D43-1  homework  LC977 Squares of a Sorted Array                            -> Squares of a Sorted Array 2
+                                 slug: squares-of-a-sorted-array-2
+1.00 HW-D44-1  homework  Merge two sorted arrays in place (LC88)                    -> Merge two sorted arrays 7
+                                 slug: merge-two-sorted-arrays-7
+1.00 HW-D46-2  homework  Count occurrences of anagrams (GfG)                        -> Count the Occurrences!
+                                 slug: count-the-occurrences
+1.00 HW-D48-1  homework  Print all substrings                                       -> Print All Substrings
+                                 slug: print-all-substrings
+1.00 HW-D49-1  homework  LC49 Group Anagrams (Intro via sorting strings)            -> Anagrams 25
+                                 slug: anagrams-25-3
+1.00 HW-D49-2  homework  LC1047 Remove All Adjacent Duplicates In String            -> Remove All Adjacent Duplicates In String
+                                 slug: remove-all-adjacent-duplicates-in-string
+1.00 HW-D51-1  homework  LC59 Spiral Matrix II                                      -> Spiral Matrix 44
+                                 slug: spiral-matrix-44
+1.00 HW-D51-2  homework  LC73 Set Matrix Zeroes                                     -> Set Matrix Zeroes 2
+                                 slug: set-matrix-zeroes-2
+1.00 HW-D52-2  homework  XOR of numbers from 1 to N (GfG)                           -> Print the numbers to N.
+                                 slug: print-the-numbers-to-n-
+1.00 HW-D55-2  homework  Product of all subarrays (GfG)                             -> Print All Subarrays
+                                 slug: print-subsets-1
+1.00 HW-D56-1  homework  LC974 Subarray Sums Divisible by K                         -> Subarray Sums Divisible by K
+                                 slug: subarray-sums-divisible-by-k
+1.00 HW-D56-2  homework  Maximum product subarray (LC152)                           -> Maximum Product Subarray 2
+                                 slug: maximum-product-subarray-2
+1.00 HW-D58-1  homework  Median in a row-wise sorted Matrix (GfG)                   -> Print the Matrix Row-wise
+                                 slug: print-the-matrix-row-wise
+1.00 HW-D58-2  homework  LC378 Kth Smallest Element in a Sorted Matrix              -> Kth Smallest Element in a Sorted Matrix 1
+                                 slug: kth-smallest-element-in-a-sorted-matrix-1-1
+1.00 HW-D59-1  homework  LC75 Sort Colors                                           -> Sort 0 1
+                                 slug: sort-0-1-4
+1.00 HW-D59-2  homework  Trapping Rain Water (LC42 - Brute/Better approach)         -> Trapping Rain Water 10
+                                 slug: trapping-rain-water-10-1

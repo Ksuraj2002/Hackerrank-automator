@@ -1,0 +1,1 @@
+LEC-7   Easy   LC1512 Number of Good Pairs                                            ~= Classwork: LC547 Number of Provinces  (score=0.65)

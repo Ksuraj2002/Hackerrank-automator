@@ -1,0 +1,50 @@
+[
+  {
+    "index": 0,
+    "name": "A_sample",
+    "input_bytes": 26,
+    "expected_bytes": 6,
+    "input_preview": "5 3\n1 2 3 4 5\n1 5\n2 4\n3 3\n",
+    "expected_preview": "15\n9\n3"
+  },
+  {
+    "index": 1,
+    "name": "B_small_equal",
+    "input_bytes": 26,
+    "expected_bytes": 6,
+    "input_preview": "5 3\n2 2 2 2 2\n1 5\n1 1\n3 5\n",
+    "expected_preview": "10\n2\n6"
+  },
+  {
+    "index": 2,
+    "name": "C_TLE_all_ones_full",
+    "input_bytes": 1100014,
+    "expected_bytes": 699999,
+    "input_preview": "100000 100000\n1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 ",
+    "expected_preview": "100000\n100000\n100000\n100000\n100000\n100000\n100000\n100000\n100000\n100000\n100000\n100"
+  },
+  {
+    "index": 3,
+    "name": "D_overflow_1e9",
+    "input_bytes": 2000014,
+    "expected_bytes": 1599999,
+    "input_preview": "100000 100000\n1000000000 1000000000 1000000000 1000000000 1000000000 1000000000 ",
+    "expected_preview": "100000000000000\n100000000000000\n100000000000000\n100000000000000\n100000000000000\n"
+  },
+  {
+    "index": 4,
+    "name": "E_negative_overflow",
+    "input_bytes": 2100014,
+    "expected_bytes": 1699999,
+    "input_preview": "100000 100000\n-1000000000 -1000000000 -1000000000 -1000000000 -1000000000 -10000",
+    "expected_preview": "-100000000000000\n-100000000000000\n-100000000000000\n-100000000000000\n-10000000000"
+  },
+  {
+    "index": 5,
+    "name": "F_random_50k",
+    "input_bytes": 1107038,
+    "expected_bytes": 615080,
+    "input_preview": "50000 50000\n-493090581 -348671234 -778452637 548801510 -149471404 28383521 -6671",
+    "expected_preview": "87686871364\n36381339348\n991032824\n39011736957\n58823803872\n14429529466\n-698030284"
+  }
+]

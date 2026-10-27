@@ -1,0 +1,90 @@
+
+Day 1 - Getting started, Output, Input, Data Types, Variables
+  [Classwork 2] Print your name, class and roll on separate lines
+  [Classwork 3] Print a small ASCII box
+  [Classwork 4] Declare and print a variable of each type
+  [Classwork 6] Take input of a number a print it.
+  [Homework 1] Print your daily timetable as text
+  [Homework 2] Print a 4-line ASCII figure
+  [Homework 3] Print sizeof of each type
+
+Day 2 - Operators-I
+  [Classwork 4] Evaluate a mixed expression, then verify
+
+Day 4 - if / if-else
+  [Classwork 3] Maximum of two numbers, (user input)
+  [Classwork 5] Grading System 1. You are given as input marks of a student. 2. Display an appropriate message based on the following rules: 2.1 for marks above 90, print excellent. 2.2 for marks above 80 and less than equal to 90, print good. 2.3 for marks above 70 and less than equal to 80, print fair. 2.4 for marks above 60 and less than equal to 70, print meets expectations. 2.5 for marks above 40 and less than equal to 60, print below par. 2.6 print failed if none of the above conditions follow.
+  [Homework 3] Take two numbers as integer input and print the larger number as the output in the integer format.
+
+Day 6 - Nested if-else & else-if ladder
+  [Classwork 2] Grade from marks (A/B/C/F)
+  [Classwork 3] Triangle type from its sides
+  [Classwork 6] Coding Bat Make chocolates and bricks problem
+  [Classwork 8] Is a point inside a rectangle?
+  [Homework 3] Ticket price by age group
+
+Day 7 - switch-case
+  [Classwork 3] Vowel check using switch
+  [Homework 1] Menu-driven program
+
+Day 14 - Nested loops
+  [Classwork 2] Tables 1..10 with nested loops
+  [Homework 1] Print all pairs with i < j
+
+Day 16 - Patterns I
+  [Homework 1] Floyd's number triangle
+
+Day 17 - Patterns II
+  [Classwork 2] Inverted pyramid
+  [Homework 1] Half-diamond
+
+Day 18 - Patterns III
+  [Classwork 2] Hollow triangle
+
+Day 23 - Multi-parameter functions
+  [Classwork 3] Area functions for shapes
+  [Homework 2] isLeapYear(y) returning bool
+
+Day 25 - Primes & factors
+  [Classwork 1] isPrime optimized
+  [Homework 1] Sieve of Eratosthenes
+
+Day 26 - GCD, LCM & number basics
+  [Homework 2] Reduce a fraction to lowest terms
+
+Day 34 - Linear search
+  [Classwork 1] Linear search - return the index
+  [Homework 1] Check if a value exists (boolean)
+
+Day 38 - Array practice
+  [Homework 2] Rearrange positives and negatives alternately
+
+Day 41 - Count / frequency arrays
+  [Classwork 3] Count of distinct elements
+  [Homework 2] Element appearing once
+
+Day 44 - Two pointers II
+  [Classwork 1] LC283 Move Zeroes
+  [Classwork 2] Partition around a pivot
+  [Classwork 3] Move negatives to the left
+  [Homework 2] Container with most water (intro)
+
+Day 45 - Two pointers III
+  [Homework 1] LC16 3Sum Closest
+
+Day 48 - Strings - deeper
+  [Homework 2] Longest word in a sentence
+
+Day 50 - 2-D arrays I
+  [Classwork 1] Read and print a matrix
+  [Homework 2] Check the identity matrix
+
+Day 53 - Bit Manipulation II
+  [Classwork 1] Check if k-th bit is set (GfG)
+
+Day 54 - Bit Manipulation III
+  [Classwork 3] Generate all subsets using bit manipulation (GfG)
+  [Homework 2] Find the two non-repeating elements (GfG)
+
+Day 58 - 2-D Matrix Searches
+  [Classwork 3] Find row with max 1s (GfG)

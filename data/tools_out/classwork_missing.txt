@@ -1,0 +1,27 @@
+
+Day 2 - Operators
+  [Classwork 7] Store these expressions inside a Boolean variable ans. Print their outputs true or false accordingly a.        bool ans = 3 > 2 b.        bool ans = 3 ≥ 3 c.        bool ans = 4 + 3 > 9 d.        bool ans = 10 + 8 > 10 e.        bool ans = 12 != 10 f.        bool ans = 13 == 13 g.        bool ans = 14 != 14 h.        bool ans = 20 == 5*4 i.        bool ans = 30 != 3+4-10 j.        bool ans = 20 == 41/2
+  [Classwork 9] Take four integer inputs and check if the product of them is greater than 1000 or not. Print true or false accordingly.
+  [Classwork 10] Take an integer input and check if the number is divisible by 7 or not.
+
+Day 4 - if / if-else
+  [Classwork 6] A shop will give a discount of 10% on the total cost if the cost of the quantity purchased is more than 1000. a.        Ask user for quantity b.        Suppose, one unit will cost 100. c.        Judge and print total cost for the user.
+  [Classwork 7] The bonus in a company is given by Bonus= Salary * (5 / 100). A company decided to give a bonus of 5% to employees if his/her year of service is more than 5 years. Ask user for their salary and year of service and print the net bonus amount.
+
+Day 6 - Nested if-else & else-if ladder
+  [Classwork 6] Given values of `small` and `big` representing the number of small (1kg) chocolates we have and number of big(5kg) chocolates we have, we have to form `goal` kilos of chocolate tell us how many small kilos of chocolate you will use if you always use the big ones first (refer this link for the problem statement above --> https://codingbat.com/prob/p191363)
+
+Day 23 - Multi-parameter functions
+  [Classwork 3] Area functions for shapes
+
+Day 25 - Primes & factors
+  [Classwork 1] isPrime optimized
+
+Day 33 - std::sort & comparators
+  [Classwork 3] Sort strings by length
+
+Day 37 - Rotation
+  [Classwork 2] Rotate by k using reversal
+
+Day 40 - Maximum subarray (Kadane)
+  [Classwork 2] Track the start and end indices of max sum

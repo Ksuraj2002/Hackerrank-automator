@@ -1,0 +1,338 @@
+Batsman's Total Score
+Check if Binary Tree is Height Balanced
+Classwork: 0/1 Knapsack (GfG)
+Classwork: Add Two Numbers Mixed Types
+Classwork: Bellman-Ford algorithm (GfG)
+Classwork: Binary Search Tree Iterator
+Classwork: Binary-search a target in a sorted vector with lower_bound
+Classwork: Boundary traversal of a binary tree (GfG)
+Classwork: Character Frequency
+Classwork: Classify five mixed problems by technique
+Classwork: Compute factorial and nCr recursively
+Classwork: Count Elements Greater Than K
+Classwork: Count distinct elements using sort + unique
+Classwork: Count word frequencies from input using unordered_map
+Classwork: Detect cycle in an undirected graph (GfG)
+Classwork: Dijkstra's shortest path (GfG)
+Classwork: Distance between two nodes via LCA (GfG)
+Classwork: Find the k-th largest element using a priority_queue
+Classwork: Floyd-Warshall all-pairs shortest path (GfG)
+Classwork: Fractional Knapsack (GfG)
+Classwork: Frequency of elements (GfG)
+Classwork: Implement browser back/forward history using two stacks
+Classwork: Insert into a Binary Search Tree
+Classwork: Insert into a Binary Search Tree 1
+Classwork: Job Sequencing Problem (GfG)
+Classwork: Kahn's algorithm for topological sort (GfG)
+Classwork: Kth largest element in a BST (GfG)
+Classwork: Kth smallest element (GfG)
+Classwork: LC1 Two Sum
+Classwork: LC100 Same Tree
+Classwork: LC101 Symmetric Tree
+Classwork: LC101 Symmetric Tree 1
+Classwork: LC102 Binary Tree Level Order Traversal
+Classwork: LC104 Maximum Depth of Binary Tree
+Classwork: LC1046 Last Stone Weight
+Classwork: LC105 Construct Binary Tree from Preorder and Inorder
+Classwork: LC106 Construct Binary Tree from Inorder and Postorder
+Classwork: LC1092 Shortest Common Supersequence
+Classwork: LC110 Balanced Binary Tree
+Classwork: LC111 Minimum Depth of Binary Tree
+Classwork: LC112 Path Sum
+Classwork: LC113 Path Sum II
+Classwork: LC114 Flatten Binary Tree to Linked List
+Classwork: LC1143 Longest Common Subsequence
+Classwork: LC1207 Unique Number of Occurrences
+Classwork: LC124 Binary Tree Maximum Path Sum
+Classwork: LC124 Binary Tree Maximum Path Sum 1
+Classwork: LC132 Palindrome Partitioning II
+Classwork: LC133 Clone Graph
+Classwork: LC134 Gas Station
+Classwork: LC144 Binary Tree Preorder Traversal
+Classwork: LC145 Binary Tree Postorder Traversal
+Classwork: LC15 3Sum
+Classwork: LC1631 Path With Minimum Effort
+Classwork: LC1636 Sort Array by Increasing Frequency
+Classwork: LC198 House Robber
+Classwork: LC199 Binary Tree Right Side View
+Classwork: LC199 Binary Tree Right Side View 1
+Classwork: LC200 Number of Islands
+Classwork: LC207 Course Schedule
+Classwork: LC209 Minimum Size Subarray Sum
+Classwork: LC210 Course Schedule II
+Classwork: LC215 Kth Largest Element in an Array
+Classwork: LC217 Contains Duplicate
+Classwork: LC22 Generate Parentheses
+Classwork: LC222 Count Complete Tree Nodes
+Classwork: LC226 Invert Binary Tree
+Classwork: LC23 Merge k Sorted Lists
+Classwork: LC230 Kth Smallest Element in a BST
+Classwork: LC236 Lowest Common Ancestor of a Binary Tree
+Classwork: LC295 Find Median from Data Stream
+Classwork: LC297 Serialize and Deserialize Binary Tree
+Classwork: LC3 Longest Substring Without Repeating Characters
+Classwork: LC3 Longest Substring Without Repeating Characters 1
+Classwork: LC300 Longest Increasing Subsequence
+Classwork: LC300 Longest Increasing Subsequence (DP Walkthrough)
+Classwork: LC312 Burst Balloons
+Classwork: LC322 Coin Change
+Classwork: LC337 House Robber III
+Classwork: LC347 Top K Frequent Elements
+Classwork: LC355 Design Twitter
+Classwork: LC416 Partition Equal Subset Sum
+Classwork: LC416 Partition Equal Subset Sum 1
+Classwork: LC435 Non-overlapping Intervals
+Classwork: LC450 Delete Node in a BST
+Classwork: LC46 Permutations
+Classwork: LC49 Group Anagrams
+Classwork: LC494 Target Sum
+Classwork: LC501 Find Mode in Binary Search Tree
+Classwork: LC506 Relative Ranks
+Classwork: LC509 Fibonacci Number
+Classwork: LC51 N-Queens
+Classwork: LC516 Longest Palindromic Subsequence
+Classwork: LC518 Coin Change II
+Classwork: LC530 Minimum Absolute Difference in BST
+Classwork: LC543 Diameter of Binary Tree
+Classwork: LC543 Diameter of Binary Tree (via DP)
+Classwork: LC547 Number of Provinces
+Classwork: LC55 Jump Game
+Classwork: LC56 Merge Intervals
+Classwork: LC560 Subarray Sum Equals K
+Classwork: LC57 Insert Interval
+Classwork: LC583 Delete Operation for Two Strings
+Classwork: LC62 Unique Paths
+Classwork: LC621 Task Scheduler 2
+Classwork: LC63 Unique Paths II
+Classwork: LC64 Minimum Path Sum
+Classwork: LC70 Climbing Stairs
+Classwork: LC712 Minimum ASCII Delete Sum for Two Strings
+Classwork: LC72 Edit Distance
+Classwork: LC743 Network Delay Time
+Classwork: LC767 Reorganize String 3
+Classwork: LC767 Reorganize String 4
+Classwork: LC77 Combinations
+Classwork: LC78 Subsets
+Classwork: LC785 Is Graph Bipartite?
+Classwork: LC79 Word Search
+Classwork: LC863 All Nodes Distance K in Binary Tree
+Classwork: LC895 Maximum Frequency Stack
+Classwork: LC94 Binary Tree Inorder Traversal
+Classwork: LC94 Inorder Traversal (iterative)
+Classwork: LC98 Validate Binary Search Tree
+Classwork: LC987 Vertical Order Traversal of a Binary Tree
+Classwork: LC994 Rotting Oranges
+Classwork: LC994 Rotting Oranges (BFS Walkthrough)
+Classwork: LCA using root-to-node paths (GfG)
+Classwork: Longest Increasing Subsequence in O(n log n) (GfG)
+Classwork: Matrix Chain Multiplication (GfG)
+Classwork: Matrix Chain Multiplication (GfG) 1
+Classwork: Maximum number of activities selected (GfG)
+Classwork: Minimum cost to connect ropes
+Classwork: Minimum cost to connect ropes (GfG) 1
+Classwork: Minimum cost to connect ropes 1
+Classwork: Minimum number of coins (GfG)
+Classwork: Minimum number of platforms (GfG)
+Classwork: N meetings in one room (GfG)
+Classwork: Print Distinct Values in Sorted Order
+Classwork: Print numbers 1..N and N..1 using recursion
+Classwork: Range Sum of BST
+Classwork: Remove duplicates from a vector using a set
+Classwork: Reorganize String
+Classwork: Reverse a singly linked list iteratively
+Classwork: Rod Cutting (GfG)
+Classwork: Search in a Binary Search Tree
+Classwork: Search in a Binary Search Tree 1
+Classwork: Sort Pairs by Second Value
+Classwork: Sort in Descending Order
+Classwork: Square Every Element
+Classwork: Subset Sum (GfG)
+Classwork: Sum and Maximum
+Classwork: Sum of First N Natural Numbers
+Classwork: Sum of Two Integers
+Classwork: Task Scheduler
+Classwork: Three Smallest Elements
+Classwork: Top view of a binary tree (GfG)
+Classwork: Topological Sort (GfG)
+Classwork: Trim a Binary Search Tree
+Classwork: Two Sum IV - Input is a BST
+Classwork: Two Sum IV - Input is a BST 1
+Classwork: Unbounded Knapsack (GfG)
+Classwork: Use find_if to return the first element greater than K
+Classwork: Use remove_if + erase to delete all odd numbers from a vector
+Count Elements Greater Than K
+Count Leaf Nodes 2
+Delete All Odd Numbers
+Descending Order Sort
+Filter a Vector Capturing Threshold by Value
+Find the Most Frequent Element
+First Element Greater Than K
+Generic Lambda Add
+Generic Lambda Addition
+Hey, This is my first code at Mirai !
+Homework: 0/1 BFS shortest path (GfG)
+Homework: Answer range-sum queries using prefix sums (partial_sum)
+Homework: Boolean Parenthesization (GfG)
+Homework: Bottom view of a binary tree (GfG)
+Homework: Check if one tree is the mirror of another (GfG)
+Homework: Check whether two trees have equal height
+Homework: Compute a fixed-size sliding-window maximum using a deque
+Homework: Contains Value
+Homework: Convert a tree to its mirror in place (GfG)
+Homework: Count BST nodes lying in a given range (GfG)
+Homework: Count of subsets with a given sum (GfG)
+Homework: Count subsets with a given difference (GfG)
+Homework: Count the number of nodes at maximum depth
+Homework: Count the total number of nodes recursively
+Homework: Detect a cycle in a linked list (Floyd's algorithm)
+Homework: Detect cycle in a directed graph (GfG)
+Homework: Diagonal traversal of a binary tree (GfG)
+Homework: Fibonacci with memoization
+Homework: Find the middle node of a linked list in one pass
+Homework: Generate all permutations of a string with next_permutation
+Homework: Huffman Encoding (GfG)
+Homework: Iterative BST insert (GfG)
+Homework: Kth ancestor of a node in a tree (GfG)
+Homework: LC100 Same Tree
+Homework: LC1008 Construct BST from Preorder Traversal
+Homework: LC103 Binary Tree Zigzag Level Order Traversal
+Homework: LC1035 Uncrossed Lines
+Homework: LC1043 Partition Array for Maximum Sum
+Homework: LC1049 Last Stone Weight II
+Homework: LC107 Binary Tree Level Order Traversal II
+Homework: LC1091 Shortest Path in Binary Matrix
+Homework: LC1094 Car Pooling
+Homework: LC11 Container With Most Water
+Homework: LC1123 Lowest Common Ancestor of Deepest Leaves
+Homework: LC115 Distinct Subsequences
+Homework: LC116 Populating Next Right Pointers in Each Node
+Homework: LC1192 Critical Connections in a Network
+Homework: LC120 Triangle
+Homework: LC128 Longest Consecutive Sequence
+Homework: LC129 Sum Root to Leaf Numbers
+Homework: LC129 Sum Root to Leaf Numbers 1
+Homework: LC131 Palindrome Partitioning
+Homework: LC1312 Minimum Insertion Steps to Make a String Palindrome
+Homework: LC1337 The K Weakest Rows in a Matrix
+Homework: LC1353 Maximum Number of Events That Can Be Attended
+Homework: LC136 Single Number
+Homework: LC1394 Find Lucky Integer in an Array
+Homework: LC146 LRU Cache
+Homework: LC1462 Course Schedule IV
+Homework: LC1464 Maximum Product of Two Elements in an Array
+Homework: LC1512 Number of Good Pairs
+Homework: LC1547 Minimum Cost to Cut a Stick
+Homework: LC1584 Min Cost to Connect All Points (MST)
+Homework: LC161 One Edit Distance
+Homework: LC1650 Lowest Common Ancestor III
+Homework: LC1971 Find if Path Exists in Graph
+Homework: LC207 Course Schedule (Graph End-to-End)
+Homework: LC2115 Find All Possible Recipes from Given Supplies
+Homework: LC212 Word Search II
+Homework: LC213 House Robber II
+Homework: LC219 Contains Duplicate II
+Homework: LC221 Maximal Square
+Homework: LC236 Lowest Common Ancestor of a Binary Tree (Tree End-to-End)
+Homework: LC242 Valid Anagram
+Homework: LC255 Verify Preorder Sequence in BST
+Homework: LC269 Alien Dictionary
+Homework: LC279 Perfect Squares
+Homework: LC322 Coin Change (DP End-to-End)
+Homework: LC343 Integer Break
+Homework: LC37 Sudoku Solver
+Homework: LC377 Combination Sum IV
+Homework: LC378 Kth Smallest Element in a Sorted Matrix
+Homework: LC387 First Unique Character in a String
+Homework: LC39 Combination Sum
+Homework: LC424 Longest Repeating Character Replacement
+Homework: LC426 Convert BST to Sorted Doubly Linked List
+Homework: LC432 All O one Data Structure
+Homework: LC437 Path Sum III
+Homework: LC451 Sort Characters By Frequency
+Homework: LC452 Minimum Number of Arrows to Burst Balloons
+Homework: LC455 Assign Cookies
+Homework: LC5 Longest Palindromic Substring
+Homework: LC542 01 Matrix
+Homework: LC559 Maximum Depth of N-ary Tree
+Homework: LC589 N-ary Tree Preorder Traversal
+Homework: LC621 Task Scheduler
+Homework: LC637 Average of Levels in Binary Tree
+Homework: LC646 Maximum Length of Pair Chain
+Homework: LC647 Palindromic Substrings
+Homework: LC662 Maximum Width of Binary Tree
+Homework: LC673 Number of Longest Increasing Subsequence
+Homework: LC684 Redundant Connection
+Homework: LC687 Longest Univalue Path
+Homework: LC692 Top K Frequent Words
+Homework: LC695 Max Area of Island
+Homework: LC703 Kth Largest Element in a Stream
+Homework: LC733 Flood Fill
+Homework: LC740 Delete and Earn
+Homework: LC746 Min Cost Climbing Stairs
+Homework: LC76 Minimum Window Substring
+Homework: LC763 Partition Labels
+Homework: LC783 Minimum Distance Between BST Nodes
+Homework: LC787 Cheapest Flights Within K Stops
+Homework: LC860 Lemonade Change
+Homework: LC872 Leaf-Similar Trees
+Homework: LC886 Possible Bipartition
+Homework: LC889 Construct Binary Tree from Preorder and Postorder
+Homework: LC90 Subsets II
+Homework: LC91 Decode Ways
+Homework: LC93 Restore IP Addresses
+Homework: LC931 Minimum Falling Path Sum
+Homework: LC951 Flip Equivalent Binary Trees
+Homework: LC965 Univalued Binary Tree
+Homework: LC968 Binary Tree Cameras
+Homework: LC97 Interleaving String
+Homework: LC973 K Closest Points to Origin
+Homework: LC974 Subarray Sums Divisible by K
+Homework: LC986 Interval List Intersections
+Homework: LC988 Smallest String Starting From Leaf
+Homework: LC99 Recover Binary Search Tree
+Homework: Largest subarray with 0 sum (GfG)
+Homework: Lemonade Change
+Homework: Longest common substring (GfG)
+Homework: Maintain a sorted stream with a multiset and query the smallest
+Homework: Maximize meetings attended in one room (GfG)
+Homework: Maximum Number of Events That Can Be Attended
+Homework: Maximum number of overlapping intervals (GfG)
+Homework: Maximum ribbon cut (GfG)
+Homework: Maximum sum of non-adjacent elements (GfG)
+Homework: Maximum sum of non-adjacent nodes in a tree (GfG)
+Homework: Merge k sorted vectors into one using a min-heap
+Homework: Minimum cost of ropes (GfG)
+Homework: Minimum number of coins
+Homework: Minimum subset-sum difference (GfG)
+Homework: Morris inorder traversal (O(1) space) (GfG)
+Homework: Number of ways to make change (GfG)
+Homework: Print all leaf nodes from left to right
+Homework: Print unordered_map entries sorted by count using a lambda
+Homework: Range Sum of BST
+Homework: Rearrange characters so that none are adjacent
+Homework: Rearrange characters so that none are adjacent (GfG) 2
+Homework: Search keys within a range in a BST (GfG)
+Homework: Sort Records by Score
+Homework: Sort Strings in Reverse Alphabetical Order
+Homework: Sort strings by length then lexicographically with one lambda
+Homework: Sorted Key-Value Pairs
+Homework: Trim a Binary Search Tree
+Homework: Write a function that returns a lambda multiplying by a captured factor
+Homework: Write-up: a coin system where greedy fails (counterexample)
+Inorder predecessor in a BST (GfG)
+Iterative BST search (GfG)
+LC108 Convert Sorted Array to Binary Search Tree
+LC109 Convert Sorted List to Binary Search Tree
+LC135 Candy
+LC1382 Balance a Binary Search Tree
+LC235 Lowest Common Ancestor of a BST
+LC285 Inorder Successor in BST
+LC333 Largest BST Subtree
+LC45 Jump Game II
+LC538 Convert BST to Greater Tree
+Next Greater Element
+Sort Pairs by Second Then First
+Store and Apply Lambdas using function
+Sum and Count Scores
+Sum of vector using for_each
+Top Run-Scorer of the Innings

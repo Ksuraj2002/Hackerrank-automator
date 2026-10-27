@@ -1,0 +1,290 @@
+# Borderline: curriculum Classwork <-> contest challenge. KEEP or NEW.
+
+0.89 modifier-drift Day 2   Swap two numbers using a third variable
+      candidate: Swap the Numbers Without using a Third variable  [swap-the-numbers-without-using-a-third-variable]
+
+0.89 modifier-drift Day 54  Generate all subsets using bit manipulation (GfG)
+      candidate: Classwork: Generate All Non-Empty Subsets using Bit Manipulation  [classwork-generate-all-non-empty-subsets-using-bit-manipulation]
+
+0.89 score          Day 40  LC53 Maximum Subarray
+      candidate: Maximum Subarray Sum  [maximum-subarray-sum]
+
+0.89 score          Day 56  LC53 Maximum Subarray (Review)
+      candidate: Maximum Subarray Sum  [maximum-subarray-sum]
+
+0.88 score          Day 9   Sum of digits with while
+      candidate: Sum of Digits 81  [sum-of-digits-81-3]
+
+0.88 score          Day 9   Count digits with while
+      candidate: Count number of digits  1  [count-number-of-digits-1-2]
+
+0.88 score          Day 10  Count all pairs (i, j)
+      candidate: Classwork: Count All Pairs (i, j) with i less than j  [classwork-count-all-pairs-i-j-with-i-less-than-j]
+
+0.88 score          Day 11  Sum of a series
+      candidate: Sum of Fibonacci Series 4  [sum-of-fibonacci-series-4]
+
+0.88 score          Day 13  Sum of digits with while
+      candidate: Sum of Digits 81  [sum-of-digits-81-3]
+
+0.88 score          Day 13  Count digits with while
+      candidate: Count number of digits  1  [count-number-of-digits-1-2]
+
+0.88 score          Day 14  Count all pairs (i, j)
+      candidate: Classwork: Count All Pairs (i, j) with i less than j  [classwork-count-all-pairs-i-j-with-i-less-than-j]
+
+0.88 score          Day 15  Sum of a series
+      candidate: Sum of Fibonacci Series 4  [sum-of-fibonacci-series-4]
+
+0.88 score          Day 17  Inverted pyramid
+      candidate: Classwork: Inverted Pyramid of Stars  [classwork-inverted-pyramid-of-stars]
+
+0.88 score          Day 18  Hollow triangle
+      candidate: Classwork: Hollow Right Triangle  [classwork-hollow-right-triangle]
+
+0.88 score          Day 27  Sum of digits recursively
+      candidate: Sum of Digits 81  [sum-of-digits-81-3]
+
+0.88 score          Day 30  Max and min in one pass
+      candidate: Max and Min 5  [max-and-min-5]
+
+0.88 score          Day 32  Insertion sort implementation
+      candidate: Insertion Sort 28  [insertion-sort-28-5]
+
+0.88 score          Day 34  Count occurrences of x
+      candidate: Count the Occurrences!  [count-the-occurrences]
+
+0.88 score          Day 35  LC704 Binary Search
+      candidate: Binary Search in an Array  [search-in-array-2]
+
+0.88 score          Day 36  Reverse a sub-range
+      candidate: HW_REVERSE IN RANGE  [reverse-in-range]
+
+0.88 score          Day 48  Count the words using stringstream
+      candidate: Count Words  [count-words-11]
+
+0.88 score          Day 55  Check if any subarray has sum 0 (GfG)
+      candidate: Subarray with Given Sum 8  [subarray-with-given-sum-8]
+
+0.88 score          Day 57  LC14 Longest Common Prefix
+      candidate: HW_common prefix 1  [common-prefix-1]
+
+0.86 score          Day 8   Print all factors of N
+      candidate: Print all factors of a number  [print-all-factors-of-a-number]
+
+0.86 score          Day 12  Print all factors of N
+      candidate: Print all factors of a number  [print-all-factors-of-a-number]
+
+0.86 score          Day 1   Print your name, class and roll on separate lines
+      candidate: Classwork: Print Name Class and Roll  [classwork-print-name-class-and-roll]
+
+0.86 score          Day 50  Sum of both diagonals
+      candidate: Classwork: Sum of Both Diagonals of a Square Matrix  [classwork-sum-of-both-diagonals-of-a-square-matrix]
+
+0.86 score          Day 54  Clear rightmost set bit (N & (N-1))
+      candidate: Rightmost set bit of number  [rightmost-set-bit-of-number]
+
+0.86 score          Day 55  Find max subarray sum using O(N^2)
+      candidate: Max subarray sum 5  [max-subarray-sum-5]
+
+0.86 score          Day 59  LC128 Longest Consecutive Sequence (Sorting approach)
+      candidate: Longest Consecutive Sequence 2  [longest-consecutive-sequence-2-2]
+
+0.86 score          Day 25  Print primes 1..N
+      candidate: HW_Print Primes 1  [print-primes-1-1]
+
+0.85 modifier-drift Day 28  All subsequences of a string
+      candidate: Classwork: All Non-Empty Subsequences of a String  [classwork-all-non-empty-subsequences-of-a-string]
+
+0.83 score          Day 48  LC125 Valid Palindrome
+      candidate: Is Palindrome  [cc01-is-palindrome]
+
+0.83 score          Day 46  Maximum sum window of size k (GfG)
+      candidate: Maximum Element in window of size k  [maximum-element-in-window-of-size-k]
+
+0.82 score          Day 9   Reverse a number with while
+      candidate: Reverse of a number 8  [reverse-of-a-number-8]
+
+0.82 modifier-drift Day 10  Find whether a given number is prime or not (Without sieve)
+      candidate: Classwork: Check if a Number is Prime (Without Sieve)  [classwork-check-if-a-number-is-prime-without-sieve]
+
+0.82 score          Day 13  Reverse a number with while
+      candidate: Reverse of a number 8  [reverse-of-a-number-8]
+
+0.82 score          Day 18  Alphabet pattern
+      candidate: Print pattern 1  [print-n-1-1]
+
+0.82 score          Day 22  isPrime(n)
+      candidate: Print the numbers to N.  [print-the-numbers-to-n-]
+
+0.82 score          Day 39  Build a prefix-sum array
+      candidate: Print Prefix Sum  [print-prefix-sum]
+
+0.82 score          Day 43  Reverse using two pointers
+      candidate: Reverse of a number 8  [reverse-of-a-number-8]
+
+0.82 score          Day 47  LC209 Minimum Size Subarray Sum
+      candidate: Subarray with Given Sum 8  [subarray-with-given-sum-8]
+
+0.82 score          Day 47  Longest subarray with sum <= k
+      candidate: Subarray with Given Sum 8  [subarray-with-given-sum-8]
+
+0.82 score          Day 49  Frequency of each character
+      candidate: Character and it's Frequency  [character-by-frequency]
+
+0.82 score          Day 55  Print all subarrays of an array
+      candidate: Print All Subarrays  [print-subsets-1]
+
+0.82 score          Day 56  LC560 Subarray Sum Equals K (Using prefix sums/hashmap intro)
+      candidate: Subarray with Given Sum 8  [subarray-with-given-sum-8]
+
+0.80 score          Day 4   Maximum of two numbers, (user input)
+      candidate: Classwork: Maximum of Two Numbers  [classwork-maximum-of-two-numbers]
+
+0.79 score          Day 39  Equilibrium index via prefix sum
+      candidate: Print Prefix Sum  [print-prefix-sum]
+
+0.79 score          Day 40  Subarray with largest sum (all negatives case)
+      candidate: Subarray with Given Sum 8  [subarray-with-given-sum-8]
+
+0.78 score          Day 10  Print a grid of numbers
+      candidate: Print Factors of number  [print-factors-of-number]
+
+0.78 score          Day 14  Print a grid of numbers
+      candidate: Print Factors of number  [print-factors-of-number]
+
+0.78 score          Day 4   Take age of a person as input, print “Adult” if age is greater than or equal to 18 and pri
+      candidate: Classwork: Adult or Below Age  [classwork-adult-or-below-age]
+
+0.77 score          Day 58  Find row with max 1s (GfG)
+      candidate: Classwork: Find the Row with the Maximum 1s  [classwork-find-the-row-with-the-maximum-1s]
+
+0.77 score          Day 2   Take marks of a student in five subjects as input in a double variable. Print the sum of t
+      candidate: Classwork: Total and Percentage of Five Subjects  [classwork-total-and-percentage-of-five-subjects]
+
+0.77 modifier-drift Day 4   Odd or even
+      candidate: Print Even Numbers 4  [print-even-numbers-4-1]
+
+0.77 score          Day 8   Print 1..N and even numbers to N
+      candidate: Print Even Numbers 4  [print-even-numbers-4-1]
+
+0.77 score          Day 8   Sum of first N numbers
+      candidate: Print the numbers to N.  [print-the-numbers-to-n-]
+
+0.77 score          Day 23  power(base, exp)
+      candidate: Power of 4  [power-of-4]
+
+0.77 score          Day 25  Count factors of N
+      candidate: Print all factors of a number  [print-all-factors-of-a-number]
+
+0.77 score          Day 27  Print 1..N and N..1 recursively
+      candidate: Print the numbers to N.  [print-the-numbers-to-n-]
+
+0.77 score          Day 29  Print in reverse order by index
+      candidate: Reverse of a number 8  [reverse-of-a-number-8]
+
+0.77 score          Day 29  Print elements at even indices
+      candidate: Print Even Numbers 4  [print-even-numbers-4-1]
+
+0.77 modifier-drift Day 36  Reverse an array in place
+      candidate: Reverse of a number 8  [reverse-of-a-number-8]
+
+0.77 score          Day 52  Print binary representation of N
+      candidate: Print the numbers to N.  [print-the-numbers-to-n-]
+
+0.77 modifier-drift Day 52  Check if a number is odd/even using Bitwise AND
+      candidate: Print Even Numbers 4  [print-even-numbers-4-1]
+
+0.75 modifier-drift Day 51  Transpose a matrix in place
+      candidate: Transpose of Matrix of N*N  [transpose-of-matrix-4-1]
+
+0.75 score          Day 59  LC238 Product of Array Except Self
+      candidate: Product of Elements Except Itself  [product-of-array-except-that-idx]
+
+0.75 score          Day 4   Take two integer inputs x and y. Print “High Sum” if sum is greater than or equal to 100, 
+      candidate: Classwork: High Sum or Low Sum  [classwork-high-sum-or-low-sum]
+
+0.75 score          Day 10  Tables 1..10 with nested loops
+      candidate: Classwork: Multiplication Tables 1..N with Nested Loops 1  [classwork-multiplication-tables-1-n-with-nested-loops-1]
+
+0.75 score          Day 14  Tables 1..10 with nested loops
+      candidate: Classwork: Multiplication Tables 1..N with Nested Loops 1  [classwork-multiplication-tables-1-n-with-nested-loops-1]
+
+0.74 score          Day 46  LC643 Maximum Average Subarray I
+      candidate: Maximum Subarray Sum  [maximum-subarray-sum]
+
+0.74 score          Day 10  Generate prime numbers upto n
+      candidate: Print the numbers to N.  [print-the-numbers-to-n-]
+
+0.74 score          Day 10  Generate prime factors of n
+      candidate: Print all factors of a number  [print-all-factors-of-a-number]
+
+0.74 score          Day 29  Read N values and print them
+      candidate: Print the numbers to N.  [print-the-numbers-to-n-]
+
+0.74 score          Day 35  First occurrence using binary search
+      candidate: Print Binary  [print-binary-1]
+
+0.73 modifier-drift Day 58  LC74 Search a 2D Matrix
+      candidate: Search an Element in 2-D Matrix  [search-an-element-in-2-d-matrix]
+
+0.73 score          Day 11  Print a simple triangle
+      candidate: Right-angled Triangle  [right-angled-triangle-6]
+
+0.73 score          Day 15  Print a simple triangle
+      candidate: Right-angled Triangle  [right-angled-triangle-6]
+
+0.72 score          Day 36  Swap first and last
+      candidate: First and Last Digit 2  [first-and-last-digit-2]
+
+0.72 modifier-drift Day 31  Selection sort implementation
+      candidate: Classwork: Selection Sort (Ascending)  [classwork-selection-sort-ascending]
+
+0.71 modifier-drift Day 9   Find difference of sum of digits at even place as well as odd place (Do it with for loop a
+      candidate: Sum of Digits 81  [sum-of-digits-81-3]
+
+0.71 score          Day 26  GCD using Euclid
+      candidate: Classwork: GCD using Euclidean Algorithm  [classwork-gcd-using-euclidean-algorithm]
+
+0.71 score          Day 34  First and last index of x
+      candidate: First and Last Digit 2  [first-and-last-digit-2]
+
+0.71 score          Day 46  First negative in each window (GfG)
+      candidate: First Negative Integer 2  [first-negative-integer-2]
+
+0.70 score          Day 9   Sum of digits repeatedly until sum converts to single digit ( https://leetcode.com/problem
+      candidate: Sum of Digits 81  [sum-of-digits-81-3]
+
+0.70 score          Day 2   Area and perimeter of a rectangle Find the last digit of a given number. Say 45983 Take in
+      candidate: Area and Perimeter 5  [area-and-perimeter-5]
+
+0.70 score          Day 30  Average of the array
+      candidate: Merge two sorted arrays 7  [merge-two-sorted-arrays-7]
+
+0.69 modifier-drift Day 58  LC240 Search a 2D Matrix II
+      candidate: Search an Element in 2-D Matrix  [search-an-element-in-2-d-matrix]
+
+0.69 score          Day 37  Left rotate by k
+      candidate: Left Rotation  [array-left-rotation]
+
+0.69 score          Day 33  Sort a vector ascending / descending
+      candidate: HW_Half Ascending Half Descending  [cc03-half-ascending-half-descending]
+
+0.69 score          Day 4   Grading System 1. You are given as input marks of a student. 2. Display an appropriate mes
+      candidate: Classwork: Grading System: Marks to Message  [classwork-grading-system-marks-to-message]
+
+0.68 score          Day 6   Classify a character (vowel/consonant/digit)
+      candidate: Character is Vowel or Consonant 1  [character-is-vowel-or-consonant-1]
+
+0.68 score          Day 53  LC191 Number of 1 Bits
+      candidate: Count number of digits  1  [count-number-of-digits-1-2]
+
+0.68 modifier-drift Day 31  Bubble sort implementation
+      candidate: Classwork: Bubble Sort (Ascending)  [classwork-bubble-sort-ascending]
+
+0.67 score          Day 6   Short Circuit tech (tell them ki interview me pooch skte h ese, ise) Give output and final
+      candidate: Print Hello World 36  [print-hello-world-36]
+
+0.67 score          Day 22  max(a, b)
+      candidate: Max and Min 5  [max-and-min-5]
+

@@ -1,0 +1,156 @@
+{
+ "writes": [
+  {
+   "method": "DELETE",
+   "url": "https://www.hackerrank.com/rest/administration/contests/394561/association?ca_id=2012392&chapter_id=0",
+   "write": true,
+   "resource_type": "xhr",
+   "body": null,
+   "headers": {
+    "x-csrf-token": "zb5qxfKpDtVmMssP4LVXu8F52vabugIum28Xzy6MDy/PWzmGk2v2mKmgFGMcEenZEwI34Xbszrz9N2gexGDijw==",
+    "x-requested-with": "XMLHttpRequest"
+   },
+   "status": 200,
+   "response": null
+  },
+  {
+   "method": "PUT",
+   "url": "https://www.hackerrank.com/rest/administration/contests/394561/update_challenge_weights",
+   "write": true,
+   "resource_type": "xhr",
+   "body": "weights%5B2012328%5D=5&weights%5B2012338%5D=5&weights%5B2012339%5D=5&weights%5B2012340%5D=5&weights%5B2012341%5D=5&weights%5B2012342%5D=5&weights%5B2012343%5D=5&weights%5B2012344%5D=5&weights%5B2012345%5D=5&weights%5B2012346%5D=5&weights%5B2012347%5D=5&weights%5B2012348%5D=5&weights%5B2012349%5D=5&weights%5B2012350%5D=5&weights%5B2012351%5D=5&weights%5B2012352%5D=5&weights%5B2012353%5D=5&weights%5B2012354%5D=5&weights%5B2012355%5D=5&weights%5B2012356%5D=5&weights%5B2012357%5D=5&weights%5B2012358%5D=5&weights%5B2012359%5D=5&weights%5B2012360%5D=5&weights%5B2012361%5D=5&weights%5B2012362%5D=5&weights%5B2012363%5D=5&weights%5B2012364%5D=5&weights%5B2012365%5D=5&weights%5B2012366%5D=5&weights%5B2012367%5D=5&weights%5B2012390%5D=5&weights%5B2012391%5D=5&weights%5B2012393%5D=5&weights%5B2012394%5D=5&weights%5B2012395%5D=5&weights%5B2012396%5D=5&weights%5B2012397%5D=5&weights%5B2012398%5D=5&weights%5B2012399%5D=5&weights%5B2012400%5D=5&weights%5B2012401%5D=5&weights%5B2012402%5D=5&weights%5B2012403%5D=5&weights%5B2012404%5D=5&weights%5B2012405%5D=5&weights%5B2012406%5D=5&weights%5B2012407%5D=5&weights%5B2012408%5D=5&weights%5B2012409%5D=5&weights%5B2012410%5D=5&weights%5B2012411%5D=5&weights%5B2012412%5D=5&weights%5B2012413%5D=5&weights%5B2012414%5D=5&weights%5B2012415%5D=5&weights%5B2012416%5D=5&weights%5B2012417%5D=5&weights%5B2012418%5D=5&weights%5B2012419%5D=5&weights%5B2012420%5D=5&weights%5B2012421%5D=5&weights%5B2012422%5D=5&weights%5B2012423%5D=5&weights%5B2012424%5D=5&weights%5B2012425%5D=5&weights%5B2012426%5D=5&weights%5B2012427%5D=5&weights%5B2012428%5D=5&weights%5B2012429%5D=5&weights%5B2012430%5D=5&weights%5B2012431%5D=5&weights%5B2012432%5D=5&weights%5B2012433%5D=5&weights%5B2012434%5D=5&weights%5B2012435%5D=5&weights%5B2012436%5D=5&weights%5B2012437%5D=5&weights%5B2012438%5D=5&weights%5B2012439%5D=5&weights%5B2012440%5D=5&weights%5B2012441%5D=5&weights%5B2012442%5D=5&weights%5B2012443%5D=5&weights%5B2012444%5D=5&weights%5B2012445%5D=5&weights%5B2012446%5D=5&weights%5B2012447%5D=5&weights%5B2012448%5D=5&weights%5B2012449%5D=5&weights%5B2012450%5D=5&weights%5B2012451%5D=5&weights%5B2012452%5D=5&weights%5B2012453%5D=5&weights%5B2012454%5D=5&weights%5B2012455%5D=5&weights%5B2012456%5D=5&weights%5B2012457%5D=5&weights%5B2012458%5D=5&weights%5B2012459%5D=5&weights%5B2012460%5D=5&weights%5B2012461%5D=5&weights%5B2012462%5D=5&weights%5B2012463%5D=5&weights%5B2012464%5D=5&weights%5B2012465%5D=5&weights%5B2012466%5D=5&weights%5B2012467%5D=5&weights%5B2012468%5D=5&weights%5B2012469%5D=5&weights%5B2012470%5D=5&weights%5B2012471%5D=5&weights%5B2012472%5D=5&weights%5B2012473%5D=5&weights%5B2012474%5D=5&weights%5B2012475%5D=5&weights%5B2012476%5D=5&weights%5B2012477%5D=5&weights%5B2012478%5D=5&weights%5B2012479%5D=5&weights%5B2012480%5D=5&weights%5B2012481%5D=5&weights%5B2012482%5D=5&weights%5B2012483%5D=5&weights%5B2012484%5D=5&weights%5B2012485%5D=5&weights%5B2012486%5D=5&weights%5B2012487%5D=5&weights%5B2012488%5D=5&weights%5B2012489%5D=5",
+   "headers": {
+    "x-csrf-token": "zb5qxfKpDtVmMssP4LVXu8F52vabugIum28Xzy6MDy/PWzmGk2v2mKmgFGMcEenZEwI34Xbszrz9N2gexGDijw==",
+    "x-requested-with": "XMLHttpRequest",
+    "content-type": "application/x-www-form-urlencoded; charset=UTF-8"
+   },
+   "status": 200,
+   "response": null
+  }
+ ],
+ "all": [
+  {
+   "method": "GET",
+   "url": "https://www.hackerrank.com/administration/contests/edit/394561/challenges",
+   "write": false,
+   "resource_type": "document"
+  },
+  {
+   "method": "GET",
+   "url": "https://www.hackerrank.com/rest/administration/contests/394561?_=1787139674739",
+   "write": false,
+   "resource_type": "xhr"
+  },
+  {
+   "method": "GET",
+   "url": "https://www.hackerrank.com/rest/administration/contests/394561/challenges?offset=0&limit=10&_=1787139674740",
+   "write": false,
+   "resource_type": "xhr"
+  },
+  {
+   "method": "GET",
+   "url": "https://www.hackerrank.com/rest/administration/contests/394561/challenges?offset=0&limit=10&_=1787139674741",
+   "write": false,
+   "resource_type": "xhr"
+  },
+  {
+   "method": "GET",
+   "url": "https://notify.hackerrank.com/subscribe/9767421-741f3816a54a513c6826af86989999c636d8de40",
+   "write": false,
+   "resource_type": "xhr"
+  },
+  {
+   "method": "HEAD",
+   "url": "https://www.hackerrank.com/favicon.ico?_=1787139680660",
+   "write": false,
+   "resource_type": "xhr"
+  },
+  {
+   "method": "GET",
+   "url": "https://notify.hackerrank.com/subscribe/9767421-741f3816a54a513c6826af86989999c636d8de40",
+   "write": false,
+   "resource_type": "xhr"
+  },
+  {
+   "method": "GET",
+   "url": "https://notify.hackerrank.com/subscribe/9767421-741f3816a54a513c6826af86989999c636d8de40",
+   "write": false,
+   "resource_type": "xhr"
+  },
+  {
+   "method": "GET",
+   "url": "https://notify.hackerrank.com/subscribe/9767421-741f3816a54a513c6826af86989999c636d8de40",
+   "write": false,
+   "resource_type": "xhr"
+  },
+  {
+   "method": "HEAD",
+   "url": "https://www.hackerrank.com/favicon.ico?_=1787139696025",
+   "write": false,
+   "resource_type": "xhr"
+  },
+  {
+   "method": "GET",
+   "url": "https://notify.hackerrank.com/subscribe/9767421-741f3816a54a513c6826af86989999c636d8de40",
+   "write": false,
+   "resource_type": "xhr"
+  },
+  {
+   "method": "DELETE",
+   "url": "https://www.hackerrank.com/rest/administration/contests/394561/association?ca_id=2012392&chapter_id=0",
+   "write": true,
+   "resource_type": "xhr",
+   "body": null,
+   "headers": {
+    "x-csrf-token": "zb5qxfKpDtVmMssP4LVXu8F52vabugIum28Xzy6MDy/PWzmGk2v2mKmgFGMcEenZEwI34Xbszrz9N2gexGDijw==",
+    "x-requested-with": "XMLHttpRequest"
+   },
+   "status": 200,
+   "response": null
+  },
+  {
+   "method": "GET",
+   "url": "https://notify.hackerrank.com/subscribe/9767421-741f3816a54a513c6826af86989999c636d8de40",
+   "write": false,
+   "resource_type": "xhr"
+  },
+  {
+   "method": "GET",
+   "url": "https://notify.hackerrank.com/subscribe/9767421-741f3816a54a513c6826af86989999c636d8de40",
+   "write": false,
+   "resource_type": "xhr"
+  },
+  {
+   "method": "PUT",
+   "url": "https://www.hackerrank.com/rest/administration/contests/394561/update_challenge_weights",
+   "write": true,
+   "resource_type": "xhr",
+   "body": "weights%5B2012328%5D=5&weights%5B2012338%5D=5&weights%5B2012339%5D=5&weights%5B2012340%5D=5&weights%5B2012341%5D=5&weights%5B2012342%5D=5&weights%5B2012343%5D=5&weights%5B2012344%5D=5&weights%5B2012345%5D=5&weights%5B2012346%5D=5&weights%5B2012347%5D=5&weights%5B2012348%5D=5&weights%5B2012349%5D=5&weights%5B2012350%5D=5&weights%5B2012351%5D=5&weights%5B2012352%5D=5&weights%5B2012353%5D=5&weights%5B2012354%5D=5&weights%5B2012355%5D=5&weights%5B2012356%5D=5&weights%5B2012357%5D=5&weights%5B2012358%5D=5&weights%5B2012359%5D=5&weights%5B2012360%5D=5&weights%5B2012361%5D=5&weights%5B2012362%5D=5&weights%5B2012363%5D=5&weights%5B2012364%5D=5&weights%5B2012365%5D=5&weights%5B2012366%5D=5&weights%5B2012367%5D=5&weights%5B2012390%5D=5&weights%5B2012391%5D=5&weights%5B2012393%5D=5&weights%5B2012394%5D=5&weights%5B2012395%5D=5&weights%5B2012396%5D=5&weights%5B2012397%5D=5&weights%5B2012398%5D=5&weights%5B2012399%5D=5&weights%5B2012400%5D=5&weights%5B2012401%5D=5&weights%5B2012402%5D=5&weights%5B2012403%5D=5&weights%5B2012404%5D=5&weights%5B2012405%5D=5&weights%5B2012406%5D=5&weights%5B2012407%5D=5&weights%5B2012408%5D=5&weights%5B2012409%5D=5&weights%5B2012410%5D=5&weights%5B2012411%5D=5&weights%5B2012412%5D=5&weights%5B2012413%5D=5&weights%5B2012414%5D=5&weights%5B2012415%5D=5&weights%5B2012416%5D=5&weights%5B2012417%5D=5&weights%5B2012418%5D=5&weights%5B2012419%5D=5&weights%5B2012420%5D=5&weights%5B2012421%5D=5&weights%5B2012422%5D=5&weights%5B2012423%5D=5&weights%5B2012424%5D=5&weights%5B2012425%5D=5&weights%5B2012426%5D=5&weights%5B2012427%5D=5&weights%5B2012428%5D=5&weights%5B2012429%5D=5&weights%5B2012430%5D=5&weights%5B2012431%5D=5&weights%5B2012432%5D=5&weights%5B2012433%5D=5&weights%5B2012434%5D=5&weights%5B2012435%5D=5&weights%5B2012436%5D=5&weights%5B2012437%5D=5&weights%5B2012438%5D=5&weights%5B2012439%5D=5&weights%5B2012440%5D=5&weights%5B2012441%5D=5&weights%5B2012442%5D=5&weights%5B2012443%5D=5&weights%5B2012444%5D=5&weights%5B2012445%5D=5&weights%5B2012446%5D=5&weights%5B2012447%5D=5&weights%5B2012448%5D=5&weights%5B2012449%5D=5&weights%5B2012450%5D=5&weights%5B2012451%5D=5&weights%5B2012452%5D=5&weights%5B2012453%5D=5&weights%5B2012454%5D=5&weights%5B2012455%5D=5&weights%5B2012456%5D=5&weights%5B2012457%5D=5&weights%5B2012458%5D=5&weights%5B2012459%5D=5&weights%5B2012460%5D=5&weights%5B2012461%5D=5&weights%5B2012462%5D=5&weights%5B2012463%5D=5&weights%5B2012464%5D=5&weights%5B2012465%5D=5&weights%5B2012466%5D=5&weights%5B2012467%5D=5&weights%5B2012468%5D=5&weights%5B2012469%5D=5&weights%5B2012470%5D=5&weights%5B2012471%5D=5&weights%5B2012472%5D=5&weights%5B2012473%5D=5&weights%5B2012474%5D=5&weights%5B2012475%5D=5&weights%5B2012476%5D=5&weights%5B2012477%5D=5&weights%5B2012478%5D=5&weights%5B2012479%5D=5&weights%5B2012480%5D=5&weights%5B2012481%5D=5&weights%5B2012482%5D=5&weights%5B2012483%5D=5&weights%5B2012484%5D=5&weights%5B2012485%5D=5&weights%5B2012486%5D=5&weights%5B2012487%5D=5&weights%5B2012488%5D=5&weights%5B2012489%5D=5",
+   "headers": {
+    "x-csrf-token": "zb5qxfKpDtVmMssP4LVXu8F52vabugIum28Xzy6MDy/PWzmGk2v2mKmgFGMcEenZEwI34Xbszrz9N2gexGDijw==",
+    "x-requested-with": "XMLHttpRequest",
+    "content-type": "application/x-www-form-urlencoded; charset=UTF-8"
+   },
+   "status": 200,
+   "response": null
+  },
+  {
+   "method": "GET",
+   "url": "https://notify.hackerrank.com/subscribe/9767421-741f3816a54a513c6826af86989999c636d8de40",
+   "write": false,
+   "resource_type": "xhr"
+  },
+  {
+   "method": "HEAD",
+   "url": "https://www.hackerrank.com/favicon.ico?_=1787139700488",
+   "write": false,
+   "resource_type": "xhr"
+  },
+  {
+   "method": "HEAD",
+   "url": "https://www.hackerrank.com/favicon.ico?_=1787139705935",
+   "write": false,
+   "resource_type": "xhr"
+  }
+ ]
+}

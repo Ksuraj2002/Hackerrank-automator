@@ -1,0 +1,75 @@
+{
+ "contests": [
+  {
+   "slug": "dsa-101-classwork",
+   "removed": [
+    "check-case-1-2",
+    "check-if-the-number-is-balanced-1",
+    "counting-smaller-numbers-in-an-array",
+    "ex-10-nested-dictionary-val-change",
+    "find-gcd-3-4",
+    "find-square-root-1-2",
+    "find-the-ascii-value",
+    "find-the-highest-number-1",
+    "functions-1-3",
+    "grace-marks-1",
+    "isomorphic-strings-4",
+    "keep-multiplying-found-values-by-two",
+    "marks-and-rank",
+    "next-greater-element-on-left-1",
+    "points-on-rectangle",
+    "print-inverted-triangle",
+    "print-numbers-7",
+    "print-numbers-and-stars",
+    "print-reverse-5-1",
+    "print-the-row",
+    "re-start-re-end",
+    "reverse-it-8",
+    "stars",
+    "the-to-be-index",
+    "vector-sort"
+   ],
+   "failed": [],
+   "absent": [
+    "sort-the-array-according-to-their-square-of-each-element"
+   ],
+   "verified_count": 105
+  },
+  {
+   "slug": "dsa-101-homework",
+   "removed": [
+    "arithmetic-progressions",
+    "check-eligibility",
+    "check-if-two-string-arrays-are-equivalent-1",
+    "closest-number",
+    "daily-temperatures-1",
+    "find-the-ascii-value",
+    "first-non-repeating-char-1",
+    "gkstr42-milk-and-water",
+    "gkstr44-bubble-sort",
+    "greater-than-100-or-not",
+    "hexagonal-grid",
+    "is-identical",
+    "longest-consecutive-sequence-2-2",
+    "minimum-absolute-difference-in-an-array",
+    "modify-the-matrix",
+    "multiply-divide",
+    "number-finding",
+    "predict-distance-type-",
+    "predict-future-age",
+    "rearrange-string",
+    "reduce-array-size-to-the-half-1",
+    "repeated-string",
+    "rounding-in-price-breakdown",
+    "sort-an-array-in-wave-form-1",
+    "three-month-preparation-kit-kangaroo",
+    "three-month-preparation-kit-separate-the-numbers",
+    "total-number-of-words",
+    "tuple-element-printer"
+   ],
+   "failed": [],
+   "absent": [],
+   "verified_count": 71
+  }
+ ]
+}

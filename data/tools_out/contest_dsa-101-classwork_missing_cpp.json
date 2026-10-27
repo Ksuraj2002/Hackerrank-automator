@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2619,
+    "name": "Maximum Subarray Sum",
+    "slug": "maximum-subarray-sum",
+    "languages": [],
+    "error": "HTTP 403 on /rest/administration/challenges/2619"
+  },
+  {
+    "id": 1163,
+    "name": "Cycle Detection",
+    "slug": "detect-whether-a-linked-list-contains-a-cycle",
+    "languages": [],
+    "error": "HTTP 403 on /rest/administration/challenges/1163"
+  },
+  {
+    "id": 226751,
+    "name": "Maximum Perimeter Triangle",
+    "slug": "three-month-preparation-kit-maximum-perimeter-triangle",
+    "languages": [],
+    "error": "HTTP 403 on /rest/administration/challenges/226751"
+  },
+  {
+    "id": 9828,
+    "name": "Simple Array Sum",
+    "slug": "simple-array-sum",
+    "languages": [],
+    "error": "HTTP 403 on /rest/administration/challenges/9828"
+  },
+  {
+    "id": 257648,
+    "name": "Subarray with Given Sum 8",
+    "slug": "subarray-with-given-sum-8",
+    "languages": [],
+    "error": "HTTP 403 on /rest/administration/challenges/257648"
+  },
+  {
+    "id": 22538,
+    "name": "Left Rotation",
+    "slug": "array-left-rotation",
+    "languages": [],
+    "error": "HTTP 403 on /rest/administration/challenges/22538"
+  }
+]

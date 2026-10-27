@@ -1,0 +1,51 @@
+Day 2   Classwork Find the answer of the following expressions a.        Int x = 7+3+4 b.        Int x = 12 + 5 + 8 c.        double x= 12
+Day 2   Homework  Find the answer of the following expressions a.        Int x= 13/5 + 18/8 b.        double x=121/3 + 213.0/2 c.        d
+Day 3   Classwork bool ans= 3>2 && 14>3
+Day 3   Classwork bool ans = 40>3 && 40 > 50
+Day 3   Classwork bool ans = 40>=40 || 50>=2*25
+Day 3   Classwork bool ans = (2*3==4 && 6*4==9) || (4>2)
+Day 3   Classwork bool ans = (4>5) && (3>5 && 80==2*40)
+Day 3   Classwork bool ans = (20*5==100 || 10==10) && (30*2==60 || 40>30)
+Day 3   Classwork bool ans = !(30>20)
+Day 3   Classwork bool ans = !(30==30)
+Day 3   Classwork bool ans = !(30≥20 || 40≥10)
+Day 3   Classwork bool ans = !( (20*4 + 40 ≥100 || 20==10) && (3*2<=60 || 4≥30) )
+Day 3   Classwork bool ans = !( 20%3==2 )
+Day 3   Classwork bool ans = ( !(40==40) && 80>36)
+Day 3   Classwork bool ans = ( !(50>20) || 90>2*45) && ( 30!=2*15)
+Day 3   Homework  bool ans = 40>=2*45 || 30>=2*10
+Day 3   Homework  bool ans= 40>3 && 20>3
+Day 3   Homework  bool ans= 50>7 && 30>=40
+Day 3   Homework  bool ans= 50<25 || 30>2
+Day 3   Homework  bool ans= 70<=75 || 40<=2
+Day 3   Homework  bool ans = !( 45==35)
+Day 3   Homework  bool ans= (20<32 && 2!=30) && (35>=20 || 35!=25)
+Day 3   Homework  bool ans= !(20>=30)
+Day 3   Homework  bool ans= !(30>40)
+Day 3   Homework  bool ans = !(40==2*20) && 75==15*5
+Day 3   Homework  bool ans = !(40>=40) || (50>=2*25)
+Day 3   Homework  bool ans = !(10*5==50) || (2*3==7 || 9==28/3)
+Day 3   Homework  bool ans = (20*5==100 || 10!=10) && (30*2==60 || 50<40)
+Day 3   Homework  bool ans = ( !(90>=40) && !(80>36) )
+Day 3   Homework  bool ans = ( (50>=20) || 90>2*45) && ( 30!=2*15)
+Day 5   Classwork IDE, Leetcode CakeWalk, Account Creation on all platforms including Codechef, Codeforces, Hackerrank and submit easy pro
+Day 5   Homework  Questions sheet
+Day 19  Classwork Calculate TC of a standard for loop
+Day 19  Classwork Calculate TC of a while loop halving N
+Day 19  Classwork Differentiate O(1) ops from O(N) ops
+Day 19  Homework  Read up on Omega and Theta notation
+Day 20  Classwork TC of nested loop (1 to N, 1 to N)
+Day 20  Classwork TC of dependent loop (i from 1 to N, j from 1 to i)
+Day 20  Classwork TC of i *= 2 loop (Log N)
+Day 20  Homework  TC of three nested loops (O(N^3))
+Day 20  Homework  TC of loop jumping by i+=2 vs i*=2
+Day 21  Classwork Space complexity of creating an array of size N
+Day 21  Classwork Space complexity of basic recursion
+Day 21  Classwork Time-Space trade-off examples
+Day 31  Classwork Trace selection sort on paper
+Day 32  Classwork Trace insertion sort shifts
+Day 32  Classwork Compare stability of Bubble vs Selection
+Day 60  Classwork Mock Test: 3 standard problems (Easy, Med, Med) across Arrays/Strings/Bits
+Day 60  Classwork Dry run space/time analysis of your solutions
+Day 60  Homework  Complete any pending HWs
+Day 60  Homework  Rest and prepare for DSA 301!
